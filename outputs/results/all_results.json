@@ -1,0 +1,218 @@
+[
+  {
+    "feature": "BoW",
+    "classifier": "Logistic Regression",
+    "cv_accuracy_mean": 0.9905,
+    "cv_accuracy_std": 0.0118,
+    "test_accuracy": 0.9892,
+    "precision_politics": 1.0,
+    "recall_politics": 0.9762,
+    "f1_politics": 0.988,
+    "precision_sport": 0.9808,
+    "recall_sport": 1.0,
+    "f1_sport": 0.9903,
+    "macro_f1": 0.9891,
+    "confusion_matrix": [
+      [
+        82,
+        2
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "BoW",
+    "classifier": "Multinomial NB",
+    "cv_accuracy_mean": 0.9973,
+    "cv_accuracy_std": 0.0033,
+    "test_accuracy": 1.0,
+    "precision_politics": 1.0,
+    "recall_politics": 1.0,
+    "f1_politics": 1.0,
+    "precision_sport": 1.0,
+    "recall_sport": 1.0,
+    "f1_sport": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        84,
+        0
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "BoW",
+    "classifier": "Linear SVM",
+    "cv_accuracy_mean": 0.9932,
+    "cv_accuracy_std": 0.0074,
+    "test_accuracy": 0.9892,
+    "precision_politics": 1.0,
+    "recall_politics": 0.9762,
+    "f1_politics": 0.988,
+    "precision_sport": 0.9808,
+    "recall_sport": 1.0,
+    "f1_sport": 0.9903,
+    "macro_f1": 0.9891,
+    "confusion_matrix": [
+      [
+        82,
+        2
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "TF-IDF",
+    "classifier": "Logistic Regression",
+    "cv_accuracy_mean": 0.9946,
+    "cv_accuracy_std": 0.0051,
+    "test_accuracy": 0.9946,
+    "precision_politics": 1.0,
+    "recall_politics": 0.9881,
+    "f1_politics": 0.994,
+    "precision_sport": 0.9903,
+    "recall_sport": 1.0,
+    "f1_sport": 0.9951,
+    "macro_f1": 0.9946,
+    "confusion_matrix": [
+      [
+        83,
+        1
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "TF-IDF",
+    "classifier": "Multinomial NB",
+    "cv_accuracy_mean": 0.9986,
+    "cv_accuracy_std": 0.0027,
+    "test_accuracy": 1.0,
+    "precision_politics": 1.0,
+    "recall_politics": 1.0,
+    "f1_politics": 1.0,
+    "precision_sport": 1.0,
+    "recall_sport": 1.0,
+    "f1_sport": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        84,
+        0
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "TF-IDF",
+    "classifier": "Linear SVM",
+    "cv_accuracy_mean": 0.9973,
+    "cv_accuracy_std": 0.0033,
+    "test_accuracy": 0.9946,
+    "precision_politics": 1.0,
+    "recall_politics": 0.9881,
+    "f1_politics": 0.994,
+    "precision_sport": 0.9903,
+    "recall_sport": 1.0,
+    "f1_sport": 0.9951,
+    "macro_f1": 0.9946,
+    "confusion_matrix": [
+      [
+        83,
+        1
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "Bigram TF-IDF",
+    "classifier": "Logistic Regression",
+    "cv_accuracy_mean": 0.9946,
+    "cv_accuracy_std": 0.0051,
+    "test_accuracy": 0.9946,
+    "precision_politics": 1.0,
+    "recall_politics": 0.9881,
+    "f1_politics": 0.994,
+    "precision_sport": 0.9903,
+    "recall_sport": 1.0,
+    "f1_sport": 0.9951,
+    "macro_f1": 0.9946,
+    "confusion_matrix": [
+      [
+        83,
+        1
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "Bigram TF-IDF",
+    "classifier": "Multinomial NB",
+    "cv_accuracy_mean": 0.9973,
+    "cv_accuracy_std": 0.0033,
+    "test_accuracy": 1.0,
+    "precision_politics": 1.0,
+    "recall_politics": 1.0,
+    "f1_politics": 1.0,
+    "precision_sport": 1.0,
+    "recall_sport": 1.0,
+    "f1_sport": 1.0,
+    "macro_f1": 1.0,
+    "confusion_matrix": [
+      [
+        84,
+        0
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  },
+  {
+    "feature": "Bigram TF-IDF",
+    "classifier": "Linear SVM",
+    "cv_accuracy_mean": 0.9973,
+    "cv_accuracy_std": 0.0033,
+    "test_accuracy": 0.9946,
+    "precision_politics": 1.0,
+    "recall_politics": 0.9881,
+    "f1_politics": 0.994,
+    "precision_sport": 0.9903,
+    "recall_sport": 1.0,
+    "f1_sport": 0.9951,
+    "macro_f1": 0.9946,
+    "confusion_matrix": [
+      [
+        83,
+        1
+      ],
+      [
+        0,
+        102
+      ]
+    ]
+  }
+]
