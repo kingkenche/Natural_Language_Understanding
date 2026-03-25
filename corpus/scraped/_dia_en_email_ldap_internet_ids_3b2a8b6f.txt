@@ -1,0 +1,12 @@
+Email, LDAP & Internet IDs | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+Email, LDAP & Internet IDs
+The DIA provides Email ID and Active Directory IDs for all faculty, staff and students users to access Internet, Wi-Fi, VPN, and for remotely accessing the Library subscribed electronic journals and databases. The LDAP ID is provided to faculty/staff member to access e-office, Home/Personal Web page.
+User can fill and submit the appropriate form for the institute Email and Internet ID.
+Click Here to change your LDAP password.
+Click Here to change your Active Directory (Internet Access) password. ( User Manual   15166 KB)
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

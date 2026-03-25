@@ -1,0 +1,2838 @@
+GOVERNMENT OF INDIA
+RECORD RETENTION SCHEDULE IN RESPECT OF RECORDS
+COMMON TO ALL MINISTRIES/ DEPARTMENTS
+DEPARTMENT OF ADMINISTRATIVE REFORMS & PUBLIC GRIEVANCES
+SARDAR PATEL BHAWAN, SANSAD MARG, NEW DELHI-110001
+P R E F A C E
+The Department of Administrative Reforms and Public Grievances in the Ministry of Personnel, Public Grievances and Pensions,  is entrusted
+with the responsibility of preparing Record Retention Schedule common to all Ministries and Departments, so that there is uniformity in the retention
+schedule  of  records  of  common  nature  in  the  area  of  policy,  establishment  and  housekeeping  created  by  the  different  Ministries/Departments  of
+Central Government.  With the assistance of a working group, having members from the Staff Inspection Unit of the Ministry of Finance, Ministry of
+Home  Affairs  and Comptroller  and Auditor General,  the first  schedule was prepared  and was circulated  among the  departments  in  January,  1963.
+The last edition was brought out in 2004. This edition was arranged according to the Scheme of Functional File Index for facilitating recording of the
+With a view to bring economy of space,  efficiency in retrieval of documents and coming into being of the Right to Information Act-2005 & the
+need for storage of electronic data/information, a need was felt to revise the Record Retention Schedule.   The Department of Administrative Reforms
+&  Public  Grievances  had  invited  suggestions/comments  from  various  Ministries/  Departments  of  Government  of  India.  The  suggestions,  thus,
+received  and  further  inputs  provided  were  considered  by  an  Inter-departmental  Committee  headed  by  JS(O&M),  DAR&PG  and  members  from
+National Archives of India, Department of Administrative Reforms & Public Grievances, Ministry of Culture, Department of Information Technology,
+National Informatics Centre and Department of Personnel.
+I  am  glad  to  state  that  based  on  the  recommendations  of  the  Inter-departmental  Committee,  the  Department  of  Administrative  Reforms  &
+Public  Grievances  is  bringing  out  a  revised  edition  of  the  Record  Retention  Schedule.  I  hope  this  will  go  a  long  way  in  enabling  the  Central
+Government offices to properly operate their records management system.
+Any suggestions for improvement of this Schedule will be welcome.
+( Shri Sanjay Kothari )
+Secretary, Department of Administrative Reforms & Public Grievances
+A C K N O W L E D G E M E N T
+Record Management has always remained a critical activity of the government departments, as  it is viewed as key to efficient administration. The
+Department of Administrative Reforms and Public Grievances is responsible for formulation of guidelines on Record Management and preparation of Record
+Retention Schedule (RRS) for records common to all Ministries/Departments of Government of India to ensure that there is uniformity in retention schedule
+of records of common nature. On formulation of the Schedule, utmost care is taken to ensure that files are neither prematurely destroyed nor kept for period
+longer than necessary. The Schedule is reviewed periodically.
+An inter-departmental Committee headed by the Joint Secretary (O&M), DAR&PG was constituted on 20.03.2012 comprising of members from the
+Ministry of Culture, Department of Electronics, Department of Personnel & Training, National Archives of India, National Informatics Centre as also the Dir
+(O&M), Dir (AR), DS (e-Gov) and US (O&M) from DAR&PG to review the Record Retention Schedule. The Terms of Reference (TOR) of the Committee
+comprised of (i) consideration of all basic policy issues relating to RRS with reference to suggestions received from various Ministries/Departments as well
+as to make other recommendations for Updation of RRS, (ii) examination of issues relating to preservations of records in electronic form with the perspective
+of e-Governance and (iii) prescribing retention period for files relating to RTI cases.  Based on the recommendations of the Committee the revised Record
+Retention Schedule (2012) was finalized on 03.12.2012.
+The  members  of  the  Committee  took  special  interest  to  go  through  the  details  and  it  is  on  account  of  their  commitment  and  dedication  that  the
+revised RRS could be finalized much before the prescribed target date of the Department‘s Results Framework Document (RFD) for the year 2012-13.  The
+Department would like to place on record special appreciation of Shri Arun Kumar Srivastava, Assistant Director (NAI) for his valuable suggestions on some
+important issues.  The Department would also like to place on record special appreciation for the invaluable contribution of Shri Arvind Suri-Dir, Shri Anurag
+Srivastava-US, Smt. Uma Sharma-SO, Smt. Neeru Verma-PS and Shri Sunil Kumar-DEO of O&M Division and Smt. Ritika Bhatia-Dir(AR) and Smt. Kavita
+Garg-DS(e.Gov) in the finalization of Record Retention Schedule.
+The Department of Administrative Reforms and Public Grievances would be grateful if the users of this publication send more suggestions for the
+improvement of the Schedule.
+( Shri P.K. Tiwari )
+Joint Secretary, Department of Administrative Reforms & Public Grievances
+The schedule follows the classification, arrangement and numbering scheme adopted for the functional file index for establishments and
+Categorisation of records have been done in accordance with Central Secretariat Manual of Office Procedure (CSMOP). Wherever necessary
+reference  has  been  made  to  General  Financial  Rules  (GFR)  Appendix  13.  Both  GFR  Appendix  13  and  CSMOP  Appendix  28  have  been
+incorporated as annexures.
+Those  items  of  the functional  file  index, for  which  it  has  not  been  possible to prescribe rigid retention periods,  have been  omitted from this
+4.   Where  necessary,  additional  main  heads  and  sub-heads  have  been  opened  under  the  appropriate  ‗group  headings‘  and  ‗main  heads‘
+Retention periods for records (other than files) e.g. registers, for which no files are to be opened and which, therefore, are not covered by the
+functional file index, have been shown under the appropriate group headings at the end.
+Retention  periods  for  records  common  to  all  departments,  but  not  relating  to  establishment  and  house-keeping  work,  and  therefore  not
+covered by the functional file index, have been shown at the end of the schedule.
+Unless otherwise stated the records described in column 2 of the schedule refer to files. Where necessary, other ancillary records pertaining
+to such files like mortgage deeds or bonds, nomination form, etc. would have to be retained as specifically indicated in column 4 against the
+The retention period specified in column 3, in the case of a file,  is to be reckoned from the year in which the file is closed (i.e. action thereon
+has been completed) and not necessarily from the year in which it is recorded.
+In the case of records other than files, for example, registers, the prescribed retention period will be counted from the date on which it has
+ceased to be current.
+If a record relates to two or more subjects for which different retention periods have been prescribed, it will be retained for the highest of such
+In exceptional cases, i.e. if the record has certain special features or such a course is warranted by the peculiar needs of the department, the
+record may  be  retained  for  a  period  longer  than  that  specified  in  the  schedule,  in  no  case,  however,  will  a  record  be  retained for  a  period
+shorter than that prescribed in the schedule.
+If a record is required in connection with the disposal of another record, the former will not be weeded out until after all the issues raised on
+the latter have been finally decided, even though the retention period marked on the former may have expired in the meantime. In fact, the
+retention periods initially marked on such records should be consciously reviewed and, where necessary, revised suitably.
+The  individual  Ministries/Departments  are  requested  to  ensure  that  the  provisions  contained  in  the  Record  Retention  Schedule  are  strictly
+NOTE:- ‗Department‘ means any of the ministries, departments, secretariat and offices mentioned in the First Schedule to the Government of India
+(Allocation of Business) Rules.
+TABLE OF CONTENTS
+PART I -
+PART II -
+Records relating to establishment and house-keeping work
+A – Establishment
+B - Welfare
+C - Vigilance
+D - Common Office Services
+E - Hindi
+F - Public relations
+G - Finance, budget cash and accounts
+H - Parliament
+I  -  Record Retention Schedule of files relating to RTI application
+J -  Electronic Records
+Records (other than those relating to establishment and housekeeping
+work) common to all departments
+General Financial Rules (GFR)   Appendix 13
+Annex - II  Central Secretariat Manual of Office Procedure (CSMOP) Appendix - 28
+Physical Records* -  File may be recorded under any one of the following category:
+Categorization of Records
+Category 'A' meaning 'keep and microfilm' -
+(a)  files which qualify for permanent preservation for administrative purposes and which have to be microfilmed because they contain:
+(i)  a document so precious that its original must be preserved intact and access to it in the original form must be restricted to the barest minimum
+to avoid its damage or loss; or
+(ii)  material likely to be required for frequent reference by different parties simultaneously/frequently.
+(b)  files of historical importance.
+Category `B' meaning `keep but do not microfilm'-This category will cover files required for permanent preservation for administrative purpose.
+It will, however, exclude the nature of material falling under the category described in (i) or (ii) of sub-para (1) (a) above and therefore need not
+Category `C' meaning `keep for specified period only'. This  category will include files of secondary importance having reference value for a
+limited period not exceeding 10 years.  In exceptional cases, if the record is required to be retained beyond 10 years it will be upgraded to B
+Category.  C-3, C-5 & C-10 means Category ‗C‘ files to be kept for 3 years, 5 years and 10 years respectively.
+Electronic Records** -  e-Files/records may be digitized any one of the category:
+Category-I (e-Files/records to preserved permanently on which are of historical importance) – For 10 years, it will be kept in the
+Department‘s sever and thereafter transferred to the server of the National Archives of India.
+Category –II (e-Files/records of secondary importance and have a reference value for a limited period) – 10 years on the Department‘s
+server.  In exceptional cases, if the record is required to be retained beyond 10 years it will be upgraded to Category-I.
+*  From the paragraph No.105 of the Central Secretariat Manual of Office Procedure.
+** From the paragraph No.92 of the Central Secretariat Manual of e-Office Procedure.
+A  -  ESTABLISHMENT
+Creation and classification of post
+Scheduled castes and Scheduled tribes
+Verification/re-verification of character and antecedents
+Personal files (gazetted)
+Personal files (non-gazetted)
+Postings and transfers
+Leave (other than study leave & casual leave)
+Casual leave (including special leave)
+Training/scholarships/fellowships in India and abroad
+Deputations and delegations
+Delegation of powers
+Extension of service
+Nomination of employees
+Forwarding of applications
+No objection certificate (for registration with employment exchange)
+Review for determining suitability of employees for continuance in service
+Review of cadres/services
+No objection certificate for issue of passport, arms license etc. to government servants
+Records other than files
+RECORD RETENTION SCHEDULE IN RESPECT OF RECORDS
+COMMON TO ALL MINISTRIES/DEPARTMENTS
+Part I-Records relating to establishment and house-keeping work
+(numbers indicated in column (3) indicates the years/period for which record has to be kept)
+Description of record
+classification of posts
+12.Conversion of temporary
+posts into permanent ones
+13.Creation of posts
+14.Revision of scales of pay
+15.Upgrading of posts
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+16.Re-designation of Posts
+to  particulars  of  sanctions
+being noted in Establishments/Sanction
+Refer GFR appendix 13, Annex-1
+to  particulars  of  sanctions
+being  noted  in  Establishment/Sanction
+Refer GFR appendix 13, Annex-1
+to  particulars  of  sanctions
+being  noted  in  Establishment/Sanction
+Refer GFR appendix 13, Annex-1
+to  particulars  of  sanctions
+being  noted  in  Establishment/Sanction
+to  particulars  of  sanctions
+being  noted  in  Establishment/Sanction
+Refer GFR appendix-13, Annex-1
+Subject  to  particulars  of  change  being
+Subject to particulars of sanction being
+aspects)  including  provisions  of
+12. Appointment of dependents
+of deceased employees
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+13.  Appointment  of  honorary
+14. Appointment of non-Indians.
+the  application  of
+candidate and an authenticated copy of
+the  order  of  appointment  being  kept  in
+the personal file.
+Subject  to  the  bio-data/application  of
+the  candidate  and  an  authenticated
+copy of the order of appointment being
+kept in the personal file.
+candidates  and  an  authenticated  copy
+of  the  order  of  appointment  being  kept
+in the personal file.
+the  application  of
+16.  Employment  priorities  and
+maintenance of roster
+18. Framing of recruitment rules
+19. Notification to and release of
+(i) Local employment exchange
+(ii) D.G.E. & T.
+respect  of  Scheduled
+(b) C-5 in the case of others.
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+20. Nomination of candidates by
+local employment exchange and
+Employment  exchange  (general
+22. Recruitment through Ministry
+of Personnel, Public Grievances
+23. Recruitment by Ministries
+market,  including  advertisement
+and inviting of applications
+25.  Recruitment  through  UPSC
+recommendations of UPSC
+(i) Group A
+(ii) Group B
+26.  Recruitment  otherwise  than
+Scheduled castes and
+27. Reservation in services:
+made  without  consultation  with
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+departments  who  may  keep  only  the
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+the  application  of
+authenticated  copy  of  the  order  of
+appointment being kept in the personal
+the  application  of
+authenticated  copy  of  the  order  of
+appointment being kept in the personal
+The  Department  of  Personnel  &
+Scheduled  Castes  and  Scheduled
+Tribes  as  authorities  responsible  for
+overall  policy  and  co-ordination  in  the
+matter,  may  keep  such  records  for
+prescribed  by  them  in  their  respective
+record retention schedule.
+Subject  to  (a)  files  not  being  closed  till
+Commission‘s report to Parliament; and
+difference  of  opinion  between
+29. Selection Committees for
+recruitment of personnel:
+C-3;  or  C-1  after
+whichever is later.
+Period  of  limitation  or  C-3  whichever  is
+31.  Condonation  of  break  in
+department  being  dealt  with  on  the
+appropriate recruitment file.
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  (i.e.
+service  book  or  service  card)  and  an
+authenticated  copy  of  the  order  being
+Refer GFR appendix 13, Annex-1
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+II  of  service
+Refer GFR appendix 13, Annex-1
+32.  Engagement  of  casual
+11.Rules (General aspects)
+C-3;  or  C-1  after  completion  of  audit,
+whichever is later.
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments need
+keep only the standing  orders, weeding
+out  the  superseded  ones,  as  and  when
+they become obsolete
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+A copy of the order will be placed in the
+11.Rules (General aspects)
+Personal files (Non-
+12. Joint Secretaries
+14. Under Secretaries
+15. Section Officers
+16. Stenographers (selection
+17. Stenographers (grade I)
+18. Correspondence regarding
+requisition, transfer, return etc.
+11. Research Assistants/
+Technical Assistants/ Statistical
+13. Stenographers (grade II)
+16. Stenographers (grade III)
+18. Staff car drivers
+19. Jamadars / daftaries
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+Others  :  C-5  after  they  have
+ceased to be in service
+retirement/terminal  benefits:  C-
+pension/gratuity payment order
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+the  verification  report  itself  being  kept
+in  Vol.  II  of  the  service  book/personal
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+report  itself  being  placed  in  Vol.  II  of
+service book/ personal file.
+On the expiry of the specified retention
+period,  personal  files  of  officials  who
+have  made  significant  contribution  in
+any field of activity (e.g. administrative,
+scientific,  economic,  social)  and  have
+won  national/  international  recognition,
+should be sent to the National Archives
+On the expiry of the specified retention
+period,  personal  files  of  officials  who
+have  made  significant  contribution  in
+any field of activity (e.g. administrative,
+scientific,  economic,  social)  and  have
+won  national/  international  recognition,
+should  be  sent
+23. Correspondence regarding
+11.History of services
+in  name  of  a
+(b)  Others:  C-5  after  they  have
+ceased to be in service
+(a)  For  departments  preparing  and
+bringing out the compilation: C-5
+(b)  For  other  departments  (i.e.  those
+supplying material for inclusion therein):
+one year after issue of the compilation
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+II  of  service
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+II  of  service
+Refer GFR appendix 13, Annex-1
+Refer GFR appendix 13, Annex-1
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+II  of  service
+Refer GFR appendix 13, Annex-1
+Refer GFR appendix 13, Annex-1
+Subject  to  authenticated  copies  of  the
+relevant certificates being kept in Vol. II
+15.Alteration in the date of birth  C-3
+16.Change in qualification of
+17.Civil  list,  gradation/seniority
+(a)  In  the  case  of  departments
+preparing  and  bringing  out  the
+One  year  after
+the  case  of  other
+supplying  information  for  such
+18.Verification  of  age  and
+19.  Admission  of  previous
+e.g. through collateral evidence
+C-3  or  1  year  after  completion  of  audit,
+whichever is later
+family pension and DCR gratuity
+Postings and transfers
+14.Group B(Non Gazetted)
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+(a) If involving change of office: C-3
+(b) In other cases: C-1
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+of service book/personal file.
+Subject  to  suitable  entries  being  made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+II  of  service
+Refer GFR appendix 13, Annex-1
+Subject to the nomination in original or
+an  authenticated  copy  there  of  (where
+original  is  kept  with  the  audit),  as  the
+case may be, being placed in Vol. II of
+the service book/ personal file.
+Refer GFR appendix 13, Annex-1
+placed  in  Vol.  II  of  the  service  book  of
+Group  D  government  servants  and  (b)
+in  original  or  an
+book/personal  file  in  the  case  of  other
+Refer GFR appendix 13, Annex-1
+Subject to  a suitable entry  being made
+in  the  appropriate  service  records  and
+authenticated  copy  of  the  order  being
+placed in the personal file.
+Subject to  a suitable entry  being made
+in the register of postings.
+15. War service Rules (lien &
+16. Established organized
+17. Political sufferers
+study leave and casual
+11.Rules (general aspects)
+and when they become obsolete
+department issuing the rules, orders etc;
+other  departments  need  keep  only  the
+weeding  out  the  superseded  ones  as
+and when they become obsolete.
+(b)  Fixation  of  seniority  in  individual
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+If  the  representation  results  in  the
+original  seniority  being  revised,  an
+authenticated  copy  of
+order/decision  will  be  kept  in  Vol.  II  of
+service book/personal file.
+Subject  to  suitable  entries  being  made
+in  the  appropriate  service  record  and
+To be destroyed at the end of the year
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+(a) Casual leave: To be destroyed at the
+end of the year
+(b) Special casual leave: C-1
+Subject  to  suitable  entries  being  made
+in  the  appropriate  service  record  and
+pay  bill  register  and  an  authenticated
+copy  of  the  order,  where  issued,  being
+placed in the personal file.
+11.Rules (general aspects)
+12.War service (rules)
+11.Rules (general aspects)
+Allowance (CEA) Rules (general
+13.Claims regarding CEA
+14.D.A., H.R.A. & CCA
+19.Educational concessions for
+children of political sufferers
+20.Air travel by non-entitled
+21.Grant of non-practicing
+22.(a) Grant of Risk allowance
+11.Rules (general aspects)
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+C-3 or one year after completion of
+audit, whichever is later.
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments may
+keep only the standing  orders, weeding
+out  the  superseded  ones,  as  and  when
+they become obsolete
+C-3;  or  one  year  after  completion  of
+audit, whichever is later
+C-3  or  one  year  after  completion  of
+audit whichever is later.
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+12.  Recording  of  confidential
+reports  in  respect  of  Group  ‗A‘
+13.  Recording  of  confidential
+reports  in  respect  of  Group  ‗B‘
+14.  Recording  of  confidential
+reports  in  respect  of  Group  ‗B‘
+15.  Recording  of  confidential
+reports  in  respect  of  Group  ‗C‘
+16.  Recording  of  confidential
+reports  in  respect  of  Group  ‗D‘
+17.Communication  of  adverse
+expunction of adverse entries
+11.Rules (general aspects)
+12.Withholding of increments
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+C-10; or C-3 after the final disposal of
+appeal  or  final  judgment  under  the
+normal course of law, whichever is later.
+13. Representations and
+Probation/confirmation  11.General principles
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+Subject to an authenticated copy of the
+order  being  placed  in  the  personal  file
+and a suitable entry being made in the
+appropriate service record.
+If  the  representation  results  in  the
+original  order  being
+authenticated  copy  of
+order/decision  will  be  kept
+precedent  book,  personal
+suitable entries made in the appropriate
+13. Confirmation/extension of
+probation of Group A
+14. Confirmation/extension of
+probation of Group B.
+15.  Confirmation  of  Group  B
+16.  Confirmation  of  Group  C
+17.  Confirmation  of  Group  D
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+Subject  to  suitable  entries  being  made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+being kept in the personal file.
+If the representation results in the
+being revised, an authenticated copy of
+the  relevant  order/decision  will  be  kept
+in the precedent book, personal file and
+suitable entries made in the appropriate
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+(a)  Consultation:  C-3  or  one  year  after
+the  D.P.C.  has  been  reconstituted,
+whichever is later.
+(b) Proceedings : C-5
+13. Group ‗A‘
+14. Group ‗B‘
+15. Group B (non-gazetted)
+16. Group C
+17. Group D
+18. Representations and
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+an  authenticated  copy  of  the  order
+being placed in the personal file.
+If  the  representation  results  in  the
+fellowships in India
+11. Diploma course in public
+administration in the Indian
+Institute of Public Administration
+12. Executive training of officers
+13. Refresher course at the
+Academy of Administration at
+14. Training in Accountancy
+15. Training of Assistants (direct
+16. Training in Hindi/English
+17. Training in Hindi/English
+18.  Training  of  LDCs  (direct
+19. Training of officers at the
+Administrative Staff College at
+20. Training for stenographers
+(direct recruits) at the Institute of
+Secretariat Training and
+21.  Training  in  O  &  M  /work
+original  order  being
+authenticated  copy  of
+order/decision  will  be  kept
+precedent  book,  personal
+suitable entries made in the appropriate
+programmes  and  responsible  for  over
+all  policy  and  co-  ordination  thereof  in
+(e.g.  Department  of
+Department  of  Economic  Affairs)  may
+keep such records for
+appropriate  period  to  be  prescribed  by
+C-1 after the period
+or completion of
+audit, whichever is
+C-3;  or  one  year,
+after completion of
+audit, whichever is
+funds  but  not
+(c)  cases  not
+(e.g.  training  in
+22. Training abroad
+11. Framing of rules
+12.Holding of examinations
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+C-3  for  departments  conducting  such
+tests; one year for other departments
+11.  Rules  regarding  deputation,
+including  deputation  on  foreign
+service in India and abroad.
+12. Delegation in India/abroad
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+C-3;  or  one  year  after  completion  of
+audit  and  settlement  of  all  audit
+objections, whichever is later.
+13. Deputation of A.I.S. officers.  C-3 plus the period of deputation.
+Subject to suitable entry being made in
+the  appropriate  service  record  and  an
+authenticated  copy/extract  being  kept
+in Vol. II of service book/personal file.
+If  the  representation  results  in  the
+original  orders  being
+authenticated  copy  of
+order/decision will be kept in precedent
+book/personal  file  and  suitable  entries
+made in the appropriate service record.
+Subject to particulars being noted in the
+register  prescribed  for  the  purpose.
+Before weeding out files, reports should
+years. On  the  expiry of this period, the
+reports  should  be  reviewed  and,  if
+necessary,  weeded  out  in  consultation
+with the National Archives.
+Subject to  a suitable entry  being made
+in  the  appropriate  service  record  and
+Delegation of powers
+15.  Deputation  of  C.S.S.S.
+16.  Deputation  of  C.S.C.S.
+17. Organised services
+11. Rules (general aspects)
+12. F. R. & S. R.
+13.  Delegation  of  Financial
+14. Civil Service Regulations
+15. Grant of ex-officio status
+11.Rules (general aspects)
+14.Group B (non-gazetted)
+11.Rules and orders (general
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+an  authenticated  copy  of  the  order
+being placed in the personal file.
+Awards subject to :-
+(a)  entries  being  made  in  the  Service
+Book/  CR  dossier  of  the  concerned
+(b) a register being maintained.
+Refer GFR appendix 13, Annex-1
+14.Group B (non-gazetted)
+11.Rules and orders (general
+Extension of service
+14.Group B (non-gazetted)
+11.Rules  and  orders  (general
+and when they become obsolete.
+majority  or  5  years
+which is later.
+Refer GFR appendix 13, annex-1
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+A copy of the communication accepting
+the  resignation  may  be  placed  in  the
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+14.Group B (non-gazetted)
+C-1 after retirement
+Subject to a copy of the order being
+placed in the personal file.
+11.Rules and orders (general
+14.Group B (non-gazetted)
+13.Committees, working groups,
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+ceases to be in government service
+the  government  servant
+A copy of the order may be placed in
+the personal file/
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+prescribed by departments concerned.
+invigilators:  C-3;  or  one  year  after
+completion of audit whichever is later.
+(b) Other departments:C-1
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+C-1 after announcement of result of the
+examination  or  selection  for  particular
+Subject to an authenticated copy of
+forwarding letter being kept in the
+11.Rules (general aspects)
+12. Group A
+13. Group B
+14. Group B (non-gazetted)
+15. Group C
+16. Group D
+11. General aspects
+12. Issue of N.O.C.
+12. Group A
+13. Group B
+14. Group B (non-gazetted)
+15. Group C
+16. Group D
+11. General aspects
+No objection certificate
+continuance in service
+Review of cadres/
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+the  expiry  of
+agreement executed by the government
+Permanent  in  the  case  of  departments
+issuing  the  orders,  instructions,  etc.;
+other  departments  need  keep  only  the
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+(a) If it results in pre-mature retirement:
+(b)  It  results  in  continued  retention  in
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+Subject  to  suitable  entries  being  made
+in  the  appropriate  service  record  and
+leave  account  and  an  authenticated
+copy being kept in the personal file.
+Subject to an authenticated copy being
+kept in the personal file.
+Refer GFR appendix 13, Annex-1
+Subject  to  a  copy  of  the  relevant
+orders/decision  being  kept
+No objection certificate
+for  issue  of  passport,
+arms  licenses  etc.  to
+12.Combination of cadres/
+13.Seperation of cadres/
+12.Issue of passport
+13.Issue of arms licenses
+Category ‗B‘ in the case of departments
+issuing  the  orders  and  departments
+Category ‗C‘ for other departments who
+may  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones,  as
+and when they become obsolete.
+C-5  or  one  year  after  completion  of
+audit whichever is later.
+Description of Records
+RECORDS OTHER THAN FILES
+Rosters for Scheduled Castes and Scheduled Tribes
+Register of oath/affirmation of allegiance to the
+Service book of:
+Officials entitled to retirement/terminal benefits
+A-3 after issue of final
+pension/gratuity payment order.
+Confidential reports/character Rolls
+After resignation/discharge from service
+Answer books of departmental examinations/tests
+Leave account of:
+Officials entitled to retirement/terminal benefits
+Casual Leave Account
+Special casual leave Register
+Register of delegations to International Organisations
+C-1 from the date of declaration
+C-3 after issue of final
+pension/gratuity payment order.
+C-3 after they have ceased to be
+To be destroyed at the end of
+Where, for any reason, the register
+is re-written, the old volume will be
+kept for 3 years.
+Subject to suitable entries having
+been made in the appropriate
+service record of the officials
+Refer GFT appendix 13, Annex-1
+General staff welfare measures
+Departmental council/office council
+Central Secretariat Library
+These records may have some historical value.
+Description of record
+General staff welfare
+12.CSS (Recognition of Service
+13.Recognition of Association
+11. General aspects/
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+Subject  to  follow-up  action,  where  necessary
+being  taken  on  appropriate  subject  files  to
+which relevant extracts may be taken.
+12. Departmental Council-
+13. Office Council- constitution
+14.  Meetings  of  Departmental
+15. Meetings of Office Council
+17. Staff Union/Association
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+Such records may have some historical value.
+12.Grant  for  sports  and  other
+11.Rules and bye-laws (general
+12.Election of office bearers
+14.Recoverty of contribution and
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+Appropriate  periods  to  be  determined
+according to the importance of subject
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones  as  and  when  they
+C-3;  or  one  year  after  completion  of
+audit, whichever is later.
+C-3,  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-1 after the next election
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+Suggestions  Scheme  and
+13(b) Apex Committee
+(a) those rewarded
+(b) those not accepted
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+Subject to a copy of the guarantee letter being
+kept in the personal file.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after reconstitution,
+whichever is later.
+Subject  to  follow-up  action  being  taken  on
+appropriate  subject  files,  to  which  relevant
+extracts may be taken.
+C-3  or  one  year  after  reconstitution,
+whichever is later.
+C-3  or  one  year  after  completion  of
+Subject  to  follow-up  action  being  taken  on
+appropriate  subject  files,  to  which  relevant
+extract may be taken.
+C-3  or  one  year  after  completion  of
+audit whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+maintenance of accounts
+14.Fixation  of  prices  of
+eatable items of the canteen
+12.Maitenance of accounts
+13.Collection  of  contribution  &
+sanction of loans
+14.  Committee  meetings  &
+C-3 or one year after the completion of
+audit whichever is later.
+C-3 or one year after the completion of
+audit whichever is later.
+C-3 or one year after the completion of
+audit whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after the completion of
+audit whichever is later.
+C-3 or one year after the completion of
+audit whichever is later.
+Central Civil Services (Classification, Control and Appeal) Rules- Clarification and interpretation of
+All India Services (Discipline and Appeal) Rules, 1955- Clarification and interpretation of
+Central Civil Services (Conduct) Rules – 1964 – Clarification and interpretation of
+All India Services (Conduct) Rules, 1954 – Clarification and interpretation of
+Central Civil Services (Safeguarding of National Security) Rules, 1953 – Clarification and
+Employment of dependents in private firms/foreign missions in India
+Participation in Politics
+Radio broadcast, contribution of articles, editing or managing of newspapers, publications
+Evidence before committee of enquiry
+Private trade or employment
+Prosecution of further studies
+Membership of Territorial Army, Auxiliary Air Force and Naval Reserve
+Description of record
+Central Civil Services
+(Classification, Control &
+Appeal) Rules- Clarification
+and interpretation of
+12.  All  India  Services  (Discipline  &
+Clarification and interpretation of
+13.  Regarding  charge  sheets,
+documentary evidence, Enquiry
+14. Regarding penalties
+15. Regarding consultation with
+16.  Regarding  appeals  and
+17. Regarding suspension and
+12.Regarding Rules 1 to 7
+13.Regarding Rules 8 to 11
+14.Regarding Rules 12 to 18
+15.Regarding Rules 19 to 23
+15.General-against two or more
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  after  the  final
+disposal  of  appeal
+course of law.
+to  be  destroyed  at
+the end of the year
+which no action
+If  as  a  result  of  the  complaint  a  warning  is
+issued  to  the  Govt.  servant  a  copy  of  the
+relevant order will be placed in the personal
+(a) Resulting in
+(b) Resulting in
+officials with or
+a) Resulting in
+3  years  after
+final  disposal  of
+judgment  under  the
+normal  course  of
+3  years  after
+final  disposal  of
+judgment  under  the
+normal  course  of
+C-3  after  the  final
+disposal  of  appeal
+course  of  law  or  till
+Subject  to  an  authenticated  copy  of  the
+order  regarding  imposition  of  penalty  or
+warning  being  placed  in  the  personal  file
+and  a  suitable  entry  being  made  in  the
+appropriate service record.
+Subject  to  a  copy  of  the  final  judgment
+being  placed  in  personal  file  and  a  suitable
+entry being made in the appropriate service
+(b) Resulting in
+officials with or
+C-3  after  the  final
+disposal  of  appeal
+course  of  law  or  till
+C-3  or  till  the  prescribed  retention
+period, whichever is earlier.
+If, as a result of the appeal the original order
+is modified, a copy  of the revised order  will
+be placed in the personal file and a suitable
+the  appropriate  service
+If,  as  a  result  of  the  petition  the  original
+order  is  modified,  a  copy  of  the  revised
+order will be placed in the personal file and
+a  suitable  entry  made  in  the  appropriate
+Subject  to  a  copy  of  the  court  order  being
+placed  in  the  personal  file  and,  where
+necessary  a  suitable  entry  being  made  in
+the appropriate service record.
+Central Civil Services
+(Conduct) Rules, 1964-
+12.Regarding Rules 1 to 7
+13.Regarding Rules 8 to 11
+14.Regarding Rules 12 to 18
+15.Regarding Rules 19 to 25
+Rules,  1954  –  Clarification  and
+12.Regarding Rules 1 to 7
+13.Regarding Rules 8 to 14
+14.Regarding Rules 15 to 20
+(Safeguarding of National
+Clarification and interpretation of
+12.Regarding Rules 1 to 2
+13.Regarding Rules 3 to 4
+14.Regarding Rules 5 to 7
+C-3  or  till  the  prescribed  retention
+period, whichever is earlier.
+the  case  may  be  or
+3  years  after  final  clearance  from
+Arbitration, Litigation, Enquiry  or Audit
+prescribed retention period, whichever
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+22.  Employment  of  dependents  in
+private  firms/foreign  missions  in
+23.  Participation in politics
+Radio broadcasts, contribution of
+articles  editing  or  managing  of
+25.  Evidence  before  Committee  of
+28.  Private trade employment
+29.  Moveable/Immovable property
+11.Property returns (general
+12.Returns of Group A
+14.Returns  of  Group  B  (non-
+15.Returns of Group C
+12.Acts, rules, manuals
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a)  In  respect  of
+C-3  after  the  issue
+(b) In respect of
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+Should  preferably  be  dealt  with  on  a
+separate  file  for  each  official  to  be  kept
+open  throughout  the  official  career  of  the
+Should  preferably  be  dealt  with  on  a
+separate  file  for  each  official  to  be  opened
+under  the  appropriate  subject/  functional
+heading  and  kept  open  throughout  the
+official career of government servant.
+15.  Appointment  of  vigilance
+16.  List  of  officers  of  doubtful
+17.  Cases  of  difference  of
+opinion  with  Central  Vigilance
+17(a)  Cases  of  difference  of
+opinion with other Constitutional
+clearance in respect of different
+classes of officers and the staff:
+19. Annual Reports of CVC
+taken  on  appropriate
+subject  files  to  which  relevant  extracts  may
+superseded  ones,  as  and  when  they
+to be prescribed by
+d e p a r t m e n t s
+concerned  in  their
+(b) For other
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+study, whichever is later.
+Subject  to  suitable  entry  being  made  in  the
+the  order  being
+authenticated  copy  of
+placed in the Personal File.
+31.  Prosecution of further studies
+32.  Membership of Territorial
+Army, Auxiliary Air force
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+and Naval Reserve
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  the  official  has
+ceased  to  be  a  member  of  such
+organisation, whichever is later.
+D-COMMON OFFICE SERVICES
+Central Government Health Scheme
+Stationery and forms
+Calculating and accounting machines
+Other office machines
+Office equipment including electrical and mechanical appliances and other
+Black-listing of firms/contractors
+Contractors for supplies
+Telephones and Internet Services
+Unserviceable, obsolete and surplus articles --
+Maintenance of records
+Printing and binding
+Records other than files
+Description of record
+accommodation  –  Estimate  to
+Directorate of Estates
+14. Residential accommodation
+15. Applications for allotment of
+exchange of accommodation
+17. Applications for free/reduced
+18.  Application/offer  of  out  of-
+relation there to
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a)  If  involving  expenditures:  C-3  or
+one  year  after  completion  of  audit,
+whichever is later.
+(b) In other cases: C-1
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after completion of
+audit whichever is later.
+water  and  electric  connections-
+issue of letter of Guarantee
+21.Application  for  surrender  of
+22.Offer  of  regular  allotment  for
+Type  I  to  IV,  its  acceptance,
+23.Offer  of  regular  allotment  for
+Type  V  to  VII,  its  acceptance,
+24. Unauthorised sub-letting of
+25. Waiting lists of various types
+of  accommodation  from  general
+27.  Approval  of  the  scale  of
+for  grant  of
+28.  Acquisition/  purchase  of
+building/ land for official use
+To  be  destroyed  at  the  end  of  the
+Subject to a copy of the guarantee letter being
+placed in the personal file.
+If,  as  a  result  of  the  enquiry  the  government
+accommodation  or  any  other  penalty
+imposed  on  him,  a  copy  of  the  relevant  order
+may be placed in the personal file.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after completion of
+audit whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+A suitable entry will be made in assets register.
+30. Additions, alternations and
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit or C- 1 after termination of lease/
+contract, whichever is the latest.
+C-3  or  one  year  after  completion  of
+audit whichever is later
+instructions  etc.;  other  departments
+need  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones  as
+and when they become obsolete.
+12.Issue of CGHS identity cards  C-1
+Subject  to  a  suitable  entry  being  made  in  the
+register of C.G.H.S.  Identity cards.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+whichever is late.
+C-5  or  one  year  after  new  AMA  is
+appointed, whichever is late.
+(Authorised  Medical  Attendant)
+for non-CGHS beneficiaries.
+11.Rules (general aspects)
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+12.Provision  of  air-conditioners/
+13.Provision of fans
+14.Provision of Khas tatties
+15.Waterman  engagement  of
+during summer season
+16.Provision of Suahis
+17.Provision of heaters
+18. Provision of coal to Group D
+19.  Provision  of  glass  tumblers
+conditioners, fans, heaters etc.
+11.  Rules  for  purchase,  hire,
+condemnation (general aspects)
+12. Condemnation/ disposal of
+14. Maintenance and repairs
+15. Physical verification
+Stationery and forms
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a) Procurement through CPWD: C-1
+(b)  Purchase/hiring:  C-3  or  one  year
+after  completion  of  audit,  whichever  it
+Subject  to  (a)  suitable  entries  being  made  in
+the  appropriate  stock  register  in  the  case  of
+purchase,  and  (b)  a  proper  account  of  receipt,
+issue  and  return  being  maintained  in  other
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later
+C-3  or  one  year  after  completion  of
+audit, whichever is later
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock register
+Subject  to  proper  account  being  maintained  in
+the appropriate register.
+Subject  to  proper  account  being  maintained  in
+the appropriate register.
+Subject to proper account being maintained
+in the appropriate register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock/assets register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock, assets register.
+Controller of stationery
+Controller of stationery
+14. Local purchase
+for  stationery  on
+15. Supply of stationery
+disposal (general aspects)
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock register.
+C-3  or  one  year  after  completion  of
+audit, whichever is later
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+12. Condemnation and disposal  C-3  or  one  year  after  completion  of
+audit, whichever is later
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock register
+13. DGS & D rate contracts
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after completion of
+audit, whichever is later.
+16.  Repairs  and  maintenance  C-3  or  one  year  after  completion  of
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock/ assets register.
+and bills thereof
+audit, whichever is later.
+17. Physical verification
+/disposal (general aspects)
+12.Condemnation and disposal
+13.DGS & D rate contracts
+16. Repairs and maintenance
+and bills thereof
+17. Physical verification
+disposal (general aspects)
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after completion of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock/ assets register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock/ assets register.
+12. Condemnation and disposal  C-3  or  one  year  after  completion  of  Subject  to  suitable  entries  being  made  in  the
+13. DGS & D rate contracts
+16. Repairs and maintenance
+and bills thereof
+17. Physical verification
+Other  office  machines
+/disposal (general aspects)
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+12.Condemnation and disposal   C-3  or  one  year  after  completion  of
+13.DGS & D rate contracts
+11. Rules (general aspects)
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+appropriate stock register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock/ assets, register
+12. Condemnation and disposal
+14. Repairs and maintenance
+15. Physical verification
+11.Rules (general aspects)
+12.Condemnation and disposal
+14. Repairs and maintenance
+15. Physical verification
+16. Electric clocks and call-bells
+(procurement and maintenance
+11.  Rules  (entitled  personnel
+12. Procurement of material
+13. Stitching and tailoring
+the  scale  of
+including electrical and
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock register.
+Subject  to  suitable  entries  being  made  in  (i)
+appropriate  stock  register  and  (ii)  register  for
+maintenance and repairs of each vehicle.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock/ assets register.
+Subject  to  suitable  entries  being  made  in  the
+appropriate stock / assets register.
+received,  being  maintained  in  the  appropriate
+to  proper  account  of
+14.  Supply  of  shoes  and
+15.  Return,  renewal,  surrender
+11. Circulars (general aspects)
+12. Individual cases
+Contractors for supplies
+11. Approved list
+14.  Waiver/reduction  of  penalty
+or condonation of irregularity
+11. Office telephones installation
+and shifting of - telephone bills
+installation of telephone bills
+13. Repairs and maintenance
+14. Internet Services
+11. Rules (general aspects)
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+Subject  to  significant  events  concerning  the
+performance  of  a  contractor  being  noted  in  a
+suitable register or card index.
+containing name of the official given residential
+sanction order is maintained.
+important  aspects  of
+14. Non-official journeys
+11. Rules (general aspects)
+and surplus articles
+12. Approved list of auctioneers
+Maintenance of records
+13. Engagement of auctioneers
+and notice of auction
+11. Rules for review of records
+Printing and binding
+binding (general aspects)
+for  printing  and
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3 or one year after completion of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+12.Correspondence  relating  to
+printing and binding
+11. Ordering and receipt of
+than government publications)
+12. Ordering and receipt of
+13. Purchase of government
+Subject  to  receipt  of  intimation  about  debit
+having been raised.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+14. Lending, transfer
+16. Binding of books
+C-3  or  one  year
+after  completion  of
+Subject  to  suitable  entries  being  made  in  the
+17. Selection Committee for
+completion of audit
+Subject  to  receipt  of  intimation  regarding  debit
+having been raised.
+18. Write off of books
+19. Auction Newspapers/
+completion of audit
+One year after the completion of audit
+20.  Membership  of  Library
+11.Allocation  of  work  among
+One year after the completion of audit
+One  year  after  the  allocation  order
+ceases to be in force
+11.Rules (general aspects)
+12. Confidential and secret box
+13. Duplicate keys :
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Subject to suitable entries regarding
+distribution and custody of boxes and keys
+being made in the appropriate register.
+15. Issue of identity cards -
+Subject to suitable entries being made in
+the register of identity cards.
+16. Loss of identity cards
+17. Temporary passes
+RECORDS OTHER THAN FILES
+Description of Records
+Staff car log book
+Railway receipt register
+C-3  or  one  year  after  completion
+of audit, whichever is later
+C-3  or  one  year  after  completion
+of  audit,  and  settlement  of  audit
+objections, whichever is later
+C-3  or  one  year  after  completion
+of audit, whichever is later
+Shorthand notebook distribution register  C-1
+Library accession register
+Departmental security seals register
+Register of identity cards
+If,  for  any  reason,  a  register  has  to  be  rewritten,  the  old
+register will be retained for 3 years.
+If,  for  any  reason,  a  register  has  to  be  rewritten,  the  old
+register will be retained for 3 years.
+If,  for  any  reason,  a  register  has  to  be  rewritten,  the  old
+register will be retained for 3 years.
+‗A‘  or  ‗B‘  category,  depending  on
+the  content  value,  in  the  case  of
+orders/instructions  etc.  and  the
+departments  concerned;  other
+departments  need  keep  only  the
+standing  orders,  weeding  out  the
+superseded  ones,  as  and  when
+they become obsolete.
+‗A‘  or  ‗B‘  category,  depending  on
+the  content  value,  in  the  case  of
+orders/instructions  etc.  and  the
+departments  concerned;  other
+departments  need  keep  only  the
+standing  orders,  weeding  out  the
+superseded  ones,  as  and  when
+they become obsolete.
+‗A‘  or  ‗B‘  category,  depending  on
+the  content  value,  in  the  case  of
+orders/instructions  etc.  and  the
+departments  concerned;  other
+departments  need  keep  only  the
+standing  orders,  weeding  out  the
+superseded  ones,  as  and  when
+they become obsolete.
+Register of CGHS identity cards
+Register  of  spare  copies  of  classified
+10.    Telephone  bill  (including
+‗A‘  or  ‗B‘  category,  depending  on
+the  content  value,  in  the  case  of
+orders/instructions  etc.  and  the
+departments  concerned;  other
+departments  need  keep  only  the
+standing  orders,  weeding  out  the
+superseded  ones,  as  and  when
+they become obsolete.
+‗A‘  or  ‗B‘  category,  depending  on
+the  content  value,  in  the  case  of
+orders/instructions  etc.  and  the
+departments  concerned;  other
+departments  need  keep  only  the
+standing  orders,  weeding  out  the
+superseded  ones,  as  and  when
+they become obsolete.
+C-3  or  one  year  after  completion
+of audit, whichever is later
+If,  for  any  reason,  a  register  has  to  be  rewritten,  the  old
+register will be retained for 3 years.
+If,  for  any  reason,  a  register  has  to  be  rewritten,  the  old
+register will be retained for 3 years.
+Progressive use of Hindi in government offices
+Hindi Teaching Scheme
+Translation into Hindi
+Description of record
+Progressive  use  of  Hindi
+in government offices
+11.  General  aspects  and  Hindi
+Hindi Teaching Scheme
+11. (a) Hindi workshop
+(b) Hindi week
+12. Circulation of orders
+13. Registration of telegraphic
+address in Hindi
+14.  Periodical  reports  regarding
+use of Hindi for official purposes
+16.  Meeting  and  Follow  up
+action of Hindi Committee
+11. General aspects and Hindi
+12. Training programme
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+To  be  destroyed  at  the  end  of  the
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a) Applications: C-1
+(b)  Results:  C-5
+conducting  the  examination,  C-1  for
+containing names of officials and their results is
+advance  C-3 or one year after completion of
+Subject  to  a  suitable  entry  being  made  in  the
+authenticated copy being kept in personal file.
+Subject  to  a  suitable  entry  being  made  in  the
+authenticated copy being kept in personal file.
+audit, whichever is later.
+15. Grant of awards
+(a)  For  departments  making
+award:  C-3  or  one  year  after
+completion of audit, whichever is later.
+(b)  For  departments
+recipient is employed: C-1
+Translation into Hindi
+16. Conduct of Hindi competition  C-5
+11.Books, reports, periodicals
+Complaints and enquiries
+Meetings, conferences, celebrations and functions
+Description of record
+11. Enquiry/ Reception Office
+Complaints and enquiries
+12. Regulations regarding entry
+13.  Arrangements  for  escorting
+11. Constitution of
+12.Processing  of  cases  against
+11.Propaganda and publicity
+Appropriate  periods  to  be  determined
+according to the importance of subject
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a) Case involving expenditure : C-3 or
+after completion of audit, whichever is
+(b) Other cases: C-1
+Appropriate periods to be prescribed
+by the departments concerned.
+Appropriate  retention  period
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a)  Cases  involving  expenditure  :  C-3
+or  one  year  after  completion  of  audit,
+11.Rules (general aspects)
+11.Rules (general aspects)
+12.Purchase of – for visiting
+13.Purchase of – for delegation
+14.Acceptance/transfer  of  gifts
+received  by  officials  of
+11.Rules (general aspects)
+whichever is later.
+(b) Other cases: C-1
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+the  Ministry  of
+(b)  In  excess  of
+C-3  or  one  year
+after  completion  of
+audit,  whichever  is
+C-3 or one year after completion of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+celebrations and functions
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year
+after  completion  of
+audit,  whichever  is
+(b) Not involving
+hospitality grant for delegation
+11. Reservation of
+12. Seating, acoustical
+13. Reception arrangements
+14. Reporting and translation
+15. Transport arrangements
+11. Tour programme
+12. Arrangements for reception
+and seeing off
+13. Arrangements for hotel
+14. Arrangements for visit to
+15.  Arrangements  for  signing
+ceremony of agreement
+(b) Not involving
+C-3  or  one  year
+after  completion  of
+audit,  whichever  is
+G-FINANCE, BUDGET, CASH AND ACCOUNTS
+Creation of posts
+Deputations and delegations
+Delegation of powers
+Budget estimates/ revised estimates
+Accounts and audit
+Payments and recoveries
+Administrative approval and technical sanction
+Foreign exchange budget
+Budget Estimates for five year plans
+Records other than files
+Description of record
+Creation of posts
+11.Continuance of posts
+12. Creation of posts
+13. Revision of scales of pay
+14. Upgrading of posts
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+15.  Conversion  of
+posts into permanent ones.
+11. Rules (general aspects)
+12. Group A
+13. Group B
+14. Group B (non-gazetted)
+15. Group C
+16. Group D
+11. Rules (general aspects)
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after completion of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+Subject to particulars of sanctions being
+noted in Establishment/ sanction Register.
+Refer GFR appendix 13, Annex-1
+Subject to particulars of sanctions being
+noted in Establishment/ Sanction Register.
+Refer GFR appendix 13, Annex-1
+Subject to particulars being noted in
+Establishment/ Sanction Register.
+Refer GFR appendix 13, Annex-1
+Subject to particulars of Sanctions being
+noted in Establishment/ Sanction Register.
+Refer GFR appendix 13, Annex-1
+Subject to particulars of Sanctions being
+noted in Establishment/ Sanction Register.
+Refer GFR appendix 13, Annex-1
+Subject  to  suitable  entries  being  made  in  the
+record  and  Pay  Bill
+Register  and  an  authenticated  copy  of  the
+issued,  being  placed  in  the
+12. Group A
+13. Group B
+14. Group B (non-gazetted)
+15. Group C
+16. Group D
+11. Rules (general aspects)
+14. Daily Allowance
+15. Dearness Allowance
+16. Deputation Allowance
+17. House Rent Allowance
+18. Overtime Allowance
+19. Travelling Allowance
+20. Washing Allowance
+11. Rules (general aspects)
+Subject  to  suitable  entries  being  made  in  the
+record  and  Pay  Bill
+Register  and  an  authenticated  copy  of  the
+issued  being  placed
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3 or one year after completion of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+12. Advance increments
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+14. Withholding of increments
+11.  Rules  regarding  deputation
+on foreign service in India
+12. Rules regarding deputation
+13.  Deputation  on
+C-10  or  C-3  after  the  final  disposal  of
+appeal  or  final  judgment  under  the
+normal  course  of  law,  whichever  is
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+14. Deputations abroad
+C-3, plus the period of deputation
+Delegation of powers
+11. Civil Service Regulations
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+Subject  to  suitable  entries  being  made  in  the
+authenticated copy of the order being placed in
+the personal file.
+Subject  to  suitable  entry  being  made  in  the
+authenticated copy of the order being placed in
+Subject  to  suitable  entries  being  made  in  the
+authenticated copy of the order being placed in
+the personal file.
+The  file  should  be  closed  only  after  making
+sure  that  final  recovery  has  in  fact  been
+affected from the party concerned. In  the case
+of  gazetted  officers,  a  certificate  to  that  effect
+should  be  obtained  from  the  Accounts  Officer
+Subject  to  suitable  entries  being  made  in  the
+authenticated copy of the order being placed in
+the personal file.
+12. Delegation of Financial
+Powers Rules, 1958
+13. FR & SR
+15. Central Treasury Rules
+16.  Central  Public  Works
+17.  Declaration  of  officers  as
+Head of Department
+19.Declaration  of  officers  as
+Controlling  and  Drawing  &
+11. Rules (general aspects)
+12. Group A
+13. Group B
+14. Group B (non-gazetted)
+15. Group C
+16. Group D
+11. Rules (general aspects)
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+they  are  superseded
+(whichever  is  later)  for  departments
+issuing  the  orders  and  departments
+concerned;  other  departments  need
+the  standing  orders,
+weeding  out  the  superseded  ones  as
+and when they become obsolete.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+‗A‘  or  ‗B‘  category,  depending  on  the  Refer GFR appendix 13, Annex-1
+12. Group A
+13. Group B
+14. Group B (non-gazetted)
+15. Group C
+16. Group D
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a) Pre-verification of pension
+Till one year after the
+last beneficiary of the
+ceases  to  be  entitled
+it  or  5
+(e) Gratuity                                      C-5
+(f) Commutation of pension          C-15
+Refer GFR appendix 13, Annex-1
+Refer GFR appendix 13, Annex-1
+Refer GFR appendix 13, Annex-1
+(a) In respect
+To be weeded out at
+the  end  of
+The retention period here relates to the budget/
+revised  estimates  as  complied  by  the  Budget/
+Accounts  Section  for  the  department  as  a
+To  be  weeded  out
+To be weeded out at
+the  end  of
+Refer GFR appendix 13, Annex-1
+Refer GFR appendix 13, Annex-1
+(b) In respect
+(a) In respect
+Accounts and audit
+12.Audit  objection  and  audit
+Refer GFR appendix 13, Annex-1
+To  be  weeded  out
+(b) In respect
+(a)For departments reported upon or
+predominantly concerned:           C-10
+Subject  to  a  copy  of  the  report  being  retained
+permanently.    The  National  Archives  may  be
+consulted before any file is destroyed.
+(b)For other interested departments
+14.Local audit (annual)
+15.Public Accounts Committee
+(a) For departments reported upon or
+predominantly concerned             C-10
+Subject  to  a  copy  of  the  report  being  retained
+permanently.  The  National  Archives  may  be
+consulted before any file is destroyed.
+(b) For other interested departments
+opening of new heads
+11. Car Advance Rules
+12. Conveyance Advance Rules
+13. Cycle Advance Rules
+14. Festival Advance Rules
+15. GPF Final Withdrawal Rules
+16. GPF Advance Rules
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+Refer GFR appendix 13, Annex-1
+superseded  ones,  as  and  when  they
+(i) suitable entries being made in Pay Bill
+(ii) in case of motor car/ motor cycle/ scooter
+and house building advance:
+(a) copies of sanction being placed in personal
+(b)  mortgage  deeds  and  other  agreements
+executed being kept separately in safe custody
+for the valid period.
+Refer GFR appendix 13, Annex-1
+17.  House  Building  Advance
+18.  Motor  Cycle/  Scooter
+19. Pay Advance Rules
+20. TA Advance Rules
+21. Travel Concession Rules
+22. Other Advances Rules
+23.Grant of Car Advances
+24. Grant of Conveyance
+25. Grant of Cycle Advance
+26. Grant of Festival Advance
+27. Grant of Final Withdrawal
+28. Grant of GPF Advance
+29. Grant of House Building
+30. Grant of Motor
+31. Grant of Pay Advance
+32. Grant of TA Advance
+33. Grant of LTC Advance
+34. Grant of other Advances
+Payments and recoveries  11. Air passage bills
+12. Cancellation charges
+13. Contingent expenditure
+14. Electric charges– recovery
+15. GPF annual statements
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Refer GFR appendix 13, Annex-1
+C-3  or  one  year  after  completion  of
+audit , whoever is later.
+C-3 or one year after completion of
+audit , whoever is later.
+C-5 after the settlement of case or one
+year after audit whichever is later.
+Refer GFR appendix 13, Annex-1
+Subject to suitable entries being made in Pay
+16. GPF– membership
+18. Hospitality fund
+rent  and  other
+20. Last Pay Certificate
+22. Pay claims
+23. Permanent imprest
+25. Refreshment bills
+26. Rent demand statements
+27. Service postage stamps
+28. TA/Transfer TA claims
+C-3  or  till  the  relevant  orders  are
+superseded  (whichever  is  later)  in  the
+case  of  departments
+orders/instructions;  other  departments
+need  keep  only  the  standing  orders,
+weeding  out  the  superseded  ones  as
+and when they become obsolete
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+29. Water charges- recoveries
+30.  Reimbursement  of
+31. Reimbursement of tuition
+32. Acceptance of credits/debits  C-3  or  one  year  after  completion  of
+33.  Adjustment  of  missing
+credits in GPF account
+35.  Financing  of
+policies from GPF account
+36.  Arrear  claims
+sanction for investigation, where
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+Refer GFR appendix 13, Annex-1
+to  an  authenticated  copy  of
+sanction being placed in the personal file.
+Refer GFR appendix 13, Annex-1
+Refer GFR appendix 13, Annex-1
+37. Postal life Insurance
+Subject to suitable entry being made in Pay Bill
+Register and PLI Index Register
+38. Write-off of losses
+39 Expenditure sanction
+40.  Surety  bond  executed  in
+favour of temporary  or a  retiring
+11. General aspects
+and technical sanction
+12. Major works
+13. Minor works
+Foreign exchange budget  11. General aspects
+12. Estimates/ Allocation
+13. Periodical reports regarding
+allocation, release and utilisation
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  or  one  year  after  completion  of
+audit, whichever is later.
+C-3  after  the  bond  ceases  to  be
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+C-10  or  C-3  after  completion  of  the
+work;  or  one  year  after  completion  of
+audit, whichever is the latest.
+C-5  or  C-3  after  completion  of  the
+work;  or  one  year  after  completion  of
+audit, whichever is the latest.
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(i)  Permanent  for  record  of  major
+projects  costing  Rs.20  crores  and
+The  Department  of  Economic  Affairs,  as  the
+department  responsible  for  overall  policy  and
+co-ordination  in  the  matter,  may  retain  these
+prescribed by it.
+above  Minor  projects  are  normally
+completed in shorter time frame.
+(ii) For others : C-10
+12.Not approved schemes
+13.Review of ongoing schemes  C-3 after closure of the scheme.
+Budget Estimates for five
+Civil  credit  notes  (Form  S.  142)  and  stock
+Register of monthly expenditure (Form GFR 9)
+Register  for  watching  progress  of  expenditure
+(Form GFR 11)
+Register  for  watching  progress  of  expenditure
+on local purchase of stationery.
+Register for reconciliation of accounts
+Cash  receipts  (Form  TR  5),  counterfoils  and
+Petty vouchers not furnished to audit
+10.    Pay Bill Register
+11.    Office  copies  of  establishment  pay  bills  and
+related  schedules  (in  respect  of  period  for
+which Pay Bill Register is not maintained.
+12.    Schedules  to  the  establishment  pay  bills  for
+the  period  for  which  Pay  Bill  Register  is
+13.    Acquittance roll
+RECORDS OTHER THAN FILES
+C-3 or one year after completion of audit, whichever is later.
+To  be  weeded  out  after  the  Appropriation  Accounts  for  the
+year have been finalised.
+To  be  weeded  out  after  the  Appropriation  Accounts  for  the
+year have been finalised.
+C-3 or one year after completion of audit, whichever is later.
+To  be  weeded  out  after  the  Appropriation  Accounts  for  the
+year have been finalised.
+C-3 or one year after completion of audit, whichever is later.
+C-3 or one year after completion of audit, whichever is later.
+C-3 or one year after completion of audit, whichever is later.
+C-3 or one year after completion of audit, whichever is later.
+Refer GFR appendix 13, Annex-1
+14.    Postal life Insurance register
+C-3  after  all  the  policies  entered  therein  have  matured  for
+15.    Increment register
+16.    Increment list
+C-3 or one year after completion of audit, whichever is later.
+Records other than files
+Description of record
+11. General aspects
+Calling  Attention  notices  -Lok
+/Calling  Attention  notices-  Rajya
+16. Questions-Lok Sabha
+17. Questions- Rajya Sabha
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+(a) For departments reported upon or
+predominantly concerned:           C-10
+Subject  to  a  copy  of  the  report  being  retained
+permanently.  The  National  Archives  may  be
+consulted before any file is destroyed.
+(b) For other interested departments:
+Cases containing material of great precedence/
+reference  value/  historical  importance  may  be
+(b) Disallowed, lapsed or withdrawn:
+The National Archives may be consulted for its
+‗A‘  or  ‗B‘  category,  depending  on  the
+the  case  of
+departments  need  keep  only
+standing  orders,  weeding  out
+superseded  ones,  as  and  when  they
+19.  Furnishing  of  material  for
+speech  of  President,  Prime
+Minister, Minister etc.
+RECORDS OTHER THAN FILES
+Description of record
+Parliamentary proceedings as maintained
+by Parliament Unit
+C-1 after printing
+Register of Parliament questions
+Subject to follow-up action being taken by
+the sections concerned on their own files
+to which relevant extracts may be taken.
+I-Record Retention Schedule of files relating to RTI application
+RTI Cases disposed without attracting any 1st Appeal
+RTI Cases attracting 1st Appeal
+RTI Cases attracting 2nd Appeal (without any remarkable decision)
+RTI Cases attracting 2nd Appeal (involving a remarkable decision)
+1st Appeal cases files
+2nd Appeal cases files
+Files  relating  to  the  administrative  aspects  of  RTI  Act,  2005  i.e.
+implementation, suggestions, guidelines, etc.
+File Register of RTI Applications i.e. records other than file.
+Proposed Retention Period
+Since they may attract 1nd Appeal so
+require a fair retention period.
+C-3  or  till  the  compliance  of  CIC
+orders, whichever is later.
+C-3 or till the compliance of CIC orders
+Judgement/CIC ruling ―B‖
+As these may attract 2nd Appeal
+There will only be two categories of e-files i.e. Category-I and Category-II
+J- Electronic Records
+Proposed Retention Period
+The e-files which are to be preserved permanently or which are
+of historical importance. The e-files included under this category will
+be as follows:-
+For  10  years,  it  will  be  kept  in  the
+Department‘s  server  and
+transferred to the server of the National
+Archives of India (NAI).
+e-files  containing  evidence  of  rights  or  obligations  of  or
+the  government,  e.g.,
+to  property,  claims
+compensation not subject to a time limit, formal instruments such as
+awards, schemes, orders, sanctions,
+e-files  relating  to  major  policy  decisions,  including  those
+relating to the preparation of legislation.
+e-files  regarding  constitution,
+functions  and  working  of
+important committees, working groups, etc.
+e-files  providing  lasting  precedents  for  important  procedures,
+e.g.  administrative  memoranda,  historical  reports  and  summaries,
+legal opinions on important matters.
+e-files  concerning  rules,  regulations,  Departmental  guides  or
+instructions of general application.
+e-files  relating  to  salient  features  of  organization  and  staffing
+of government Departments and offices.
+(7)  e-files  relating  to  important  litigation  or  ‗causes  celebres‘  in
+which the administration was involved.
+e-files  relating  to  the  origin  of  a  Department  or  agency  of
+government;  how  it  was  organized;  how  it  functioned;  and  (if
+defunct) how and why it was dissolved.
+(9)  Data  about  what  the  Department/agency  accomplished.
+(Samples  by  way  of  illustration  may  be  enough;  but  the  need  for
+such  samples  may  be  dispensed  with  where  published  annual
+reports are available).
+(10)  e-files relating to a change of policy.  This is not always easy
+to  recognize,  but  watch  should  be  kept  for  (a)  summary  for  a
+the  appointment  of  a  Departmental  or
+Departmental  committee  or  working  group,  and  (c)  note  for  the
+Cabinet  or  a  Cabinet  Committee.    Generally  there  should  be  a
+conscious  effort  to  preserve  all  such  papers,  including  those
+reflecting  conflicting  points  of  view.
+the  case  of
+Departmental  committees,  however,  it  is  important  that  a  complete
+set of papers be kept only by the Departments mainly concerned  –
+usually the one providing secretariat.
+(11)  e-files  relating  to  the  implementation  of  a  change  of  policy,
+including a complete set  of instructions to executing  agencies etc.,
+and relevant forms.
+(12)  e-files relating to a well-known public or international event or
+cause  celebre,  or  to  other  events  which  gave  rise  to  interest  or
+controversy on the national plane.
+(13)  e-files  containing  direct  reference  to  trends  or  developments
+in  political,  social,  economic  or  other  fields,  particularly  if  they
+contain  unpublished  statistical  or  financial  data  covering  a  long
+period or a wide area.
+(14)  e-files  cited  in  or  noted  as  consulted  in  connection  with,
+(15)  e-files  relating  to  the  more  important  aspects  of  scientific  or
+technical research and development.
+(16)  e-files  containing  matters  of  local  interest  of  which  it  is
+unreasonable  to  expect  that  evidence  will  be  available  locally,  or
+comprising synopsis of such information covering the whole country
+or a wide area.
+e-files relating to obsolete activities or investigations, or to
+abortive scheme in important fields.
+(18)  Any other specific category of records which, according to the
+Departmental  instructions  issued  in  consultation  with  the  National
+Archives,  have  to  be  treated  as  genuine  source  of  information  on
+any  aspect  of  history-political,  social,  economic,  etc.,  or  are
+considered to be of biographical or antiquarian interest.
+This category will include e-files of secondary importance and having
+reference value for a limited period.
+Upto  10  years  akin  to  the  retention
+period  of  physical  files/records  on  the
+cases,  if  the  record  is  required  to  be
+retained  beyond  10  years  it  will  be
+upgraded to Category I.
+Note: Refer National Digital Presentation Programme (DPP) and Digital Preservation Policy (DPP) being formulated by the Department of Information Technology
+for e-files and e-records.
+Part II- Records (other than those relating to establishment and house-keeping works) common to all departments
+Creation/abolition of offices
+Re-organisation and redistribution of functions
+Bills, acts and ordinances
+Rules, regulations, codes, manuals, executive procedural instructions (including
+amendments and interpretations)
+Delegation of powers
+Committees/ Commissions of enquiry
+Other committees, study teams, working groups, seminars, etc
+International agreements, conventions, etc
+Monthly summary for the Cabinet
+Monthly note for Indian Missions abroad
+Notices agenda and proceedings of inter-departmental meetings (e.g. O & M
+Notices agenda and proceedings of intra-departmental meetings (e.g. O & M
+Work Study/ Case-study reports
+Rationalisation & Simplification of forms
+Arbitration and litigation cases
+Notices under Section 80 of Civil procedure code
+Money order receipts and acknowledgements
+Circulars regarding holidays and closure of office
+Punctuality in attendance
+Description of record
+1. Creation/ abolition of offices
+2. Reorganisation and
+Permanent in the case of departments
+issuing  orders  and  the  departments
+concerned;  other  departments  need
+the  standing  orders,
+weeding  out  the  superseded  ones  as
+and when they become obsolete.
+whichever is later.
+they  are  superseded,
+3. (a) Bills, Acts and Ordinances
+(b) Comments on State
+Affairs, C- 5 for other departments.
+for  Ministry  of  Home
+4.  Rules,  regulations,  codes,
+manuals,  executive  procedural
+Permanent in the case of departments
+issuing  rules,  regulations  etc.;  other
+departments  need  keep  only
+standing  rules  etc.,  weeding  out  the
+superseded  ones  as  and  when  they
+they  are  superseded
+to  standing  note  on
+(whichever  is  later)  in  the  case  of
+regulations  etc.;  other  departments
+need keep only the standing rules etc.
+weeding  out  the  superseded  ones  as
+and when they become obsolete.
+Permanent in the case of departments
+issuing  orders  and  the  departments
+concerned;  other  departments  need
+the  standing  orders,
+weeding  out  the  superseded  ones  as
+and when they become obsolete.
+maintained.  The  National  Archives  may  be
+consulted before it is destroyed
+The  National  Archives  of
+India  may  be
+consulted before files pertaining to any of these
+categories are weeded out.
+if  set  up  under  a
+appropriate  retention  periods  to  be
+5. Delegation of powers
+6. Committees/ Commissions of
+composition, terms of reference,
+status of members;)
+processing and implementation);
+(c)  all  other  matters  concerning
+the  commissions/  committees,
+e.g.,  evidence  tendered  before
+it, its proceedings.
+C-5 after final decisions on the report.
+7.  Other  committees,  study
+Appropriate  retention  periods  to  be
+8. International agreements,
+9. Annual reports
+10.  Monthly  summary  for  the
+11. Monthly note for Indian
+This record be categorized as ―A-Keep‖.
+These  including  MOUs  may  be  transferred  to
+the NAI at the appropriate time.
+Copies  of  the  reports  (if  published)  to  be
+retained in Departmental Library as ―B-Keep‖
+departmental meetings (e.g. O &
+(a) for departments organising
+Appropriate period to be prescribed by
+departments concerned in their record
+(b) for other departments
+departmental meetings (e.g. O &
+(a)  for  units  organising  such
+(b) for other units;
+14.  Work  study/  case  study
+Subject  to  follow-up  action,  where  necessary,
+being  taken  on  appropriate  subject  files  to
+which relevant extracts may be taken.
+Subject  to  follow-up  action,  where  necessary,
+being  taken  on  appropriate  subject  files  to
+which relevant extracts may be taken.
+Subject to a copy of the report being kept in the
+departmental library. Cases containing material
+of  a  high  precedent/  reference  value  may  be
+retained  for  appropriate  longer  periods,  either
+initially or at the time of review.
+Simplification of forms.
+C-1 after the next review
+16.  Arbitration  and
+(a) the file not being closed until the award/
+judgment  becomes  final  in  all  respects  by
+limitation  or  final  decision  in  appeal/  revision,
+precedent/reference  value  being  retained  for
+an appropriately  longer period either initially or
+at the time of review
+If such a notice is followed up by a civil  suit, it
+would  become  arbitration/litigation  case  and
+would  therefore,  need  to  be  retained  for  3
+Refer GFR Appendix 13, Annex I
+17.  Notices  under  Section  80  of
+Civil Procedure Code
+18. Money order receipts and
+19. Circulars regarding holidays
+closure of office
+C-3 or one year after completion of
+settlement of audit objections,
+To be weeded out at the end of the
+20. Attendance register
+21. Punctuality in attendance
+APPENDIX - 13
+[See Rule 284]
+DESTRUCTION OF OFFICE RECORDS CONNECTED WITH ACCOUNTS
+The  destruction  of  records  (including  correspondence)  connected  with  accounts  shall  be  governed  by  the  following  Rules  and  such  other
+subsidiary rules consistent therewith as may be prescribed by Government in this behalf with the concurrence of the Comptroller and Auditor-
+1. The following shall on no account be destroyed:—
+(i) Records connected with expenditure which is within the period of limitation fixed by law.
+(ii) Records connected with expenditure on projects, schemes or works not completed, although beyond the period of limitation.
+(iii) Records connected with claims to service and personal matters affecting persons in the service except as indicated in the Annexure
+(iv) Orders and sanctions of a permanent character, until revised.
+2. The following shall be preserved for not less than the period specified against them:—
+Description of record
+Payments and recoveries
+(i) Expenditure Sanctions
+not covered by
+Paragraph 1 above
+relating to grants-in-aid)
+2  years,  or  one  year  after  completion
+of audit, whoever is later.
+(ii) Cash Books maintained
+by the Drawing and
+under Central Treasury
+(iii) Contingent expenditure.
+(iv) Arrear claims (including
+Papers relating to:
+(v) GPF Membership.
+(vi) GPF Nomination.
+(vii)  Adjustment  of  missing
+credits in GPF Accounts
+(viii) Financing of Insurance
+Policies from GPF Accounts
+(ix) Final withdrawal from
+GP Fund, e.g., for
+house building, higher
+technical education of
+(x) GPF annual
+Service Books of :
+(xi) T.A./Transfer T.A.
+3 years, or one year after completion
+of audit, whichever is later
+The retention period here relates to the
+Budget/Revised Estimates as compiled
+by the Budget/Accounts Section for the
+Department as a whole.
+3 years after issue of final
+pension/ gratuity payment order.
+(a)  Officials  entitled
+(b) Other employees
+4. Leave Account of:
+(a) Officials entitled to
+(b) Other employees.
+3 years after they have ceased to
+be in service.
+3  years  after
+pension/ gratuity payment order.
+3 years after they have ceased to
+be in service.
+(a)  Nomination  relating  to
+family  pension  and  DCR
+(b)  Civil  List  Gradation/
+Seniority List —
+Subject to the nomination in original
+or an authenticated copy thereof
+(where original is kept with the
+audit) as the case may be being
+placed in Vol. II of the Service
+Departments  preparing  and
+bringing out the compilation.
+(ii)  in  the  case  of  other
+1 year after issue of relevant
+(c) Alteration in the date of
+Subject to suitable entry being
+made in the appropriate service
+record and an authenticated copy
+of the order being kept in Vol. II of
+Service Book/Personal File.
+(d)  Admission  of  previous
+service  not  supported  by
+3  years;  or  1  year  after
+completion  of  audit,  whichever  is
+- do -
+(e) Verification of service.
+Subject  to  a  suitable  record  being  kept
+somewhere, e.g., in the Service Book or
+To  be  weeded  out  at  the  end  of
+(b) In respect of Department
+To  be  weeded  out  after
+Appropriation  Accounts  for  the
+year have been finalized.
+7. Surety Bonds
+in favour of a
+or a retiring
+(a) Pay Bill register.
+(b)  Office  copies  of
+schedules  (in  respect
+of period for which pay
+(c)  Schedules  to  the
+bills  for  the  period  for
+which  pay  bill  register
+(c)  Register  of  monthly
+expenditure (Form GFR 9).
+To be weeded out after the Appropriation
+the  year  have  been
+3 years after the Bond ceases to
+3  years,  or  one  year  after
+completion of audit, whichever is later.
+(d) Acquaintance Roll
+Bill Register maintained in
+Paid cheques returned by
+the  Bank  to  the  Audit/
+3  years,  or  one  year  after
+completion of audit, whichever is later.
+prescribed  in  this  behalf  in  the
+departmental  regulations  subject
+to  a  minimum  of  three  financial
+years  of  payment  excluding  the
+financial year of payment.
+The  counterfoils  of  paid  cheques  should
+be  preserved  for  the  same  period  as
+for  preservation  of  paid
+cheques, viz.,5 years. However, in cases
+where the counterfoils are required to be
+preserved  in  connection  with  settlement
+of  some  enquiry,  etc.,  these  should  not
+be  destroyed  unless  otherwise  advised
+by the authorities conducting the enquiry.
+The  other  instructions  contained  in  this
+Appendix  will  continue  to  be    applicable
+in this case before the counterfoils which
+are more than five years old are actually
+5  years  after
+terminated.  In  cases  where  audit
+objections  have  been
+however,  the  relevant  files  and
+documents  shall  not,  under  any
+circumstances,  be  allowed  to  be
+destroyed  till  such  time  as  the
+objections  have  been  cleared  to
+the  satisfaction  of
+Sub-vouchers  relating  to
+reviewed  by  the  Public  Accounts
+3  years  after  the  expiry  of  the
+expenditure was incurred, subject
+to  completion  of  administrative
+audit and issue of audit certificate
+the  nominated  Controlling
+1)  The retention period specified in Column (4), in the case of a file, is to be reckoned from the year in which the file is closed (i.e., action
+thereon has been completed) and not necessarily from the year in which it is recorded.
+2)   In  the  case  of  records  other  than  files,  e.g.,  registers,  the  prescribed  retention  period  will  be  counted  from  the  year  in  which  it  has
+ceased to be current.
+3)   In exceptional cases, a record may be retained for a period longer than that specified in the schedule, if it has certain special features or
+such a course is warranted by the peculiar needs of the department. In no case, however, will a record be retained for a period shorter
+than that prescribed in the schedule.
+4)   If a record is required in connection with the disposal of another record, the former will not be weeded out until after all the issues raised
+in the latter have been finally decided, even though the retention period marked on the former may have expired in the meantime. In
+fact, the retention periods initially marked on such records should be consciously reviewed and, where necessary, revised suitably.
+Before any pay bills/pay bill registers are destroyed, the service of the Government servants concerned should be verified in accordance
+with Rule 81.
+The periods of preservation of account records in Public Works Offices are prescribed separately by Government.
+3)   Where  a  minimum  period  after  which  any  record  may  be  destroyed  has  been  prescribed,  the  Head  of  a  Department  or  any  other
+authority empowered by him to do so, may order in writing the destruction of such record in their own and subordinate offices on the
+expiry of that period counting from the last day of the latest financial year covered by the record.
+Heads of Departments shall be competent to sanction the destruction of such other records in their own and subordinate offices as may
+be  considered  useless,  but  a  list  of  such  records  as  properly  appertain  to  the  accounts  audited  by  the  Indian  Audit  and  Accounts
+Departments  shall  be  forwarded  to  the  Audit  Officer  and  or  the  Accounts  Officers,  as  the  case  may  be,  for  his  concurrence  in  their
+destruction before the destruction is ordered by the Head of Department.
+Full details shall be maintained permanently, in each office, of all records destroyed from time to time.
+Description of record
+Classification of posts
+revival of post.
+Subject to particulars of sanctions
+being noted in Establishment/
+(ii) Conversion of
+temporary posts into
+(iii) Creation of posts.
+(iv) Revision of scales of
+Permanent in the case of
+issuing orders and Departments
+concerned; other Departments
+keep only the standing orders,
+weeding out superseded ones as
+when they become obsolete.
+- do -
+- do -
+- do -
+(v) Upgrading of posts.
+- do -
+Where, for any reason the register is re-
+written, the old  volume  will be kept for 3
+Notices  under  Section
+80  of  Civil  Procedure
+Condonation of break in
+(a)  the  file  not  being  closed  until  the
+award/judgement  becomes  final  in  all
+respects  by  limitation  or  final  decision  in
+appeal/ revision; and
+(b)  cases  involving  important  issues  or
+precedent/reference value being retained
+for  an  appropriately  longer  period  either
+initially or at the time of review.
+If  such  a  notice  is  followed  up  by  a  civil
+suit, it would be come arbitration/litigation
+case  and  would,  therefore,  need  to  be
+retained for 3 years.
+Subject to a suitable entry being made in
+the  appropriate  service  record  and  an
+authenticated  copy  of  the  order  being
+kept  in  Vol.  II  of  Service  Book/Personal
+(i) Car Advance Rules
+(ii) Conveyance Advance
+(iii) Cycle Advance Rules
+(iv) Festival Advance Rules
+(v) GPF Advance Rules
+(vi) House Building
+(vii) Motor Cycle/Scooter
+(viii) Pay Advance Rules
+(ix) T.A. Advance Rules
+(x) Travel Concession
+Permanent in the case of
+issuing the rules, orders and
+instructions; other Departments
+keep only the standing rules, etc.,
+weeding out the superseded
+and when they become obsolete.
+case  of  motor
+(i) suitable entries being made in pay bill
+(a)  copies  of  sanction  being  placed  on
+personal files; and
+separately in safe custody for the period
+they are valid.
+(xi) Other Advance Rules
+(xii) Grant of car Advance
+(xiii) Grant of conveyance
+(xiv) Grant of cycle advance
+(xv) Grant of festival
+(xvi) Grant of GPF advance
+(xvii) Grant of house
+(xviii) Grant of motor cycle/
+(xix) Grant of pay advance
+(xx) Grant of T.A. advance
+(xxi) Grant of LTC advance
+(xxii) Grant of other
+executed  in  favour  of
+temporary  or  a
+3  years  after  the  Bond  ceases  to  be
+(i) Rules and Orders
+(ii) In respect of Groups ‗A‘
+(a) Pre-verification of
+(b) Invalid pension
+(c) Family pension
+Till  one  year  after
+beneficiary  of  the  family  pension
+(d) Other pensions
+(f) Commutation of
+ceases to be entitled to receive or
+5 years whichever is later.
+Note:— The principle to be adopted in respect of files having financial implications and hence liable to be called by audit for inspection is that
+such files should be retained for a period of five years after they have been recorded. If, at any time during the period of five years, an audit
+objection having reference to the transaction dealt with in that file arises, is received, the file will not be destroyed until after the audit objection
+has been settled to the satisfaction of the audit. Also, if local audit  does not take place within the period of five years, the Head of the Office
+should ascertain from the audit authorities whether they have any objection to the files relating to the earlier years, due for weeding out by the
+application of the five year formula, being destroyed or retained for a further period for scrutiny by the audit party and, if so, for what period.
+While records may be reviewed and weeded out at periodical intervals in the light of the retention periods prescribed to avoid their build-
+up, the attempt should be to make a continuous and conscious effort throughout the year to weed out unnecessary records. In other words, the
+working rules should be ―weed as you go‖.
+The retention period specified in Column (4), in the case of a file, is to be reckoned from the year in which the file is closed (i.e., action
+thereon has been completed) and not necessarily from the year in which it is recorded.
+In  the  case  of  records  other  than  files,  e.g.,  registers,  the  prescribed  retention  period  will  be  counted  from  the  year  in  which  it  has
+ceased to be current.
+In exceptional cases, a record may be retained for a period longer than that specified in the schedule, if it has certain special features or
+such a course is warranted by the peculiar needs of the department. In no case, however, will a record be retained for a period shorter
+than that prescribed in the schedule.
+If a record is required in connection with the disposal of another record, the former will not be weeded out until after all the issues raised
+in the latter have been finally decided, even though the retention period marked on the former may have expired in the meantime. In
+fact, the retention periods initially marked on such records should be consciously ―reviewed and, where necessary, revised suitably‖.
+Retention schedule for records prescribed in the Manual of Office Procedure
+[Vide para 111 (1) (c)]
+Dak register ...............
+Section dairy ...................
+Movement slip of receipts ...............
+To be destroyed after the relevant receipts
+have been received in the section
+Assistant’s diary ...............
+Standing guard files ...................
+Standing note ..................
+Distribution chart ...................
+Typist’s diary ..................
+Issue diary ......................
+Despatch register ..................
+Section Despatch Register ..............
+Permanent. The earlier version of these
+records will normally be weeded out as
+soon as the revised version becomes
+Postal registration books ..................
+Receipts of telegrams .................
+A Register of daily abstract of stamps used ...................
+Messenger book ...................
+Stamps account register .................
+Weekly statement of cases disposed of without reference to Minister .......
+91 (2) (b)(i)
+File register ..............
+File movement Register
+Register for watching the progress of recording ............
+104 (2)(b) and
+Consolidated departmental index .........
+List of files transferred to
+(a) Departmental record room ........
+(b) National Archives ..............
+Record review register ..................
+List of files received for review .......
+Register of spare copies of publications, circulars, orders etc.
+till  printed  departmental
+5  years  or
+becomes available whichever is latter.
+Record requisition slip .................
+Record requisition card ...............
+Weekly arrear statement ...........
+Case sheets of cases pending disposal over a month .............
+Numerical abstract of cases pending disposal for over a month ...........
+Consolidated  numerical  abstract  of  cases  pending  disposal  for  over  a
+month in the various sections of the department .......
+Call book ...................
+Monthly Progress report on recording of files ..................
+Register for keeping a watch on communications received from M.Ps
+Register for keeping a watch on
+communications received from VIPs
+Monitoring of Court / CAT cases
+Register of Parliamentary Assurances.
+Check-lists for periodical reports
+To  be  destroyed  after  the  requisitioned  file  has
+been returned to the National Archives.
+To  be  destroyed  after  all  the  space  for  entries
+have been used and the last file requisitioned has
+One year after the date of inspection
+Note :  The retention period will be reckoned with reference to the date from which the record ceases to be current/active. Where, however, it is proposed to
+weed out a register wherein certain entries are still current, e.g. file movement register where certain files entered therein have not been recorded or
+the register of assurances, where certain assurances have not been implemented, the current entries will first be transferred to the new register and the
+old register weeded out thereafter.

@@ -1,0 +1,44 @@
+Department of Computer Science & Engineering
+Indian Institute of Technology Jodhpur
+N.H. 62, Nagaur Road, Karwar, Jodhpur-342030
+Cat.  Course Number, Course Title
+Course Number, Course Title
+CSL7XX0  Artificial Intelligence
+CSL7XX0  Machine Learning
+S.No.  Course Number  Course Title
+Reduced List of Electives AI
+Foundation Models and Generative AI
+Learning on Graphs and its Applications
+Machine Learning with Big Data
+ML Ops and DL-Ops
+Natural Language Understanding
+Selected Topics in AI
+Systems for ML
+Advanced Data Structures and Algorithms
+Course Category Title
+Note: 1. The department should retain only the relevant courses as electives for the M.Tech. program. The
+courses that are either irrelevant or not attracting more than 10 students should be removed from the PG
+Course (Credit) Requirements for PhD students
+S.No.  Ph.D. in
+or Social Science
+M.Tech., M.E. or M.Sc.
+(Engineering) in an Engineering
+M.Sc. degree  in a Science
+B.Tech., B.S., B.E. or B.Sc.
+(Engineering)  in an Engineering
+M.Sc., M.A. and M.Phil. degree in
+a Science, Humanities or Social
+Minimum courses required
+4 Compulsory (Same as
+M.Tech. Compulsory) + 4
+4 Compulsory (Same as
+M.Tech. Compulsory) + 4
+3.   Management, Design  As per approved norms after 2
+years of Masters degree in
+1.  Departments can design various sets of compulsory courses based on their research themes. These
+courses can either be existing ones or new courses introduced by the department.
+2.  The four compulsory courses account for a minimum of 12 credits as per the current regulations.
+3.  Direct Ph.D. students holding a B.Tech. degree can choose to pursue an additional M.Tech. degree
+by fulfilling the M.Tech. thesis requirements. The M.Tech. thesis work must be separate from the
+Ph.D. thesis. The additional degree will be awarded alongside the Ph.D. degree only upon the
+completion of the Ph.D. program.

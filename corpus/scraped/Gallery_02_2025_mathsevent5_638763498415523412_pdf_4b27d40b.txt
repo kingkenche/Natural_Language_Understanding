@@ -1,0 +1,16 @@
+Title of Event :- Faculty Seminar by Dr. Kiran Meena
+Date of start of event :-  30th September 2024
+Details of event :-
+Speaker :- Dr. Kiran Meena
+Title of the Talk :- Geometry using Riemannian maps
+Date, Time and venue : 30th Sep, 2024 at 12:00PM - 1.00PM, @Meeting Room, Dept of
+Abstract : In recent years, the theory of Riemannian maps has been analysed extensively.
+In this talk, I will discuss the geometry of natural submanifolds arising out of Riemannian
+maps. Towards this I will establish my (jointly published) results when the source manifold
+admits Ricci soliton structure and also, I will describe the concept of Riemannian warped
+product maps introduced in one of my (jointly published) papers. Finally, I will discuss the
+Clairaut conditions for Riemannian maps and their important geometric implications.
+About the speaker : Dr. Kiran Meena is currently working as Assistant Professor at Lady
+Shri Ram College for Women, University of Delhi. She has obtained, Ph.D from Banaras
+Hindu  University,  and  has  postdoctoral  experience  from  Harish-Chandra  Research
+Institute. Her research area is Differential Geometry.

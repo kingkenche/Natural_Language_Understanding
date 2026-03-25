@@ -1,0 +1,46 @@
+Physical Property Measurement System (PPMS) | Central Research Facility (CRF) | IIT Jodhpur
+Physical Property Measurement System (PPMS)
+Physical Property Measurement System (PPMS)
+Make: Quantum design
+PPMS Experimental Parameters-
+Operational Modes Currently Available: Electrical Transport (AC and DC), Vibrating Sample Magnetometer (VSM)
+Temp. Range - 6.0 K to 370 K, Magnetic Field - 0 to 9 Tesla
+ETO (Electrical Transport Option)
+Four Probe or van der Pauw Geometry
+Range: 10 µΩ to 5 MΩ
+Current Range: 2 nA to 8 mA
+Frequency: 5 Hz Square Wave
+AC Resistance (ETO)
+Range: 10 µΩ to 10 MΩ
+Frequency Range: 0.1 to 200 Hz
+Current Amplitude Range: 10 nA to 100 mA
+VSM Operational Range:
+Temp. Range - 6.0 K to 370 K,
+Field- 0 to 9 Tesla
+Experiment: Moment vs Magnetic Field & Moment vs Temperature
+Coil Set Dimensions (Small Bore)
+Bore Diameter: 6.3 mm
+Coil Separation: 9 mm
+ETO measurement can provide the resistance and resistivity (if geometry is known) of materials over a wide range of temperatures and magnetic fields, allowing for the study of phenomena like magnetoresistance and the effect of temperature on electrical properties.
+VSM measurement can provide the magnetization, magnetic susceptibility, and other magnetic properties of bulk, nanoparticles and thin film materials, which is important for understanding magnetic reversal processes, designing new magnetic devices, and characterizing magnetic phenomena in materials
+Powder sample: 5 mg to 20 mg
+Solid sample: 2 mm × 4 mm × 2 mm pellet
+Thin film (Standard substrates cut into 4 mm × 4 mm and a thickness of 2 mm or less)
+Rs. 2000 (for 8 hrs )
+Rs. 4000 (for 8 hrs)
+Content will be updated soon..
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone:0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone:0291 280 1347
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone:0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

@@ -1,0 +1,10 @@
+Eduroam & Guest Access | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+Eduroam & Guest Access
+IIT Jodhpur provides Eduroam and Guest Internet Access facility to visitors from other institutions and guest users.    Click here for more information on Eduroam   Visitor from other institutions may connect “eduroam” SSID through their parent institutional access credentials. The guest configure the eduroam WPA-2 Enterprise Wireless Network through below links:
+The other guest may request for access credentials through department or host from IIT Jodhpur to access internet via SSID “IITJ_Guest”. If you face any issue kindly contact network team.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

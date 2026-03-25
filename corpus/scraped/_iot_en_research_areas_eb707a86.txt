@@ -1,0 +1,28 @@
+Research Areas | Center for AIoT and Applications | IIT Jodhpur
+The reserach areas in the IDRP on IoT & Applications are classified into few sub-areas viz Industry 4.0, Embedded Intelligence, Architecture, Smart Interface, and Smart City as given in following figure. Showing various design aspects of IoT focus on embedded AI
+Following are some application areas of the IDRP on IoT & Applications:
+Indoor and Outdoor Air Quality Monitoring Systems: Low-cost sensors offer great opportunity to measure air quality parameters at a spatiotemporal scale that is much faster, longer, and realistic compared to expensive research- and regulatory-grade instruments. Until now, the focus has primarily been on accessing and improvising the accuracy and reliability of available sensor technologies and identifying the correct calibration procedures, and the routine monitoring of air quality parameters. In this project, we aim to transcend these objectives and explore the application of integrated multipollutant low-cost sensor systems to identify the types and sources of air pollutants in complex environments. Associated Faculty Members: Dr. Deepika Bhattu (CIE) Dr. Arpit Khandelwal (EE) Dr. Saakshi Dhanekar (EE) Dr. Shree Prakash Tiwari (EE) Dr. Mahesh Kumar (EE) Dr. Sumit Kalra (CSE) Dr. Amandeep Kaur (EE) Dr. Kamaljit Rangara (EE) Contact:  dbhattu@iitj.ac.in saakshi@iitj.ac.in
+IoT Architecture and Security Aspects: Design of suitable IoT architectures for Various Applications Design Aspects Embedded Systems Edge and Fog Computing Secure Communication Targets: Components of IoT architecture for efficient designs and implementations for future systems. Various tiers of the IOT architecture to develop Application Specific Designs. Associated Faculty Members: Dr. Deepak Fulwani (EE) Dr. Arpit Khandelwal (EE) Dr. Aashish Mathur (EE) Dr. Sumit Kalra (CSE) Dr. Amandeep Kaur (EE) Dr. Debasis Das (CSE) Contact: arpitkhandelwal@iitj.ac.in aashishmathur@iitj.ac.in df@iitj.ac.in
+Self-Powered E-Skin for IoT:
+High density of multiple types of electronic components (e.g., sensors, actuators, electronics, etc.).
+Powering without adding heavy batteries.
+Energy harvesters, energy storage devices, low-power electronics, and efficient/wireless power transfer-based technologies.
+Demonstration of a palm-sized e-skin
+Associated Faculty Members :
+Dr. Meenu Chhabra (BSBE) Dr. Barun Pratihar (ME)
+Dr. Kamaljit Rangara (EE) Dr. Shree Prakash Tiwari (EE)
+Dr. Sumit Kalra (CSE) Dr. Amandeep Kaur (EE)
+Dr. Soumava Mukherjee (EE)
+Industry 4.0: Design of Self-maintaining Systems using Predictive Maintenance and Digital Twin. Electronic Packaging for Sensors and Devices.
+Design Aspects:   Utilization of IoT for Minimization of Down time
+Usages of AI for Automation to increase Efficiency Smart Processing for Resource Optimization in terms of power, processing, data, etc.
+Predictive Maintenance for Failure Prediction and Scheduled Downtime. Associated Faculty Members : Dr. Debasis Das (CSE) Dr. Barun Pratihar (ME) Dr. Sandeep Kumar Yadav (EE) Dr. Rajendra Nagar (EE) Dr. Sumit Kalra (CSE) Manish Narwaria (EE) Dr. Himanshu Kumar (EE) Contact: sy@iitj.ac.in sumitk@iitj.ac.in
+Smart Infrastructure: Building Health Monitoring, Engineering Geology, Infrastructure safety, Mine design. Design Aspects: Structure discontinuity characterization Dominant structural plane extraction Failure “mode” superimposition on AR model Distributed optical sensing Targets: Geological feature extraction by AR and 3D models of slope Failure mode/susceptibility calculation Gamification of the final model Associated Faculty Members: Dr. Debanjan Guha Roy (CIE) Dr. Nitin Bhatia (EE) Dr. Rajendra Nagar (EE) Dr. Amit Bhardwaj (EE) Dr. Arpit Khandelwal (EE) Contact: nitin@iitj.ac.in arpitkhandelwal@iitj.ac.in
+Intelligent Transportation System: Smart City Management encompassing traffic issues, parking, routing, safety etc. Design Aspects: Planning, design, operation, and maintenance of traffic Priority traffic management and scheduling Smart Parking Smart road infrastructure Targets: Demonstration of a pilot project inside IITJ. Associated Faculty Members: Dr. Arun Kumar Singh (EE) Dr. Aashish Mathur (EE) Dr. Ravi Bhandari (CSE) Dr. Debasis Das (CSE) Contact: debasis@iitj.ac.in singhak@iitj.ac.in rbhandari@iitj.ac.in
+Facilities: EE Laboratories CSE Laboratories IoT Lab AIOT Resources Relevant laboratories of various departments are open to the R&D activities of IDRP. In addition, various facilities of the Center for Advanced Scientific Equipment (CASE) are utilized for the activities of IDRP.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 28 Jan 2026 - 11:23 AM

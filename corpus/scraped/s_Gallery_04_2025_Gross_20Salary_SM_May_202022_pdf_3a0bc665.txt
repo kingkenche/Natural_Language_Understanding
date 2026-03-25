@@ -1,0 +1,154 @@
+Sr. No. Name of Employee
+1 Gaurav Nigam
+2 Sandeep Singh Chandel
+3 Swati Kushwaha
+4 Dhani Ram
+5 Vinay Kumar
+6 Amardeep Sharma
+7 Kshema Prakash
+8 Sharad Srivastava
+9 Vivek Verma
+10 Rinkesh Kumar Mangal
+11 Amit Kumar Soni
+12 Bharat Pareek
+13 Rimpesh Katiyar
+14 Narendra Kumar Singh
+15 Sharabh Pradhan
+16 Dheerendra Kumar Yadav
+17 Ashish Kachhawaha
+18 Naresh Chouhan
+19 Poonam Chand Sankhla
+20 Praveen Suthar
+21 Ganpat Choudhary
+22 Gurpreet Kaur Virdi
+23 Darsh Kumar Khatwani
+24 Gajraj Sharma
+25 Kamleshkumar Jagdishbhai Patel
+26 Ram Singh Ratnu
+27 Shubham Pandey
+28 Rakesh Kumar
+29 Rashmi Dhyani
+30 Kailash Chander
+31 Trilotama Singh
+32 Shashank Choudhary
+33 Dheeraj Upadhyay
+34 Neeraj Kumar
+35 Suresh Chandra Phulara
+36 Ramniwas Dhayal
+37 Sapna Sankhla
+38 Narayan Dadhich
+40 Arjun Das
+41 Shakti Ranjan Patra
+42 Ashish Kumar
+43 Laxman Singh
+44 Tirunvarangam Madhavi Lata
+45 Naveen Kumar
+46 Dhavalbhai Mansukhbhai Raiyani
+47 Ravi Jangid
+48 Sampatlal Narayanlal Suthar
+Assistant Engineer (Electrical)
+Assistant Library Information Officer
+Sr. Technical Supdt.
+Sr. Technical Supdt.
+Assistant Library Information Officer
+Sr. Technical Assistant
+Junior Technical Assistant
+Physical Training Instructor
+Junior Engineer (Civil)
+Junior Technical Assistant
+Junior Technical Assistant
+Junior Technical Assistant
+Junior Technical Assistant
+49 Shyam Sunder Singh
+50 Ishmeet Singh
+51 Ganesh Kumawat
+52 Anand Padegaonkar
+53 Amit Kumar
+54 Jayita Sarkar
+55 Himmat Singh
+56 Shankar Singh
+57 Lalit Mohan
+58 Arjun Singh
+59 Gaurav Bhansali
+60 Robin Singh Kaintura
+62 Hanuman Singh
+63 Sunil Kumar
+64 Deepika Sharma
+65 Mahendra Singh Meena
+66 Kalpana Deep
+67 Naresh Joshi
+68 Ashok Gehlot
+69 Baikuntha Nath Sahu
+70 Prashant Bhardwaj
+71 Ashok Kumar Khanduri
+72 Malati T
+73 Bonagiri Umamaheshwara Rao
+74 Chunni Chhatwani
+75 Jayanta Borthakur
+76 Ashish Vyas
+77 Arun Narayanan PJ
+78 Vikas Janu
+79 Ashish Kumar Rai
+80 Vikas Kasania
+81 Puneet Garg
+82 Pawan Sharma
+83 Kamal Kishore
+84 Navdeep Singh Roheria
+85 Subash Chandra Bose
+86 Pran Gobinda Basak
+87 Shiv Dayal Jatav
+88 Kirity Kumar Roy
+89 Mohit Mathur
+90 Nivedita Verma
+91 Gottipati Kiran Arya
+92 Kirti Vyas
+93 Titkisha Devrani
+94 Sushmita Chandra
+95 Ragini Tripathi
+96 Anupama J. Anand
+97 Subro Shankar Saha
+98 Pratiksha Gaur
+Assistant Executive Engineer (Civil)
+Junior Engineer (Electrical)
+Assistant Executive Engineer
+Junior Technical Assistant
+Assistant Library Information Officer
+Assistant Industry Liaison Officer (ALIO)
+Assistant Manager ICT
+Assistant Manager ICT
+Training & Placement Officer
+Jr. Technical Assistant
+Jr. Technical Assistant
+Jr. Technical Assistant
+Advisor (Industry - Academia Interface)
+English Language Instructor (ELI)
+English Language Instructor (ELI)
+English Language Instructor (ELI)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+99 Arun Gopinath Kunnath
+101 Alan P. Jacob
+102 Chitkela Rakesh
+103 Dev Mukeshbhai Rajput
+105 Kapil Kumar Sharma
+106 Banoth Sonyanaik
+107 Raju Ram Parihar
+108 Saroj Kumar Mahato
+109 Himanshu Shekhar
+110 Krishan Lal Jangir
+111 Vishal B
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Prof. Interns (ADMIN.)
+Jr. Technical Assistant
+Jr. Technical Assistant
+Superintending Engineer-Infrastructure & Engineering43,592
+Jr. Technical Assistant
+Jr. Technical Assistant
+Jr. Technical Assistant

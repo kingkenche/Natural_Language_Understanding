@@ -1,0 +1,34 @@
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Computer Science & Engineering)
+(WRITTEN TEST & SKILL TEST)
+Basics of Web
+Internet and World Wide Web
+-  HTTP Servers
+-  HTTP Sessions
+-  SSL Certificates
+-  HTTP and HTTPS Protocols
+-  Web Browsers
+-  HTTP Error Codes
+Front End Technologies:
+JavaScript and DOM
+JQuery and TypeScript
+-  CSS, Responsive Design, and Bootstrap
+-  PHP, Asp.Net, JSP, Ruby on Rails,
+-  REST API, XML, JSON
+-  Node.js, NPM
+Platforms and Servers:
+IIS, Apache, Nginx,
+-  Linux and Window Hosting
+-  Working with Virtual Machines,
+-  Understanding of Chrome and Firefox Developer Tools
+-  PHP, C#, Java, Python
+-  Object-Oriented Design Principles
+Library and Framework:
+-  WordPress or any CMS
+-  ReactJS, AngularJS
+-  Basic SEO techniques, URL Routing
+-  Knowledge of SQL Query and Connectivity with frontend
+-  MySQL, PGSQL, MS SQL Server
+-  NoSQL Databases, MongoDB
+Source Control and Versioning:
+-  Git Commands

@@ -1,0 +1,172 @@
+PG Diploma andMTech.  in  Data Engineering*Indian Institute of Technology, JodhpurWith Data Science, Analytics and Generative AI12MonthsProgramIITStatusAlumniLive online Sessionsby IIT Jodhpur faculty and ex-MAANG Experts with Campus immersion*Conditions Apply (Admission to MTech. is subject to IIT Jodhpur approval)Powered byThe information provided in the brochure is official and final and supersedes all other information either exchanged or perceived.Apply NowAY 2024 - 25Cohort 4IndianInstituteofTechnologyJodhpur
+Table of Contents
+01 Message from the Director
+02 Context of the Program
+03 About PG Diploma in Data Engineering
+04 Who is this Program for?
+05 Program Highlights
+06 Program Outcomes
+07 Student Journey
+08 Upgrade to MTech. Degree
+09 Potential Job Roles
+10 Potential Recruiters
+11 Tools Covered
+Futurense Bridge Course
+14 Campus Immersion
+15 Program Directors
+16 Esteemed Advisors
+Futurense Leadership Council
+18 Program Details
+19 Admission Process
+19 Cohort Demographics & Profile
+20 About IIT Jodhpur
+21 About Futurense
+pg no. 03
+pg no. 04
+pg no. 05
+pg no. 06
+pg no. 07
+pg no. 08
+pg no. 09
+pg no. 10
+pg no. 11
+pg no. 12
+pg no. 12
+pg no. 13
+pg no. 14
+pg no. 15
+pg no. 16
+pg no. 17
+pg no. 18
+pg no. 20
+pg no. 21
+pg no. 22
+pg no. 24
+pg no. 25
+03The DirectorMessage fromIndianInstituteofTechnologyJodhpurProf. Avinash Kumar Agarwal
+Director, IIT JodhpurProf. Avinash Kumar Agarwal is currently the Director at IIT Jodhpur. Prior to joining IIT  Jodhpur, he served as an SBI Endowed Chair Professor and J C Bose National Fellow at  the Department of Mechanical Engineering, IIT Kanpur. His research interests include IC  engines, combustion, alternative fuels, optical diagnostics, particulate and emission control  etc.Prof. Agarwal has published over 540+ peer-reviewed international journal and  conference papers, 70+ edited books, 125+ book chapters attracting more than 17500+  Scopus and more than 26000+ Google scholar citations. He is the associate principal editor  of prestigious “Fuel” Journal. For his outstanding contributions, Prof. Agarwal has been  conferred upon several prominent recognitions and awards such as    J C Bose National  Fellowship (2019) by SERB, the Clarivate Analytics India Citation Award (2017) in  Engineering and Technology and prestigious Shanti Swarup Bhatnagar Prize (2016) in  Engineering Sciences.He is an elected Fellow of the Society of Automotive Engineers  International (USA), American Society of Mechanical Engineers, Indian National Academy  of Engineering, Royal Society of Chemistry, National Academy of Science Allahabad,  American Association for Advancement in Science (USA), Combustion Institute (USA), and  The World Academy of Sciences.“Our vision is to equip learners pursuing  program with the necessary modern skills and competencies to participate in a rapidly transforming technological knowledge ecosystem, shaped by data engineering and artificial intelligence. This will ensure a workforce ready for the new and emerging job roles putting India at the forefront of the rapid global technological advancements.”PGD & MTech. in Data Engineering
+Context of the
+Businesses and organizations are relying more and more
+Demand for skilled data professionals has skyrocketed
+However, just data science expertise is not enough. Modern organizations want to be more
+before. In order to squeeze every ounce of value out of their data, the trend has been moved from just experimentation
+or MVP test cases to actually deploying and commercializing the data solutions at scale. In addition, the emergence of
+and other automated solutions need new skills and  capabilities in data professionals.
+the right skill set. With the right training, data scientists and engineers can help businesses to improve their
+in India are vast, and there are many opportunities for those with
+, gain insights into their customers, build scalable data  solutions and automate their operations.
+Engineering job opportunities
+Data Science & Engineering
+Time to Shine
+analysis  projects  that  the  Indian  data    analytics  market  will  increase  to
+The demand for Data Scientists is at an all-time high in India with a prediction of around
+. (Times of India, 2022)
+11 Million Job
+Data science professionals with
+, which can go up to
+3-10 years of Experience
+to get annual salaries in the range of
+. (Talent Trends Report 2021 by Michael Page India,
+05 With Data Science, Analytics  and Generative AIData EngineeringAbout PG Diploma inThe first of its kind  is designed by the top faculty at IIT Jodhpur along with inputs from various global schools of Data Science and Engineering and industry experts including top .Highly Industry Oriented PG Diploma ProgramCXOs and Leaders of Data Science and Engineering PracticeThis program takes into account the rapidly evolving landscape of , the transformation led by Generative AI, as well as the future of data-focused job-role competencies.  IIT Jodhpur is well known for its excellence in academics, research, and creative accomplishments as well as its multidisciplinary approach as well as industry relevance, and the same expertise is brought into this program design.Data Science, Engineering and AI Driven Technology StacksThis weaves together academic and conceptual learnings from top faculty from IIT Jodhpur, augmented by hands-on practical sessions conducted on the most recent tools and platforms led by Industry Experts, including Prompt Engineering and Generative AI, integrates industry use cases, mini-projects, assignments, and capstone projects to provide a highly experiential learning outcome. The program will provide you with the opportunity to work on real-world projects, enabling them to apply their learning in practical scenarios.12-month Intensive Program DATAIndianInstituteofTechnologyJodhpur
+06If you aspire for a high growth career in data field, either in the ,  or in the , this program will provide you with the right knowledge, tools, technologies and a prestigious IIT PG Diploma credential to accelerate your career.Data ScienceML TrackEngineering and MLOps TrackIf you are an aspiring or a current , this PG Diploma program will help you hone  such as , , and .Software and Technology ProfessionalHigh In-demand SkillsBig Data EngineeringMLOpsMachine LearningProgram forWho is theBTech. DegreeBSc./ BCA+ MSc./MCA/Master's degree in science/or in a related fieldEligibility*Minimum  marks in , or :50%UndergraduationPostgraduationMinimum of  is mandatory (after qualifying degree) at the time of registration to the program.1 Years of Work Experience(The applicant must qualify the pre-screen test to be eligible for the program)For students who want to ONLY pursue PGD  in Data EngineeringBTech. DegreeBSc./ BCA+ MSc./Master’s degree in scienceBSc./ BCA + MCA, or in a related fieldEligibility**Minimum  marks in 60%UndergraduationFirst division in Under-graduation / Post-graduationMinimum of  is mandatory (after qualifying degree) at the time of registration to the program.2 Years of Work Experience (The applicant must qualify the pre-screen test to be eligible for the program)For students who want to upgrade to MTech. after PGD  in Data Engineering*Students going only for PGD will not be allowed admission to MTech.**Admission to MTech. program is subject to approval from the program directors.IndianInstituteofTechnologyJodhpur
+07HighlightsProgramNext-gen Curriculum for a future-proof careerCutting-edge Project-centric Curriculum built by Industry Experts and IIT Jodhpur Faculty after the emergence of Generative AIApplication-oriented approach along with Case Studies & Project workTransfer your credits towards Executive MTech. Program by IIT Jodhpur*The IIT DreamAttain PGD by IIT JodhpurAchieve IIT Jodhpur Alumni StatusBecome a part of IIT Jodhpur Alumni networkNetwork with experts from Data & Analytics industryHybrid LearningLive Sessions Every WeekLive Online Masterclasses by Top Industry ExpertsThere will be two 7-9 Days Campus Immersions every Academic Year Industry-tether with FuturenseFully Sponsored Futurense Bridge Course covering the Foundations of the ProgramFuturense Job Assistance*Based on performance and PDs discretionIndianInstituteofTechnologyJodhpur
+08OutcomesProgramBe able to use  as well as the latest tools such as  and  for building data engineering solutionsPythonChatGPTGenerative AIDesign and work with and, write applications to manipulate data thereofModern Databases, Data Models  ETL Work FlowsWork with the latest , , and Big Data TechnologiesEcosystemsArchitect end to end Data Systems and InfrastructuresDesign and Implement Storage and Processing Techniques appropriate for every type of big data across domainsDeploy Data Mining Techniques to discover insights from big data, design and deploy scalable dashboards and insights infrastructuresCreate Cloud Data-based Warehouses, build Data Lakes and use Cloud Infrastructure for data wrangling and transformation, leverage cloud AI and ML services and design a deployment strategy for a Big Data application and implement it successfullyUse  to derive insights  from Big DataSupervised and Unsupervised Learning TechniquesWork on cloud environment to deploy models and utilize Cloud-based InfrastructureIndianInstituteofTechnologyJodhpur
+09Submit your ApplicationAppear for the Pre-screening TestPay the Application Processing FeeReceive your Offer Letter
+from IIT Jodhpur and Complete your Full PaymentStrengthen your Foundations through
+Futurense Bridge CourseBegin your IIT Jodhpur PG Diploma DegreeBecome an IIT Jodhpur
+PG Diploma GraduateTransfer your credits towards  IIT Jodhpur MTech. Program  without any test or screening!*JourneyStudent*Based on performance and PDs discretionIndianInstituteofTechnologyJodhpur
+PG DiplomaPost IIT JodhpurComplete MTech. Degree  in Executive Mode in 1 year!Enhance your professional growth by leveraging your academic credits from the  and transfer to  to unlock new career opportunities.*PG Diploma ProgramIIT Jodhpur's MTech. Program in Executive ModeEligibility Criteria: Based on PGD performance and discretion of the Program Director.Program Fee: ₹2,55,000**For More Information: office_eep@iitj.ac.in *T&C applies **For PGD candidates who want to upgrade to MTech.Students have preferred opting for  Executive MTech. Degree after PG Diploma  in Data Engineering to enhance their career  growth in several waysDeepens expertise for tackling  complex data engineering  challenges with confidence.Enhances job market  competitiveness, favoring  candidates with advanced degrees.10IndianInstituteofTechnologyJodhpur
+11OpportunitiesCareerPotential Job RolesData Science Manager₹28L +Average SalaryData Architect₹30L +Average SalaryBusiness Analyst Manager₹18L +Average SalaryData Scientist₹20L - 50LAverage SalaryBig Data Developer₹7L - 20LAverage SalaryData Visualization Specialist₹7L - 20LAverage SalaryMachine Learning Engineer₹15L -50LAverage SalaryBusiness Intelligence Analyst₹10L - 20LAverage SalaryData Mining₹12L - 25LAverage SalaryResearch Scientist₹10L - 20LAverage Salary*Salary Source: Glassdoor*Futurense does not offer any employmentIndianInstituteofTechnologyJodhpur
+World's leading companies are hiring for the most in-demand data job roles!
+*Futurense does not offer any employment
+IndianInstituteofTechnologyJodhpur13Bridge CourseFuturensePrepare for your  with the .IIT Jodhpur PG Diploma in Data EngineeringFuturense Bridge CourseThis foundational program, offered at , equips you for success. It includes  with . These interactive sessions provide valuable  insights and knowledge. Beyond the live training, access  to master core concepts. The course concludes with an assessment to validate your knowledge. With the Futurense Bridge Course, get ready to excel in  your academic journey.No Extra CostLive Online TrainingIndustry Experts30+ Hours of Self-guided Learning MaterialsAs students of Futurense executive education programs, you get exclusive access to our proprietary bridge courses. These have been carefully curated in partnership with IIT, industry veterans and our .Futurense Leadership CouncilThese courses offer a unique guided self-learning roadmap to get up to speed with the prerequisites of the courses and program you will be embarking upon.Weekly 1 hours of live online training and 30+ hours of self guided learningPython Programming BasicsMySQL Database EssentialsMathematical FoundationsAgile and Scrum for Project ManagementGit for Source Code ManagementPrompt Engineering with ChatGPT
+CurriculumTrimester 1Data AnalyticsApplied Mathematics and StatisticsPython Programming for Data EngineeringDatabase and SQL ProgrammingElectivesFundamentals of Business and Data AnalyticsFundamentals of Data ScienceData Visualization and DashboardsDecision Science for Operations ManagementData Mining and WarehousingTrimester 3Data EngineeringBig Data: Storage, Processing and ManagementAdvanced Data Engineering with CloudElectivesStream Processing and AnalyticsDeploying Data Solutions - MLOpsFinancial AnalyticsCapstone ProjectTrimester 2Data ScienceWeb & Social Network AnalysisMachine LearningDistributed Systems and PlatformsElectivesCloud ComputingOptimization for Data ScienceDigital Marketing AnalyticsPeople AnalyticsRetail AnalyticsNote: The electives list above is indicative. IIT Jodhpur is an institution of eminence in areas of emerging technologies and launches new courses  dynamically every trimester. Therefore, the compulsory electives are updated on a regular basis and will be made available as per discretion of the  faculty and Program Directors.14IndianInstituteofTechnologyJodhpur
+15Campus ImmersionsIIT JodhpurCampus immersion will be an essential element of the program experience, in which learners must attend the  and  (IIT Jodhpur campus). There will be every Academic Year. Learners will get a , with the  opportunity to meet and learn in person from the  at IIT Jodhpur and engage in peer learning or presentations and project work.
+The immersion timetable will be set by IIT Jodhpur, and will be communicated to students in advance post onset of
+the program.Campus ActivitiesSessions on Campuslive classroom experienceesteemed facultytwo 7-9 day Campus Immersions IndianInstituteofTechnologyJodhpur
+16DirectorsProgramProf. Dip Sankar BanerjeeProf. Subhash BhagatProf. Dip Sankar BanerjeeAssociate ProfessorIIT JodhpurDr. Dip Sankar Banerjee is an Associate Professor at IIT Jodhpur since December 2020. He completed his PhD. in Computer Science and Engineering from the Indian Institute of Information Technology Hyderabad in 2014. He was a postdoc at the Ohio State University from 2015-2016. His research interests are broadly in the area of High Performance Computing, Computing Systems, Computer Architecture, and Data Analytics.Prof. Subhash BhagatAssistant Professor Department of MathematicsIIT JodhpurDr. Subhash is an Assistant Professor in the Department of Mathematics at IIT Jodhpur in Rajasthan, India. Prior to this position, he held postdoctoral fellowships at the University of Quebec in Outaouais and the University of Ottawa in Canada. He received his PhD. from the Advanced Computing and Microelectronics Unit at the Indian Statistical Institute in Kolkata under the supervision of Prof. Krishnendu Mukhopadhyaya. His research interests are in the areas of distributed systems and algorithms, specifically focused on distributed algorithms for Swarm Robots and Autonomous Multi-Agent systems, Internet of Robotic Things (IoRT), autonomous mobile robotic sensors, and security in distributed computing.IndianInstituteofTechnologyJodhpur
+IndianInstituteofTechnologyJodhpur17AdvisorsEsteemedJagdip SinghPhD Co-Director
+Master of Business Analytics and IntelligenceJagdip Singh, PhD., is a globally recognized expert in organizational frontline effectiveness. He has been honored  with prestigious awards, including the Weatherhead School of Management's Research Recognition Award and the University's Faculty Distinguished Research award. With a focus on customer connections, Jagdip has made enduring contributions to the field. He co-founded the interdisciplinary "Organizational Frontlines Research" initiative and has  received accolades for his reviewing efforts from esteemed  journals.Kamlesh MathurPhD Co-Director,
+Master of Business Analytics and IntelligenceKamlesh Mathur, PhD., is an expert in supply chain logistics,  focusing on the distribution aspects of the supply chain and  its impact on business operations. His research addresses efficient routing and scheduling of delivery vehicles, leading  to significant cost savings. He also studies the optimal  location of claim and service centers for enhanced efficiency  and effectiveness. Dr. Mathur's work has been published in  esteemed journals such as Transportation Science, Computers and Operations Research, and European Journal of Operations Research. As a faculty member at the  Weatherhead School of Management, he teaches courses on Business Statistics, Quantitative Analysis, Computer  Simulation, and Supply Chain Logistics
+SVP of Global Operations &
+DART, Head  APAC & Managing
+Director India & Philippines
+Transformation | Strategy |
+Operations | Analytics
+Head of Data &
+Analytics - AMEA
+VP Enterprise Data
+Group Chief Data and
+Head of Analytics
+Data & Analytics
+A V Rahul
+Director - BI &
+Chief Digital & AI
+Vice President -
+Chief Digital Officer
+Global Head of
+Data & AI Studio
+IndianInstituteofTechnologyJodhpur19Pankaj SrivastavaSVP - Head of Credit Analysis Unit OffshoreSupria DhandaCo-Founder & Managing PartnerSaurabh KumarDirector - Data EngineeringSatyakam MohantyFounder & Managing PartnerSharmistha ChaterjeeHead of Software and Systems EngineeringArvind BalasundramExecutive Director,
+Commercial Insights & AnalyticsPraveen SathyadevHead Business Growth (VP)
+Analytics, Insights and AIAkshay KumarResearch & Analytics LeaderAnirban NandiHead of AI Products & Analytics (Vice President)Sumon MalDirector EngineeringMonica S PirgalKrithika MuthukrishnanManaging Director &
+Site head - Board memberChief Data Science OfficerSrini OduruHead of IT Delivery and OperationsTushar SahuDirector EngineeringVishal NagpalData Science and Analytics LeaderDeepa MaheshHead of Strategy & Operations, Board MemberAarti KrishanDirector
+Head of Information SecurityJayati DeAnalytics LeaderIndrani GoswamiDirector of Analytics
+12 Months 330 Hours
+January 10th, 2025 (Tentative)
+Course Fee: ₹3,10,000
+Includes Application Processing Fees of ₹10,000
+(The Application Processing Fee is included in and adjusted with the course fees, which must be paid at the time of completing
+the application. If the application is not accepted by IIT Jodhpur or Futurense, this amount will be fully refunded. However, if the
+student withdraws or drops out for any reason after the application is accepted, this amount is strictly non-refundable).
+Administrative Fee: ₹15,000
+(Immersion Fee includes lodging, but meals are excluded).
+*No refunds post the last date of registration. Fees are subject to change based on the institute’s current policy.
+Live Online Sessions
+There will be two 7-9 days Campus Immersions every Academic Year
+Friday, Saturday and Sunday
+The class schedule will be determined by IIT Jodhpur and is scheduled to take place on Fridays
+(late evenings), Saturdays, and Sundays, subject to the availability of the faculty.
+IndianInstituteofTechnologyJodhpur21ProcessAdmissionApplicationApplication Processing feeSuccessful Enrollment
+after Fee PaymentReceive Offer Letter
+from IIT JodhpurPre-Screen Test(Aptitude, Conceptual, Coding  and Communication)
+Demographics & Profile
+Average Years of Experience: 4.5 Years
+Average Age: 29.3 Years
+Average CTC: ₹13 Lakh
+Educational Background: Highest Degree Attained
+20 to 25
+25 to 30
+30 to 35
+35 to 40
+Years of Professional Experience
+0 to 2
+2 to 4
+4 to 6
+6 to 8
+8 to 10
+5 to 10 Lakh
+10 to 15 Lakh
+15 to 20 Lakh
+*Futurense does not offer any employment
+IndianInstituteofTechnologyJodhpurYour Career SuccessStrategic Career Support for​Unlock unparalleled opportunities and elevate your career with Futurense's tailored career assistance program.Professional Certification in Generative AI and LLM Applications AIGain cutting-edge skills with our comprehensive GenAI course, an equal blend of technology and practical application, and earn a prestigious certificate upon completion, worth ₹1.49 Lakhs.​Mock Interviews and Mentor ConnectsMirror real-world job scenarios with our mock interviews, and gain personalized guidance from industry mentors to navigate your career path with confidence.​LinkedIn OptimizationStand out in the professional world with Futurense's expert LinkedIn optimization strategies that highlight your unique skills and experiences.​Resume SupportReceive personalized resume support to craft a standout CV that effectively showcases your strengths and achievements, ensuring you capture the attention of recruiters.​​Exclusive Interview PlaybookAccess our exclusive interview playbooks filled with insider tips, common interview questions, and sample answers to help you ace your job applications and make a lasting impression on employers.​Tech Titan WebinarsConnect with Industry experts, participate in interactive sessions, and ask your questions directly. Learn from the best through Tech Titan Webinars, featuring invaluable insights and knowledge from leading industry leaders who are shaping the future of technology.​23
+The  Indian  Institute  of  Technology  Jodhpur  was  founded  in  2008  with  a  focus  on  technology  education  and
+research to promote the economic development of India. Its permanent campus is spread over 852 acres and has
+state-of-the-art  facilities  for  research  and  academic  activities.  The  institute  is  committed  to  a  multidisciplinary
+approach to technology development and has organized its degree programs through departments and research
+activities through centers for technologies.
+In addition to its focus on traditional education, lIT Jodhpur has been actively pursuing programs in executive mode
+for  working professionals.  The  institute  has  been  leveraging  its  academic  expertise,  industry  collaborations,  and
+infrastructure to create a range of high-quality programs that cater to the needs of today's professionals. Its faculty
+members,  with  extensive  industry  experience  and  academic  expertise,  bring  a  unique  blend  of  theoretical
+knowledge and practical experience to the classroom.
+To  establish  itself  as  a  leader  industry  aligned  programs  for  professionals,  IIT  Jodhpur  has  been  developing
+programs that are relevant and contemporary to the evolving needs of the industry. It has also established strong
+industry linkages to develop customized programs that cater to the specific needs of their employees. The institute
+has invested in state-of-the-art infrastructure, modern classrooms, well-equipped labs, a vast collection of books
+and  research  papers  in  the  library,  and  online  learning  platforms  and  tools  to  provide  an  immersive  learning
+experience to the participants.
+IndianInstituteofTechnologyJodhpur21Futurense TechnologiesAboutAt Futurense, we build next-gen technology talent that hold the key to a smarter and tech savvier future.Futurense - The Godfather of Talent, is a new-age tech talent organization that provides an ideal platform for tech talent to unlock its true potential through its career-accelerating ecosystem and enables Fortune 500 companies to access an untapped talent pool.With a mission to democratize the playing field for the tech talent of the country, Futurense, under its new initiative Futurense.uni, aims to transform tech education, together with top educational institutions in the country. Futurense leverages the well-established educational ecosystem of universities and combines it with its own next-gen outcome-focused approach through immersive learning experiences and
+building future-proof careers.CONTACT USLet’s get in TouchIndian Institute of Technology Jodhpur,
+NH62 Nagaur Road
+Karwar 342030, Jodhpur,
+Rajasthan, India.+91 92667 54756+91 97739 69160iitj.pgddse@futurense.comoffice_eep@iitj.ac.in futurense.com/uniwww.iitj.ac.in25

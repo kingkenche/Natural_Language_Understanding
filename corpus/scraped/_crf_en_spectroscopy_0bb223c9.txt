@@ -1,0 +1,42 @@
+Spectroscopy | Central Research Facility (CRF) | IIT Jodhpur
+Make: Bruker High Perfomance Digital FT-NMR Model: AVANCE III HD, AscendTM WB, 500 MHz (NMR Requisition , SOP NMR Sample Preparation )
+place Room No. 111, Chemistry Building
+school Dr. Samanwita Pal (Faculty In charge)
+call 0291 280 1305
+Make: Varian Model: Cary 4000
+place Room No. 201, First Floor, GN Ramachandran Bhawan
+school Dr. Dibyendu Kumar Sasmal (Faculty In charge)
+call 0291 280 1311
+Make: Bruker Model: Vertex, 70V+PMA50
+place Room No. 203, First Floor, GN Ramachandran Bhawan
+school Dr. Samanwita Pal (Faculty In charge)
+call 0291 280 1305
+Make: Perkin Elmer Model: LS 55
+place Room No. 201, First Floor, GN Ramachandran Bhawan
+school Dr. Dibyendu Kumar Sasmal (Faculty In charge)
+call 0291 280 1311
+Make: ThermoFisher Scientific Model: 2821 PLC-230 LP
+place Room No. 203, First Floor, GN Ramachandran Bhawan
+school Dr. Neha Jain (Faculty In charge)
+call 0291 280 1210
+Inductively Coupled Plasma Mass Spectrometer (ICP-MS)
+Make: AGILENT Model: 7850 ICP-MS
+place Room No. 201, First Floor, GN Ramachandran Bhawan
+call 0291 280 1343/44/47
+Dynamic Light Scattering Spectrometer (DLS)
+Make: MALVERN PANALYTICAL Model: ADVANCE SERIES PRO (BLUE)
+place Room No. 203, First Floor, GN Ramachandran Bhawan
+call 0291 280 1343/44/47
+Energy-Dispersive X-Ray Fluorescence Spectrometer (ED-XRF)
+Make: MALVERN PANALYTICAL Model: EPSILON 4
+place Room No. 203, First Floor, GN Ramachandran Bhawan
+call 0291 280 1343/44/47
+Make: BAYSPEC Model: MULTI WAVE NOMADIC TM
+place Room No. 111, Chemistry Building
+call 0291 280 1311
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

@@ -1,0 +1,26 @@
+Tentative Master of Science (M.Sc.) Mathematics
+Course Title  L-T-P-D Credits  Cat.  Course
+Course Title  L-T-P-D Credits
+C  MA511  Linear algebra  3-0-0-1
+C  MA512  Real analysis  3-0-0-1
+C  MA521  Abstract Algebra  3-0-0-1
+C  MA522  Complex
+C  MA513  Ordinary
+C  MA523  Partial
+C  MA514  Probability
+C  MA515  Programing
+C  MA551  Topology
+C  MA525  Functional
+OE  xxxxx  OE1
+OE  xxxxx OE2
+P  MA6xx    Project
+P  MA6xx    Project
+List of Program Electives
+MA552   Wavelets analysis and Applications    MA611
+MA553   Dynamical Systems
+MA757   Numerical Partial Differential
+Graphs and Matrices
+Measure and Integration
+Algorithmic Graph Theory
+Chaos Theory and its Applications
+Calculus of Variation and Integral

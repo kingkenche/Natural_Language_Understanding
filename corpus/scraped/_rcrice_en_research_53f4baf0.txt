@@ -1,0 +1,47 @@
+Research | Rishabh Centre for Research and Innovation in Clean Energy (RCRICE) | IIT Jodhpur
+Nanofiltration Membranes for Energy-Efficient Water Treatment
+Funding Agency: Seed grant, IIT Jodhpur
+Brief Description: Dr. Kirti Sankhala leads this project, supported by a seed grant from IIT Jodhpur. The project, funded at 25 Lakhs over 3 years (2023-2026), focuses on the development of nanofiltration membranes to enhance energy efficiency in water treatment processes.
+Electro desalting of Water-in-Oil Emulsion: Experiment, Design, and Scale-Up to Smart Electro coalescer
+Funding Agency: SERB (Science and Engineering Research Board)
+Brief Description: This project, led by the Principal Investigator (PI) and funded by SERB, focuses on electro desalting of water-in-oil emulsion. The research involves experimental studies, design considerations, and scaling up the process to develop a smart electro coalescer for efficient separation of water from oil.
+Improving the Efficiency of Water Removal from Water-in-Oil Emulsion: Electro coal essence of Surfactant/Polymeric Emulsion
+Funding Agency: IITJ (Indian Institute of Technology Jodhpur)
+Brief Description: This project, funded by IITJ and led by the Principal Investigator (PI), aims to enhance the efficiency of water removal from water-in-oil emulsion. The focus is on utilizing electro coalescence of surfactant/polymeric emulsion for improved separation of water and oil phases.
+Sewage Water Management at Jodhpur Military Station
+Funding Agency: Military Station
+Brief Description: Led by the Principal Investigator (PI) and funded by the Military Station, this project focuses on sewage water management at the Jodhpur Military Station. The research aims to develop effective strategies and systems for the efficient management of sewage water in the military facility.
+Novel 2-D Nanostructures Involving Borophene and Clay, Their Organic: Inorganic Hybrids, and Heterostructures for Optoelectronics, Magneto-Optics, Photo/Electro catalysis, and Water Purification
+Funding Agency: IITJ-UB (Indian Institute of Technology Jodhpur - University of Bordeaux)
+Brief Description: This collaborative project between IITJ and the University of Bordeaux (UB) focuses on the synthesis and study of novel 2-D nanostructures involving borophene and clay. The research, funded by IITJ-UB, explores the development of organic: inorganic hybrids and heterostructures for applications in optoelectronics, magneto-optics, photo/electro catalysis, and water purification.
+Hybrid Organic-Inorganic Membranes with Tunable Pore Sizes for Energy-Efficient Separation Technologies
+Funding Agency: DST India
+Brief Description: This project, led by Dr. Kirti Sankhala under the DST INSPIRE faculty award, aims to develop hybrid organic-inorganic membranes with adjustable pore sizes and physio-chemical properties. The project, funded at 35 Lakhs over 5 years (2023-2028), focuses on advancing membrane technology for energy-efficient separation processes.
+Thermal Energy Storage
+Development of Low-Cost Hybrid Nanoparticles-Based Phase Change Materials for Efficient Thermal Energy Storage
+Funding Agency: DST-SERB (Department of Science and Technology - Science and Engineering Research Board)
+Brief Description: This project, funded by DST-SERB, aims to develop low-cost hybrid nanoparticles-based phase change materials for efficient thermal energy storage. The research spans from 2023 to 2026 with a focus on advancing thermal energy storage technologies.
+Intelligent Approaches for Incipient Fault Detection and Remaining Life Estimation of PMSM
+Funding Agency: SERB (Science and Engineering Research Board)
+Brief Description: This project, supported by SERB and spanning from 2024 to 2026, focuses on developing intelligent approaches for the early detection of faults and estimation of remaining life in Permanent Magnet Synchronous Motors (PMSM). Leveraging advanced algorithms and machine learning techniques, the project aims to create a robust system capable of identifying incipient faults in PMSMs, providing early warnings to prevent potential failures. Additionally, the research seeks to implement methods for accurately estimating the remaining useful life of PMSMs, thereby enhancing predictive maintenance strategies. The overarching goal is to improve the reliability, efficiency, and longevity of PMSMs through cutting-edge intelligent approaches in fault detection and life estimation.
+Sulphur Nanoparticles Reinforced Hierarchical Assemblies of Carbon Nanotubes for Efficient Lithium-Sulphur Batteries
+Funding Agency: DST (Department of Science and Technology)
+Brief Description: Funded by DST, this project focuses on developing efficient lithium-Sulphur batteries. The approach involves incorporating Sulphur nanoparticles into hierarchical assemblies of carbon nanotubes to enhance the performance and efficiency of lithium-Sulphur batteries.
+Development of High-Performance Photo-Rechargeable Batteries
+Funding Agency: IIT Jodhpur
+Brief Description: Conducted at IIT Jodhpur, this project aims to develop high-performance photo-rechargeable batteries. The research focuses on advancing battery technology with a particular emphasis on photo-rechargeable capabilities.
+Large Scale Synthesis of Freestanding 2D Borophene Atomic Sheets and its Hybrids for Conducting Tapes
+Funding Agency: SERB (Science and Engineering Research Board)
+Brief Description: This project, funded by SERB, focuses on the large-scale synthesis of freestanding 2D borophene atomic sheets and their hybrids. The primary objective is to develop conducting tapes using borophene and its hybrids, contributing to advancements in materials science and electronics.
+Phase-Specific Synthesis of Borophene for Lightwave Electronics & Energy Devices
+Funding Agency: IITJ (Indian Institute of Technology Jodhpur)
+Brief Description: This project, funded by IITJ, focuses on the phase-specific synthesis of borophene for applications in light wave electronics and energy devices. The research aims to develop borophene-based materials with tailored properties suitable for advanced electronic and energy applications.
+Development of a Prosumer Driven Integrated SMART Grid
+Funding Agency: DST (Department of Science and Technology)
+Brief Description: Completed and funded by DST, this project focused on the development of a prosumer-driven integrated SMART Grid. The project aimed to create a technologically advanced grid system that incorporates both producers and consumers (prosumers) and utilizes SMART technologies for efficient energy management and distribution.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 18 Mar 2026 - 05:23 PM

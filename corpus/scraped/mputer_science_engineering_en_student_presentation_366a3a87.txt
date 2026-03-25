@@ -1,0 +1,53 @@
+Students Presentation | Computer Science & Engineering | IIT Jodhpur
+Aggregation Cross-Entropy for Sequence Recognition
+Few-Shot Class-Incremental Learning by Sampling Multi-Phase Tasks
+ClusterFit: Improving Generalization of Visual Representations
+KAT: A Knowledge Augmented Transformer for Vision-and-Language
+Quantum Graph Neural Network
+Anggy Eka Pratiwi
+Decoupled Knowledge Distillation
+Hate begets Hate: A Temporal Study of Hate Speech
+Unsupervised Visual Representation Learning by Tracking Patches in Video
+Revisiting Knowledge Distillation via Label Smoothing Regularization
+Deep learning for fake news detection on Twitter regarding the 2019 Hong Kong protests
+Sketchformer: Transformer-based Representation for Sketched Structures
+GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Model
+Shraban Kumar Chatterjee
+Learning Efficient Representations for Fake Speech Detection
+Learning RoI Transformer for Oriented Object Detection in Aerial Images
+Sub-Word Embeddings for OCR Corrections in Highly Fusional Indic Languages
+DocFormer: End-to-End Transformer for Document Understanding
+Multi-Label Zero-Shot Learning with Structured Knowledge Graphs
+Barlow Twins: Self-Supervised Learning via Redundancy Reduction
+Blockchain-enabled feedback-based combinatorial double auction for cloud markets
+Bootstrap your own latent: A new approach to self-supervised Learning
+Free Lunch for Few-shot Learning: Distribution Calibration
+Masksembles for Uncertainty Estimation
+Learning Hierarchical Attention for Weakly-supervised Chest X-Ray Abnormality Localization and Diagnosis
+Meta Transfer Learning for Few-Shot Learning
+DBA: Distributed Backdoor Attacks against Federated Learning
+Informative Dropout for Robust Representation Learning: A Shape-bias Perspective
+Federated Optimization in Heterogeneous Networks
+Prediction of Heart Disease using Different KNN Classifier
+Dhriti Prasanna Paul
+Adversarial Attack on Sentiment Analysis
+Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks
+Unsupervised Meta-Learning for Few-Shot Image Classification
+Boosting Few-Shot Visual Learning with Self-Supervision
+A Community Detection Method for Social Network Based on Community Embedding
+Anggy Eka Pratiwi
+Language Models are Few-Shot Learners
+Srigowri M V
+CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents
+Polarity Based Sarcasm Detection using Semigraph
+Swapnil S. Mane
+Deep Mutual Learning
+PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization
+Yash Kumar Singhal
+Attention is all you need
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 01:10 PM

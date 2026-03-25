@@ -1,0 +1,163 @@
+Curriculum for B.Tech. Programs
+Indian Institute of Technology Jodhpur
+B. Tech.  Systems Science (Computer Science Engineering)
+Cat.  Course Title
+H  ME121 System Exploration--Workshop
+H  EE121 Basic Electronics Engineering
+H  ME122 Engineering Mechanics
+B  MA121 Complex Analysis & Differential
+C  CS121 Data Structures and Algorithms
+L  HS211 Rights, Responsibilities, Law and
+S  PE121 Physical Exercise II
+Cat.  Course Title
+H  ME111 System Exploration--Drawing
+H  CS111 Computer Programming
+B  PH111 Electromagnetism and Optics
+B  MA111 Linear Algebra and Calculus
+C  CS112 Discrete Mathematics
+L  HA111 English / Foreign Language
+S  PE111 Physical Exercises I
+H  EE221 Basic Electrical Engineering
+B  ME211 Thermodynamics
+B  CY211 Chemistry
+C  EE213 Signals and Systems
+C  CS212 Algorithm Design and Analysis
+L  HS211 Economics
+C  SS311 OR Optimization
+C  CS312 Software Engineering
+C  CS313 Computer Organization and
+C  SS312 Systems Design
+P  SS398 B. Tech. Project
+L  HS311 Psychology
+E  Elective 1
+E  Elective 2
+E  Elective 3
+P  SS498 B. Tech. Project
+L  HS411 Leadership
+H  EE222 Digital Logic and Design
+B  MA221 Probability Statistics and Random
+C  CS222 Operating Systems
+C  SS221 Systems thinking and Systems
+P  SS299 B. Tech. Project
+L  HS221 Management
+C  SS321 Dynamical Systems
+C  SS322 Socio-Economic Network and
+C  CS321 Computer Networks
+C  CS322 Programming Languages &
+P  SS399 B. Tech. Project
+L  HS321 Writing in Newspaper Column
+E  Elective 4
+E  Elective 5
+E  Elective 6
+P  SS499 B. Tech. Project
+L  HS421 Development of India
+Course Category Title
+Games & Sports/Social Service
+GRAND TOTAL  256
+B. Tech. Systems Science (Electrical Engineering)
+Cat.  Course Title
+H  ME111 System Exploration--Drawing
+H  CS111 Computer Programming
+B  MA111 Linear Algebra and Calculus
+B  PH111 Electromagnetism and Optics
+C  EE111 Physics of Semiconductor Devices
+L  HS111 English / Foreign Language
+S  PE111 Physical Exercises I
+H  EE221 Basic Electrical Engineering
+B  CY211 Chemistry
+B  ME211 Thermodynamics
+C  EE212 Circuit Theory
+C  EE213 Signals and Systems
+L  HS211 Economics
+C  SS311 OR Optimization
+C  SS312 Systems Design
+C  EE313 Communication System
+C  EE314 Analog Electronics
+P  SS398 B.Tech. Project
+L  HS311 Psychology
+E  Elective 1
+E  Elective 2
+E  Elective 3
+P  SS498 B.Tech. Project
+L  HS411 Life Skill 7
+Cat.  Course Title
+EE121 Basic Electronics Engg.
+H  ME121 System Exploration--Workshop
+H  ME122 Engineering Mechanics
+B  MA121 Complex Analysis & Differential
+EE122 Electromagnetic Theory
+L  HS121 Rights, Responsibilities, Law and
+PE121 Physical Exercise II
+EE221 Electrical Machines
+B  MA221 Probability Statistics and Random
+EE222 Digital Logic and Design
+SS221 Systems Thinking and Systems
+SS299 B.Tech. Project
+L  HS221 Management
+SS321 Dynamical Systems
+SS322 Socio-Economic Network and
+EE322 Digital Signal Processing
+EE324 Control Systems
+SS399 B.Tech. Project
+L  HS321 Writing in Newspaper Column
+SS499 B.Tech. Project
+L  HS421 Life Skill 8
+GRAND TOTAL   250
+Course Category Title
+Games & Sports/Social Service
+B. Tech. Systems Science (Mechanical Engineering)
+Cat.  Course Title
+H  ME111 System Exploration- Drawing
+H  CS111 Computer Programming
+B  MA111 Linear Algebra and Calculus
+B  CY211 Chemistry
+C  Engineering Materials
+L  HS111 English/ Foreign Language
+S  PE111 Physical Exercises I
+H  EE221 Basic Electrical Engineering
+B  PH111 Electromagnetism and Optics
+B  ME211 Thermodynamics
+C  ME213 Mechatronics
+C  ME214 Mechanics of Solids
+L  HS211 Economics
+C  SS311 OR Optimization
+ME312 IC Engines
+C  ME313 Machining Science
+C  SS312 Systems Design
+P  SS398 B.Tech. Project
+L  HS311 Psychology
+E  Elective 1
+E  Elective 2
+E  Elective 3
+P  SS498 B.Tech. Project
+L  HS411 Leadership
+Cat.  Course Title
+H  ME121 System Exploration- Workshop
+H  EE121 Basic Electronics Engineering
+H  ME122 Engineering Mechanics
+B  MA121 Complex Analysis & Differential
+C  ME123 Fluid Mechanics
+L  HS121 Rights, Responsibility, Law &
+S  PE121 Physical Exercise II
+H  ME221 Manufacturing Technology
+B  MA221 Probability Statistics and Random
+C  SS221 Systems Thinking and Systems
+C  ME223 Heat and Mass Transfer
+P  SS298 B.Tech. Project
+L  HS221 Management
+C  SS321 Dynamical Systems
+C  SS322 Socio-Economic Network and
+C  ME321 Refrigeration and Air Conditioning  3-0-3
+C  ME322 Turbomachinery
+P  SS399 B.Tech. Project
+L  HS321 Writing in Newspaper Columns
+E  Elective 4
+E  Elective 5
+E  Elective 6
+P  SS499 B.Tech. Project
+L  HS421 Development of India
+GRAND TOTAL   260
+Course Category Title
+Games & Sports/Social Service
+Note: The L-T-P-C calculations will be as per the B.Tech. regulations for students enrolled
+before and after July 2014. This document will be updated for final credit calculations soon.

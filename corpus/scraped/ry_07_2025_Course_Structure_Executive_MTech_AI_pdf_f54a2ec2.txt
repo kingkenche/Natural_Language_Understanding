@@ -1,0 +1,97 @@
+Tentative Course Structure for
+Executive M. Tech. AI
+List of Compulsory Courses
+1. Bridge Course on DSA
+2. Optimization for Data Science (2 credit)
+3. Artiﬁcial Intelligence (3 credit)
+4. Advanced Data Structures and Algorithms (2 credit)
+5. Machine Learning (3 credit)
+6. ML-Ops (1 credit)
+7. Deep Learning (3 credit)
+8. DL-Ops (1 credit)
+9. Core Bucket (Advanced Artiﬁcial Intelligence / Autonomous Systems) (3 credit)
+10. Technical Communication (Non-graded) (1 credit)
+11. Ethics and Professional Life (Non-graded) (1 credit)
+12. System Engineering and Project Management (Non-graded) (1 credit)
+13. Intellectual Property (Non-graded) (1 credit)
+14. Major project (16 credit)
+List of Elective Courses
+Please refer to the list below for the elective courses which may be oﬀered by IIT Jodhpur.  A total 6
+program electives (18 credits) and 2 open electives need to be completed.
+Courses oﬀered by Department of Computer Science and Engineering
+Advanced Artiﬁcial Intelligence
+Advanced Computer Graphics
+Advancements in Computer Vision
+Advanced Human-Machine Interaction
+Algorithms for Big Data
+Computational Learning Theory
+Crowd-sourcing and Human Computing
+Digital Image Analysis
+Edge and Fog Computing
+Ethics, Policy, Law and Regulation in AI
+Graph Theory and Applications
+Graph Theoretic Algorithms
+Introduction to AR and VR
+Machine Learning with Big Data
+Medical Image Analysis
+Natural Language Processing
+Neuromorphic Computing and Design
+Principles of Biological Vision
+Reliability Engineering and Life Testing
+Resource Constrained Artiﬁcial Intelligence
+Scalable Machine Learning
+Selected Topics in AI - I/II/III
+Selected Topics in CS - I/II/III
+Selected Topics in ML - 1/2/3
+Social Network Analysis
+Social Networks (700)
+Software and Data Engineering
+Security and its Applications
+Vehicular Ad-hoc Networks
+Virtualization and Cloud Computing
+Advanced Data Structures and Algorithms (Fractal 3)
+Courses oﬀered by Department of Electrical Engineering
+Adaptive Signal Processing
+Advanced Digital Signal Processing
+Digital Signal Processing and Applications
+Cyber Physical System Modelling and Simulation lab
+Digital Video Processing
+Introduction to Haptics
+Introduction to Cyber-Physical Systems
+Machine Learning for Communication
+Introduction to Smart Grid
+Speech and Audio Signal Processing
+Statistical Decision Theory
+Courses oﬀered by Department of Mechanical Engineering
+Planning and Decision Making for Robots
+Courses oﬀered by Department of Bioscience and Bioengineering
+Courses oﬀered by Department of Mathematics
+Advanced Topics in Computational PDE
+AI for Finance
+Linear Algebra with Data
+Linear Algebra for Data Science
+Computational Game Theory
+Introduction to Data Science
+Courses oﬀered by Department of Physics
+Statistics for Data Science
+Mathematical modeling and simulations
+Time Series Analysis
+Quantum Information Processing
+Quantum Cryptography and Coding
+Courses oﬀered by IDRP Digital Humanities
+Analysis of Social Media Networks
+Human Factors in Interaction Design
+Digital Methods and Tools
+Courses oﬀered by School of AIDE
+Introduction to Financial Engineering
+Computational Cognition & Behavior Modelling
+Fundamentals of Digital Humanities: Fractal - 2 (Data
+and Knowledge representations)
+Introduction to Game Theory
+Machine Learning for Epidemiology
+Nonlinear Dynamics and Chaos
+Optimization in ML
+Special Topics in Data Science - 1/2/3
+Courses oﬀered by School of Management and Entrepreneurship
+AI for Risk Analysis
+Risk Management Analytics

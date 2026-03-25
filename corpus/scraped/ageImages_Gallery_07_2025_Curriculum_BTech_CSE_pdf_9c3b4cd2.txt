@@ -1,0 +1,477 @@
+Indian Institute of Technology Jodhpur
+2nd year B.Tech Computer Science &
+2nd year B.Tech Computer Science & Engineering
+Traditional curriculum in Computer Science and Engineering (CSE) has focused on two major areas, i.e., theory
+and  systems  (database,  computer  hardware,  and  operating  systems).  With  the  advent  of  the  era  of  Edge
+Computing,  Cloud  Computing,  Security,  AI  and  Big  Data,  the  discipline  is  being  transformed  by  the
+incorporation of new emerging technologies. The discipline is becoming instrumental in solving major real-world
+problems  faced  by  modern  society  such  as  healthcare,  security,  sustainability,  and  socio-economic  challenges.
+There is a need to revamp the B.Tech program in CSE so as to prepare students to tackle problems which are
+fundamentally  multidisciplinary  in  nature.  This  would  improve  IIT  Jodhpur’s  participation  and  contribution
+towards  providing  solutions  for  global  challenges.  IIT  Jodhpur  can  become  a  leading  source  of  technology
+solutions for self-reliant India.
+2. Objectives of the Program
+The  objective  of  the  B.Tech.  program  in  Computer  Science  and  Engineering  (CSE)  at  IIT  Jodhpur  is  to  equip
+students to undertake careers involving challenges of working on real-world problems, while innovating with
+their core competency in computer science. The curriculum gives due importance to the foundational aspects of
+computer  science,  as  well  as  develops  in  students  the  necessary  engineering  skills  for  addressing  emerging
+technological  challenges.  The  program  offers  flexibility  in  choosing  elective  courses  for  widening  the
+understanding  of  emerging  concepts  and  processes  in  different  domains.  Students  can  opt  for  specializations
+which provide a coherent and increasingly sophisticated understanding so as to enable them to pursue preferred
+career  opportunities.  The  program  will  produce  a  well  prepared  and  well-motivated  workforce  to  undertake
+careers in research and industry involving innovation, knowledge creation, engineering, and entrepreneurship.
+3. Expected Graduate Attributes
+After completing this program, a student will be able to develop an ability to:
+1.  Apply appropriate knowledge in Computer Science and Engineering to identify, formulate, analyze, and solve
+complex engineering problems in order to reach substantive conclusions.
+2.  Self-learn and engage in use of advanced computing tools.
+3.  Develop sustainable computing solutions in broader economic, societal and environmental contexts.
+4.  Think  critically,  creatively  and  analytically  as  a  computer  scientist,  whilst  being  able  to  work  effectively,
+independently and collaboratively as part of a team in research, technology development and entrepreneurial
+5.  Apply evolving ethics and privacy laws across various domains and territories.
+6.  Effectively communicate engineering concepts and ideas to peers in written or oral forms.
+7.  Be motivated to engage in independent and life-long learning in the broadest context of evolving technological
+4. Learning Outcomes
+The student will have the ability to:
+1.  Abstract out computational models based on mathematical rigor.
+2.  Critically  analyse  and  appreciate  emerging  and  applied  fields  of  computer  science  owing  to  deeper
+understanding and strong foundations in theoretical computer science.
+3.  Develop  robust,  secure,  and  efficient  software  systems  that  would  involve  software  engineering,  data
+structures, and algorithm design paradigms.
+4.  Apply  different  concepts  including  digital  design,  computer  architecture,  operating  systems,  databases,
+networking, and applications for building solutions for real-world problems.
+5.  Design and implement smart, intelligent, and user friendly interfaces for computer applications.
+6.  Analyse,  design,  develop  and  deploy  computer  based  systems  in  collaboration  with  domain  experts  for
+meeting societal needs in areas such as healthcare, safety, environment, law enforcement, transportation, etc.,
+by exploiting tools and techniques of Big data, AI and project management.
+7.  Become proficient in some of the specialized areas such as Computer Vision, Augmented Reality, Internet of
+Things, Natural Language Understanding, and Intelligent Communication.
+8.  Communicate effectively by comprehending, documenting, making effective presentations and  exchanging
+5. New Skill Sets Targeted
+1.  Designing user-centric human-machine interfaces
+2.  Designing end-to-end socio-digital reality systems
+3.  Developing sustainable computing solutions
+4.  Building secure, intelligent, and trustable systems
+5.  Designing and synthesizing digital systems for solving industrial problems
+6. Topic Clouds and Mapping of Topic Clouds with Proposed Courses
+Table 1. Topics and Mapping of Topic with Courses
+Computing  Paradigms,  Syntax,  Semantics  Specification,
+Attribute  Grammar,  Imperative  Programming,  Procedures,
+Encapsulation, Reuse, Functional Programming, Polymorphic
+Data Types, Recursion, Lambda Calculus, Logic Programming,
+Horn  Clauses,  Backtracking,  Concurrent  Programming,
+Abstract Data Types, Linear Data Structures, Non Linear Data
+Structures,  Stack,  Queue,  Link  List,  Heap,  Sorting,  Hashing,
+Algorithm Analysis, Graph, Tree
+Algorithms,  Dynamic  Programming,  Linear  Programming,
+Universal  Hashing,  Approximation  Algorithms,  Randomized
+Discrete Structures, Logics, Set, Graph and Trees, Deterministic
+Finite  Automata,  Non-deterministic  Finite  Automata,
+PushDown  Automata,  Context  Free  Grammar,  Turing
+Machine, Lexical and Syntax Analysis, Parsing
+Computability,  Decision  Trees
+Complexity, Time Complexity, Space Complexity, Complexity
+of Counting and Randomization
+Graph  algorithms,  Directed  and  Undirected  graph,  Planar
+graph,  Graph  coloring,  Hamiltonion  and  Eulorian  graph,
+Bipartite graphs, Trees.
+NP-Hard  problems,  Bounded  Search  Tree,
+Compression, Randomized Methods, Kernelization, Sunflower
+Lemma,  Crown  Decomposition,  Expansion  Lemma,
+Persistence DS, Retroactive DS, Geometric DS, DS for Moving
+Data,  Dynamic  Optimality,  Cache-oblivious  DS,  van  Emde
+Boas, Sketching, String DS, Low Memory DS, Dynamic Graphs
+Euclidean  TSP,  Metric  TSP,  FPTAS,  PTAS,  Primal-Dual
+Schema,  Dual  Fitting,  Embeddings,  Sparsest  Cut,  Random
+Hyperplanes, Hashing, Makespan
+Randomized  Complexity  Classes,  Probabilistic  Analysis,
+Markov  Chain,  Random  Walk,  Randomized  Graph
+Algorithms,  Randomized  Sorting  and  Searching,  Markov,
+Computational  Model  and  Complexity  Classes,  NP,  NP
+Completeness,  Complexity  Issues  in  Cryptography,  Lower
+Bounds,  Algebraic  Computational  Model,  Levin’s  Theory,
+Hardness  Amplification,  Logic  in  complexity  theory,  Circuit
+Complex  Numbers,  Complex  Vector  Spaces,  Quantum
+Algorithms,  Quantum  Programming  Languages,  Quantum
+Information  Theory,  Deutsch’s
+Algorithm,  Simon’s  Periodicity  Algorithm,  Grover’s  Search
+Algorithm,  The  Deutsch–Jozsa  Algorithm,  Shor’s  Factoring
+Algorithm, Quantum Assembly Programming, Quantum Key
+Exchange, Quantum Teleportation, von Neumann Entropy
+Streaming  Algorithms,  Stream  mining  using  Clustering,
+Massive  Data  Clustering,  Data  Stream  Classification,
+Distributed  Mining  of  Streaming  Data,  Change  Diagnosis,
+Forecasting  on  Stream,  Dimensionality  Reduction
+Introduction  to  HDL,  Design  flow,  Number  representation,
+Arithmetic  circuits,  Design  and  Analysis  of  Synchronous
+circuits,  Design  of  Finite  State  Machines,  CMOS  Technology,
+Programmable Logic Devices, CAD
+CPU,  Memory,  Processor,  Instruction  set  Architecture,  I/O,
+ALU, Bus Architecture, Cache management, Performance
+Embedded  system  design,  Architectures  of  embedded
+processors,  Hardware-Software  Co-design,  ARM  Cortex  M3,
+Distributed  Embedded  Architectures,  Real  time  scheduling
+algorithms, Multi-rate systems
+for  Embedded  Systems,  Real
+VLSI  design  flow,  hardware  modelling  principles,  hardware
+description,  Behavioural  synthesis,  logic  optimization  and
+synthesis,  Chip  architectures,  standard  cells  and  FPGA,
+Synthesis tools, layout synthesis
+Processes  Management,  Process  Coordination,  Deadlock,
+Memory  Management,  Storage  Management,  Protection  and
+Database  Architectures,  Data  Granularity,  ER  Model,  EER
+Model,  Relational  Model,  Relational  Algebra,  Relational
+Calculus,  SQL,  Schema,  Query,  Data  Definition,  Data
+Manipulation,  Data  Retrieval,  Views,  Normalization,
+Functional  Dependency,  Transactions,  Schedules,  ACID
+Serializability,  Deadlock  Prevention,  Locking  Protocols,
+Timestamp Protocols, Deadlock Detection, Recovery Protocols,
+Query Optimization, Hashing, Indexing
+Software  Development  Life  Cycle,  Software  Engineering
+Process Model, Software Design, UML, Design Pattern, Project
+Management,  Cost  Analysis,  UI  Design,  Service  Oriented
+Architecture,  Software  Quality,  Risk  Analysis,  Agile
+Methodologies, Software Architecture
+Software  Testing,  Quality  Engineering,  Testing  Process,
+Automatic  Testing,  Unit  Testing,  Defect  Prevention,  Process
+Improvement,  Quantifiable  Quality  Improvement,  Quality
+Model  and  Measurements,  Defect  Classification,  Reliability
+Distributed Systems, Centralized Systems, Data Transparency,
+Data  Fragmentation,  Data  Allocation,  Security,  Semantic
+Integrity,  Query  Decomposition,  Query  Localization,  Query
+Ordering,  Query  Optimization,  Transaction  Management,
+Concurrency  Control,  Deadlock  Management,  Reliability,
+Fog  Computing,  Internet  of  Things  and  Analytics,  Edge
+Computing,  Distributed  computing  and  system  design,
+architecture, contemporary cloud framework, distributed data
+&  processing  management,  middleware  design  issues  and
+challenges, Edge & Fog for AI-driven applications
+Edge and Fog
+Concurrency,  events  &  ordering,  distributed  file  systems,
+distributed  disk  management,  fault  tolerance,  microkernel,
+operating system kernel
+Understanding Software & Evolution, Software Maintenance,
+Software Reuse, Reverse engineering levels & techniques
+Cyber Security Vulnerabilities and Cyber Security Safeguards,
+Securing  Web  Application,  Services  and  Servers,  Intrusion
+Detection and Prevention, Firewalls, Cyberspace and the Law,
+reference  model,  Packet
+Performance metrics, Socket programming, Email, FTP, Telnet,
+SSH,  DNS,  TCP,  UDP,  Transmission,  Flow  and  Congestion
+Control,  Tunneling,  Internet  Protocol  and  its  operation,
+Routing  algorithms,  ICMP,  ARP,  RARP,  DHCP,  IPv6,  RIP,
+OSPF, Advanced Internetworking, Multicast routing, framing,
+medium  access  mechanism,  Public  key  and  private  key
+cryptography,  Firewalls, SDN Overview.
+Overview  about  MANETs,  VANETs,  WSNs  and  WMNs,
+Modulation  techniques  at  PHY  layer,  Fading  mitigation
+techniques,  MAC  protocols  for  MANETs,  Error  correcting
+codes, distributed wireless routing algorithms, transport level
+mobility management, 5G overview, LPWAN, Bluetooth
+Digital  Trust,  Digital  Asset,  Digital  Transactions,  Distributed
+Ledger  Technology,  Digital  Signature,  Cryptocurrency,
+Bitcoin,  Hyperledger,  Ethereum  Interaction,  Blockchain-as-a-
+service, Blockchain Use Cases, Blockchain Security
+Cooperative    Vehicular Safety  Applications, Vehicular
+Mobility Modeling, Physical Layer Considerations for
+Vehicular Communications, MAC Layer of Vehicular
+Communication Networks, VANET Routing protocols,
+Emerging VANET Applications, Standards and Regulations
+routing  protocols,  Mobility
+Overview of wireless systems, Multiplexing, Link adaptation,
+management, Cellular Technologies, Overview of LTE and 5G
+Cellular  Networks,  5G  Architecture,  RAN  and  dynamic
+CRAN,  Mobility  management  and  Network  slicing  in  5G,
+Pervasive  computing,  Context  aware  sensor  networks,
+Localization,  Android  architecture  and  Overview,  Body  area
+4G  LTE  networks,  From  4G  to  5G,  5G  overview,    core,
+signalling, 5G mobile edge and fog computing, application, 5G
+vs  mm-wave  WiFi,  India’s  5G  policy  and  vision,  6G  vision,
+Technology  Mobile and
+Networking basics, switching architecture, SDN architectures,
+OpenFlow,  Network  function  virtualization,  Emerging  SDN
+models, Data center networking
+Basic symmetric-key encryption, Message integrity, Public key
+cryptography, Digital signatures ,Protocols
+Bayes  Decision  Theory,  Regression,  Bias  variance,  Maximum
+Likelihood  Estimation,  Bayesian  Parameter  Estimation,
+Decision  Tree,  Random  Forest,  Artificial  Neural  Network,
+Clustering,  k-means,  SVM,  Feature  Selection,  Dimensionality
+Uninformed  Search  Strategies,  Informed  Search  Strategies,
+Local  Search  Algorithms,  Hill  Climbing,  Constraint
+Satisfaction Problems, Backtracking, Adversarial Search, Min-
+Max  algorithms,  Propositional  Logic,  Reasoning  Patterns,
+First-order logic, Syntax, Semantics, Q-value, Policy,
+Search  Engine  Architecture,  Retrieval  Models,  Performance
+Evaluation,  Text  Categorization,  Text  Clustering,  Web
+Information Retrieval, Structured Document Retrieval
+Visual World, Geometry, Lights and Optics, Tracking,
+Motion, Depth, Devices and tools
+Geometric primitives, Clipping, Viewing, Rendering,
+Animation, Shading, Coloring, OpenGL
+Eye  and  early  vision,  Reasoning  systems,  Late  vision,  visual
+attention,  Cognitive  architectures,  Knowledge  representation
+and  learning,  Neural  networks  for  vision,  Applications  in
+Image  formation  and  transformations,  Camera  calibration,
+Image  restoration,  Spatial  and  Wavelet-based  processing,
+Epipolar  Geometry,  SfM,  Optical  flow,  Key-point  detection,
+Feature  description  and  matching,  Deep  learning  for  vision,
+AR and VR
+Data  storage  methods,  data  access  methods,  analysis,
+representation,  visualization,  visual  storytelling,  Dashboard,
+Neural  Networks,  Gradient  Descent,  Optimization,
+Regularization, Autoencoder, Convolutional Neural Network,
+Recurrent  Neural  Network,  LSTM,  Deep  Generative  Models,
+Generative Adversarial Network (GAN), Deep Belief Network,
+Deep  Convolutional  GAN,  Variational  Autoencoder,
+Representation Learning, Unsupervised Pre-training, Transfer
+Learning,  Distributed  Representation,  Domain  Adaptation,
+Neural Language Model, Adversarial Learning
+Kernel Machines, Variants  of Support Vector  Machines, PAC
+Theory,  Boosting,  Graphical  Models,  Structural  Predictions,
+Deep Reinforcement Learning, Space Coding
+Decision-making,  Utility  Theory,  Utility  Functions,  Decision
+Networks, Sequential Decision Problems, Partially Observable
+MDP, Game Theory, Reinforcement Learning, Generalization,
+Policy  Search,  Hidden  Markov  Model,  Kalman  Filter,
+Situation  Calculus,  Semantic  Networks,  Description  Logic,
+Planning  graphs,  Partial-order  Planning,  Conditional
+Planning,  Continuous  Planning,  Multi-agent  Planning,
+Hierarchical  Task  Network  Planning,  Non-deterministic
+Neuromorphic  Engineering,  Neuroanatomy  of  human  brain,
+Neuron  models,  Plasticity  rules,  Learning  rules,  Spiking
+Implementation,  Synaptic  emulation,  Electronic  synapses,
+implementation of synaptic circuits, Synaptic programming
+Accuracy-explainability  tradeoff,  Interpretability  problem,
+Reasoning, Attention and Saliency, Interpretable AI, Prediction
+Consistency,  Adversarial  Robustness,  Trustworthy  AI,
+Integrity, Reproducibility, Accountability, Bias-free AI, Ethics
+Fuzzy Computing, Fuzzy Systems, Neural Computing, Genetic
+Algorithms,  Rough  Sets,  Knowledge  Representations,
+Fuzzification,  Defuzzification,  Swarm  Intelligence,  Hybrid
+Models, Neuro-fuzzy systems, Rough-neural computing
+Biological Signals, Biomedical Imaging Modalities, ECG, NMR
+spectroscopy,  electron  microscopy,  MRI,  and  X-Ray  Images,
+Visualization,  Reconstruction,  Restoration,  Clustering,  Graph
+Partitioning, Deep Learning for Bio-image
+Biometric  Devices,  Biometric  System  Design,  Biometric  Data
+Analysis,  Face  Recognition,  Fingerprint  Matching,  Signature
+Computational complexity of AI models, Prediction accuracy,
+Numeric  accuracy,  Precision,  Memory  footprints,  Edge  AI,
+Memory  Optimization  of  Models,  Hardware  accelerators  for
+Edge  AI,  Vision  Processing  Unit,  Streaming  Hybrid
+Architecture Vector Engine, Open Neural Network Exchange
+Word  representation,  NLP  tasks,  Seq2Seq  model,  Question
+Answering,  Sentiment  Analysis,  Dialogue  system,  Machine
+Translation,  natural  language  generation  Interpretability,
+Spoken  language  technology,  dialog  and  conversational
+systems, automatic speech recognition, speech synthesis, affect
+detection, dialogue management.
+Graphs,  Network  Models,  Network  Data  Generation,
+Structural Properties, Link Prediction, Community Detection,
+Information Cascade, Small World Phenomenon, Homophily,
+Structural  Balance,  Components,  Network  Evolution,  Multi-
+7. Course Categories, Credit Distribution and Credit Structure of B.Tech. Programmes
+Table 2. Proposed Course Categories and credit distribution in the proposed B.Tech. Programmes
+Total  Credit  Total
+Institute Core (I)
+Programme Core (P)
+Programme Compulsory (PC)
+Programme Electives (PE)
+B.Tech. Project (PP)
+Open Electives (OE)
+Engineering Science Core (EC)
+Engineering Science Elective (EE)
+Design/Practical Experience (ND)
+Total Graded + Non-Graded
+8. Credit Structure of B.Tech. Programmes
+Table 3. Credit Structure for B.Tech. Programmes (Up 6000 Level)
+Distribution of contact and beyond contact
+1 hour of Lecture
+1 hour of Tutorial
+1 hour of Lab/Project
+#Contact hour for a project refers to the involvement of students in the laboratory, discussion, etc.
+9. List of Programme Compulsory Courses
+Table 4. Programme Compulsory Courses
+Contact Hours  Credit
+Data Structure and Algorithms
+Maths for Computing
+Design and Analysis of Algorithms
+Digital Systems LAB
+Principles of Programming Languages
+Randomized Algorithms (B1)
+Approximation Algorithms (B1)
+Distributed Algorithms (B1)
+VLSI Design (B2)
+High-Level Synthesis (B2)
+Embedded Systems (B2)
+10. Area-wise Programme Elective Courses
+Table 5. Stream-wise Programme Electives Courses
+1.  Randomized Algorithms (700)
+2.  Approximation Algorithms (700)
+3.  Complexity Theory (400)
+4.  Advanced Data Structures (400)
+5.  Quantum Computing (400)
+6.  Graph-theoretic Algorithms (700)
+7.  Parameterized Complexity (700)
+8.  Optimization (Math) (400)
+1.  High-level Synthesis (EE/CS)(700)
+2.  Embedded Systems (EE)
+3.  VLSI Design (EE)
+4.  Hardware Software Co-Design (CS) (700)
+1.  Software Testing and Quality Assurance (700)
+2.  Distributed Database Systems (700)
+3.  Distributed Systems (2-0-0) (400)
+4.  Mobile and Pervasive Computing (700)
+5.  Virtualization and Cloud Computing (700)
+6.  Compiler Design (700)
+7.  Software Maintenance (400)
+1.  Introduction to Wireless Ad hoc Network (700)
+2.  5G Mobile Networks(CS)(700)
+3.  Software Defined Networks (CS)(700)
+4.  Intelligent Radio Networks (EE) (700)
+5.  Data Communication Networks (EE) (300)
+6.  Cryptography and Network Security (CS/EE) (400)
+Introduction to Blockchain (700)
+1.  Deep Learning (400)
+2.  Artificial Intelligence (400)
+3.  Advanced Machine Learning
+4.  Dependable Artificial Intelligence (400)
+5.  Information Retrieval (700)
+6.  Autonomous Systems (IDRP) (400)
+7.  Ethics, Policy, Law and Regulation in AI (700)
+8.  Planning and Decision making for Robots
+1.  Natural Language Understanding (700)
+2.  Digital Image Processing (400)
+3.  Computer Vision (400)
+4.  Computer Graphics (400)
+5.  Speech Understanding (700)
+1.  Social Computing
+2.  Sustainable Computing
+ICT for Development
+4.  Machine Learning for Epidemiology
+5.  Health Informatics
+6.  Computational Social Choice
+7.  Computational Cognition & Behavior Modelling
+8.  Social Networks
+9.  Ethics, policy, law and regulations in AI
+10.  Crowd-sourcing and human computing
+11.  Environmental Informatics
+12.  Computational Microeconomics
+11. Specializations  Offered by the Department
+Table 6. Specializations and courses
+Specialization Core (8
+Specialization Elective (12 Credits)
+(CSE, AIDE, EE)
+(CS, AIDE, EE)
+Jointly with EE and AIDE
+Jointly with EE and AIDE
+Jointly with EE and AIDE
+Jointly with EE and AIDE
+Advanced Data Structures
+(3-0-0), Complexity Theory
+(3-0-0), Algorithms for Big
+Data (from M.Tech, 2-0-0)
+Social Computing (3-0-0),
+Sustainable Computing (3-
+ICT for Development (2-0-
+Randomized Algorithms, Approximation
+Algorithms, Theory of Computation,
+Distributed Algorithms, Quantum
+Computing (IDRP), Optimization, Graph
+Theory and Applications, Parameterized
+Machine Learning for Epidemiology (3-0-
+0), Health Informatics (3-0-0),
+Computational Social Choice (3-0-0),
+Computational Cognition & Behavior
+Modelling (3-0-0), Social Networks (3-0-0),
+Ethics, Policy, Law and regulations in
+AI(0-0-2), Crowd-sourcing and human
+computing (3-0-0), Environmental
+Informatics (3-0-0), Computational
+Microeconomics (3-0-0), Project (0-0-6)
+(CS, AIDE, EE)
+Jointly with EE
+Jointly with EE
+Jointly with EE
+Jointly with EE
+12. Curriculum of B.Tech. in Computer Science and Engineering (Direct Entry)
+Table 7. Curriculum of B.Tech. (Computer Science and Engineering)
+IS  Chemistry Lab
+IS  Mathematics I
+IS  Mathematics II
+-  NE  Engineering Design
+-  NH  Communication
+NH  Social Connect and
+-  NH  Social Connect and
+NH  Performing Arts I
+-  NH  Performing Arts
+IE  Materials Science &
+IE  MSE -
+(i) Energy materials
+IE  Pattern Recognition
+PC  Maths for
+PC  Data Structures
+PC  Digital Design
+LS  Foundations of
+Intro. To Profession  0-0-2
+IH  Humanities I
+PC  Cyber Security
+PC  Design and
+PC  Computer Networks  3-0-3
+PC  Operating Systems
+PC  Principles of
+PC  Database Systems
+IH  Humanities II
+PC  Digital Systems Lab
+PC  CS Core Bouquet -1
+NH  Professional Ethics
+-  NH  Professional Ethics
+PP  B. Tech. Project
+PC  CS Core Bouquet-1
+IH  Humanities IV
+IH  Humanities III
+Total of Graded Credits
+Total of  Non-Graded Credits
+Non-Graded Design Credits
+13. Curriculum of Double B.Tech.: B.Tech. in Computer Science and Engineering and B.Tech. in
+Table 8. Programme structure of Double B.Tech.
+First two semesters same as Table 8a or 8 b
+33 Graded and 6 non graded credits
+IE  Materials Science &
+ES  Modern Physics
+ES  Embedded Systems
+IE  Pattern Recognition
+ES  Data Structures and
+ES  Design of
+Signals and Systems
+ES  Control Systems
+Intro. To Profession
+IH  Humanities I
+Total  15-3-4  22
+Total  18-0-6  24
+4  PC  Cyber Security
+PC  Design and
+PC  Principles of
+3  PC  Computer Networks
+PC  Operating Systems
+PC  Database Systems
+4  PC  Human-Machine
+PC  Maths for
+4  PC  Digital Design
+IH  Humanities II
+PC  CS Core Bouquet - 1
+Professional Ethics I
+Professional Ethics II
+Total  18-3-4  24
+PP  B. Tech. Project
+PC  CS Core Bouquet -
+IH  Humanities III
+1 (Algorithms)/ 2
+12  PC  Digital Systems Lab
+Total  20-0-6  26
+Total  20-0-0  20
+Total Graded Credits
+Total of  Non-Graded Credits
+Non-Graded Design Credits
+Note: ES are proposed Engineering Science compulsory courses

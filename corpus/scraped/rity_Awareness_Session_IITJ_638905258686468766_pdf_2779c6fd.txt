@@ -1,0 +1,232 @@
+• Some common cyber threats seen in educational organization
+• Known Cyber Attack currently taking more concern
+• Some Important SoPs
+• Incident Reporting
+WHAT IS CYBER THREAT
+• A cyber or cybersecurity threat is a malicious act that seeks to damage data,
+steal data, or disrupt digital life in general.
+• Educational institutions are one of the most vulnerable targets for
+cybercrimes as they involve a huge amount of information and personal
+data of students.
+• That’s why we  need to implement strong cybersecurity measures and to
+make sure that our  students are aware of the main rules on how to secure
+themselves and their data on the Internet
+Changing your default/welcome credentials immediately
+What to do by user ?
+• As soon as you receive similar email, kindly
+change your password immediately.
+Main three password you generally need
+● Internet Access Password
+(http://172.17.0.50:8080/AD from inside the
+● Email Password (i.e your gmail
+● ERP Password.
+A phishing email is a type of social
+engineering attacks where an attacker tricks
+target victims into opening a malicious file or
+link or providing personal or confidential
+information, such as passwords, credit/debit
+card number etc.
+How to be cautious against Phishing Attacks?
+• Be suspicious of any email with urgent request
+for personal information.
+• Never Share passwords, personal information or
+financial information over email.
+• Don’t click links in email messages if you suspect
+the message might not be authentic or if you
+don’t know the sender.
+• Don’t trust offers that seem too good to be true.
+(if somebody pretending your relative want to
+send money to you, winning lottery etc.
+Phishing Example: Library Account
+How to be cautious against Phishing Attacks?
+Dear Student, Your access to your library account
+is expiring soon due to inactivity. To continue to
+have access to the library services, you must
+reactivate your account. For this purpose, click the
+web address below or copy and paste it into your
+web browser. A successful login will activate your
+account and you will be redirected to your library
+• Here we have to check the link provided in the
+• Our domain is @iitj.ac.in, if any link or url
+received to reset password related IIT Jodhpur,
+mostly come from our domain only.
+EMAIL FRAUD (GIFT CARD SCAMS)
+Gift card scams are on the rise and can result
+in a victim losing hundreds or thousands of
+In a typical scam, an employee/student
+receives an email or a text message that
+pretends to be from their co-student, faculty
+members, or another senior figure or person of
+authority. It asks them to buy gift cards and
+send them photos.
+The scammer may ask you to communicate
+with them via text message or email only,
+unable to take calls.
+How to Spot a Gift Card Scam ?
+Inspect the sender's email address to confirm it's
+actually coming from that person. Scammers will
+often send the email from a random email
+account and change the Display Name of the
+If the sender’s address ends in @gmail.com,
+@outlook.com, or anything other than
+@iitj.ac.in, the request is most likely a scam.
+EMAIL FRAUD (GIFT CARD SCAMS)
+From: xxx@gmail.com(link sends e-mail)
+Subject: URGENT REQUEST: What
+number can I text you at?
+To: xxxxx@iitj.ac.in(link sends e-mail)
+Identifying Gift card scam email messages :-
+Indicate some level of urgency, such as
+indicating they are currently busy or are heading
+into a meeting and need your help ASAP
+• Possibly include a subject line of  "are you are
+available?" or "URGENT REQUEST“
+• Ask you to do them a "favor“, promise of
+• Possibly have typos and grammatical errors.
+What should I do?
+1. If you get an email from a colleague asking if you "are available?" or asking for you to
+only "text them", before responding, reach out to the sender in a separate email or
+call them to check if they actually sent the request.
+2. Don't reply to the email or use any contact information provided in the email -
+attackers often provide fake numbers or email addresses that they control.
+3. If you find the email is a phish, report it! ( cybersec@iitj.ac.in)
+BLACKMAIL OR SEXTORTION EMAILS
+Its an email scam where an attacker claims to
+have compromised victims' machine, sensitive
+data including sexual content and picture.
+The attacker demands payment, bitcoins, gift
+cards or more photos, and threatens to publish
+the data to the internet.
+the emails claim to have video of users
+watching "adult sites" and demanding $900 if
+they don't want the video shared with all of
+How to respond to sextortion ?
+• Stop responding and do not pay.
+• Talk with someone you trust, like a close friend, teacher or
+parent. Otherwise reach IITJ student wellbeing committee
+and alo report to us at  cybersec@iitj.ac.in
+• Report tech companies, report any threats and images to
+help center of Facebook, Instagram etc. to remove if
+• Do not worry if the phish includes your password; likely
+this has been obtained from historic breaches of personal
+data. If the phish includes a password you still use then
+change it immediately,
+• Keep your personal details private.
+BLACKMAIL OR SEXTORTION EMAILS
+What to do by user ?
+• First of all, don't panic.
+• We recommend you to ignore this type of
+communication. Its a type of blackmail email also
+known as "Sextortion"
+• However, if you download any attachment or click
+any links from this email or suspect that your PC or
+mobile might be infected with malware you can scan
+your device for malware.
+• Some notable free antivirus like Sophos home
+premium, hitman pro, Bitdefender you can use.
+How to protect yourself from Ransomware
+• Don’t open unexpected email attachments.
+• Make backups of your data and keep them
+• Install and use endpoint protection software like
+• Update with latest OS and patches regularly.
+• Don’t click links in email if sender is unknown.
+Ransomware is a type of malware that
+encrypts a victim’s files and demands
+payment, usually in cryptocurrency, in
+exchange for the decryption key.
+Ransomware attacks are typically carried out
+through phishing emails, malicious
+downloads, or exploiting vulnerabilities in
+In recent years, educational institutions have
+become larger prime targets for ransomware
+SOME OTHER KNOWN CYBER ATTACK CURRENTLY
+TAKING MORE CONCERN
+Fake India Post delivery Scam
+• The fraudsters send an SMS stating the status of delivery
+of an India Mail package which could not be delivered due
+to incomplete address information.
+• They provide a deadline of 12 hours for recipients to
+confirm their address by clicking on the given link
+• This misleading message seeks to fool people into
+disclosing personal information or compromising the
+security of their device.
+• Don’t click these link, if required verify with Indian Post.
+SOME OTHER KNOWN CYBER ATTACK CURRENTLY
+TAKING MORE CONCERN
+New parcel fraud:'Drug was found in your parcel, will inform police';
+Fraudsters are posing as fake courier staff or customs officers to scam you.
+They call you to inform that the customs department under the Central Board of Indirect
+Taxes & Customs (CBIC) has intercepted a parcel/package in your name.
+Now they demand you to pay customs duty or tax on it.
+Sometimes the scamsters with an aim to build a more convincing narrative, say that
+drugs have been found in such parcels/packages and you need to pay a bribe to get this
+parcel destroyed along with other evidence.
+How can you recognise the parcel scam and protect yourself?
+You should first verify and cross-check the information.
+Don't rush into making a transaction or provide any personal or financial details.
+For instance, all communications from Indian Customs consist of a document
+identification number (DIN), which can be verified on the CBIC website-
+SOME OTHER KNOWN CYBER ATTACK CURRENTLY
+TAKING MORE CONCERN
+Work-From-Home Job Scam:-
+• User received the text on his WhatsApp number that user
+can do a work-from-home job in which he/she  need to
+rate hotels on Google Maps and  will receive money in
+return as rewards.
+• User was then added to a Telegram group with about 100
+members, where he/she  started performing the rating
+tasks,  the tasks soon included investment activities.
+• User later unable to withdraw his investment money and
+requesting additional money as a TAX.
+Therefore, be cautious when accepting work from home
+tasks and disclose information only after thorough
+UPI Frauds and Tips to Prevent it?
+UPI (Unified Payment Interface) is an instant payment system created by the National Payments Corporation of India (NPCI). It facilitates instant money
+transfers between the bank accounts of the two parties.
+Types of UPI Fraud
+Impersonating Sellers Fraud :- Often, fraudsters use a seller's number to
+receive orders from customers. In such a situation, they will take the order and
+ask the customer to make the payment using UPI. Thus, the fraudster will get
+the money and not deliver the product.
+UPI Fraud via Authorized Access to Screen Mirroring Apps:- In this case,
+fraudsters posing as bank employees will try to connect with you or list
+customer care numbers online that are actually fake. If you try to connect on
+this number for any complaints, the fraudster will ask you to download 3rd
+party apps, which are screen mirroring apps. These apps provide complete
+access to your device through which they carry out unapproved financial
+OTP or PIN Fraud:- This is one of the most common types of UPI
+transaction fraud. Many individuals share their OTPs or PIN with
+fraudsters unknowingly. After that, these fraudsters gain access to the
+individual's account and make unauthorised transactions using UPI.
+UPI Fraud via Collection Request:- A collection request scam is quite common
+with UPI Payment Apps. Scammers committing this fraud usually provide a
+reason of a refund or debit reversal and then compel you to click on 'Collect
+Request'. Once you click on it, you will be asked to provide your UPI PIN. As
+soon as you enter the PIN, scammers immediately debit the money from your
+Tips to prevent UPI Fraud
+Don't Share UPI PIN
+Avoid Downloading Apps You Don't Trust
+Check the Credibility of the UPI ID before Scanning
+You must follow some security measures, like:
+Install anti-virus software on your device.
+Install biometric recognition software on your device.
+Don't open links from unreliable sources.
+Some Important SoPs
+• Don't Share password with anyone.
+• Always use 2FA whenever possible with complex passwords.
+• Keep all your systems (Laptop/Desktop/Mobile) always updated with latest
+Its recommended to use an antivirus software in your systems.
+Scan the removable media with Antivirus software before accessing.
+Internet Surfing:- Do Not use proxy or other sites to bypass campus firewall
+• Don’t install any network switches and Wi-Fi Access
+point/router without informing DIA.
+• Limit and control the use/exposure of personal information while accessing
+social media and networking sites.
+• Always check the authenticity of the person before accepting a request as
+If you suspect a cybersecurity incident or data breach, report it by sending
+an email to our Cyber Security team immediately at (cybersec@iitj.ac.in).
+• Remember that cybersecurity is a shared responsibility, and your actions
+are crucial in maintaining a secure academic environment.
+Stay vigilant, stay informed, and help protect your institutes digital assets
+and personal information.
+• Always follows the SoP’s and Cyber Security policies  of the institute.

@@ -1,0 +1,58 @@
+TEM Sample Preparation Units | Central Research Facility (CRF) | IIT Jodhpur
+TEM Sample Preparation Units
+1: ULTRASONIC DISC CUTTER
+2: DISK PUNCH
+3: DISC GRINDER
+4: DIAMOND WIRE SAW
+5: DIMPLER GRINDER
+6: ION BEAM MILLING SYSTEM
+1. ULTRASONIC DISC CUTTER
+Quickly cut TEM discs from hard, brittle materials such as semiconductors, ceramics, and geological materials
+Disc size: 3mm in diameter for surface analysis, 4x5 mm and disc for cross-sectional analysis
+Cutting drive: Piezoelectric crystal
+Slurry Material: Boron carbide
+2: DISK PUNCH
+3mm disc from metals, alloys, and all ductile materials for TEM
+3: DISC GRINDER
+For Pre-thinning and polishing of TEM grids up to 100um
+Uniformity Accuracy: 5um
+4: DIAMOND WIRE SAW
+Make: β tech
+Wire Specifications: 300um
+Grain size: 40um
+Wire Consumed in one run: 10 meters
+Wire Speed range: 0.1-3.6m/sec
+Wire tension- 2kg
+Cutting Force: Gravity drawn- +-300gm
+Max. sample weight: 2500 Gm
+Sample Size: Max- 50x50x50 mm or 50mm diameter
+Min cutting thickness: 200um (depending on sample)
+Sample Type: Glass, Ceramic, Abrasive, Plastic, Rubber, Wood, Ferrous, Nonferrous, Biological-Bone,Tooth, Tissue (after plastination)
+5: DIMPLER GRINDER
+Model: Dimpler Grinder II-657
+Capable of flat thinning as well as dimpling 3 mm diameter TEM samples down to 10 ums
+Utilizes both the large wheel and flat wheel to preserve a large transparent area after processing
+Produces a final thickness of < 3 μm in dimpled specimens
+6: ION BEAM MILLING SYSTEM
+Model: PIPS II System-695
+Voltage range: 0.5- 8kV
+Two ion guns
+Milling angle: +10° to -10°.
+Ion current density: 10 mA/cm2
+Current range : 0-100 microamps.
+Temperature range: -150° to 30°C
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone:0291 280 1347
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone:0291 280 1343
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone:0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

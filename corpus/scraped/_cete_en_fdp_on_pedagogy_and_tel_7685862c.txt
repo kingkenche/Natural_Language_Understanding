@@ -1,0 +1,166 @@
+Faculty Development Program on Pedagogy and Technology-enabled Learning | Center for Education Technology (CET) | IIT Jodhpur
+Faculty Development Program on Pedagogy and Technology-enabled Learning
+In today's rapidly evolving educational landscape, it is crucial for an educator to stay ahead of the curve. The Center for Education and Technology for Education (CETE), through Executive Education Program (EEP) Office at IIT Jodhpur, invites you to participate in our exclusive Faculty Development Program on Pedagogy and Technology-enabled Learning , designed to empower educators with innovative teaching pedagogies, technology integration and best practices using education technology. This 5-day online program comprises sessions from global and national experts to give its attendees a competitive edge in the expanding the frontiers of technology-enhanced learning.
+Who should attend
+Broad Topics to be covered
+Program & Session Details
+Who should attend
+Faculty and staff members from various disciplines of higher education, including engineering, sciences, arts, social sciences, medicine, and management, doctoral students, school teachers, teaching assistants, school administrators, edtech entrepreneurs, NGO and field practitioners
+Developing a comprehensive understanding of the learning process and how to design, deliver and enrich instruction that meets the needs of diverse learners
+Enabling educators to adopt innovative teaching and assessment strategies that leverage technology and hands-on experience with edtech tools and resources
+Providing educators an exposure to state-of-the-art and emerging trends in education
+At the end of this program, the attendees would be able to
+Design engaging learning experiences
+Create and deliver effective instructional materials and activities using edtech tools
+Develop impactful strategies for assessment of learning
+Cultivate best teaching and learning practices
+Broad Topics to be covered
+Learning sciences - Science of learning, approaches to Teaching and Learning, pedagogical styles, types of learning, educational models, psychology of education, inclusive and accessible education
+Designing engaging learning experiences - Blended learning, tools for synchronous, asynchronous, and hybrid teaching, interactive learning environments, e-learning tools and technologies, MOOC strategies, instructional design
+Technology-enhanced learning - introduction to education technology, using technology in the classroom, tools for teaching and learning, gamification and game-based learning, immersive learning using AR and VR, educational data analytics
+Effective assessment and evaluation - formative and summative assessment, rubrics, designing learning objectives and outcomes, ICT tools for designing assessments, AR-VR tools for evaluation
+Design of educational multimedia content - instructional design, tools and techniques for content creation, multimedia production
+Prof. Santanu Chaudhury
+Director, IIT Jodhpur
+Prof. Nalin Sharda
+Distinguished Lecturer, IEEE Education Society; Lead Cloud Instructor, Generation Australia
+Dr. Sudarshan Iyengar
+Associate Professor and Head, Computer Science & Engineering, IIT Ropar
+Dr. Ramkumar Rajendran
+Associate Professor, IDP in Education Technology, IIT Bombay
+Dr. Aditya Vishwanath
+Knight-Hennessy Scholar, Learning Sciences & Technology Design, Stanford University; CEO, Inspirit
+Dr. Ashwin T. S.
+Post Doctoral Fellow, IDP in Education Technology, IIT Bombay
+Dr. Anura Kenkre
+Lead Instructional Designer, Upthink
+Mr. Pratyush Roy
+Engineer (Education Team) Mathworks India
+Prof. Ankita Sharma
+Professor, School of Liberal Arts, IIT Jodhpur
+Dr. Rachel Philip
+Assistant Professor, School of Liberal Arts, IIT Jodhpur
+Dr. Deepak Saxena
+Assistant Professor, School of Management and Entrepreneurship, IIT Jodhpur
+Associate Professor, Department of Electrical Engineering, IIT Jodhpur
+Registration Fee (Deadline: 16 July 2023 5:00 PM, 18 July 2023 )
+Professionals/Faculty Members: Rs. 1,000
+Students: Rs. 500
+Step 1: Complete Payment on e-Pay Platform
+Register on IIT Jodhpur's e-Payment portal (https://oa.iitj.ac.in/ePay/) with your email ID. Select 'FDP on Pedagogy and TEL' in the dropdown.
+Login credentials for e-Pay portal will then be sent to you over email. Please login at the e-Pay portal with those credentials, select the relevant category (Professional/Student) and complete the payment.
+Note the payment reference number and save the screenshot of the confirmation for upload in the FDP Registration Form. (If you face any technical issues on the Payment Portal, please write to oa_automation@iitj.ac.in.)
+Step 2: Fill the FDP Registration Form
+Note: The Registration Fee covers attendance of all the sessions in online mode. Any participant interested in attending the FDP in person is welcome to visit IIT Jodhpur. In-person attendees would bear their own cost of accommodation, travel, and food.
+FDP Registration Form
+16 July 2023
+5:00 PM, 18 July 2023
+Program and Session Details
+Each day would have online sessions in forenoon and afternoon (10:00 AM, 11:45 AM, 2:30 PM and 4:15 PM). The Detailed Program is available below. All sessions will be recorded and the recordings shall be made available to all participants for one week. Online Participants must keep their camera ON in all the sessions .
+E-Certificates will be given to the registered attendees on successful completion of the program.
+Day 01 / 19 July 2023 Introduction to Learning Sciences
+10:00 AM Inauguration and Introduction to the Workshop
+10:15 AM - 11:30 AM Session 01
+Prof. Santanu Chaudhury , Director, IIT Jodhpur
+Foresight for Engineering Curriculum
+11:45 AM - 1:30 PM Session 02
+Prof. Ankita Sharma , Professor, School of Liberal Arts, IIT Jodhpur
+The Science of Learning: Myths, Facts, and Principles
+Myths about learning practices, the application of learning theories, and principles for successful learning
+2:30 PM - 4:00 PM Session 03
+Dr. Rachel Philip , Assistant Professor, School of Liberal Arts, IIT Jodhpur
+Digital Dinosaurs and Digital Natives: What teachers believe about technology
+The session is an invitation to consider how one's beliefs about technology shape the pedagogical strategies employed by teachers. We will touch upon:
+Digital literacies: Assumptions about the contemporary 'learner' and reality-checks
+'Smart' Pedagogy: Bridging teacher beliefs and classroom strategies
+The Open Classroom: Contemporary technology and transformations in pedagogy
+Bridging the Divide: Inclusive and accessible Education
+4:15 PM - 5:30 PM Session 04
+Dr. Rajlaxmi Chouhan , Associate Professor, Department of Electrical Engineering, IIT Jodhpur
+Integrating technology tools in the classroom
+Tools for teaching and interactions during class
+Tools for simulation
+Making the most of LMSs
+Using immersive environments
+Some useful browser extensions
+Day 02 / 20 July 2023 Designing Learning Experiences
+10:00 AM - 11:30 AM Session 01
+Dr. Sudarshan Iyengar , Associate Professor and Head, Department of Computer Science and Engineering, IIT Ropar
+Designing a successful MOOC
+11:45 AM - 1:15 PM Session 02
+Prof. Nalin Sharda , Former Honorary AA Professor, Victoria University, Australia; Distinguished Lecturer, IEEE Education Society
+Scholarship of Teaching and Learning for Innovative Pedagogies: What it is, Why and How to do it
+The Scholarship of Teaching and Learning (SoTL) is not simply teaching well, it is about approaching your teaching as if it were a research topic and finding new ways of teaching using innovative pedagogies. For example, in the context of eLearning, just providing traditional teaching and learning content through eLearning portals is gross underutilisation of the potential of current technologies. We should explore how we can enhance student engagement, and learning outcomes through innovative pedagogies such as:
+Seminar: The seminar will explore how can we research and incorporate such innovations in our teaching.
+Workshop: The workshop will require participants to explore innovative ways to teach their subjects.
+Essential: All participants must keep their cameras on and participate actively.
+2:30 PM - 4:00 PM Session 03
+Dr. Rajlaxmi Chouhan , Associate Professor, Department of Electrical Engineering, IIT Jodhpur
+Blended Learning: Tools and Best Practices
+Introduction to blended learning, types of blended learning
+Creating Video-based flipped classroom on Edpuzzle
+Analysing data from LMS
+Day 03 / 21 July 2023 Technology-enhanced Learning
+10:00 AM - 11:30 AM Session 01
+Dr. Aditya Vishwanath , Knight-Hennessy Scholar, Learning Sciences & Technology Design, Stanford University; Cofounder, Inspirit
+Storytelling with Virtual Reality: Making VR Real for the Classroom
+In this session, we will go through a series of lab and field research studies that explore the different kinds of VR, the different ways in which VR has and has not worked in classrooms, and ultimately settle upon a series of design recommendations for how to best design and sustain this new technology for teaching and learning. Participants will also have the opportunity to design their own VR script, using ideas and best practices from design thinking.
+11:45 AM - 1:15 PM Session 02
+Dr. Deepak Kumar Saxena , Assistant Professor, School of Management and Entrepreneurship, IIT Jodhpur
+Scholarship of Teaching and Learning for Innovative Pedagogies: What it is, Why and How to do it
+The Tech Behind EdTech
+Software Services and Applications
+Cloud and Blockchain
+Seminar: The seminar will explore how can we research and incorporate such innovations in our teaching.
+Workshop: The workshop will require participants to explore innovative ways to teach their subjects.
+Essential: All participants must keep their cameras on and participate actively.
+2:30 PM - 4:00 PM Session 03
+Dr. Rajlaxmi Chouhan , Associate Professor, Department of Electrical Engineering, IIT Jodhpur
+Gamification and game-based learning
+Introduction to gamification in education
+Gamified quizzes and LMS
+Game-based learning in engineering education
+Day 04 / 22 July 2023 Learning Analytics and Assessment Strategies
+10:00 AM - 11:30 AM Session 01
+Dr. Ramkumar Rajendran , Associate Professor, IDP in Education Technology, IIT Bombay
+Learning analytics: What and Why
+In this session, we will discuss why we need learning analytics and how to collect data from the learning environment and apply analytics. Research projects from the speaker's lab will be demonstrated.
+11:45 AM - 1:15 PM Session 02
+Dr. Ashwin T. S. , Post Doctoral Fellow, IIT Bombay
+Adaptive Tutoring System in Intelligent Learning environments using Multimodal Data
+Types of Multimodal Data in Education
+General Challenges in using Multimodality
+Designing Adaptation Logics
+Challenges in Adaptive Tutoring
+State-of-the-art in Adaptive Intelligent Tutoring Systems
+2:30 PM - 3:45 PM Session 03
+Dr. Rajlaxmi Chouhan , Associate Professor, Department of Electrical Engineering, IIT Jodhpur
+Tools and strategies for maintaining academic integrity in assessments
+Bloom's Taxonomy to create assessment Strategies to curb cheating in unproctored exams Strategies to maintain integrity in online proctored exams
+4:00 PM - 5:30 PM Session 04
+Dr. Deepak Kumar Saxena , Assistant Professor, School of Management and Entrepreneurship, IIT Jodhpur Designing formative and summative assessments and rubrics
+Formative vs Summative Assessments Assessment vs Feedback Creative Assessment Strategies
+Day 05 / 23 July 2023 Instructional Design
+10:00 AM - 11:30 AM Session 01
+Dr. Anura Kenkre , Lead Instructional Designer, Upthink
+Introduction to E-Learning
+Product Types in E-Learning Instructional Design Theories Making a visualization effective Interactivity Assessments in E-Learning
+11:45 AM - 1:15 PM Session 02
+Dr. Rajlaxmi Chouhan , Associate Professor, Department of Electrical Engineering, IIT Jodhpur
+Multimedia and immersive content creation
+Principles of multimedia design Creating text and video content using various tools (recording, editing, transcription, etc.) Examples on e-learning authoring tools (eg. Adobe Captivate and Storyline)
+2:30 PM - 4:00 PM Session 03
+Mr. Pratyush Roy , Engineer (Education Team), Mathworks
+MathWorks Support in Education
+Introducing Computational Thinking among students Resources & Collaboration Options Demos on MATLAB and Simulink Open Q&A
+4:00 PM - 5:00 PM Closing Session
+Feedback and Reflections Concluding Remarks and Vote of Thanks
+Registration Deadline : 16 July 2023 5:00 PM, 18 July 2023
+FDP dates : 19 - 23 July 2023
+For any queries, please write to the FDP Coordinator, Dr. Rajlaxmi Chouhan ( rajlaxmichouhan@iitj.ac.in ), Associate Professor, Department of Electrical Engineering & Affiliate Member of CETE, IIT Jodhpur.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Feb 2026 - 09:46 AM

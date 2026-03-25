@@ -1,0 +1,509 @@
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+Program Course Curriculum
+Department of Mathematics
+Department of Mathematics
+Cat.	Course	Number,	Course	Title
+C	 MAL7XX0	Foundations	of	Data
+Cat.	Course	Number,	Course	Title	 L-T-
+C	 CSL7XX0	 Deep	Learning
+C	 CSL7XX0	 Machine	Learning	 3-0-0
+C	 MAL7XX0	Data	Analytics
+NG1	HSN7XX0	 Technical
+NG2	HSN7XX0	 Professional
+Computational	Game	Theory
+Natural	Language	Understanding
+Time	Series	Analysis
+Graph	Theory	and	Applications
+Algorithm	for	Big	Data
+Digital	Image	Analysis
+Quantum	Cryptography	and	Coding
+Quantum	Inspired	Optimization
+Course	Category	Title
+Total	Courses	Total
+Note: 1. The department should retain only the relevant courses as electives for the M.Tech. program. The courses
+that are either irrelevant or not attracting more than 10 students should be removed from the PG booklet.
+Course (Credit) Requirements for PhD students
+Minimum courses required
+M.Tech., M.E. or M.Sc.
+(Engineering) in an
+M.Sc. degree  in a Science
+B.Tech., B.S., B.E. or B.Sc.
+(Engineering)  in an
+M.Sc., M.A. and M.Phil.
+degree in a Science,
+Humanities or Social Science
+As per approved norms after
+2 years of Masters degree in
+4 Compulsory (Same as
+M.Tech. Compulsory) + 4
+4 Compulsory (Same as
+M.Tech. Compulsory) + 4
+1.  Departments can design various sets of compulsory courses based on their research themes. These courses
+can either be existing ones or new courses introduced by the department.
+2.  The four compulsory courses account for a minimum of 12 credits as per the current regulations.
+3.  Direct Ph.D. students holding a B.Tech. degree can choose to pursue an additional M.Tech. degree by
+fulfilling the M.Tech. thesis requirements. The M.Tech. thesis work must be separate from the Ph.D. thesis.
+The additional degree will be awarded alongside the Ph.D. degree only upon the completion of the Ph.D.
+Content of Core courses:
+Foundations of Data Science
+The Instructor will:
+1.  Provide an understanding statistical concepts for data scientist.
+2.  Train the student to do Matrix Computations for implementing various numerical linear
+3.  Train student in the domain of linear and non-linear programming.
+The students are expected to have the ability to:
+4.  Derive distributional results needed for the statistical hypothesis testing and perform
+the hypothesis testing for the parameters of the normal population.
+5.  Understand the numerical linear algebraic methods and their usage for data analysis.
+6.  Apply programming concepts for further applications in different areas of interest.
+Probability  Models  and  Sampling    Techniques  [3  Lectures]:  Normal,  Chi-Square  and  t
+distributions,  Basic  concepts  of  random  sampling,  sampling  from  normal  distribution,
+properties of sample mean and sample variance.
+Estimation  [5  Lectures]:  Problem  of  point  estimation,  Unbiased  estimation,  Maximum
+likelihood estimators, Shortest length confidence intervals for mean and variance of normal
+Tests  of  Hypotheses  [5  Lectures]:  Basic  concepts  of  statistical  hypotheses  testing,  critical
+regions, Type-I and Type-II errors, size and power of a test, tests for one-sample and two-
+sample problems from normal populations.
+Matrix  Algebra  [3  Lectures]:  Matrix  operations  and  type  of  matrices,  Rank  of  Matrix,
+Eigenvalues, Eigenvectors and Diagonalizable matrices, Vector Norms, Matrix Norms.
+Decompositions [8 Lectures]: Spectral decomposition, Schur Decomposition, QR Factorization,
+Singular value decomposition (SVD), Polar Decomposition, Pseudo Inverse.
+Approximations [2 Lectures]: Least square approximations, Low-Rank Approximation.
+Unconstrained Optimization [7 Lectures]: Convex set, Convex function, First and second order
+conditions, Gradient descent method, Application in linear and nonlinear regression
+Constrained Optimization [6 Lectures]: Karush-Kuhn-Tucker conditions, Lagrange multiplier
+method, Interior point method, Application in SVM.
+1.  Casella, G. and Berger, R. (2002), Statistical Inference, Cengage Learning.
+2.  Ross, S.M. (1996), Stochastic Processes, Wiley.
+3.  Mayer, C.D. (2000) Matrix Analysis and Applied Linear Algebra, SIAM.
+4.  Kambo, N. S., Mathematical Programming Techniques,  Second Edition, Affiliated East
+West Press, 2005
+5.  Beck,  Amir:  First-order  methods  in  optimization.  Society  for  Industrial  and  Applied
+1.  Rohatgi, V.K. and Saleh, A.K.M.E. (2018). An Introduction to Probability and Statistics,
+2.  Ross, S.M. (2010). An Introduction to Probability Models, Elsevier.
+3.  M    Goloub, G.H. and Charles, F.V.L. (2013) Matrix Computations, JHU Press.
+4.  Lancaster, P. and Tismenetsky, M. (1985) The Theory of Matrices: With Applications,
+5.  Bazaraa, M. S., Sherali, H.D., and Shetty, C. M., Nonlinear Programming: Theory and
+Algorithms, Third Edition, Wiley publications, 2006
+Online course Material
+1.  Agrawal,  P.N.,  Numerical  Linear  Algebra,  NPTEL  course  material,    Department  of
+2.  Goswami  A.,  Chakraborty  D.,  Optimization,  NPTEL  Course  Material,  Department  of
+Department  Computer Science and Engineering
+Introduction  to  Computer  Sc.,  Probability,
+Statistics  and  Stochastic  Processes,  Linear
+1.  To understand various key paradigms for machine learning approaches
+2.  To  familiarize  with  the  mathematical  and  statistical  techniques  used  in  machine
+3.  To understand and differentiate among various machine learning techniques.
+The students are expected to have the ability to:
+1.  To formulate a machine learning problem
+2.  Select an appropriate pattern analysis tool for analyzing data in a given feature space.
+3.  Apply pattern recognition and machine learning techniques such as classification and
+feature selection to practical applications and detect patterns in the data.
+Introduction [6 Lectures]: Definitions, Datasets for Machine Learning, Different Paradigms of
+Data  Normalization,  Hypothesis  Evaluation,  VC-Dimensions  and  Distribution,  Bias-Variance
+Tradeoff, Regression (Linear)
+Bayes Decision Theory [5 Lectures]: Bayes decision rule, Minimum error rate classification,
+Normal density and discriminant functions
+Parameter Estimation [2 Lectures]: Maximum Likelihood and Bayesian Parameter Estimation
+Discriminative Methods [5 Lectures]: Distance-based methods, Linear Discriminant Functions,
+Decision Tree, Random Decision Forest and Boosting
+Feature Selection and Dimensionality Reduction [4 Lectures]: PCA, LDA, ICA, SFFS, SBFS
+Clustering [4 Lectures]: k-means clustering, Gaussian Mixture Modeling, EM-algorithm
+Kernel Machines [5 Lectures]: Kernel Tricks, SVMs (primal and dual forms), K-SVR, K-PCA
+Artificial Neural Networks [4 Lectures]: MLP , Backprop, and RBF-Net
+Foundations of Deep Learning [4 lectures]: DNN, CNN, Autoencoders
+1.  Shalev-Shwartz,S.,  Ben-David,S.,  (2014),  Understanding  Machine  Learning:  From
+Theory to Algorithms, Cambridge University Press
+2.  R. O. Duda, P . E. Hart, D. G. Stork (2000), Pattern Classification, Wiley-Blackwell, 2nd
+1.  Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+2.  C. M. BISHOP (2006), Pattern Recognition and Machine Learning, Springer-Verlag New
+York, 1st Edition.
+Online course Material
+The Instructor will:
+1.  Introduce the basics of data science and its underlying concepts.
+2.  Introduce data processing, manipulation and cleaning techniques.
+3.  Enable students to be able to analyze the data using R.
+The students are expected to have the ability to:
+1.  Acquire familiarity with the basic concepts of data science.
+2.  Distinguish between different kinds of data and data governance.
+3.  Understand the preparation and processing of the data.
+4.  Comprehend What R is and how it’s used to perform data analysis.
+Data  Analysis  [12  Lectures]:  Data  preparation,  Data  pre-processing,  Data  Cleaning,  Data
+Integration, Data Transformation, Data Reduction, Redundancy Removal, Data storage, Data
+Handling, Querying Data, Data Representation and Exploration, Big Data.
+Central  tendency  of  data  and  Variation  in  data  [7  Lectures]:  Arithmetic  Mean,  Median,
+Quantiles,  Mode,  Geometric  Mean  and  Harmonic  Mean,  Range,  Interquartile  Range  and
+Quartile  Deviation,  Absolute  Deviation  and  Absolute  Mean  Deviation,  Mean  Squared  Error,
+Variance and Standard Deviation, Coefficient of Variation and Boxplots.
+Moments,  Association  of  Variables  [7  Lectures]:  Central  Moments,  Absolute  Moments  and
+Computation  of  Moments,  Skewness  and  Kurtosis,  Univariate  and  Bivariate  Scatter  Plots,
+Quantile  in  3D  plots,  Correlation  Coefficient,  Rank  Correlation  Coefficient,  Measure  of
+Association for Discrete and Counting Variables, Least Squares Method.
+Lab using R: Implementation of concepts learnt using R.
+1.  Kotu,  V.  and  Deshpande,  B.  (2018)  Data  Science:  Concepts  and  Practice,  Morgan
+2.  Saltz, J.S. and Stanton, J.M. (2017) An Introduction to Data Science, SAGE Publications.
+3.  Wickham, H. and Grolemund, G. (2016) R for Data Science: Import, Tidy, Transform,
+Visualize, and Model Data, 'O'Reilly Media, Inc.
+4.  Toomey, D. (2014) R for Data Science, Packt Publishing Ltd.
+1.  Kelleher, J.D., and Tierney, B. (2018) Data Science, MIT Press.
+2.  Moreira,  J.,  Carvalho,  A.  and  Horvath,  T.  (2018)  A  General  Introduction  to  Data
+Analytics, John Wiley & Sons.
+3.  Mayer-Schonberger, V. and Cukier, K., (2013) Big data: The essential guide to work,
+life and learning in the age of insight, John Murray Publications.
+4.  Knell, R.J. (2014) Introductory R: A Beginner’s Guide to Data Visualization
+Online course Material
+Prerequisite  Machine Learning
+Computer Science and Engineering
+1.  Provide  technical  details  about  various  recent  algorithms  and  software  platforms
+related to Machine Learning with specific focus on Deep Learning.
+Students are expected to have the ability to:
+1.  Design  and  program  eﬃcient  algorithms  related  to  recent  machine  learning  techniques,  train
+models, conduct experiments, and develop real-world DL-based applications and products
+Deep Networks [7 Lectures]: CNN, RNN, LSTM, Attention layers, Applications
+Techniques to improve deep networks [6 Lectures]: DNN Optimization, Regularization, AutoML
+Representation  Learning  [7  Lectures]:  Unsupervised  pre-training,  transfer  learning,  and
+domain adaptation, distributed representation, discovering underlying causes
+Auto-DL  [6  Lectures]:  Neural  architecture  search,  network  compression,  graph  neural
+networks (6 lectures)
+Probabilistic Generative Models [3 Lectures]: DBN, RBM
+Deep  Generative  Models  [10  Lectures]:  Encoder-Decoder,  Variational  Autoencoder,
+Generative Adversarial Network (GAN), Deep Convolutional GAN, Variants and Applications of
+1.  Goodfellow,I., Bengio.,Y., and Courville,A., (2016), Deep Learning, The MIT Press
+1.  Charniak, E. (2019), Introduction to deep learning, The MIT Press.
+2.   Research literature.
+Online course Material
+Content of Elective courses:
+The Instructor will:
+1.  Securities  Pricing  Securities,  Risk  Management  Assessment,  prediction  and  decision
+making, under uncertainty, regarding future events and their consequences
+2.  Portfolio Optimization Balancing risk and return
+3.  Modeling Pricing of derivatives and Itos calculus
+The students are expected to have the ability to:
+1.  Valuation of financial portfolio
+2.  Pricing of financial derivatives (options and contracts)
+3.  Understanding risk and return
+[18 lectures] Introduction to financial markets and financial instruments, financial derivatives,
+risk and return, risky and risk free assets, interest rates, bonds, bonds pricing, spot and forward
+rates,  investment  portfolio,  mean-variance  analysis,  capital  asset  pricing  model,  arbitrage
+[21 lectures] Discrete time models, stock and money market models, principle of no arbitrage,
+pricing of contracts (forward and future), options, put-call parity, option pricing, martingales,
+Binomial model, CRR model, Black-Scholes formula, Greeks, random walk, Brownian motion,
+stochastic process, Itos integral and Ito-Deoblins formula.
+1.  M.  Capinski  and  T.  Zastawniak  (2010).  Mathematics  for  finance:  an  introduction  to
+financial engineering, Springer.
+2.  S.N. Neftci (2009). Principles of financial engineering. Academic Press/Elsevier.
+1.  J.C. Hull (2011). Options, futures and other derivatives. Pearson India.
+2.  S.E. Shreve (2000). Stochastic calculus for finance I: The binomial asset pricing model,
+Online Course Material
+Computational Game Theory
+Basics of Optimization Theory
+1. Provide background in the area of computational game theory.
+2.  Provide  sufficient  knowledge  of  the  subject  which  can  be  used  by  students  for  further
+applications in their respective domains of interest.
+1.  Understanding  of  fundamentals  like  Nash  equilibrium,  dominant  strategies  and  their
+2. Basic understanding of the Co-operative games, iterated games and mixed strategies.
+3. Knowledge of non-co-operative games, Zermelo’s algorithm and their applications.
+[11  lectures]:  Von  Neumann  and  Morgenstern  utility  functions,  expected  utility  and  expected
+utility maximization, Paradoxes of expected utility maximization, Compact representations for
+preference relations, Dichotomous preferences and goals. Representations for specifying goals,
+Strategic Form Non-Cooperative Games, Basic model and solution concepts, pure strategy Nash
+equilibrium,  dominant  strategies,  notable  games,  coordination  games  and  focal  points,
+complexity of pure strategy Nash equilibrium.
+[13  Lectures]:  Mixed  strategies:  Nash’s  theorem  and  Nash  equilibrium,  Computing  mixed
+strategy  Nash  equilibria,  Lemke-Howson  algorithm,  Zero  sum  games,  Minimax  Theorem,
+Compact representations for strategic form games, Boolean games, congestion games, Iterated
+Games: Finitely repeated games and backward induction, Infinitely repeated games, measuring
+utility  over  infinite  plays  modelling  strategies  as  finite  state  machines  with  output  (Moore
+machines); The Folk theorems, Iterated Boolean games, Axelrod’s tournament, the Hawk-Dove
+game, evolutionary game theory, evolutionarily stable strategies.
+[15  lectures]:  Extensive  Form  Non-Cooperative  Games:  Zermelo’s  algorithm  and  backward
+induction,  subgame  perfect  equilibrium,  Zermelo’s  theorem,  Compact  representations  for
+extensive form games, PEEK games and EXPTIME-completeness results, the Game Description
+Language  (GDL),  Imperfect  information  games,  PEEK  games  with  incomplete  information,
+Cooperative  Games:  Transferable  utility  (TU)  characteristic  function  games,  basic  model,
+stability & fairness solution concepts, cost of stability, Shapley value, Banzhaf index, induced
+subgraph  representation,  marginal  contribution  nets,  Simple  TU  games,  swap  and  trade
+robustness, weighted voting games, vector weighted voting games, network flow games, NTU
+games and their representations
+1.  G. Chalkiadakis, E. Elkind, and M Wooldridge, Computational Aspects of Cooperative Game
+Theory, Morgan-Claypool, 2011.
+2.  Machler, E. Solan, S. Zamir, Game Theory, Cambridge U.P., 2013.
+3.  M. J. Osborne, An Introduction to Game Theory, Oxford U.P., 2004.
+1.  R. D. Luce and H. Raiffa, Games and Decisions, Wiley, 1958
+2.  M. J. Osborne and A. Rubinstein, A Course in Game Theory, 1994.
+Online course Material
+Natural Language Understanding
+Computer Science and Engineering
+The Instructor will:
+1.  To  provide  insights  into  fundamental  concepts  and  algorithms  related  to  Natural
+2.  Impart working expertise by introducing practical problems.
+The students are expected to have the ability to:
+1.   Formulate natural language understanding tasks
+2.  Design and implement basic applications of NLU
+Traditional NLU [13 Lectures]: Introduction to NLU, Motivation, Morphology, Parts-of-Speech,
+Language  Models,  Word  Sense  Disambiguation,  Anaphora  Resolution,  Basics  of  Supervised
+and  Semi-supervised  Learning  for  NLU,  Hidden  Markov  Models  for  language  modeling,  EM
+Algorithm,  Structured  Prediction,  Dependency  Parsing,  Topic  Models,  Semantic  Parsing,
+Deep  Learning  for  NLU  [20  Lectures]:  Intro  to  Neural  NLU,  Word  Vector  representations,
+Neural Networks and backpropagation -- for named entity recognition, Practical tips: gradient
+checks,  overfitting,  regularization,  activation  functions,  Recurrent  neural  networks  --  for
+language modeling and other tasks, GRUs and LSTMs -- for machine translation, Recursive
+neural networks -- for parsing, Convolutional neural networks -- for sentence classification,
+Question answering and dialogue system, Graph Neural Network for NLU, Natural Language
+Generation, Analysis and Interpretability of Neural NLU.
+Knowledge  Graphs    [6  Lectures]:  Knowledge  graph  embedding  techniques,  Inference  on
+1.  C. MANNING, H. SCHÜTZE (1999), Foundations of Statistical Natural Language Processing, MIT
+2.  D.  JURAFSKY,  J.H.  MARTIN,  Speech  and  Language  Processing:  An  Introduction  to
+Natural Language Processing, Computational Linguistics and Speech Recognition (3rd
+Edition Draft), 2019.
+1.  E. BENDER (2013), Linguistic Fundamentals for NLP , Morgan Claypool Publishers..
+2.  J. ALLEN (1995), Natural Language Understanding, Pearson Education, 1995.
+3.  Research Literature.
+Online course Material
+1.  http://web.stanford.edu/class/cs224n/index.html#schedule (Deep learning for NLP)
+Computer Science and Engineering   L-T-P [C]
+Data Structures and Algorithms
+The Instructor will:
+1.   Cover various paradigms that come under the broad umbrella of AI.
+The students are expected to have the ability to:
+1.  Develop an understanding of where and how AI can be used.
+Introduction  [9  Lectures]:  Uninformed  search  strategies,  Greedy  best-first  search,  And-Or
+search,  Uniform  cost  search,  A*  search,  Memory-bounded  heuristic  search,  Local  and
+Constraint Satisfaction Problems [3 Lectures]: Backtracking search for CSPs, Local search for
+Adversarial Search [4 Lectures]: Optimal Decision in Games, The minimax algorithm, Alpha-
+Beta pruning, Expectimax search
+Knowledge  and  Reasoning  [8  Lectures]:  Propositional  Logic,  Reasoning  Patterns  in
+propositional  logic;  First  order  logic:  syntax,  semantics,  Inference  in  First  order  logic,
+unification and lifting, backward chaining, resolution
+Planning  [3  Lectures]:  Situation  Calculus,  Deductive  planning,  STRIPES,  sub-goal,  Partial
+Bayesian  Network,  Causality,  and  Uncertain  Reasoning  [5  lectures]:  Probabilistic  models,
+directed and undirected models, inferencing, causality, Introduction to Probabilistic reasoning
+Reinforcement  Learning  [7  Lectures]:  MDP  ,  Policy,  Q-value,  Passive  RL,  Active  RL,  Policy
+1.  Russel,S.,  and  Norvig,P  .,  (2015),  Artificial  Intelligence:  A  Modern  Approach,  3rd
+Edition, Prentice Hall
+1.  Research literature
+Online course Material
+of  Computer  Science,  University
+of  California,  Berkeley,
+2.  NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/
+Time Series Analysis
+Probability, Statistics and Random Processes
+1.  To provide working knowledge of time series techniques and forecasting methods
+2.  To provide with techniques and receipts for estimation and assessment of quality of
+econometric models with time series data
+1.  To develop the skills needed to do empirical research in "elds operating with time series
+Models for Time Series [8 Lectures] Time series data, trend, seasonality, cycles and residuals,
+strong and weak stationarity, autocorrelation function, linear processes, estimation of mean
+and covariance functions, Wold decomposition Theorem.
+Models  of  stationary  process  [8  Lectures]  ARMA  (p,  q)  processes,  ACF  and  PACF,  Modeling
+using ARMA processes, estimation of parameters, testing model adequacy, Order estimation.
+Univariate  Forecasting  Models  [7  Lectures]  Prediction  in  stationery  processes,  special
+reference to ARMA processes, Frequency domain analysis – spectral density and its estimation,
+Multivariate  Forecasting  Models  [7  Lectures]  Single  equation  models,  Vector  AR  and  ARMA
+models, econometric models
+Non-stationary Models [9 Lectures] Stationarity through differencing, ARIMA model, ARMAX,
+ARIMAX  models  and  introduction  to  ARCH  models.  Indicative  Assignments:  Analysis  of  real
+data (namely, NEON data, IMD data, etc.) using different
+time series models
+1.  Blockwell, P. J. and Davis, R. A. (2017). Introduction to Time Series and Forecasting,
+2nd Edition, Springer.
+2.  Chat"eld, C. (2004) The Analysis of Time Series – An Introduction, Chapman and Hall
+/ CRC, 4 th ed.
+1.  Box, G.E.P., Jenkins, G. and Reinsel, G. (1994) Time Series Analysis-Forecasting and
+Control, 3rd ed., Pearson Education
+Online course Material
+1.  Mikusheva,  Anna,  Time  Series  Analysis,  Department  of  Economics,  Massachusetts
+1.  Introduce  students  to  the  domain  of  Symmetric  and  Asymmetric  Cryptography,  and
+develop an appreciation for some applications in which Cryptography is used in real-
+1.  Learn to model security of various cryptographic primitives as an adversarial game.
+2.  Learn  the  design  principles  of  Block  ciphers,  stream  ciphers,  hash  functions,  MAC's,
+public key encryption, and digital signatures.
+3.  Identify novel and significant open research questions in the field.
+4.  Using cryptographic primitives to design some real life protocols, such as ZKP,
+coin tossing over insecure-channel, and MPC.
+Foundations  [9  lectures):  Attacking  Toy  ciphers,  Kerchofs  law,  Perfect  security,  OWE,  PRG,
+Symmetric  key  cryptography  [11  lectures]:  Block  ciphers,  stream  ciphers,  hash  functions,
+MAC, authenticated encryption.
+Asymmetric  Key  cryptography  [11  lectures]:  DKHE,  RSA,  El  Gamal  cryptosystems  (with
+required  mathematical  foundations),  Elliptic  Curve  Cryptography,  Digital  signatures,  Public
+Key Infrastructure and Digital certificates.
+Cryptographic protocols [8 lectures]: Secure multiparty computation, Zero knowledge proofs,
+Oblivious transfer etc.
+1.  Katz, Lindell: Theory of modern cryptography, CRC Press, 3rd Edition.
+2.   Hoffstein, Pfipher, Silverman: Introduction to mathematical cryptography
+Online course Material
+Graph Theory and Applications
+Computer Science and Engineering
+The Instructor will:
+1.  Introduce  various  terminologies,  concepts  and  algorithms  related  to  graphs,  and
+discuss their applications in real-world scenarios.
+The students are expected to have the ability to:
+1.  Formulate and solve real-world problems using the mathematical foundations of graph
+Preliminaries [3 lectures]: Graphs, Isomorphism, Subgraphs, Matrix representations, Degree,
+Operations on graphs, Degree sequences
+Connected graphs and shortest paths [4 lectures]: Walks, Trails, Paths, Connected graphs,
+Distance,  Cut-vertices,  Cut-edges,  Blocks,  Connectivity,  Weighted  graphs,  Shortest  path
+Trees [3 lectures]: Characterizations, Number of trees, Minimum spanning trees
+Special classes of graphs [2 lectures]: Bipartite graphs, Line graphs, Chordal graphs
+Eulerian graphs [2 lectures]: Characterization, Fleury’s algorithm, Chinese-postman-problem
+Hamilton graphs [3 lectures]: Necessary conditions and suﬃcient conditions
+Independent sets, coverings, matchings [5 lectures]: Basic equations, Matchings in bipartite
+graphs, Perfect matchings, Greedy and approximation algorithms
+Vertex  colorings  [2  lectures]:  Chromatic  number  and  cliques,  Greedy  coloring  algorithm,
+Coloring of chordal graphs, Brook’s theorem
+Edge  colorings  [4  lectures]:  Gupta-Vizing  theorem,  Class-1  graphs  and  Class-2  graphs,
+Planar graphs [3 lectures]: Basic concepts, Euler’s formula, Polyhedrons and planar graphs,
+Characterizations, Planarity testing, 5-color-theorem
+Directed  graphs  [4  lectures]:  Out-degree,  In-degree,  Connectivity,  Orientation,  Eulerian
+directed graphs, Hamilton directed graphs
+Applications [4 lectures]: Biology, Social Sciences, Engineering, Computer Science
+1.  West,D.B., (2002), Introduction to Graph Theory, 2nd Edition, Prentice Hall of India
+2.  Deo,N., (2003), Graph Theory: With Application to Engineering and Computer Science,
+Prentice Hall of India
+2.  Research literature
+Online course Material
+NPTEL: Graph Theory (for CSE), https://nptel.ac.in/courses/106108054/39
+NPTEL: Graph Theory (for Mathematics), https://nptel.ac.in/courses/111106050/
+Algorithm for Big Data
+Computer Science and Engineering
+The Instructor will:
+1.   Introduce some algorithmic techniques developed for handling large amounts of data.
+2.  Emphasize both theoretical as well as practical aspects of such algorithms.
+Students are expected to have the ability to:
+1.  Design and Analyzing existing algorithms as well as design novel algorithms pertaining
+to big data.
+Introduction  [7  lectures]:  Randomized  algorithms,  Universal  hash  family,  Probabilistic
+algorithm  analysis,  Approximation  algorithms,  ε-Approximation  schemes,  Sublinear  time
+complexity, Sublinear Algorithms.
+Property Testing [10 lectures]: Testing list’s sortedness or monotonicity, Distribution testing
+Testing properties of bounded degree graphs, Dense graphs and General graphs.
+Sketching  and  Streaming  [10  lectures]:  Extremely  Small-Space  Data  Structures,  CountMin
+Sketch, Count Sketch, Linear Sketching, AMS Sketch, Turnstile Streaming, Graph Sketching,
+MapReduce  [6  lectures]:  MapReduce  Algorithms  in  Constrains  Settings  such  as  small  memory,  few
+machines, few rounds, and small total work, Eﬃcient Parallel Algorithms
+External  memory  and  cache-obliviousness  [6  lectures]:  Minimizing  I/O  for  large  datasets,
+Algorithms and data structures such as B-trees, Buffer trees, Multiway merge sort
+Online course Material
+Self Learning Material
+1.  Department of Computer Science, Harvard University, Algorithms for Big Data
+3.  “Introduction to Property Testing” (link) by Oded Goldreich
+1.  Introduce multi-objective optimization.
+2.  Introduce evolutionary computations and using these to solve nonlinear optimization
+3.  Application of multi-objective optimization.
+1.  Understand the ideas of evolutionary computations and multi-objective optimization.
+2.  Understand the advantages of multi-objective optimization.
+3.  Solving  single  and  multi-objective  optimization  problems  using  evolutionary
+4.  Implementation of multi-objectvie optimization in some engineering problems.
+Evolutionary  optimization    [10  lectures]:  Introduction  to  evolutionary  optimization,  genetic
+algorithms,  mathematical  models  of  genetic  algorithms.  Evolutionary  programming  and
+evolution strategies, antcolony optimization and particle swarm optimization
+Multi-objective Optimization [6 lectures ]: Partial ordering with respect to a pointed cone, non
+dominated sorting, introduction to multi-objective optimization, applications of multi objective
+optimization,  solution  of  a  multi-objective  optimization  problem,  efficient,  week  efficient
+proper efficient solution, ideal and nadir vector. Multi-objective decision making
+Classical methods for solving multi objective optimization [6 lectures]: Weighted sum method,
+ϵ-constrained method, goal programming technique, weighted metric methods, lexicographic
+ordering method. Advantages and limitations of classical methods
+Multi-objective optimization using evolutionary algorithm [7 lectures]: Evolutionary algorithms
+for multi-obicative optimization - binary and real coded genetic algorithm NSGA-II, NSGA-III,
+particle swarm optimization for multi objective optimization, implementation of evolutionary
+Application of Multi-objective optimization in polynomial time problems [5 lectures]: shortest
+path problems, spanning trees, assignment problems
+Application  of  Multi-objective  optimization  in  NP  hard  problems  [5  lectures]:  Knapsack
+problems, branch and bound problems, and travelling salesman problems, application of multi-
+objective optimization in engineering
+1.  Dan Simon, Evolutionary Optimization Algorithms, Wiley, 2013
+2.  K. Deb, Multiobjective optimization using evolutionary algorithms, Wiley, 2003
+3.  M. Ehrgott, Multicriteria optimization, Springer, 2005
+1.  R Fletcher, Practical Methods of Optimization, 2nd Edition, Wiley, 2000
+2.  K. Miettinen, Nonlinear Multiobjective Optimization, Kluer Academic Publications, 1999.
+Online course Material
+1.  D.  Sharma,  Evolutionary  Computation  for  Single  and  Multiobjective  Optimization,
+Department  of  Mechanical  Engineering,  IIT  Guwahati  ,  NPTEL  course  materials,
+2.  K.  Deb,  Introduction  to  Optimization  and  its  Scope  in  Practice,  GIAN  -  MHRD,  IIT
+Digital Image Analysis
+Computer Science and Engineering, EE
+The Instructor will:
+1.  To introduce the origin and formation of digital imaging.
+2.  To  develop  the  understanding  of  different  types  of  imaging  techniques  for  different
+3.  To equip the students with various possible applications of image analysis.
+Students are expected to have the ability to:
+1.  Enhance image in spatial and frequency domain.
+2.  Implement various aspects of image segmentation and compression.
+Digital  Image  Fundamentals  [3  Lectures]:  Image  modeling,  Sampling  and  Quantization,
+Imaging  Geometry,  Digital  Geometry,  Image  Acquisition  Systems,  Different  types  of  digital
+Image Transforms [7 Lectures]: Basic transforms: Spatial and Frequency Domain Transforms
+Image  Enhancement  [7  Lectures]:  Point  processing,  interpolation,  enhancement  in  spatial
+domain, enhancement in frequency domain
+Color  Image  Processings  [3  Lectures]:  Color  Representation,  Laws  of  color  matching,
+chromaticity diagram, color enhancement, color image segmentation, color edge detection
+Image compression [4 Lectures]: Lossy and lossless compression schemes, prediction based
+compression schemes, vector quantization, sub-band encoding schemes, JPEG compression
+Morphology [5 Lectures]: Dilation, erosion, opening, closing, hit and miss transform, thinning,
+extension to grayscale morphology, Euler technique
+Segmentation  [5  Lectures]:  Segmentation  of  grey  level  images,  Watershed  algorithm  for
+segmenting grey level image
+Feature Detection [5 Lectures]:Fourier descriptors, shape features, object matching/features
+1.  C.  GONZALEZ,  R.E.  WOODS  (2018),  Digital  Image  Processing,  Prentice  Hall,  4th
+2.  A.K. JAIN (1989), Fundamentals of Digital Image Processing, Prentice Hall.
+Online course Material
+Quantum Cryptography and Coding
+The Instructor will:
+1.  Introduce the students to the fascinating field of cryptography and coding, with specific
+emphasis on the quantum aspects of it.
+2.  Highlight  a  number  of  facets  of  these  theories  having  some  parallel  with  the  more
+familiar classical world.
+The students are expected to have the ability to:
+1.  Understand the fundamental principles of quantum cryptography and coding.
+2.  Become  familiar  with  the  modern  aspects  of  the  theory,  including  its  experimental
+Cryptography  [10  Lectures]:  Various  aspects  of  modern  cryptography;  number  theoretic
+Classical  Coding  Theory  [6  Lectures]:  Concepts  of  entropy,  mutual  information  and  related
+aspects; Shannon's coding theorem.
+Basic concepts of Quantum Mechanics [5 Lectures]: From the perspective of information and
+cryptography: Hilbert space, states, operators: Hermitian and Unitary, simple measurements.
+Some basic no-go theorems [2 Lectures]: With implications to cryptography.
+Some  basic  applications  pertinent  to  quantum  cryptography  [12  Lectures]:  Entanglement,
+teleportation, dense coding, Quantum Key Distribution protocols: BB84, B92, Ekert protocol,
+Goldenberg-Vaidman, counterfactual quantum cryptography; protocols of quantum dialogue;
+Quantum  secret  sharing  protocol;  Quantum  cheating  and  cryptography;  Protecting
+information  and  QKA  (quantum  key  agreement);  Shor's  factoring  algorithm  and  modern
+cryptography; Experimental progress in quantum cryptography.
+Quantum Coding [4 Lectures]: Quantum aspects of Shannon coding theorem. (4 Lectures)
+1.  Nielsen Michael, A. and Chuang Isaac , I., (2010), Quantum Computation and Quantum
+Information, Cambridge University Press, 2010.
+1.  Benenti, G., Casati, G., and Strini, G., (2004) Principles of Quantum Computation and
+Information, World Scientific Press, 2004
+2.  Bouwmeester,  D.,  Ekert,  A.  and  Zeilinger,  A.,  (2000)  The  Physics  of  Quantum
+Information, 2nd edition, Springer, 2000
+Online course Material
+1.  Shor,  P.,  Quantum  Computation,MIT  Open  Course,  18.435J  Fall  2003,  Link
+Quantum Inspired Optimization
+MSc, M.Tech and Ph. D. Students
+Any nonlinear optimization course and basic
+concepts of quantum introduction.
+1.  Introduce quantum computing in optimization.
+2.  Formulation and solution of different optimization problems in quantum way.
+1.  Learn  to  solve  different  optimization  problems  using  quantum  annealers  and  digital
+2.  Learn about more general optimization problems and about the Variational Quantum
+Introduction of optimization [2 lecture]: General optimization problem, local/global solution,
+integer programming, binary knapsack programming and applications
+Quadratic unconstrained binary optimization problems [5 lectures]: Max cut problem and Ising
+model,  Formulating  the  problem  in  quantum  way,  Moving  from  Ising  to  QUBO  and  back,
+Combinatorial  optimization  problems  with  QUBO  model,  Application  in  Knapsack  problems,
+Graph colouring etc.
+Adiabatic  Quantum  computing  and  quantum  annealing  [5  lectures  ]:  Adiabatic  quantum
+computing, Quantum annealing, Constrained quadratic models in Ocean, Running constrained
+problem on quantum annealing
+Quantum  approximate  optimization  algorithm  [3  lectures]:  From  adiabatic  to  QAOA,Using
+QAOA with Qiskit, Using QAOA with PennyLane
+Grover adaptive search  [3 lectures]: Grover’s algorithm, Quantum oracles for combinatorial
+optimization, Using GAS with Qiskit
+transformations,Hadamard  transform,  σx  transform,  k-local  Hamiltonian  Problems,Graph
+structures and optimization problems
+Variational  Quantum  Eigensolver  [5  lectures]:  Hamiltonians,  observables,  and  their
+expectation values, Introduction of Variational Quantum Eigensolver, Using VQE with Qiskit,
+Using VQE and PennyLane
+1.  Elias F. Combarro, Samuel Gonzalez-Castillo: A Practical Guide to Quantum Machine
+Learning and Quantum Optimization, Pact Publishing Ltd., Birmingham, 2023.
+2.  W. Cruz-Santos, G. Morales-Luna: Approximability of Optimization Problems through
+Adiabatic Quantum Computation, Morgan & Claypool Publishers, California, USA
+Online course Material

@@ -1,0 +1,442 @@
+Indian Institute of Technology Jodhpur
+B.Tech. AI & DS Curriculum Structure AY 2020-21
+B.Tech. AI&DS Curriculum Structure AY 2020-21
+This  BTech  program  combines  two  broad  areas,  Artificial  Intelligence  and  Data  Science,  while  building  a
+strong foundation in Computer Science. Artificial Intelligence (AI) aims to create machines to act with higher
+levels of intelligence and emulate the human capabilities of sense, comprehend and act. On the other hand,
+Data Science (DS) is the art of generating insight, knowledge and predictions by processing data pertaining
+to  a  system  or  a  process.  AI  and  Data  Science  can  feed  into  each  other  as  evolutionary  systems  that  can
+continuously learn from data and thereby emulate humans better. As the demand for these areas increases,
+there is also an increasing need for building the future workforce for Artificial Intelligence and Data Science.
+IIT Jodhpur will offer this unique program to develop the Artificial Intelligence and Data Science ecosystem in
+the  country.  The  curriculum  includes  courses  in  computer  science,  mathematics,  artificial  intelligence,
+machine learning, and their applications in various domains. The curriculum also provides opportunities to
+the students to explore specialization areas including visual computing, socio-digital realities, robotics, and
+AIOT.  The  program  also  allows  the  students  to  venture  into  Management  specialization  with  AI  and
+Technology focus, leading to MBA (BTech + MBA dual degree program), as well as entrepreneurial activities.
+The program also enables the students to build strong industry linkages in terms of practical training program,
+summer internships, and co-supervision on projects.
+2. Objectives of the program
+1.  BTech  in  AI&DS  will  offer  students  with  in-depth  knowledge  of  fundamental  concepts,  as  well  as
+application- oriented technologies in the broad areas of Artificial Intelligence and Data Science.
+2.  A  student  completing  this  program  will  be  capable  of  undertaking  careers  in  industry  as  well  as
+academia. Interested students may also follow entrepreneurial endeavors in AI&DS areas.
+3.  He/She  will  have  the  option  to  explore  a  variety  of  domains  including  governance,  finance,  security,
+transportation,  healthcare,  energy  management,  agriculture/food  processing,  population  studies,  legal
+systems,  content  creation  and  management  systems,  weather  prediction,  economics,  predictive
+maintenance,  smart  manufacturing,  education,  human  and  robot  interaction/intelligent  automation,
+smart city, drug discovery, and aid for differently abled/accessibility technology.
+3. Expected Graduate Attributes
+After completing this program, a student will develop an ability to:
+fundamental  concepts  and  hands-on  knowledge  of
+the  state-of-the-art  AI&DS
+2.  Skill  set  to  clean,  process,  analyze,  manage  and  handle  security  and  privacy  aspects  of  structured  and
+3.  Ability  to  identify,  design  and  apply  appropriate  pattern  recognition  and  data  mining  methods  for
+generating relevant insight from data.
+4.  Design and build real-world AI&DS systems, solving application-specific problems, and to reason about
+5.  Conceive, design and develop Intelligent multi-modal multi-sensory Man-Machine interfaces.
+6.  Design, develop, and deploy machine learning based applications using structured and unstructured data
+(e.g., speech, text, images/videos).
+7.  Capability  to  follow  a  unique  interdisciplinary  approach  for  solving  problems,  using  knowledge  of
+mathematics, statistics, computing and one or more selected domains among physics, chemistry, biology,
+engineering sciences, and management.
+8.  Understand and assess reliability, dependability and trust-worthiness of AI&DS based systems and their
+impact on societal and environmental context.
+9.  Design and develop AI applications for resource constrained environments.
+10. Adhere to evolving ethics and privacy laws across various domains and territories.
+11. Plan and manage technical projects.
+4. Learning Outcomes
+The student will have an ability to
+1.  Apply the knowledge of mathematics, science, engineering fundamentals along with artificial intelligence
+and  machine  learning  knowledge,  and  an  engineering  specialization  to  develop  solutions  to  real-world
+2.  Apply  appropriate  theories,  design  principles,  frameworks,  and  protocols  to  develop  AI  &  DS  based
+3.  Demonstrate  hands-on  knowledge  of  modern  simulation,  and  AI  &  DS  programming  tools  with  an
+understanding of the limitations.
+4.  Apply to reason informed by the contextual knowledge to assess societal, health, safety, legal and cultural
+issues and the consequent responsibilities relevant to the professional engineering practice.
+5.  Function  effectively  as  an  individual,  and  as  a  member  or  leader  in  diverse  teams,  and  in
+6.  Communicate  effectively  on  complex  engineering  activities  by  comprehending  and  writing  effective
+reports and design documentation, making effective presentations and exchanging clear instructions.
+7.  Apply appropriate project and business management principles and tools for real-world problems.
+8.  Recognize  the  need  for,  and  have  the  preparation  and  ability  to  engage  in  independent  and  life-long
+learning in the broadest context of technological change.
+5. New skill sets targeted
+1.  AI&DS algorithms for transforming large data into actionable decision
+2.  Building end to end systems for enhancing human capabilities using vision, language, and text processing
+3.  Foundations in ML Optimization
+4.  Ethical, Safe, and Dependable AI/ML Systems
+5.  Familiarity with emerging and futuristic AI&DS techniques
+6.  Entrepreneurial capability
+7.  Written and oral communication
+6. Topic clouds and Mapping of Topic clouds with proposed courses
+Map topics with courses in the table given below:
+Table 1. Topics and Mapping of Topic with Courses
+AI and ML
+Abstract Data Types, Linear Data Structures, Non
+Linear Data Structures, Stack, Queue, Link List, Heap,
+Sorting, Hashing, Algorithm Analysis, Graph, Tree
+Discrete Structures, Logics, Set, Graph and Trees,
+Deterministic Finite Automata, Non-deterministic Finite
+Automata, PushDown Automata, Context Free
+Grammar, Turing Machine, Lexical and Syntax
+Data Structures and
+Maths for Computing (PC)
+Hardware-Software interaction, Digital circuit design
+and analysis, Computer system design, Instruction set
+architecture, Language translation, Semantic analysis
+Principles of Computer
+Systems - 1 (PC)
+Network-OS interaction, Process management, Storage
+Principles of Computer
+Systems - 2 (PC)
+Design and Analysis of
+Pattern Recognition and
+Machine Learning (IE)
+Technique  Artificial Intelligence (PC)
+Technique  Deep Learning (PC)
+Technique  Dependable AI (PC)
+Complexity Analysis, Divide-and-conquer, Greedy
+Algorithms, Dynamic Programming, Linear
+Programming, Universal Hashing, Max-flow Min-cut,
+Amortized Analysis, Traveling Salesman Problem,
+Bayes Decision Theory, Regression, Bias variance,
+Maximum Likelihood Estimation, Bayesian Parameter
+Estimation, Decision Tree, Random Forest, Artificial
+Neural Network, Clustering, k-means, SVM, Feature
+Selection, Dimensionality Reduction
+Uninformed Search Strategies, Informed Search
+Strategies, Local Search Algorithms, Hill Climbing,
+Constraint Satisfaction Problems, Backtracking,
+Adversarial Search, Min-Max algorithms, Propositional
+Logic, Reasoning Patterns, First-order logic, Syntax,
+Semantics, Q-value, Policy,
+Neural Networks, Gradient Descent, Optimization,
+Regularization, Autoencoder, Convolutional Neural
+Network, Recurrent Neural Network, LSTM, Deep
+Generative Models, Generative Adversarial Network
+(GAN), Deep Belief Network, Deep Convolutional
+GAN, Variational Autoencoder, Representation
+Learning, Unsupervised Pre-training, Transfer
+Learning, Distributed Representation, Domain
+Adaptation, Neural Language Model, Adversarial
+problem, Predictability, Transparency, Traceability,
+Causality, Reasoning, Attention and Saliency,
+Interpretable AI, Prediction Consistency, Adversarial
+Robustness, Trustworthy AI, Integrity, Reproducibility,
+Accountability, Bias-free AI, Verified AI, Federated
+Learning, Differential Privacy,
+Convexity, Linear programming, Duality, Integer
+programming, Nonlinear programming, Lagrange
+multipliers, First and second order conditions, Local
+and global convergence, Gradient descent methods
+Optimization for Machine
+Advanced AI (PE)
+Decision-making, Utility Theory, Utility Functions,
+Decision Networks, Sequential Decision Problems,
+Partially Observable MDP, Game Theory,
+Reinforcement Learning, Generalization, Policy Search,
+Hidden Markov Model, Kalman Filter, Knowledge
+Representation, Ontological Engineering, Situation
+Calculus, Semantic Networks, Description Logic,
+Planning graphs, Partial-order Planning, Conditional
+Planning, Continuous Planning, Multi-agent Planning,
+Hierarchical Task Network Planning, Non-deterministic
+Kernel Machines, Variants of Support Vector Machines,
+PAC Theory, Boosting, Graphical Models, Structural
+Predictions, Deep Reinforcement Learning, Sparse
+Computational complexity of AI models, Prediction
+accuracy, Numeric accuracy, Precision, Memory
+footprints, Edge AI, Memory Optimization of Models,
+Hardware accelerators for Edge AI, Vision Processing
+Unit, Streaming Hybrid Architecture Vector Engine,
+Open Neural Network Exchange
+Search Engine Architecture, Retrieval Models,
+Performance Evaluation, Text Categorization, Text
+Clustering, Web Information Retrieval, Structured
+Graph algorithms, Directed and Undirected graph,
+Planner graph, Graph coloring, Hamiltonion and
+Eulorian graph, Bipartite graphs, Trees.
+Streaming Algorithms, Stream mining using Clustering,
+Massive Data Clustering, Data Stream Classification,
+Distributed Mining of Streaming Data, Change
+Diagnosis, Forecasting on Stream, Dimensionality
+Reduction for Streaming data.
+Artificial Intelligence (PE)
+Information Retrieval (PE)
+Stream Analytics (PE)
+User experience, Prototyping techniques and
+evaluation, Interface design and interaction, Speculative
+design, Value sensitive design
+Visual World, Geometry, Lights and Optics, Tracking,
+Motion, Depth, devices and tools
+Technique  Introduction to AR and
+Graphs, Network Models, Network Data Generation,
+Structural Properties, Link Prediction, Community
+Detection, Information Cascade, Small World
+Phenomenon, Homophily, Structural Balance,
+Components, NetworkX, Gephi, Network Evolution,
+Technique  Social Networks (PE)
+Representing data, Data science ecosystem, data
+sources, data storage, data model, Structured data,
+unstructured data, semi-structured data, Accessing
+data, SQL, NoSQL databases, parallel data reads/writes
+for high throughput, distributed database, Analysing
+data, distributed data processing
+Data Engineering (PC)
+Data Visualization, Data representation, feature
+representations, encoded representations, Spatial data
+representation, Time-series data representations,
+Data Visualization (PC)
+visualization of multivariate data, geometry,
+Information illustration, Maps and Graphics, Advanced
+Visualization, Interactive graphics, infographics,
+visualization of high dimensional data
+Multivariate analysis, Sampling theory, Matrix
+decomposition, Algorithms for big matrices, Data
+Computational Neuroscience Models: Descriptive,
+Mechanistic and Interpretive models, Synapse, Neural
+encoding, Neural decoding, Neuron models, Spikes,
+Modeling connections between neurons, Synaptic
+plasticity and learning, Unsupervised and supervised
+learning from the perspective of neurons
+Biological signals, Biomedical imaging modalities,
+Sectioning, Multimodal images, Reconstruction, Image
+segmentation, Object delineation, Classification, Image
+registration, Deep Learning for Bio-imaging, Tracking,
+Interactive image analysis
+Image digitization, Pixel relationships and distances,
+Camera model and stereo imaging, Image transforms,
+Image Enhancement: Spatial and Frequency domain,
+Image Restoration, Image segmentation, Color image
+processing, image morphology, Image compression and
+coding, Image features
+Spoken language technology, dialog and conversational
+systems, automatic speech recognition, speech
+synthesis, affect detection, dialogue management.
+Image formation and transformations, Camera
+calibration, Image restoration, Spatial and Wavelet-
+based processing, Epipolar Geometry, SfM, Optical
+flow, Key-point detection, Feature description and
+matching, Deep learning for vision, Applications
+Maths for Big Data (PC)
+Technique  Digital Image Processing
+Techniques  Speech Understanding
+Techniques  Computer Vision (PE)
+Geometric primitives, clipping, viewing, rendering,
+animation, Shading, Coloring, OpenGL
+Technique  Computer Graphics (PE)
+Word representation, NLP tasks, Seq2Seq model,
+Question Answering, Sentiment Analysis, Dialogue
+system, Machine Translation, natural language
+generation, Interpretability, Knowledge Graphs
+Biometric system design, Genesis of biometrics, System
+architecture, Performance evaluation, Biometric
+modalities, Biometric security, Biometric devices,
+Multi-dimensional signals, systems, transforms and
+sampling; Camera models; Motion and shape
+estimation; Video segmentation and tracking; Video
+filtering, compression and restoring; Ego-centric, 360-
+degree and Streaming video
+Applications  Natural Language
+Applications  Advanced Biometrics (PE)
+Applications  Video Processing (PE)
+Regular B.Tech.  Double B.Tech.
+Total  Credit  Total
+7. Course Categories, credit distribution and Credit Structure of B.Tech. Programmes
+Table 2. ProposedCourse Categories and credit distribution in the proposed B.Tech. Programmes
+Institute Core (I)
+Programme Linked (L)
+Programme Core (P)
+Engineering Science (E)
+Programme Compulsory (PC)
+Programme Electives (PE)
+B.Tech. Project (PP)
+Open Electives (OE)
+Engineering Science Core (EC)
+Engineering Science Elective (EE)
+Design/Practical Experience (ND)
+Total Graded + Non-Graded
+8. Credit Structure of B.Tech. Programmes
+Table 4. Credit Structure for B.Tech. Programmes (Up 6000 Level)
+L-T-P  Distribution of contact and beyond contact hours
+1 hour of Lecture
+1 hour of Tutorial
+1 hour of Lab/Project
+#Contact hour for projects refers to the involvement of students in the laboratory, discussion, etc.
+9. List of Programme Compulsory Courses
+Table 5. Programme Compulsory Courses
+Sr. No  Course Name
+Data Structure and Algorithms
+2  Maths for Computing
+Principles of Computer Systems - 1 (Compilers and
+Contact Hours  Credit
+Design and Analysis of Algorithms
+Optimization for ML
+Principles of Computer Systems - 2
+5  Human-Machine Interaction
+10  Data Visualization
+11  Deep Learning
+12  Dependable AI
+13  DSAI Core Elective 1 (DS + X)
+14  DSAI Core Elective 2 (AI + X)
+15  Maths for Big Data*
+*For Core ES + AI&DS program, under DS+X for regular program, Ethics, Policy, Law and Regulations in AI
+(0- 0-2) is a core course under Professional Ethics - II (Sem VI).
+10. Area-wise Programme Elective Courses
+Table 6. Stream-wise Programme Electives Courses
+AI and ML
+Science of Intelligence
+Cyber Physical Systems,
+Sensors and Internet of
+Data and Discovery
+Advanced Artificial Intelligence
+Advanced Machine Learning
+Resource Constrained Artificial Intelligence
+Scalable Machine Learning
+Computational Learning Theory
+Graph Theoretic Algorithms
+Introduction to Robotics
+Planning and Decision Making of Robots
+Introduction to Haptics
+Introduction to AR and VR
+Advanced Human-Machine Interaction
+Digital Image Processing
+Natural Language Understanding
+Introduction to Cyber Physical Systems
+Embedded Systems Design
+Security in CPS
+Edge and Fog Computing
+Real Time Systems
+Introduction to Space Science
+Reliability Engineering and Life Testing
+Introduction to Game Theory
+Nonlinear Dynamics and Chaos
+Introduction to Financial Engineering
+Special Topics in ML
+Special Topics: Advancements in Computer Vision
+Special Topics in Data Science
+11. Specialization to be offered by the department
+Table 7a. Specialization and courses
+Specialization Core (8
+Visual Computing (CS,
+Computer Graphics (3-0-0),
+Computer Vision (3-0-0),
+Visual Computing Lab (0-0-
+Specialization Elective (12 Credits)
+Digital Image Processing, Video Processing and
+Analysis, Advanced Machine Learning,
+Introduction to AR and VR, Scalable Machine
+Learning, Computational Photography,
+Computational Imaging, Principles of Biological
+Vision, Bioimaging, Medical Image Analysis,
+Visual Perception, Advancements in Computer
+Vision, Animation, Real-time Vision
+Architecture, Image Synthesis, 3D Shape
+Analysis, Image and Video Forensics, Selected
+Topics in Computer Vision, Project (0-0-12)
+(CS, AI&DS, EE)
+Social Network (3-0-0),
+Introduction to AR and VR
+interface Lab (0-0-4)
+Introduction  to  Haptics,  Design  Process,  Speech
+Understanding,  Computer  Graphics,  HCI, NLU,
+Computer Vision, Visual Perception, Image and
+Video Forensics, Project (0-0-12)
+Jointly with EE
+Jointly with EE
+Jointly with RM-IDRP
+Jointly with RM-IDRP
+Jointly with EE
+Jointly with EE
+(for non-AI, non-CS
+AI (3-0-0), Deep Learning
+(3-0-0), AI Lab (0-0-4)
+Algorithm for big data, computer vision,
+machine learning with big data, edge and fog
+computing, NLP, GPU Programming, Data
+Visualization, Introduction to AR and VR,
+Dependable AI, Resource constrained AI, Social
+Network Analysis, Optimization, Computer
+Graphics, Advanced AI, Advanced ML, Project
+*Science of Intelligence, Smart Healthcare, and Language Technologies Specializations will be added in
+Table 7b. AI+X courses.
+1.  AI + Industry 4.0
+2  Autonomous Systems
+3.  AI + Transportation
+Jointly with ME
+Table 7c. DS+X (Applied Statistics) courses.
+1.  Maths for Big Data
+2.  Statistical Inference and Simulation Techniques  Maths course
+3.  Introduction to Financial Engineering
+4.  Time Series Analysis
+12. Curriculum of B.Tech. AI&DS  (Regular)
+Table 8b. Curriculum of B.Tech. in AI&DS
+CH  NC  GC  Cat
+CH  NC  GC
+IS  Chemistry Lab
+IS  Physics Lab
+IS  Mathematics II
+-  NH  Communication
+-  NH  Social Connect
+-  NH  Performing Arts
+II/ Sports II
+IE  Materials Science
+IE Introduction to
+IE Introduction to
+IE Introduction to
+IS  Mathematics I
+NH Social Connect
+NH Performing Arts
+I/ Sports I
+IE i- Energy materials
+PC Data Structures
+PC Maths for
+IE Signals and
+LS Quantum Info
+NE Intro. To
+4  PC  HMI PCS-1 PCS-2
+IH  Humanities I
+AI+X / DS+ X
+PC DA of
+IH Humanities II
+-  NH  Ethics,
+Regulations in AI
+PP B. Tech. Project
+AI+X / DS+ X
+IH Humanities III
+IS  Environmental Sci
+IH  Humanities IV
+Total of graded and Non-Graded Credit
+Non-Graded Design Credits
+13.  Curriculum of Double B.Tech. : B.Tech. AI&DS Engineering and Engineering Science
+Table 9. Programme structure of Double B.Tech.
+ES  Probability, Statistics,
+LTP  CH  NC  GC
+4  IE  Materials
+First two semesters same as Table 8a or 8 b 33 Graded and 6 non graded credits
+ES  Modern Physics
+3  ES  Embedded
+4  IE  Pattern
+ES  Data Structures and
+IE  Signals and Systems
+NE  Intro. To Profession
+PC  Maths for Comp.
+DA of Algorithm
+Artificial Intelligence  3-0-0
+Optimization in ML
+4  ES  Design of
+4  ES  Modelling and
+IH  Humanities I
+4  PC  PCS-1
+AI+X / DS+ X
+IH  Humanities II
+NH  Professional Ethics I
+-  NH  Ethics,
+PP  B. Tech. Project
+IH  Humanities III
+PC  AI+X / DS+ X
+Maths for Big Data
+IS  Environmental Science
+Total of graded and Non-Graded Credit  9
+Non-Graded Design Credits  6
+Note: ES are proposed Engineering Science compulsory courses

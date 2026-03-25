@@ -1,0 +1,34 @@
+Rheometer | Central Research Facility (CRF) | IIT Jodhpur
+MAKE: Anton Paar
+Peltier Temperature device (plate) [Temp. Range: -50ᵒC to +220ᵒC] with
+Cone plate measuring system,
+Parallel plate measuring system
+Peltier Temperature device (cylindrical) [Temp. Range: -30ᵒC to 200ᵒC) with
+Concentric cylinder System, Double-gap measuring system
+Convection Temperature Device (CTD): CTD is compatible with Rotational Drive [Temp. Range: -160ᵒC to 600ᵒC),
+Universal Extensional Fixture (UXF)
+Interfacial Rheological System (IRS) [Temp. range: 5 °C to 70 °C].
+Electro-Rheological Device (ERD) [Temp range: -50 °C and 300 °C]
+Dynamic Mechanical Analysis (DMA)
+Evaluate the flow behavior of creams, gels, and suspensions, ensuring proper spreadability, injectability, and long-term stability of drug formulations.
+Measures rheological properties of electrode slurries and printing inks to improve coating uniformity and device performance in batteries and printed electronics.
+Measures viscosity and viscoelastic properties of products like yogurt, chocolate, and sauces to ensure consistent texture, mouthfeel, and shelf stability.
+Characterizes melt viscosity and curing behavior of thermoplastics, thermosets, and elastomers to optimize processing and product performance.
+Assesses the application properties of lotions, foundations, and shampoos, ensuring a desirable feel and flow during use.
+Nature of sample to be analyzed: Solid, Thin film, Liquid, Gel-like
+The data will be updated soon once it is received from the CRF Center.
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone: 0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone: 0291 280 1347
+Name: Mr Lalit Mohan
+Designation: Junior Assistant
+Phone: 0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

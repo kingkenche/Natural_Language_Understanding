@@ -1,0 +1,12 @@
+Research Highlights | Computer Science & Engineering | IIT Jodhpur
+Patent LMM: Large Multimodal Model for Generating Descriptions for Patent Figures, AAAI 2025: Shreya Shukla,Nakul Sharma,Manish Gupta,Anand Mishra.
+An AI-based E-Nose : A Novel Approach to Odour Sensing and Emotional Context Recognition, APSCON 2024: Aishik Pal, Romi Banerjee, Anoop Behera, Patel Himmat Rajesbhai, Jagdish Suthar.
+Work on sketch-guided image inpainting by undergraduate student Nakul Sharma is accepted at CVPR 2024 Workshop.
+(Re)packing Equal Disks into Rectangle. Discrete & Computational Geometry (2024) pp. 1-24. Fedor V. Fomin, Petr A. Golovach, Tanmay Inamdar, Saket Saurabh, Meirav Zehavi.
+Show Me the World in My Language: Establishing the First Baseline for Scene-Text to Scene-Text Translation, ICPR 2024: Shreyas Vaidya, Arvind Kumar Sharma, Prajwal Gatti, Anand Mishra.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 01:10 PM

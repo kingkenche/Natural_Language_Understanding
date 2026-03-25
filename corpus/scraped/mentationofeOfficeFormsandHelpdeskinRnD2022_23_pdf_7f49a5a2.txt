@@ -1,0 +1,11 @@
+Steps for eOffice forms submission to Office of R&D
+Step-01: Go to e-Office https://eoffice.iitj.ac.in and login with your Login ID and password:
+Step-02: Go to e-File and click on Create for File creation in e-Office
+Step-3: Fill the details for File creation in e-Office
+Step-4: Creation of “Green Note” in e-Office
+Step-5: Copy the Form content from R&D website https://rnd.iitj.ac.in/index.php?id=forms and Paste it on Green Note and fill the requisite details
+Step 6: Create Receipt (Electronic) in eOffice for attaching supporting documents
+Step 7: Upload the supporting document, fill the requisite details and click on the Generate for creation the Receipt (Supporting documents) in eOffice
+Step 7: Attach the Supporting documents (created in Step 6) by clicking on “Add Receipt”
+Select the related
+Step 8: Send this eoffice file to HELPDESK-RND or to the Forwarding / Recommending Authority as mentioned in the SLA of the form

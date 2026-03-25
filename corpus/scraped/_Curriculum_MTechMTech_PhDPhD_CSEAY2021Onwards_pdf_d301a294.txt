@@ -1,0 +1,143 @@
+Indian Institute of Technology Jodhpur
+Dual degree M.Tech. (CSE) + PhD
+oﬀered by the
+Department of Computer Science and Engineering
+Traditionally Computer Science and Engineering (CSE) teaching were focusing on two major areas,
+i.e., theories and systems (database, computer hardware, and operating systems). With the advent
+of the era of Cloud Computing, Edge Computing, AI and Big Data, the discipline is being transformed
+by incorporation of new emerging technologies. It is becoming an instrumental tool in solving major
+problems faced by modern society such as energy, natural disasters, pollution, and water. Through
+this newly revamped M.Tech and M.Tech-Ph.D dual degree programs in CSE, IIT Jodhpur is making a
+conscious eﬀort to divulge from the traditional path and planning to reposition itself to become a
+leading institute in this new genre of Computer Science education.
+This M.Tech and M.Tech-Ph.D dual degree programs in CSE will oﬀer students with deep knowledge
+of core and applied computer science. Through this programme, a student will learn niche subject
+areas which are of paramount importance in the modern big data era, such as Computer Systems
+and Security. This programme is aiming at imparting the necessary breadth and depth to the
+students for pursuing careers in academics as well as in industry. This programme is aiming at
+extending undergraduate computing skills with up-to-date and in-depth expertise in specialized
+areas of Computer Systems and Security.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Understand fundamental concepts and hands-on knowledge of emerging ﬁelds in Computer
+2. Conceive, Design and Develop state-of-the-art scalable parallel and distributed systems
+3. Solve Big data problems through the knowledge of advanced data structures, distributed
+algorithmic design, analysis, and applications.
+4. Design and develop network protocols for Wireless, Sensor, Mobile, and Vehicular networks.
+Implement and Integrate cryptographic, fault tolerant algorithms for large scale
+6. Understand state-of-the-art hardware platforms for running compute intensive distributed
+7. Ability to understand and apply evolving ethics and privacy laws across various domains and
+8. Plan and manage technical projects
+1. Understand the fundamentals of algorithmic complexity, advanced computer architecture,
+advanced network, and security protocols.
+2. Apply appropriate design principles, framework and protocols to develop dependable systems.
+3. Demonstrate hands-on knowledge of cutting edge simulation, synthesizing, programming tools.
+4. Ability to design and develop system architecture for mobile, cloud, fog, and edge computing.
+5. Demonstrate hands-on knowledge of virtualization, data center design and management, and
+software deﬁned networking.
+6. Skills to comprehend and communicate eﬀectively.
+7. Apply appropriate project and business management principles and tools for real-world
+Course Structure for the
+M.Tech. (CSE) Program and
+Dual Degree M.Tech. (CSE)+Ph.D. Program
+Bridge Course on DSA
+Program Elective 1
+Program Elective 2
+Software and Data Engineering
+Core Bucket: Security and its
+Applications, Algorithms for Big
+Data, Computer Networks:
+Protocols and Applications
+Program Elective 3
+Open Elective 1
+Ethics and Professional Life
+*Maths Fractals: Linear Algebra, Probability and Random Processes, Optimization
+Total Credits: 16
+Total Credits: 16
+CSD7xx0 Major Project – Part 1
+Program Elective 4
+Program Elective 5
+Open Elective - 2
+System Engineering and
+CSD8xx0 Major Project – Part 2
+Program Elective 6
+Total Credits: 15
+Total Credits: 15
+**List of Prescriptive Electives
+Linear algebra for data science
+Statistics for Data Science
+*The students should have satisfactory performance in the course in order to be eligible for internships and
+placements opportunities from the institute.
+**Depending on the background of students, courses from the prescriptive electives can be recommended for
+students by the DRC.
+Program Electives for M.Tech. (CSE) and
+Dual Degree M.Tech. (CSE)+Ph.D. Program
+Courses oﬀered by Department of Computer Science and Engineering
+5G Mobile Networks
+Advanced Computer Graphics
+Advanced Computer Networks
+Advanced Human Machine Interface
+Advanced Operating Systems
+Ad hoc Wireless Networks
+Advance Artiﬁcial Intelligence
+Algorithms for Big Data
+Computational Social Choice Theory
+Computer Network Protocols and Applications
+Crowd-sourcing and human computing
+Digital Image Analysis
+Digital System Testing
+Distributed Database Systems
+Edge and Fog Computing
+Graph Theory and Applications
+Hardware Software Co-Design
+ICT for Development
+Introduction to AR and VR
+Introduction to Wireless Ad hoc Network
+Machine Learning with Big Data
+Neuromorphic Computing and Design
+Mobile and Pervasive Computing
+Natural Language Understanding
+Software Deﬁned Networks
+Software Testing and Quality Assurance
+Selected Topics in Computer Science - I/II/III
+Social Network Analysis
+Special Topics in Algorithms
+Security and its Applications
+Vehicular Ad-hoc Networks (VANETs)
+Virtualization and Cloud Computing
+Courses oﬀered by Department of Electrical Engineering
+Data Communication and Networking
+Digital Video Processing
+Digital VLSI  Design
+Embedded System Design
+Embedded System Design Lab
+Introduction to Cyber Physical S
+Introduction to Haptics
+Introduction to IoT Systems
+Mathematical Modelling and Simulation
+Information Theory and Applications
+Real Time Communications
+Real time systems
+Sensors and Measurement
+Introduction to Smart Grid
+Speech and Audio Signal Processing
+Statistical Decision Theory
+Image Sensor Design and Applications
+Courses oﬀered by Department of Mechanical Engineering
+Courses oﬀered by Department of Bioscience and Bioengineering
+Courses oﬀered by Department of Mathematics
+Computational Game Theory
+Advanced topics in Computational PDE
+Linear algebra for data science
+Numerical Linear Algebra
+Courses oﬀered by Department of Physics
+Quantum Information Processing
+Courses oﬀered by IDRP Digital Humanities
+Representation of Finite Groups
+Statistics for Data Science
+Quantum Cryptography and Coding
+Analysis of Social Media Networks
+Human Factors in Interaction Design
+Courses oﬀered by School of Management and Entrepreneurship
+Courses oﬀered by Other Departments
+Algorithms in Biology

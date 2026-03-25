@@ -1,0 +1,38 @@
+Students | Chemical Engineering | IIT Jodhpur
+A total of 40 students are currently Phd enrolled in the department of chemical engineering.
+Name Roll No Qualification Email Research Area Supervisor Siddharth Saraswati P20CH002 BTech in Chemical Engineering from MIT Manipal, Karnataka, MSc in Polymer Science from University of Freiburg, Germany and University of Strasbourg, France saraswati.1@iitj.ac.in  Structure-property relations in epoxy blends for electronic packaging Rahul Painuly D20CH004 B.Tech in Hindustan college of science and Technology, Mathura painuly.1@iitj.ac.in Electrocoalescence of water-in-oil emulsion stabilised by polymeric and surfactant droplets Dr. Vikky Anand Shashwat Bishwanathan D20CH006 B.E in Sant Longowal Institute of Engineering and Technology Sangrur Punjab (2019)  bishwanathan.1@iitj.ac.in  Selective Seawater electrolysis for hydrogen production, OER, CER, HER Dr. Prashant Kumar Gupta Goga Ram D20CH002 B.Tech (Chemical Engineering) NIT, Nagpur (2020) ram.3@iitj.ac.in  Understanding the effect of Magic Methyl in polymer solutions Dr. Nirmalya Bachhar Mukesh Kumar  D20CH003 B.Tech (chemical engineering): GGU, Central University, Bilaspur (C.G) kumar.203@iitj.ac.in   Molecular modelling and simulation for carbon capture at high temperature Dr. Angan Sengupta Shefali Gupta P20CH202 BTech ITM University Gwalior, Mtech NIT Jalandhar gupta.87@iitj.ac.in  Molecular Modelling and Simulations to study blast furnace gas mixture properties inside porous network Dr. Angan Sengupta Chaitanya Dharmendra kumar Gandhi D21CH003 B.Tech (Chemical Engineering) L.J. Institute of Engineering and Technology, Ahemdabad gandhi.4@iitj.ac.in  Molecular Dynamics simulations of Polyaniline to understand the morphological properties and applications. Dr. Praveen Kumar Sappidi Sweta Jha P22CH007 B.E Sant Longowal Institute of Engineering and Technology,Sangrur, Punjab (2019), M. Tech Thapar Institute of Engineering and Technology, Patiala, Punjab (2022) p22ch007@iitj.ac.in  Molecular Simulation of understanding the separation of furfurals. Dr. Praveen Kumar Sappidi Mohd Salim Siddique P22CH202 Mech Aligarh Muslim University p22ch202@iitj.ac.in Stability Of Thin Flim Dr. Tara Chand Kumawat Hemant Vaidhya P22CH003 B.Tech (Chemical Engineering) RITEE, Raipur(2017), M.Tech (Chemical Engineering) NIT Raipur (2021) p22ch003@iitj.ac.in  Fabrication of low cost ceramic membrane for water and wastewater applications. Dr. Vikky Anand & Prof Pradip K Tewari Etisha Bhardwaj P23CH0001 B.Tech (Civil Engineering), PDPU,2019 p23ch0001@iitj.ac.in  Tailored polymer based hollow fiber membranes for societal applications Dr. Vikky Anand & Prof Pradip K Tewari Sarangi V S P21CH001 BTech University of Calicut, Kerala, MTech APJ Abdul Kalam Technological University, Kerala sarangi.2@iitj.ac.in  Molecular-Designing of Polymer Electrolyte Membranes Using  Computational Approach to Reduce Methanol Crossover in Direct Methanol Fuel Cell Dr. Angan Sengupta Rahul Kumar P22CH005 B.Tech ( Chemical Engineering) Hindustan college of science and Technology, Mathura, M.Tech (Petroleum Processing & Petrochemical Engineering) Aligarh Muslim University, Aligarh P22ch005@iitj.ac.in  Epoxy Composites for electronic packaging: Microstructure and properties evolution. Anushka Gajanan Kunde D23CHE001 B.Tech(Chemical Technology) Sant Gadge Baba Amravati University, Amravati ,Maharashtra. Year of passing B.Tech is 2023 d23che001@iitj.ac.in  Mn and V based oxides as cathode materials for zinc ion batteries. Dr. Prashant Kumar Gupta B.S Thirumalesh P22CH008 BE Chemical Engineering from RVCE Bangalore (Affiliated to VTU Belgaum), Karnataka 2002, MTech Chemical Plant Design from NITK Surathkal Karnataka 2005 p22ch008@iitj.ac.in  Plasmon enhanced photocatalysis for energy and environmental applications Dr. Ramesh Asapu Deepa Kshirsagar P23CH0004 B.E(Chemical Engineering) Sinhgad College of Engineering,Pune, M.Tech(Chemical Engineering Computer Aided Process Design)L.D College of Engineering,Ahmedabad p23ch0004@iitj.ac.in Tailored membrane for selective Ion recovery Dr.Vikky Anand and Prof.Pradip K Tewari Zulqar Nain Ahmed P24CH0020 M.Tech(Petroleum Processing and Petrochemical Engineering) Aligarh Muslim University. Year of passing is 2022 p24ch0020@iitj.ac.in Synthesis of bio chemical/fuels using heterogeneous catalyst Dr. Sumit Kamal Javed Ahmad P24CH0009 Btech (Chemical Engineering)  Aligarh Muslim University, Mtech (Petrochemical Engineering)  Aligarh Muslim University p24ch0009@iitj.ac.in Plasmon Enhanced and HOIP photocatalysis for energy and environmental applications Dr. Ramesh Asapu
+MTech (Nanotechnology), Aligarh Muslim University, 2024
+Encapsulation of Phase Change Materials
+Dr. Krunal Gangwane
+M.Sc. Chemistry, Pt. Ravishankar Shukla University, Raipur
+Computational Molecular Catalysis
+Prof. Parag Arvind Deshpande
+Md Fazal Mabood
+M.Tech (Chemical Engineering), LIT University Nagpur, 2022
+Application of Phase Change Material in Agricultural Field
+Dr. Krunal Gangwane
+M.Sc. Physics, IIT Jodhpur (Astrophysics)
+Exploring 2D Materials for Ni Cluster in CO₂ Hydration Reaction
+Prof. Parag Arvind Deshpande
+Tushar Rajesh Lakhani
+B.Tech Chemical Engineering, NIT Srinagar
+Petroleum and Wastewater Management
+Dr. Vikky Anand
+Masters in Chemical Engineering, DCRUST
+Thermal Interface Materials for Advanced Electronic Packaging
+M.Tech, HBTU Kanpur
+Computational Design of Ni-based Alloy Catalyst for CO₂ Capture
+Prof. Parag A. Deshpande
+B.Tech - Banasthali Vidyapith, M.Tech - NIT Bhopal (Chemical Engg.)
+Dr. Vikky Anand, Prof. Pradip K. Tewari
+Chauhan Dipenkumar Vinubhai
+B.E - DDU Nadiad, M.E - GTU Ahmedabad (Chemical Engg.)
+Molecular Dynamic Simulation
+Dr. Praveen K. Sappidi
+Kishan Sen P24CH0205 B.Sc - Jai Narain Vyas University, Jodhpur M.Sc - Jai Narain Vyas University, Jodhpur p24ch0205@iitj.ac.in Development of Heterogeneous Catalyst for Synthesis of Furfural Derivatives Dr. Sumit Kamal
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 02 Mar 2026 - 05:17 PM

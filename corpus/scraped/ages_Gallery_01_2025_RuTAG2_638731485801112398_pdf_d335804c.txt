@@ -1,0 +1,269 @@
+Prof. Rajendra Prasad Memorial Issue
+Vol. 9, No. 2, July 2021
+With heavy heart, I have to share another difficult to digest news
+of losing Prof. Rajendra Prasad of our Centre for Rural Develop-
+ment  and  Technology  at  IIT  Delhi  on  May  9,  2021.  He  was  the
+founding Coordinator of RuTAG IIT Delhi and the Principal In-
+vestigator  of  the  project  since  its  establishment  in  2009.  I  took
+over  from  him  in  2014.  This  was  our  second  shock  during  the
+COVID pandemic after we lost Prof. R.R. Gaur, the past Chair-
+man of the Core Committee of RuTAG IIT Delhi, in Dec. 2020.
+Even though the period of last six months was coincided
+with the second wave of the COVID pandemic, we tried our best
+to cope up with the situation and still marching ahead with our
+activities. We could conduct our Core Group meeting online under
+the  able  leadership  of  Dr.  Vibha  Gupta  (new  Chairperson).  We
+continued our effort supporting a new initiative from the Ministry
+of  Panchayat  Raj  and  Rural  Development  through  the  Office  of
+the PSA to build a Smart Vending Cart, which is separately fund-
+ed by the DST. Another important activity we carried out in last
+several months while mostly working from home is preparing the
+User’s Manual of most of the products which are sold through In-
+novative Product Development of RuTAG ITT Delhi through FITT,
+IIT Delhi. They will make the use and maintenance of the products
+by the owners easy.
+Prof. Subir Kumar Saha
+Welcome to Dr. Vibha Gupta as the
+New Chairperson of Core Group
+RuTAG  IIT  Delhi  welcomes  its  new
+its  Core  Group,
+Dr.  Vibha  Gupta!  Dr.  Gupta  is  the
+founder of Magan Sangrahalaya Samiti
+(MSS)  at  Wardha,  Maharashtra,  the
+National Museum of Rural Technology
+started  by  Mahatma  Gandhi.  She  has
+immense  contribution  in  the  rural
+development  and  women  empowerment.  Dr.  Gupta  received
+“Swami Rama Humanitarian Award” in 2016 by Swami Ramdev
+(Founder  of  Patanjali  Yogpeeth)  for  her  contributions  to  the
+society. All  staff,  collaborators,  and  well-wishers  of  RuTAG  IIT
+Delhi will look forward to the guidance of Dr. Vibha Gupta.
+A Tribute to Prof. Rajendra Prasad
+My  journey  with  Prof.  Rajendra  Prasad
+started more than two decades ago when
+one of our mechanical students approached
+me to help him in a carpet project under
+Prof. Prasad. Instantly, I refused telling him
+that carpet is Textile to me. However, with
+little insistence, I tried to understand and
+met Prof. Rajendra Prasad. It was the de-
+sign  of  looms,  cleaning  mechanisms,  etc. As  a  result,  I  agreed  to
+be the Co-Principal Investigator. I vividly remember our Saturday
+meetings at Micro Model Complex of the Centre for Rural Devel-
+opment and Technology (CRDT) at IIT Delhi whose name is now
+changed  to  Gramodaya  Parisar. We  visited  Bhadohi  in  Uttar  Pra-
+dash together ‘n’ times where the project was getting implemented.
+His  passion  towards  rural  development  was  immense.  Soon,  we
+became family friends as we lived in the same apartment complex
+(Taxila) for a long time.
+Later,  when  RuTAG  was  established  in  2009,  Prof.  Rajendra
+Prasad and Prof. R.R. Gaur involved me in one of the projects on
+Tulsi  Mala  Bead  making  device  for  Bharatpur,  Rajasthan. Again,
+our paths met. Soon I realized that we must tell young students and
+others about our work on rural development. Hence, this newsletter
+was born in 2013.
+Comes 2014, when Prof. Prasad was retiring. With his sugges-
+tion, my first Regional Workshop as the coordinator of RuTAG IIT
+Delhi was held at Jashpur Nagar in Chattisgarh. The concept of Un-
+nat Bharat Abhiyan (UBA) was born during the discussion with Mr.
+Kripa Prasad Singh of Vanavasi Kalyan Ashram who was hosting
+the workshop. In 2014, when IIT Delhi was asked by MHRD (now
+Ministry  of  Education)  to  coordinate  the  UBA  nationally,  I  was
+asked by the administration to coordinate. The first person I asked
+before I gave my consent was Prof. Rajendra Prasad. Later, due to
+my other administrative responsibilities as the Heads of ME Dept.
+and ITMMEC (now CART), I had to relinquish that responsibility,
+but  journey  continues  under  the  leadership of  Prof. V.K. Vijay  of
+Even  at  times  we  had  differences  in  working  styles  our  motto
+was same, i.e., “Rural Development.” I must salute him for his roles
+in rural development. Let his soul rest in peace and his message for
+the rural sectors carries forward!
+Prof. Subir Kumar Saha
+1 |  RuTAG,  News lette r,  Vol.9/2
+1. Aloe Vera Cream Making Compact Machine
+PI – Prof. R. P. Saini, Dept. of Hydro and Renewable Energy, IIT Roorkee
+Collaborating NGO – Society for Farmers Development, Mandi, Himachal Pradesh
+Aloe  Vera  has  been  used  by  mankind  for  thousands  of  years  in  folk  medicine  for
+therapeutic properties, especially on skin.
+Lots of machines are available to process Aloe-Vera but they are huge in size
+and cannot be afforded by low-income farmers. Even existing small size Aloe-Vera
+processing  machine  lacks  in  single  unit  for  processing  the  Aloe-Vera.  In  existing
+machines, grinding blades are not efficient to grind the Aloe-Vera pulp. Due to this
+problem  Aloe-Vera  is  processed  in  various  stages  which  is  time  consuming  and
+production rate become very slow. So, in order to solve the problem of the existing
+machine, new model of Aloe-Vera processing machine (Figure 1) has been developed.
+For execution of the operation of this machine, first of all, Aloe-Vera leaf are peeled
+to extract the pulp for grinding purpose then Aloe-Vera juice is made. After that bee’s
+wax and mustard oil are mixed and indirect heating is given through water jacket for
+melting  at  higher  temperature.  At  the  end,  the  juice  and  the  mixture  is  mixed  and
+stirred together along with constant heat supplied to it for making moisturizing cream.
+2. Improved Herbal Coil Machine
+PI – Prof. P. B. Bhadoria, Agriculture and Food Engineering, IIT Kharagpur
+Collaborating NGO – Not Available
+The  pedal  operated  mosquito  coil  making  machine  (Figures  2a  and  2b)  uses  the
+concept of Impact forces. The material prepared with the help of a mould fixed at the
+top.  While  pressing  the  pedal,  the  lever  mechanism  connected  to  it  converts  the
+moment given by the pedal into vertical translatory motion. Cutting mould fixed right
+above its geometric centre. After the cutting action takes place, platform falls back
+under gravity, and to reduce the jerk, a spring is incorporated that supports the platform
+and takes it to its initial position of operation. On testing of the machine, it produces
+7 mm thickness coils. The capacity of the machine is about 120 coils per hour.
+3. Miniaturized Wool Carding Machine
+PI – Prof. S. K. Saha, Dept. of Mechanical Engineering, IIT Delhi, Prof. Rabisankar
+Chattopadhyay, Dept. of Textile Engineering, IIT Delhi
+Collaborating NGO – Khamir, Village Kukma, Bhuj, Gujarat
+The  problem  of  Wool  carding  (Figure  3)  came  from  an  NGO,  Khamir  from  Bhuj,
+Gujrat,  during  RuTAG  IIT  Delhi  regional  workshop  in  June  2019.  Local  artisans
+urgently need a solution for wool carding because Khamir currently uses carding from
+a  mill  in  Bikaner,  which  is  counterproductive  as  it  increases  the  cost  of  the  whole
+process, such as transportation and processing. Also, the quality of carded wool is not
+what the artisans expect. Afterall, it is contrary to the philosophy of local processing,
+production, and employment. Older second-hand machines are also available in the
+market, but they are expensive and require a lot of space to operate and maintain.On
+the  other  hand,  the  commercial  carding  machine  fabricators  show  little  interest  in
+designing a small scale simplified machine for carding. To understand the problem, a
+questionnaire  was  prepared  and  shared  with  Khamir.  Information  was  collected
+through  discussions,  interviews,  and  questionnaire.  Further  development  is  in
+4. Sand Terrain Cart to use in river island
+PI – Prof S. K. Kakoty, Dept. of Mechanical Engineering, IIT Guwahati
+Collaborating NGO – Rural Economic and Development Society
+RuTAG  IIT  Guwahati  in  collaboration  with  READS  (Rural  Economic  and
+Development Society) developed a cart useful for carrying goods in the riverbank area.
+The problem has been identified from a place known as Sadiya, Tinsukia district.
+Continued to Page 3
+Figure 1: Aloe-Vera
+Figure 2(a): Dr. R.
+Herbal coil making
+Figure 2(b): Mosquito
+coil made by the Herbal
+Coil Making Machine
+Figure 3: Wool carding
+(Picture source: Internet)
+2 |  Ru TAG,  News l ette r,  Vol.9/2
+In Continuation of Page 2
+The dairy business is very popular at this place and vendors from Tinsukia, and nearby
+places collect the milk from Sadiya. The problem faced by the farmers is that after
+taking out the milk from the cattle they have to transport these cans to the mainland
+from  these  islands.  This  method  of  transportation  is  full  of  drudgery  and  it  is  very
+slow. There is a gap of S&T intervention to improve the method of transportation and
+uplift the economy of the farmers. A tricycle cart (Figure 4) has been developed by
+RuTAG-IIT  Guwahati  team  and  field  tested  to  drive  in  the  sandy  terrain  of  the
+riverbank  area. It is  propelled by a chain drive mechanism. The cart is suitable for
+transportation of various products and suitable for operation in those areas.
+Figure 4: Sand Terrain Cart
+Training on weaving technology for tribal weavers of Karbi Anglong, Assam
+RuTAG  IIT  Guwahati  provided  a  training  from  19th  –  23rd  February  2020  on  various  weaving  related  technology
+developed  by  RuTAG  IIT  Guwahati  (Figures  5a  and  5b).  These  weavers  came  from  Karbi  Anglong,  Assam  and  a
+handholding  training  was  provided  to  them.  The  machines  that  are  introduced  to  the  weavers  are  Hank  to  Bobbin
+Winding Machine, Pirn Winding Machine, Sectional Warping Machine and Power Loom. Along with the hand holding
+support, the trainers were also taught about the importance of these machines in the weaving sector. With the use of
+technology,  it  will  increase  the  productivity  and  uplift  the  rural  economy.  The  weavers  were  also  taught  about  the
+importance of various silk and their market demand in the international market. Various designs, market linkage and
+different government schemes were also discussed during the training programme.
+Figures 5(a) and (b): A hands on training to the
+Figures 6(a): RuTAG and Khamir team with shepherds; (b) Visit
+to wool spinning cluster
+A visit to Bhuj, Gujarat
+Mr. Yashwant Prasad (Project Associate) and Mr. Ashish Dahiya (Jr. Project Assistant) from RuTAG IIT Delhi have
+visited Khamir, NGO based in Bhuj, Gujarat, during Jan 15-21, 2021. The visit was to study the feasibility of Wool
+Carding Machine, Tawa Making cluster, and Sheep Shearing.
+On the first day, RuTAG and Khamir Team visited a village 20 km away from Bhuj to meet the local shepherds (Figure
+6a) and gather information aboutthe availability of sheep and their breeds. The RuTAG team met the shepherds and
+asked them about their livelihood and the shearing method of their sheep. During this visit, it was also found that there
+are  four  types  of  breeds  available  in  Bhuj,  which  are  Patanwadi,  Marwadi,  Baradi,  and  Ghari.  The  Patanwadi  and
+Marwadi breeds have good wool quality compared to other breeds in the region. The shepherds told them that they had
+to wander around the pasture and could not stay in a particular place to feed the flock. They also said that a sheep needs
+to be shorn twice or thrice a year. The hand-shorn wool does not have any commercial value; therefore, the shepherds
+need to throw it away. Khamir helps them by procuring the hand-shorn wool. The next day, the team visited a wool
+spinning cluster (figure 6b). In this cluster, 25-30 women were working on the spinning of the wool sliver. The Khamir
+team helps to operate this cluster by providing a carded sliver. The Khamir team procures the wool from the shepherds
+and then sends it to Bikaner for carding. The carded sliver gets distributed to the villages where the Khamir team has
+set up the spinning clusters. After spinning, the Khamir procures the thread from the clusters and then makes products
+like Bags, Kurtis, etc. The process involving the transportation of raw wool, carding of the wool, and sliver is very
+costly. Khamir team expressed their need to develop the miniaturized wool carding machine so that the whole process
+from wool to the product can be localized.
+Continued to Page 4
+3 |  Ru TAG,  News lette r, Vol.9/2
+In Continuation of Page 3
+On the last day, the team visited the earthen tawa-making cluster. A 6-ton motorized press was being used to make the
+tawa. The RuTAG team met Mr. Ramju Bhai, an artisan working in this field for more than 40 years. Ramju Bhai
+expressed the need to improve the furnace for tawa firing to the RuTAG team.
+The RuTAG team expressed its gratitude to the Khamir team for the arrangements to make this trip a success.
+Mr. Ashish Dahiya (Jr. Project Asstt.), and Mr. Yashwant Prasad (Project Associate), RuTAG IIT Delhi
+CETSD (Center for Emerging Technologies for Sustainable Development)
+CETSD  is  the  center  at  IIT  Jodhpur  which  puts  on  the  ground  viable  solutions  through  schemes  combining  the
+technology, funding, management, social, data and environmental touchstones. Communities, industries, government,
+students,  academic  institutes,  individuals,  and  non-governmental  organizations  are  a  part  of  this  trans-disciplinary
+center. In 2019, Prof Santanu Chaudhury, Director IIT Jodhpur said, that the Center for Emerging Technologies for
+Sustainable Development is the scientific social responsibility arm of IIT Jodhpur. The vision of CETSD is “To be a
+partner in tapping the potential of emerging technologies for creating a sustainable and prosperous future India”. There
+are five major broad missions on which CETSD is working. These are as follows:
+1. To provide a platform for non-governmental and governmental collaborators to work together to apply
+emerging technologies for finding and implementing solutions towards achieving SDG targets.
+2. To help develop scientific temper societies to understand technologies that are sustainable or technologies that
+are using sustainability aspects.
+3. To  innovate  solutions  and  strategies  towards  challenges  in  location  specific  problems  related  to  energy  use,
+education, water management, infrastructure, traditional livelihood skills, and health.
+4. To perform applied research in areas such agriculture, environment, healthcare, waste management, pollution,
+livelihood, knowledge dissemination and rural development.
+5. To make synergistic policy suggestions to handle issues in energy use, agriculture, water management, local
+pollution in a region and its influences on health.
+With mission 4, CETSD also aligns itself with the decree of the Ministry of Human Resource and Development (now
+Ministry of Education) to set rural development centers at all IITs. CETSD will work towards all the 17 UNSDGs but
+will concentrate on a handful of them at a time on a priority basis as per the requirement and funding availability.
+Health, water management, education tools and management, industry partnerships and collaborative programs are the
+major focus at CETSD. At present, CETSD has live projects on the ground at Sirohi contributing to the Aspirational
+District Scheme of the Government of India. Silicosis prevention clinics and camps using telemedicine, AI technologies
+and  Genomic  intervention  and  dust  extraction  solutions  are  deployed  in  certain  mines  across  Sirohi.  Here  other
+institutions such as CEERI Pilani, CSIR-IGIB, AIIMS Jodhpur are also collaborative partners.
+Water  technologies  such  as  membrane-based  purification  devices,  water  production  devices,  and  household  water
+purification has been installed in various locations at different district of Western Rajasthan. For example, more than
+five installations of UF hybrid water purification technologies have been installed in rural schools across Jhunjhunu,
+Pali, Sirohi and Jodhpur. CETSD faculty also has IITJ campus Site C, which is almost 5 acres, to pilot their technologies
+and demonstrate them to the common public. The functioning of the Ministry of Education’s Unnat Bharat Abhiyan
+(UBA) Regional Coordination Center is also accommodated within CETSD. CETSD faculty gets involved with Rural
+Technology Action Group (RuTAG) IIT Delhi to enable the rural grass root communities of artisans and farmers with
+novel technologies, for example, modified pitcher Irrigation.
+CETSD also hosts the popular ETSD (Emerging Technologies and Sustainable Development) seminar series where
+academicians, industrialists, and knowledge bearers from across the world share their expertise and know-how to the
+different stake holders including the different regional educational institutions in Rajasthan and India. CETSD is also
+starting the Doctoral program on Sustainability and Technology as well as also modular certificate courses aligned to
+the thoughts of technology for sustainable development.
+With a strength of 20 faculty members, CETSD team strives to enable optimal usage of renewable natural resources,
+showcases responsible orientation of technologies and institutional abilities to serve the society towards attaining their
+Prof. Anand Palapally, IIT Jodhpur
+4 |  Ru TAG,  News lette r, Vol.9/2
+A Multilingual Glance at Our Recent Newsletters
+For original articles in English of RuTAG newsletters Vol. 8, No. 2, July 2020, and Vol 9, No. 1, Jan 2021, kindly visit the link:
+Translated by Dr. Prasenjit Sarkhel, Dept. of Mechanical Engg. UCET, VBU, Hazaribagh
+Figure 7: SSPV being retrieved
+without disturbing soil
+Figure 8(a): Stacking of Tawa; 8(b): Firing of Tawas; 8(c): Tawa
+5 |  Ru TAG,  News lette r, Vol.9/2
+Translated by Prof. M. R. Ravi, Mechanical Engg. IIT Delhi
+Continued to Page 7
+6 |  Ru TAG,  News lette r, Vol.9/2
+In continuation of Page 6
+Figure 9: Mound Based Sub Surface Porous Vessel with
+hybridized Compost Patch
+Translated by Dr. Susha Lekshmi S. U., NPDF, IIT Delhi
+Continued to Page 8
+7 |  Ru TAG,  News lette r, Vol.9/2
+In continuation of Page 7
+Figure 10(a): Mask at closed
+Figure 10(b): Mask at open
+Figure 11: Interactive session with
+Translated by Mr. Suraj Bhat, Ph. D. Scholar, IIT Delhi
+IIT KANPUR           iitk.ac.in/rutag/
+IIT KHARAGPUR    http://www1.iitkgp.ac.in/nss/uba/thrust.html
+IIT MADRAS               rutag.iitm.ac.in
+IIT MUMBAI               www.ctara.iitb.ac.in/en/rutag/
+IIT GUWAHATI       www.iitg.ac.in/mech/Rutag-pal/index1.htm
+IIT ROORKEE         www.rutagiitr.wordpress.com
+For technical advice and collaboration:
+Prof. S. K. Saha, Editor
+Ph. 011-26591135, E-mail: sahaiitd@gmail.com
+For general queries:
+Mr. Davinder Pal Singh/ Mr. Raj Kumar Gupta
+RuTAG IIT Delhi Office
+8 |  Ru TAG,  News lette r, Vol.9/2

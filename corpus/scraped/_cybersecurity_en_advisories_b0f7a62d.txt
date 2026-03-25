@@ -1,0 +1,191 @@
+Cybersecurity Advisories | Cyber Security | IIT Jodhpur
+Scope and Target Audience
+The underlying digital infrastructure of institutions has become an essential national resource. One of the main issues that affects all digital residents is cybercrime. We request all IITJ users to read the following cybersecurity advisory carefully to raise awareness. All IITJ users are expected to abide by the following guidelines.
+Desktop/ laptop/ Thin-client/ Workstation and Printer security at office/ Intranet
+Always download applications/ software from trusted sources.
+Set Operating System updates to auto-update from a trusted source.
+All IITJ users are recommended to use antivirus software on personal computers. If you have a Windows computer, you can use the built-in Windows Defender software for antivirus. Antivirus software will help keep your computer free of malicious software such as viruses, worms, and Trojan horses. You also need to protect yourself against spyware and adware, which can gather your personal information or create an opening for more serious threats.
+Ensure that the Antivirus clients installed on systems/devices are updated with the latest virus definitions, signatures, and patches. Perform a full antivirus scan of the entire system at regular intervals after updating its signatures.
+Computer systems must have genuine Windows OS licenses and applications. The activation key must be recorded and kept for OS license activation in case the system is formatted due to unavoidable situations. No unwanted applications or data must be stored or installed on the system.
+Always lock/log off from the desktop when not in use.
+Always keep the computer firewall “ON”.
+Keep the printer's software updated with the latest updates/patches.
+Set up unique pass codes for shared printers.
+Internet access to the printer should not be allowed.
+Keep the GPS, Bluetooth, Wi-fi, NFC, and other sensors disabled on the desktops/laptops. They may be enabled only when required.
+Do not write passwords, IP addresses, network diagrams, or other sensitive information on any unsecured material (ex, sticky/post-it notes, plain paper pinned or posted on the user's table, etc.).
+Do not use any external mobile app-based scanner services (ex, Cam scanner, etc) for scanning internal government documents.
+Keep a regular backup of critical data.
+Remove/delete applications that are not in use.
+Users shall never share hard disks or folders with anyone. However, whenever necessary, only the required folders shall be shared with the specific user for a specific period.
+Scan the USB device with Antivirus/ Endpoint Protection before its use.
+8 + 4 Rule: Use complex passwords with a minimum length of 8 characters, using a combination of capital letters, small letters, numbers, and special characters.
+Change passwords at least once in 90 days.
+Use Multi-Factor Authentication, wherever available.
+Do not use the same password in multiple services/websites/apps.
+Do not save passwords in the browser or any unprotected documents.
+Do not share system passwords or printer pass codes, or Wi-Fi passwords with any unauthorized persons.
+Common passwords such as admin@123, Password, admi,n or which contain words such as unit name, room no, telephone, mobile, or other things which are generally known to other colleagues must be avoided.
+Do not use dictionary words as passwords. Do not use personal information such as DOB, roll number, name, etc in your password.
+Internet Browsing Security
+While accessing Government applications/services, email services, or banking/payment-related services or any other important application/services, always use Private Browsing/Incognito Mode in your browser.
+While accessing sites where a user login is required, always type the site's domain name/URL manually on the browser's address bar, rather than clicking on any link.
+Ensure that you respect copyright laws when using academic resources and materials online.
+Do not use a proxy or other sites to bypass campus firewall security.
+Use the latest version of the internet browser and ensure that the browser is updated with the latest updates/patches.
+Do not store any usernames and passwords in the internet browser.
+Do not store any payment-related information in your internet browser.
+Do not use any 3rd party anonymization services (3rd party VPN, Tor, Proxies, etc). Avoid using unauthorized VPN services and remote desktop tools like AnyDesk and TeamViewer.
+Do not use any 3rd party toolbars (ex, download manager, weather toolbar, ask me toolbar bar etc.) in your internet browser.
+Do not download any unauthorized or pirated content /software from the internet (ex, pirated movies, songs, e-books, software).
+Do not use your official systems for installing or playing any Games.
+Cache and History should be deleted regularly from the browsers after every usage on internet-connected systems.
+Enable genuine ad-blockers to protect from advertising.
+Ensure the genuineness of SSL/TLS websites while performing online transactions.
+Please be more cautious when clicking any TLD domain ending with .xyz, .top, .pw, .ru, .tk, .biz, etc.
+Legitimate websites do not often have hyphens or symbols in their domain names. Scammers will use these elements along with known brands to try to trick you. For example, www.google.com is not the same as www.google-search.com .
+Sometimes you will come across a domain that is shown just as an IP address (e.g., http://101.10.1.101). You should not click this type of URL unless you are familiar with the IP address and you know exactly where the link will take you.
+Ensure that the mobile operating system is updated with the latest available updates/patches.
+Do not root or jailbreak your mobile device. The rooting or jailbreaking process disables many built-in security protections and could leave your device vulnerable to security threats.
+Keep the Wi-Fi, GPS, Bluetooth, NFC, and other sensors disabled on the mobile phones. They may be enabled only when required.
+Download Apps from the official app stores of Google (for Android) and Apple (for iOS). Do not install apps from untrusted sources unless you are sure about the source of the app.
+Before downloading an App, check the developer & popularity of the app and read the user reviews.
+Observe caution before downloading any apps which has a bad reputation or a small user base, etc.
+While participating in any sensitive discussions, switch off your mobile phone or leave the mobile in a secure area outside the discussion room.
+Do not accept any unknown request for Bluetooth pairing or file sharing.
+Before installing an App, carefully read and understand the device permissions required by the App along with the purpose of each permission.
+In case of any disparity between the permissions requested and the functionality provided by an app, users are advised not to install the App (Ex, A calculator app requesting GPS and Bluetooth permission).
+Note down the unique 15-digit IMEI number of the mobile device and keep it offline. It can be useful for reporting in case of physical loss of a mobile device.
+Use auto lock to automatically lock the phone or keypad lock, protected by a pass code/ security patterns, to restrict access to your mobile phone.
+Use the feature of Mobile Tracking, which automatically sends messages to two preselected phone numbers of your choice, which could help if the mobile phone is lost/ stolen.
+Take regular offline backup of your phone and external/internal memory card.
+Before transferring the data to the Mobile from the computer, the data should be scanned with an Antivirus having the latest updates.
+Do not open any links shared through SMS or social media, etc., where the links are preceded by exciting offers/discounts, etc., or may claim to provide details about any latest news. Such links may lead to a phishing/malware webpage/app, which could compromise your device.
+Report lost or stolen devices immediately to the nearest Police Station and the concerned service provider.
+Disable automatic downloads on your phone.
+Always keep an updated antivirus security solution installed.
+Ensure that Multi-Factor Authentication is configured on the Email Account.
+All unwanted and unsolicited emails are known as 'junk email' or 'spam'. Never reply to such emails.
+Do not share the email password with any unauthorized persons.
+Do not use any unauthorized/external email services for official communication.
+Do not click/open any link or attachment contained in emails sent by unknown senders. Ensure the authenticity of the sender before opening the attachment in the email. Check for headers of the original mail to check the authenticity.
+Reviewing your Gmail account activity regularly will provide you with helpful information about what's going on with your account. Click the Details link next to the Last account activity line at the bottom of any Gmail page to view your account activity.
+Be cautious while opening emails with attachments and hyperlinks in your email. Observe extra caution with documents containing macros while downloading attachments, always select the "disable macros" option, and ensure that protected mode is enabled on your office productivity applications like MS Office.
+Be aware of current social engineering attacks and do not install any files in computer systems based on the directions over the phone/mobile, wherein the caller would be pretending to be someone very important government official, and insisting on urgency to download the files sent over email.
+Be cautious of unsolicited contact from a seemingly known associate, family member, or law enforcement agency. Scammers will often use similar emails and assume the receiver will not look closely. Example: xxxxxx.iitj.ac.in@gmail.com/ xxxxxx.iitj.ac.in@yahoo.com instead of xxxxxx@iitj.ac.in .
+Removable Media Security
+Perform a low format of the removable media before its first usage.
+Perform a secure wipe to delete the contents of the removable media.
+Scan the removable media with Antivirus software before accessing.
+Secure the files/folders on the removable media by encryption.
+Always protect your documents with a strong password.
+Do not plug in the removable media on any unauthorized devices.
+Disable auto-run functionality of the removable media while plugged into the computer system.
+Do not use a removable disk in unsecured systems.
+Social Media Security
+Limit and control the use/exposure of personal information while accessing social media and networking sites.
+Always check the authenticity of the person before accepting a request as a friend/contact.
+Use multi-factor authentication to secure social media accounts.
+Do not click on the links or files sent by any unknown contact/user.
+Do not publish or post, or share any internal government documents or information on social media.
+Do not publish or post, or share any unverified information through social media.
+Do not share any official documents through messaging apps like WhatsApp, Telegram, Signal, etc.
+Avoid sharing private information such as home address, private pictures, phone number, Aadhaar Number, or any other private or official information publicly on social media.
+Review the social media privacy settings to ensure the level of security for personal networking profiles.
+Avoid clicking on Ads that promise free money, prizes, or discounts.
+Ensure location services and geo-tagging features are off and switched on, only when required.
+Do not use the Government emblem, insignia, etc. in your posts.
+Do not unnecessarily post addresses, telephone numbers, bank details, etc, as these could make you, your friends, and family a target.
+Do not reveal the exact posting and nature of work if you are posted in a sensitive department.
+Online Video Calls and Conferencing
+Enable password authentication to enter the meeting room.
+Enable the waiting room feature in video conferencing software.
+Lock the meeting once all the participants have joined.
+Turn off the screen sharing functionality and remote monitoring features.
+Be careful about clicking on links and opening documents.
+Be careful what you show in the background.
+Be careful what is on your screen before using the screen-sharing function.
+Turn off anything that gives the app too many permissions.
+Malware Defense Related
+Always set automatic updates for the Operating System, Anti-Virus, and Applications as envisaged in earlier points.
+Configure web browsers to block pop-ups, disable unnecessary plugins, and enable secure browsing features.
+Enable hidden file & system file view to find any unusual or hidden files.
+Type %temp% in "Windows Run" and delete all entries after opening any suspicious attachments.
+Open Command Prompt and type netstat -na. Check out the Foreign established connection with IP addresses and their ownership.
+Type "msconfig" in "Windows Run" and check for any unusual executables running automatically.
+Check the Network adapter for data/packets received and sent. If the outgoing / sent is unusually high, then it is very likely that the system is compromised.
+Always be cautious while opening attachments, even from known sources. Try to use non-native applications for opening attachments (as an example, use WordPad to open a Word document).
+When in doubt, better to format the Internet-connected computer instead of performing some "patchwork".
+Prohibit any remote logon to the system (RDP, SMB, RPC) for local administrators.
+Check regularly if any unusual applications are running from %appdata%, %tmp%, %temp%, %localappdata%, %programdata% directories. For Linux,  you can view Running Processes with the top command. The top command interactive mode starts, shows the process IDs, the users, the amount of memory and CPU power each process uses, the running time, etc. To terminate an unwanted process, a kill command can be used. The syntax is: kill [process ID].
+Internet Connection Control
+When connecting to a Wi-Fi network, always connect to secure networks. Avoid using unsecured public Wi-Fi networks for sensitive tasks. When connecting to the institute network from outside, use the institute VPN (Virtual Private Network) services.
+Do not share internet access credentials with others.
+Do not enter your IITJ password in a non-IITJ domain website (URL not ending with the pattern iitj.ac.in). Usually, CC/DIA does not ask you to log in to any interface with an IP address as a URL
+Do not install any network switches and Wi-Fi Access points/routers without informing Digital Infrastructure and Automation (DIA).
+For security reasons, it is completely forbidden to use a personal Wi-Fi AP in a hostel and to connect to the campus LAN.
+Avoid connecting personal devices to unsecured networks, such as unprotected public networks.
+Avoid submitting sensitive information when using public Wi-Fi.
+Honey Trapping and Social Engineering
+Be vigilant of suspicious/unsolicited communications from unknown individuals. Be particularly wary of individuals who seem to be overly interested in personal/professional life, or who ask for sensitive information. The beginning signs of these interactions may be such as liking every post, commenting/complementing almost every post..
+Any content (post, picture, blog, profile info, etc) posted on social media should not reveal any sensitive information like Rank/Department/Unit/Current Project/Uniform/Tour Plan, etc., in the backdrop.
+Clicking/opening advertisements or any downloadable content shared by the unknown should be avoided, as it may lead to installing malware on the systems.
+Steer away from unknown dating sites and do not trust generous offers.
+Do not meet any unknown or little-known person in any shady or lonely places like hotel rooms, etc.
+Do not engage in video calls from unknown numbers on social media platforms like WhatsApp, Facebook, Telegram, Signal, etc.
+Wi-fi AP/ Router related security at residence
+Change default credentials for the wireless admin console and network.
+Update wireless router firmware regularly.
+Turn off remote management functionalities like WPS and Universal Plug and Play (UPnP).
+Enable MAC address filtering and MAC binding to keep unauthorized devices away from wireless networks.
+Keep wireless networks down when not in use.
+For initial setup, it is recommended to contact the DIA support team.
+Do ensure that no sensitive information is passed over on telephone.
+Always check the identity of the Caller before entertaining the call.
+Do not get nervous if a caller identifies himself/herself as a superior officer, especially if you cannot identify him/her. Do take the number and call back after informing your senior officer.
+Bring to the notice of your senior officer and the DIA team if you find any infringement of instructions on the security of telephones.
+Do not discuss official matters over the telephone and other social media platforms with friends/family members and unauthorized persons on any telephone, i.e, official/ residence/mobile.
+Do not disclose the whereabouts/movements of officials of your setup, Senior officers/VIPs/VVIPs to unauthorized/ unidentified callers. Do not disclose important events/dates to anyone on the telephone, in case you are not sure about the person at the receiving end.
+URL Structure Information
+Always look at the link carefully before clicking. A genuine website will usually have https:// and a small padlock 🔒 in the address bar.
+Take a moment to read the domain name . A small spelling error or an extra character can mean it’s a fake site trying to trick you.
+If you get a link through an unexpected email, SMS, or message, don’t rush — verify it first through official sources or type the web address yourself.
+Use bookmarks or type the website directly in your browser, especially for sensitive logins like banking, government, or work portals.
+If something about a link feels suspicious , trust your instincts — don’t click.
+Never share passwords or sensitive details on a site unless you are sure it’s genuine.
+If you accidentally open a suspicious site, close it immediately and inform your IT/security team.
+Keep your browser updated to help detect and block fake or unsafe websites.
+Generative AI Safe Use
+Generative AI can create text, images, videos, music, and other content automatically.
+It can be useful for learning, work, and creativity.
+Always think before sharing anything created by AI.
+Do not trust AI content blindly — it may look real but can be wrong or fake.
+Double-check any important information from trusted sources.
+Do not share personal or sensitive information with AI tools.
+Avoid uploading private photos, documents, or passwords.
+Never use AI to create or spread harmful, fake, or illegal content.
+If AI gives personal or suspicious requests, do not follow them.
+Be careful when sharing AI-generated content on social media.
+Use only trusted and official AI platforms.
+Read the terms and privacy policies before using any AI tool.
+Teach friends and family how to use AI responsibly.
+Use AI as a helper, not as the only source of truth.
+If unsure, ask a trusted person or verify with a reliable source.
+If you suspect a cybersecurity incident or data breach, report it by sending an email to Digital Infrastructure and Automation (DIA) immediately at ( cybersec@iitj.ac.in ).
+Remember that cybersecurity is a shared responsibility, and your actions are crucial in maintaining a secure academic environment. Stay vigilant, stay informed, and help protect your institute's digital assets and personal information.
+Cyber Security Resources
+The following resources may be referred to for more details regarding the cybersecurity-related notifications/information published by the Government of India:
+Act and Policies | Ministry of Electronics and Information Technology
+Act, Policies & Guidelines
+Security Advisories, Guidelines & Alerts
+Security Advisories, Guidelines & Alerts
+Security Tools & Best Practices
+Security Awareness materials
+Report Cyber Crime, Cyber Safety Tips
+Guidelines for Indian Government Websites
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 10:21 AM

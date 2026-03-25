@@ -1,0 +1,36 @@
+Indian Institute of Technology Jodhpur
+Syllabus for the post of TECHNICAL SUPERINTENDENT (Computer Science & Engineering)
+(WRITTEN TEST & SKILL TEST)
+-  Basic and Advanced Linux Commands
+-  Windows Server Administration
+-  Storage Servers and their Connectivities: NFS, SAN, NAS, PFS
+-  Web Servers, Application Servers, Apache, Ngnix, IIS
+-  Database Installation and Configuration, My SQL, Postgresql
+-  Basics of OSI, TCP/IP Model
+-  Basics of IPv4 and IPv6 (Internet Protocol), IPv4 Subnetting, VLAN, Network Topology,
+-  Network Protocol, Type of Network Devices, Port Security, TCP/UDP, Basic of Routing
+-  Wireless LANs, Wireless LAN 802.11 Service Set, Wireless Security, Wireless
+-  Authentication Methods along with DHCP and DNS
+(static as well as dynamic), VoIP.
+IT Equipments and Interpreting Technical Data Sheets
+-  Server Configurations and Data Sheets
+-  CPU/GPU Configurations and Data Sheets
+-  CPU Variants such as Server Processors, Desktop Processors, Different OEM
+-  RAM Type, Bus Speed
+-  Router/Switch/Firewall Configurations and Data Sheets
+-  Understanding of Data Center, Cooling, Power Requirements and their Data Sheets
+-  UPS Configurations
+-  MS Office or Other Office suites
+-  Collaborative Platforms such as Google Docs, Overleaf, etc.
+-  Calendar Management
+-  LaTeX for Technical Documentations
+-  Understanding and Creating UML/BPML Documentation
+-  Creating Technical Diagrams: Vector Diagrams such as EPS, SVG
+-  Creation of Technical Presentations
+Technical RFP Preparation
+-  PHP, C#, Java, Python
+-  Object-Oriented Design Principles
+-  Agile Project management
+-  Gantt Chart
+-  Organizing, Assigning and Tracking Tasks
+-  Calendar Management

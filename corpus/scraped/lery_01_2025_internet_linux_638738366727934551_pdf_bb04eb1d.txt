@@ -1,0 +1,14 @@
+IITJ_WLAN configuration steps for Linux User
+Connect with SSID:  IITJ_WLAN from available Wi-Fi connection  on your machine.
+Enter your internet access username and password and click on okay to access internet
+Select Network under Wi-Fi connection and select IITJ_WLAN to connect.
+On authentication popup kindly select following settings.
+Security: WPA2/WPA3 Enterprise / 802.1x EAP
+Authentication: Protected EAP (PEAP)
+Anonymous identity: leave it blank
+CA Certificate: select No CA certificate is required
+PEAP version: Automatic
+Inner authentication: MSCHAPV2
+Username: (Internet access ID)
+Password: (Internet access password)
+At last click on Apply and access the internet services.

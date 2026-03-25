@@ -1,0 +1,24 @@
+Research Overview | Electrical Engineering | IIT Jodhpur
+The research areas pursued by faculty members of the Department of Electrical Engineering can be broadly categorized as follows. Please click on the respective groups to know about their research and associated labs.
+If you wish to browse Research Areas mapped to the Technology Tracks of the Department, please click on the respective Tracks below to view the research themes, associated research groups, labs and faculty members for each technology track.
+Additionally, faculty members from the Department are engaged in challenging interdisciplinary research in collaboration with faculty members across various departments and discplines through the Institute's Interdisciplinary Research Platforms (IDRPs).
+(1) 5G & Beyond Communication Research Themes Rate, reliability and complexity limits in MIMO communications Performance improvement and security of Optical Wireless Communications Millimeterwave antennas and circuits for 5G application
+Associated Research Groups   Associated Laboratories Associated Faculty Members Aashish Mathur Arani Ali Khan Arun Kumar Singh Nitin Bhatia Soumava Mukherjee
+(2) Signal Processing & Interpretation Research Themes Sociodigital Reality (AR, VR, Haptics, Speech and Language Analysis) Visual Computing (Computer Vision, Visual Forensics, Machine Learning) Signal Processing for IoT (Predictive Maintenance, Digital Twin, Communication)
+Associated Research Groups Associated Laboratories Associated Faculty Members Amit Bhardwaj Anil Kumar Tiwari Himanshu Kumar Manish Narwaria Rajendra Nagar Rajlaxmi Chouhan Sandeep Kumar Yadav
+(3) Cyber-Physical Systems Research Themes Multi-agent system Mechatronics & cyber-physical systems Robust & optimal control Adaptive control & robotics Electric vehicles
+Associated Research Groups   Associated Laboratories Associated Faculty Members Abdul Gafoor Shaik Anoop Jain  Deepak Fulwani Niladri Sekhar Tripathy
+(4) Nanoelectronics & Integrated Circuits Research Themes Multi-agent system Oxide metal semiconductors by sputtering for sensor applications 2D materials: MoS2, AlGaN/GaN HEMTs Bandgap engineering and surface studies of semiconductors Micro and Nano device fabrications Organic and Flexible Electronics: Field-effect transistors (FETs), Circuits, and Sensors Electrical characterization, Parameter extraction, Interface characterization Device Simulation: New and Unconventional Devices Compact Modeling for Circuit Simulations CMOS image sensors Analog and mixed-signal circuits
+Associated Research Groups Associated Laboratories Associated Faculty Members Ajay Agarwal Amandeep Kaur Bhupendra Singh Reniwal Harshit Agarwal Jai Narayan Tripathi Kamaljit Rangraa Mahesh Kumar Saakshi Dhanekar Shree Prakash Tiwari
+(5) Smart Grid Research Themes Control of micro-grid & uncertain system Demand-side management Microgrid Control and dynamics of distributed generation Condition monitoring
+Associated Research Groups   Associated Laboratories Associated Faculty Members Abdul Gafoor Shaik Deepak Fulwani Nishant Kumar Ravi Yadav
+(6) Embedded Computing & SoC Research Themes High-speed VLSI Systems and EDA tools Signal Integrity Neuromorphic Computing
+Associated Research Groups Associated Laboratories Associated Faculty Members Amandeep Kaur Arpit Khandelwal Deepak Fulwani Jai Narayan Tripathi
+(7) Artificial Intelligence of Things (AIoT) Research Themes Communication protocols for RF energy harvesting-based systems Chipless RFID Signal Processing for IoT (Predictive Maintenance, Digital Twin, Communication) Visual Computing (Computer Vision, Visual Forensics, Machine Learning)
+Associated Research Groups Associated Laboratories Associated Faculty Members     Aashish Mathur Ajay Agarwal Amandeep Kaur Amit Bhardwaj Anil Kumar Tiwari Arpit Khandelwal Arun Kumar Singh Debasis Das (CSE) Himanshu Kumar Jai Narayan Tripathi Kamaljit Rangra Mahesh Kumar Nitin Bhatia Rajendra Nagar Saakshi Dhanekar Sandeep Kumar Yadav Shree Prakash Tiwari Soumava Mukherjee
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

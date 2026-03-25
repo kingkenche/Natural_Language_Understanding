@@ -1,0 +1,31 @@
+Fluorescence Spectrometer (Temperature Dependent) | Central Research Facility (CRF) | IIT Jodhpur
+Fluorescence Spectrometer (Temperature Dependent)
+Fluorescence Spectrometer (Temperature Dependent)
+MAKE: Perkin Elmer
+MODEL: LS 55
+Fluorescence, Phosphorescence, Chemiluminescence, and bioluminescence analyzer
+Source: Xenon discharge Lamp
+Monochromators: Monk Gillieson type monochromator covers the following range.
+Excitation 200-800nm with zero-order selectable
+Emission 200-650nm with a standard photomultiplier
+Temperature Range: 0-100 degrees C, Set at 20 degrees C
+Type of Samples: Liquid Samples
+Detection and quantification of biomolecules like DNA, proteins, and enzymes using fluorescent tags.
+Analysis of photoluminescent properties of nanomaterials, quantum dots, and organic semiconductors.
+Type of Samples: Liquid Samples
+The data will be updated soon once it is received from the CRF Center.
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone: 0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone: 0291 280 1347
+Name: Mr. Lalit Mohan
+Designation: Junior Assistant
+Phone: 0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

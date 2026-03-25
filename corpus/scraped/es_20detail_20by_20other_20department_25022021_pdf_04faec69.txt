@@ -1,0 +1,63 @@
+S.N.  Department Name
+B.Tech.  Computer  Science  and
+B.Tech.  Mechanical  Engineering
+Outside Department Programme
+Introduction to Internet of Things, EE
+Introduction to Data Science,  EE
+Computational Imaging, EE
+Embedded System Design, EE
+Embedded System Design Lab, EE
+Image Sensor Design and Applications, EE
+Introduction to Cyber-Physical Systems, EE
+Principles of Data and System Security, EE
+Resource Constrained AI, EE
+Sensors and IoT Lab, EE
+Speech and Audio Signal Processing, EE
+Systems-on-Chips Design, EE
+Wireless Communication, EE
+Data Communications and Networking, EE
+Introduction to Robotics, ME
+Quantum Computing, CY/PH
+Introduction to Quantum Information,
+Quantum Cryptography and Coding, CY/PH
+Fundamentals of Digital Humanities:
+Fractal-2 (Data and Knowledge
+Analysis of Social Media Networks, CS
+Human Factors in Interaction Design, DH
+Digital Methods and Tools: All Three
+Planning and Decision Making for Robots,
+Autonomous Systems, CS
+Computational Game Theory, MA
+Medical Devices and Implants, BB
+Solidification Processing, MT
+Powder Metallurgy, MT
+Thermo-Mechanical Processing, MT
+Near-Net Forming, MT
+Plastic Deformation and
+Microstructure Evaluation , MT
+Introduction to Data Science, MA
+Reliability Theory, MA
+Advances Statistical Techniques, MA
+Introduction to Modelling, MA
+Artificial Intelligence I, CS
+Machine Learning I, CS
+Introduction to CPS, EE
+Introduction to IoT, EE
+Sensors and Measurements, EE
+Machine Learning 1 - CS
+Neuromorphic computing and design - CS
+Artificial Intelligence 1  - CS
+Edge and Fog Computing  - CS
+Robotics (or any fractal)  - ME
+Optimization  - MA
+Introduction to Data Science, MA
+Reliability Theory, MA
+Advances Statistical Techniques, MA
+Introduction to Modelling, MA
+Particle Physics, PH
+Quantum Mechanics, PH
+Quantum Computing, CY/PH
+Quantum Field Theory, PH
+Computer Vision, CS
+Digital Image Analysis, CS
+Bio-Image Computing, CS

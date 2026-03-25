@@ -1,0 +1,201 @@
+RuTAG IIT Delhi News
+Happy New Year 2022
+Vol. 10, No. 1, January 2022
+It is my pleasure to see the existence of our newsletter for a decade now. The journey was not easy as collecting
+articles, compiling, and formatting was done by the RuTAG staff in the middle of daily workloads to meet deadlines
+of various projects  undertaken.  I congratulate them  for their sincere efforts to  produce such important  documents
+regularly twice in a year for last ten years.
+I take this opportunity to thank Dr. Anand Plappally of IIT Jodhpur to conduct project under the banner of
+RuTAG IIT Delhi and even transferring the technology to an entrepreneur. This is the first technology transfer in
+history of RuTAG IIT Delhi existence since 2009. I hope many more faculty/researchers outside IIT Delhi will follow
+this stint for the benefit of country’s majority who live in the villages.
+The initiative of top team based online projects by RuTAG IIT Delhi during the last summer was a successful
+experiment during the pandemic period when the students cannot meet physically to do the projects together. The
+feedback in the article of this newsletter is really satisfying, particularly as a faculty, I have never seen such feedback
+by  the  students  since  1996  when  I  joined  the  institute.  It  also  fulfilled  some  design  credit  requirements  of  the
+undergraduate students. We plan to continue and extend such practices in future as well.
+Let us hope our 2022 will be NO CORONA year when we will be able to say hello to each other face-to-face,
+not through computer screen.
+Happy New Year!
+Prof. S. K. Saha
+The  technology  on  “Controlled  porosity  frustum  shaped  subsurface
+vessel with hybridized compost patch” was developed by Dr. Anand
+Plappally, Associate Professor, IIT Jodhpur under a project funded by
+RuTAG IIT Delhi got licensed through i-TTO (Figure 1) to a startup
+company, Unnada Private Limited.
+Figure 1: Template by i-TTO
+Development of App for Ground Water Management
+by IIT Indore
+An  app  for  Ground  Water  Management  has  been  developed  by  Dr.  Aruna
+Tiwari, and team at IIT Indore. This app have features like geolocator. One can
+add, and  edit  data  in  the  app.  This  app  will  be  helpful  in  water  level
+visualization. This app have multilingual interfaces to benefit the users based in
+different localities. A workshop on Ground Water Management was conducted
+at IIT Indore in collaboration with RuTAG IIT Delhi.
+1 | R uTAG,  Newslette r,  Vol .10 /1
+Figure 2: Ground Water
+Management Workshop poster
+Wool Carding Machine
+PI –Prof. R. Chattopadhyay, Dept. of Textile Engg., IIT Delhi
+Co-PI – Prof. S. K. Saha, Dept. of Mechanical Engg., IIT Delhi
+Collaborating NGO – KHAMIR, Bhuj,Gujarat
+A miniature wool carding machine (Figure 3) has been designed by RuTAG IIT Delhi
+to card Patanwadi wool. The carding machine is expected to card wool between 1 to
+2 Kgs per hour. It consists of two drums, namely, a main cylinder and a lickerin. Harraj
+Industries  has  been  identified  as  the  manufacturing  partner.  The  fabricated  carding
+machine will be tested for Patanwadi wool at IIT Delhi. Required corrections will be
+incorporated based on the feedback. Then, a field visit to Bhuj will be planned for user
+feedback. Khamir (an NGO) from Bhuj will be supporting the field testing of the new
+Drum Carding Machine.
+Figure 3: CAD Model of
+Bharatpur visit: Testing of Potters Kiln for Tawas and a dome for Stone Carvers
+A field visit was undertaken by Mr. Suraj Bhat and Mr. Yashwant Prasad to Bharatpur from Oct. 24 to Oct. 27 to carry
+out field activities of Tawa Furnace and Dome for Stone dust projects. Lupin Human Welfare and Research Foundation
+(NGO) coordinated the activities.
+The Potters Kiln (Figure 4) in Unch village was tested to evaluate its performance for firing Tawas. Potters from Unch
+and Poonchhari villages participated and assisted the team in the firing process that included Tawa staking, firing, and
+removing  the  baked  Tawas.  Around  420  Tawas  were  fired,  and  sawdust  was  used  as  fuel.  The  team  got  some
+convincing results from firing trial. Both Stacking and firing of Tawas completed within two hours and then kiln was
+allowed to cool down. The next morning (around 9 AM) the baked Tawas were taken out from the kiln. Only about
+2% of Tawas got damaged in the form of cracks. However, some issues such as the blackening of the Tawas due to
+the deposition of soot was also observed. The potters informed that this can be overcome by filling the kiln upto the
+top. Based on the feedback of trial firing the height of the kiln above the grate has been reduced to 1.5 feet  in the
+modified  design.  Furter,  a  new  kiln  has  been  planned  to  be  constructed  in  Poonchhari  village  for  testing  and
+The Dome manufactured for prevention of stone dust inhalation was tested in Rudawal village near Bharatpur (Figure
+5). The site had around 30 to 40 labourers working on stone carving. Users were asked to try working with the Dome.
+The Dome is made of plastic with special coating so that the dust does not stick to the surface. It also consists of
+openings like a glovebox where the user can instert their hands. Feedback was collected on the aspects of usability and
+ergonomics. Further design iterations will be carried out based on the feedback.
+Figure 4: Testing of Potter’s Kiln for firing of Tawas
+Figure 5: Testing of a Dome for Stone Carvers
+2 | R u TAG,  Newslette r,  Vol .10/ 1
+Integrated Pottery Development by RuTAG IIT Madras
+in  Tiruvallur  District’.  With
+Towards  facilitating  innovation  in  traditional  pottery,  RuTAG  IIT  Madras  implemented  ‘Integrated  Pottery
+products, technology support from a CSIR Institute (CGCRI) was leveraged. Preliminary testing of newly developed
+microwave compatible clay products was done at the ‘Centre for Social Development (CSD)’, which collaborated as
+the implementation partner for the initiative. Further to the testing at CSD, the dissemination of technology for the
+poor rural artisans in and around Chennai was targeted. The ideation was pitched as a proposal to IOCL-SRPL (Indian
+Oil Corporation Limited- Southern Regional Pipelines Division), and Tiruvallur district was identified a livelihood
+cluster. The dissemination of the technology was done through CSR funds of IOCL-SRPL through the project entitled
+‘Integrated  Pottery  Development  in  Tiruvallur  District’.  Tapping  CSR’s  support  for  technology  dissemination  by
+RUTAG is first of its kind, done through this project.
+The primary objective of the project was to improve the livelihood of the potter communities in the area with upgraded
+skills  and  capacities  through  capability  building  programs  and  exposure  to  enhanced  infrastructural  facilities  and
+technological  advancements.  The  project  introduced  a  set  of  hard  and  soft  interventions  for  integrated  pottery
+development along with the technology of microwavable pottery (leveraged from CGCRI) in Tiruvallur district. The
+project was targeted in enhancing the marketing of the products by providing quality production techniques, design
+interventions and thereby improving the marketing infrastructure. The community was also trained to manage business
+through improved marketing and sales linkages. About 80 potters were trained so far in these aspects.
+A Common Facility Centre (CFC) was set up at Perumudivakkam for which land was provided by Govt of Tamil Nadu
+wherein the potters are having access to improved tools and equipments. The CFC was inaugurated on 11th August
+2021 in the presence of various stakeholders including the District Collector.
+The Key outcomes envisaged from this Common Facility Centre include:
+•  Three-to-four-fold increase in income for potters
+•  Products from integrated pottery technologies draw income four times more than the market value of traditional
+Immense market opportunity and possibility of export
+•  Provides entrepreneurial avenues for trainees through hands on training experience as well as guidance through
+•  Encourages adoption and scaling up such initiatives in other pottery clusters across the state.
+Craft awareness programme on Tulsi mala bead making process organised by SPIC MACAY
+On July 11, 2021, an online craft awareness programme (Figures 6 and 7) on Tulsi mala bead making process was
+organised  by  SPIC  MACAY.  Keddriya  Vidyalaya,  Refinery  Nagar,  Mathura  hosted  the  eveent.  Around  90  school
+students participated in the the event. Prof. S. K. Saha introduced RuTAG IIT Delhi team to the participants. Our NGO
+partner Mr. Dharmender Verma from Human Welfare Society shared his thoughts about the history of Tulsi mala and
+its value chain. Then, Prof. Saha presented intervention carried by RuTAG IIT Delhi in development of Tulsi mala
+bead making device. Mr. Dharmender, an artisan, then demonstrated the bead making process with the new device
+where he produced different shapes from Tulsi stem. Dr. Ketaki Bapat, the Coordinator of central RuTAG was the
+Chief guest, who adressed the students and emphasized the integration of knowledge to real world applications and
+Continued to Page 4
+3 | R u TAG,  Newslette r,  Vol .10/ 1
+In continuation of Page 3
+After the end of talk, the platform was opened for questions in order to interact with
+students. The event ended with a vote of thank by Prof. Sangeeta Kohli on behalf of RuTAG IIT Delhi and Prof. Kiran
+Seth on behalf of SPIC MACAY. In future, RuTAG IIT Delhi will be participating in craft talks of SPIC MACAY to
+showcase its work and create awareness among students.
+Mr. Yashwant Prasad, Sr. Project Engineer, RuTAG IIT Delhi
+Figure 6: Online craft awareness programme on
+Figure 7: Poster of the event
+Tulsi mala making machine
+RuTAG Summer Projects
+Summer projects were offered by RuTAG IIT Delhi for the students of IIT Delhi during the months of July – August
+2021.  Out  of  the  511  students  who  applied,  184  were  shortlisted  based  on  their  presentations  about  RuTAG.  The
+students were then divided into 38 groups of 4 to 5 each. The offered projects were:
+1. Smart Vending Cart – 23 Teams
+2. Bhilwa Decortication – 7 Teams
+3. Carding Machine – 4 Teams
+4. Tawa Making Process – 2 Teams
+5. Tulsi Mala Bead Making Machine – 2 Teams
+The projects followed the philosophy of Team-Based Online Projects (TOP) which was conceived by Prof. S. K. Saha
+in May 2020 during COVID pandemic. At the end of meet, each team’s work was evaluated by five other teams. This
+process encouraged aspects such as peer learning, benchmarking, and teamwork. The teams started TOP projects on
+July 6, and they submitted their final presentations on August 6th, 2021. The presentation sessions were held on August
+28, and August 30. The  panel comprised of PIs,  Co-PIs,  and other faculty of  IIT Delhi. Selected teams were also
+awarded Design Credits. Some of the feedback from the participants:
+➢ Really enjoyed the fact that there was no spoon feeding and we worked on our own and built things.
+➢ The project gave us a lot of freedom to think, identify, analyze, and solve real life problems.
+➢ …was a great experience to work in a collaborative manner with so much nice random people.
+➢ …we get to know different perception on the same problem and compare our level with other groups.
+Mr. Suraj Bhat, Ph. D. Scholar, RuTAG IIT Delhi
+4 | R u TAG,  Newslette r,  Vol .10/ 1
+Technology for Pathamadai Mat Weaving - IIT Madras
+Thin reed mats have been woven for many years by a community living in the Pathamadai area of Tirunelveli district.
+These mats and handicrafts are mostly known by the name of the place, Pathamadai. Market opportunities for thin
+reed mats have been declining over time. These mats are subject to high production costs as they involve delicate hard
+work and are still woven following the most ancient craft methods. Due to the fact that the industries are not developed
+as a part of this craft industry, and the chances of getting good pay are less, the younger generation is leaving the art.
+The Rural Technology Executive Committee of the Indian Institute of Technology, Madras, was involved in
+the technical development of the weaving looms in Pathamada for spinning thin reed mats. The ecological work change
+of  the  weavers  and  the  reduction  of  their  workload  were  considered.  The  technology  thus  developed  multiplied
+productivity and yielded good returns and improved designs.
+Mechanical Jacquard linen with 120 hooks was initially developed to obtain symmetrical shapes on thin reed
+mats and to provide excellent ergonomics. The result was a 200% increase in productivity. Later, electronic Jacquard
+linen  with  192  hooks  was  developed  for  the  advanced  production  of  mats,  names,  and  bridal  faces  engraved  with
+precise  inlays  of  large  shapes.  This  handloom  has  increased  productivity  by  300%  and  has  many  benefits  such  as
+weaving  the  required  variety  of  shapes  easily  with  the  help  of  software,  without  stitching  the  mats  together.  A
+‘Common Facility Center (CFC)’ with these handlooms and handloom-based facilities has been set up at Pathamada,
+and many weavers are set to avail themselves of electronic handlooms.
+Mr. Suraj Bhat presented the paper – ‘Attributes Based Ranking and Selection of Vending Carts using Fuzzy TOPSIS’
+in  2021  IEEE  Global  Humanitarian  Technology  Conference  (GHTC)  organized  in  online  mode  by  IEEE  Seattle
+Section, USA during Sept. 8-11, 2021.
+When we received the mail about RuTAG for the first time, most of us applied for it to get design credits, but while
+working on the project, we realized that we did not only involve ourselves in good research activity, but the ideas we
+were working on could impact the society directly. It was a whole new experience for all the five members of the team
+to work on a research project like this. Being new to the work, we were introduced to new skills, methodologies, and
+we came across new ways to approach, a problem statement and scientific ways to frame the most suitable solution.
+We wholeheartedly thank the IIT Delhi’s RuTAG Club who gave us this opportunity, and everyone who stood with
+us and raised their helping hands throughout the project.
+Upasak Sharma, Samyak Gothi, Aswin B Sreedhar, Chitraansh Pandey, Samir Sharma – 2nd year B.Tech, IIT Delhi
+I got to know about RuTAG through the summer project opportunity they had offered in the institute. The structure of
+the summer project was very flexible and gave us a sense of freedom. We were free to choose our problem statement
+from a given list and proposed an entirely personalized solution for the same. This project gave me the ability to think
+out of the box and apply my knowledge of mechanics for the good of society. I'm looking forward to carrying on with
+my project and learning many more things from this wonderful club.
+Anoushka Arya, 2nd year B.Tech, ME, IIT Delhi
+5 | R u TAG,  Newslette r,  Vol .10/ 1
+A Multilingual Glance at Our Recent Newsletters
+For original articles in English of RuTAG newsletters Vol. 9, No. 2, July 2021, kindly visit the link:
+Miniaturized Wool Carding Machine
+Translated by Prof. M. R. Ravi, Head, Dept. of Mechanical Engg., IIT Delhi
+Figure 8: Wool carding machine
+6 | R u TAG,  Newslette r,  Vol .10/ 1
+CETSD (Center for Emerging Technologies for Sustainable Development)
+യവക്കുന്ധ(cid:3) ഐ(cid:3) ഐ(cid:3) െി(cid:3) ങ്കജാധ പുരിയല(cid:3) ഒരു(cid:3) ങ്കകപ്രമാണ (cid:3) സി(cid:3) ഇ(cid:3) െി(cid:3) എസ (cid:3) ഡി(cid:3) (cid:135)(cid:6)(cid:8)(cid:23)(cid:22)(cid:7)(cid:136)(cid:129)(cid:3) സമൂഹങ്ങൾ(cid:126)(cid:3)
+7 | R u TAG,  Newslette r,  Vol .10/ 1
+Continued to Page 8
+In continuation of Page 7
+Translated by Dr.Susha Lekshmi S.U., Program Manager, IHFC, TIH of IIT Delhi
+Aloe Vera Cream Making Compact Machine
+Translated by Mr. Mangal Sharma, Jr. Attendant, RuTAG IIT Delhi
+IIT KANPUR           iitk.ac.in/rutag/
+IIT KHARAGPUR http://www1.iitkgp.ac.in/nss/uba/thrust.html
+IIT MUMBAI             www.ctara.iitb.ac.in/en/rutag/
+IIT GUWAHATI       www.iitg.ac.in/mech/Rutag-pal/index1.htm
+IIT ROORKEE         www.rutagiitr.wordpress.com
+For technical advice and collaboration:
+Prof. S. K. Saha, Editor
+Ph. 011-26591135, E-mail: sahaiitd@gmail.com
+For general queries:
+Mr. Davinder Pal Singh/ Mr. Raj Kumar Gupta
+RuTAG IIT Delhi Office
+This Newsletter is compiled by Mr. Ashish Dahiya, Jr. Project Asstt., RuTAG IIT Delhi
+8 | RuTAG , Newsl ette r, Vol .10/1

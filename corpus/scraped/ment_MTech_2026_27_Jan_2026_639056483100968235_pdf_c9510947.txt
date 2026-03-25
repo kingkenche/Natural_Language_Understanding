@@ -1,0 +1,386 @@
+Indian Institute of Technology Jodhpur
+Office of Academic Affairs (Admissions)
+NH-62, Nagaur Road, Karwar,
+Jodhpur, Rajasthan - 342 030
+Admission to M.Tech. Degree Programmes, AY 2026-27
+Applications are invited for admission to M.Tech. Degree programmes in the AY 2026-2027.
+These  M.Tech.  Degree  programmes have been designed to empower students with the
+competencies  to  handle  state-of-the-art  technologies  in  various  disciplines,  with  a
+strong focus on promoting inter-disciplinary innovation.
+1  Bioscience and Bioengineering  M.Tech. in Bioscience and Bioengineering
+2  Computer Science and
+M.Tech. in Artificial Intelligence
+M.Tech. in Computer Science and Engineering
+M.Tech. in Cyber Physical Systems
+M.Tech. in Communication Systems
+M.Tech. in Microelectronics and VLSI
+M.Tech. in Data and Computational Sciences
+5  Mechanical Engineering
+M.Tech. in Advanced  Manufacturing  and Design
+M.Tech. in Thermofluids Engineering
+M.Tech in Drone and Anti-Drone Technologies
+6  Materials Engineering
+M.Tech. in Materials Engineering
+7  Chemical Engineering
+M.Tech. in Chemical Engineering
+8  Civil and Infrastructure
+M.Tech. in Environmental Engineering
+M.Tech. in Energy Infrastructure
+M.Tech. in Bridge Engineering
+9  School of Artificial Intelligence
+& Data Science
+M.Tech. in Augmented Reality and Virtual Reality
+(AR & VR)
+10  IDRD-Robotics and Mobility
+M.Tech.  in Robotics
+11  IDRD-Quantum Information and
+M.Tech. in Quantum Technologies
+These  programmes  will  admit  eligible  Full-Time  regular  candidates  with/without  assistantships,
+self-sponsored  candidates  as  well  as  working  professionals  as  part-time/external/full-time
+sponsored candidates. The details of these categories are summarized as follows:
+(a)  M.Tech.  Admissions  Categories:  A candidate can be admitted in M.Tech. program in any
+one of the following categories:
+Full-time  Regular  eligible  for  Assistantship/Fellowship:  This  category  refers  to
+candidates  who  will  be  in  campus  and  who  can  register  up   to   full   permissible   credits
+per  semester.   A  fixed  number  of  full-time  candidates having a valid GATE Score will get
+financial  support  as  per  MoE  notified  rate.  A  full-time  student with a   valid   GATE   Score
+can   also  get  financial support from sponsored research projects funded by an industry or
+a  government agency at a rate equivalent to or higher than MoE stipulated rate.
+Full-time  Regular  without  Assistantship/Fellowship:This  category
+candidates  who  will  be  in  campus  and  who can register for up to full permissible credits
+per    semester.    A    GATE    qualified    candidate  will  be  admitted  under  this  category
+without  financial  support.   The  admitted  candidate  may  be  awarded  fellowship  in  the
+subsequent  semester  based  upon  availability  of  financial  resources  as  per  the  institute
+norms.   All  candidates  admitted  under  this  category,  will  be  paying  the  same  fees  as
+applicable to the category Full-time Regular eligible for Assistantship/Fellowship.
+Self-sponsored:This  category  refers to   candidates who will be in campus and  who can
+register  for  up  to  full  permissible  credits  per  semester  but  is  not  eligible  to  receive
+fellowship.  These  candidates  will  be  self-  sponsored  and  will  be  paying  fees  as per rates
+notified for this category of students.
+Full-time   Sponsored:    This  category  refers  to   candidates who will be in campus and
+who   can   register   for   up   to   full  credit permissible  per semester  and is sponsored  by
+his/her  employer.  Sponsorship  fees will be notified by the institute.
+V.  Part-time:   A   part-time   candidate   is   a   working   professional   who,  while  employed,
+attends   regular   classes   as   per   the   schedule   of   the   Institute.   The student must be
+employed in the neighbourhood of IIT Jodhpur. The student must produce a NOC from the
+employer for pursuing the programme at IIT Jodhpur.   The student can register only for a
+limited number of credits as compared to a full-time regular student. As per credit tuition
+fee will be specified.
+VI.  Part-time  (online):  A  part-time  (online)  candidate  is a working professional who, while
+employed, attends classes in a synchronous audio-visual mode over the internet as per the
+schedule  of  the  Institute  including  limited  contact  sessions.   The  student  is  expected  to
+register for a limited number of credits per semester.  The student should not be employed
+in the neighbourhood of IIT Jodhpur. The student must produce a NOC from the employer
+for  pursuing  the  programme  at  IIT  Jodhpur.    The student can register only for a limited
+number of credits as compared to a full-time regular student. As per credit tuition fee will
+VII.  Part-time  (Project  sponsored):  This  category  refers  to  a  part-time  candidate  who
+would receive fellowship at the rate stipulated by the MoE or greater through any research
+project  running  in  the  Institute.  The  student  can  register  only  for  a  limited  number  of
+credits  as  compared  to  a  full-time  regular   student.The  student  is  expected  to  receive
+fellowship for a minimum of 36 months. The student will be paying fees at the same rate
+as  that  of  Full-Time  GATE  Qualified  candidates.  The  Department  will  process  the
+applications ONLY if such a position is available in the respective M. Tech. program.
+A.  Application  Procedure:  Applicants  are  requested  to  use  the  following  link(s)  to  fill  and
+submit the application form online:
+For  Indian-  https://erponline.iitj.ac.in/Admission/index?admiss_ch=47  (M.Tech  programs)
+For Foreign Nationals - Online link updated soon.
+For admission to the AY 2026-2027 First Semester commencing in July 2026, this online link will
+remain active till 15 April, 2026 (Tentative).
+Applicants  are  required  to  pay  the  processing  fee  of  Rs.300  (for  one  programme)  for
+General  and  OBC  applicants  and  Rs.150  (for  one  programme)  for  SC,  ST,  and  PwD
+applicants  online  while  submitting  the  application  form.  If  any  candidate  applies  for
+more  than  one  programme,  the  processing  fee  for  each  of  the  programmes  will
+automatically be summed.
+Candidates  are  advised  to  select  the  appropriate  Admission  Category  strictly  as  per  the
+prescribed eligibility criteria while filling out the application form. Requests for any change in the
+Admission Category will not be entertained at any stage. In the event that a candidate is selected
+for multiple programmes, the candidate must pay the full admission fees for the programme they
+wish  to  pursue  and  apply  for  withdrawal  from  the  previously  admitted  programme,  as  per  the
+applicable refund rules.
+For  technical  assistance  related  to  the  online  application,  applicants  may  write  to  erp@iitj.ac.in
+The general queries may be directed to the respective departments the contact details provided in
+Section-J  of  this  Advertisement.  However,  please  note  that  queries  related  to  eligibility  for  the
+admission will not be entertained.
+Please Note: All qualified applicants, interested to apply for M.Tech. programme under
+the  admission  category  Full-time  Regular eligible for Assistantship/Fellowship, should
+register  first  in  the  Common  Offer  Acceptance  Portal  (COAP).  After  successful
+completion of registration at COAP 2026, applicants will receive the "COAP Registration
+No.",  which is essential to apply online at IIT Jodhpur. The "COAP Registration No." is
+further  required  for  making  decisions  against  admission  offers  during  the  time
+windows  to  be  announced  on  the  COAP  2026  portal.   Candidates  without  GATE  (i.e
+B.Tech. from CFTIs, part-time, sponsored and external) will be informed directly by the
+concerned Department of IIT Jodhpur.
+The  admissions  to  M.Tech.   Program   is   also   offered   to   foreign   nationals   under   different
+schemes   administered   by   Government   of  India,   such   as  Cultural   Exchange   Fellowship
+Programme   by  Indian  Council  of  Cultural  Relations  (ICCR),  Study  in  India and others. Persons
+Commission/Embassy    in    their    respective    countries.   For   general   queries,   international
+candidates may refer to https://iitj.ac.in/office-of-international-relations
+these  programmes  are
+Applicants  from  Defence  Forces  may  be  considered  for  admission  to  the  external  M.Tech.
+programme.   Eligibility criteria for applicants from Defence Forces will be the same as that of the
+regular  students  with  an  exemption  of  GATE  score.  The  program  will  be  governed  by  the
+academic  norms  of  the  IITJ.   The  respective  organization  has  to  ensure  and  undertake  the
+responsibility  for  giving  adequate  facilities  and  time  to  the  officer  during  the  Coursework  and
+C. Eligibility for Admission
+The  eligibility  criteria  for  M.Tech.  programs  prescribed  below  are  the  absolute  minimum.  The
+general eligibility criteria for admissions is as follows:
+(i) The applicant must have a bachelor's degree in engineering or science (4 year program) or
+a master’s degree in science, MCA, Pharmacy, Medical Sciences, Agricultural Sciences and
+Veterinary Sciences or in a related field.
+(ii)   A minimum  of 60% marks for GEN/OBC  (55% for SC/ST/PwD)  category  in aggregate or
+as  specified  by  the  university/institute  or  a  minimum  CGPA of 6.0 for GEN/OBC (5.5 for
+SC/ST/PD)    category    on    the    scale    of    10;    with    corresponding    proportional
+requirements   when   the   scales   are   other   than  on 10 (for  example  4.8 for GEN/OBC
+category  (4.4  for  SC/ST/PwD)   on  a  scale  of  8)  or  a  first-class   as  specified   by  the
+university/institute.  The  candidates  from  the  CFTI  having  CGPA/CPI  more  than  8
+may be given preference.
+(iii)  Full-time  Regular  eligible  for  Assistantship/Fellowship:  The  applicant  must  either
+have a valid GATE score or exempted from GATE as per MoE circular or have qualified an
+equivalent National   Examination   and / or   have   qualified   in   the  written  test  and/or
+interview conducted by IIT Jodhpur.
+For  Part-time/  Part-time (online)/ External/ Employer Sponsored: The applicant
+must  have  a  minimum   of  two  years  of  work  experience   (after  qualifying   degree)  in
+industry/R&D  laboratories/Academic  Institutions   at   the   time   of   registration   to   the
+program.   The applicant must qualify the written test and/or interview conducted by IIT
+The  qualifying  degree  and  GATE  requirements  (only  for  Full-time  Regular  eligible  for
+Assistantship/Fellowship  and  Full-time  Regular  without  Assistantship/Fellowship),  specific  to
+different M.Tech. programs, can be summarized as follows:
+(1) For Bioscience and Bioengineering:
+B.Tech. or B.E.
+Valid GATE score in XL, BT, BM
+B.  Tech.  from  any  of  the  CFTIs  with  CPI  or  CGPA
+8/10 or above
+The requirement of valid GATE score   is
+(2) For Artificial Intelligence (CSE Dept):
+B.Tech or B.E. or BS Program of 4 years (any Branch
+of  Engineering),  M.Sc.  (any  discipline),  M.C.A.,  M.
+Valid GATE score (CS/ IT/ EE/ EC/ DA)
+B. Tech. or BS Program of 4 years from any branch
+of  Engineering  or  M.  Statistics,  from  any  of  the
+CFTI with CPI or CGPA 8/10 or above.
+The  requirement  of  valid  GATE  score  is
+(3) For Computer Science and Engineering:
+B.Tech or B.E. or BS Program of 4 years (Computer
+Science  and  Engineering;   Computer  Engineering;
+Electronics  Engineering;   Electrical  Engineering;
+Communication Engineering;   Artificial Intelligence;
+or  any  other  degree name involving a combination
+of  above  disciplines),    M.Sc.  (Computer  Science;
+Computer Engineering);  M.C.A.
+Valid GATE score (in CS/IT)
+B.Tech.  or  B.E.  or  BS  Program  of  4  years  from
+(Computer  Science  and  Engineering;  Computer
+Engineering;  Information  Technology;     Computer
+The  requirement   of  valid  GATE
+score is exempted
+Engineering;  Communication  Engineering;  Artificial
+Intelligence;  or  any  other  degree  name  involving  a
+combination  of  above  disciplines),  M.Sc.  (Computer
+Science;  Computer  Engineering)  any  of  the  CFTIs
+with CPI or CGPA 8/10 or above
+(4) For Cyber Physical Systems (EE Dept) :
+B. Tech. or B.E. or B.Sc. (Engineering) Program of 4
+in  Electrical  Engineering/Electronics  and
+Engineering/  Computer  Science  and  Engineering  or
+B.Tech. in Electrical Engineering/ Electronics and
+Communication Engineering/ Instrumentation
+Engineering/Computer Science and Engineering or
+Equivalent from any of the CFTIs with CPI or CGPA
+(5) For Communication Systems (EE Dept):
+Valid GATE score in EE/EC/ IN/ CS
+The  requirement  of  valid  GATE  score  is
+B. Tech. or B.E. or B.Sc. (Engineering) in
+Electrical Engineering/ Electronics and
+B. Tech. in Electrical Engineering/
+Electronics and Communication
+Engineering from any of the CFTIs with
+CPI or CGPA of 8/10 or above
+Valid GATE  score in EC
+The  requirement   of  valid  GATE  score  is
+(6) For Data and Computational Sciences (Mathematics Dept):
+B.Tech. or B.E. or M.Sc., or equivalent
+Valid  GATE   score  (Computer   Science
+and   Information Technology,  Electronics
+Statistics,  Engineering  Sciences  &  Data
+Science & AI )
+B.  Tech.   from  any  of  the  CFTIs   with  CPI  or  CGPA
+8/10 or above
+The  requirement   of  valid  GATE  score  is
+(7) For Advanced Manufacturing and Design (ME Dept):
+B.Tech.  or  B.E.  (Mechanical  Engineering,  Production
+Engineering,  Industrial  Engineering,  Production  and
+Industrial  Engineering,  Aerospace  Engineering,
+Engineering,  Applied  Mechanics,
+Valid  GATE  score  (in  Mechanical
+Automobile  Engineering,  Aeronautical  Engineering,
+Power  plant  engineering,  Nanotechnology,  Materials
+Engineering, Instrumentation Engineering)
+Engineering/ Engineering science)
+The requirement of valid GATE score
+Tech.  or  B.E.
+Production  Engineering,  Industrial  Engineering,
+Aerospace  Engineering,  Mechatronics  Engineering,
+Applied  Mechanics,  Automobile  Engineering,
+Engineering,  Instrumentation  Engineering)
+from any of the CFTIs with CPI or CGPA 8/10
+(8) For Thermofluids Engineering (ME Dept):
+Engineering/Aerospace  Engineering  /
+Engineering/ Engineering science)
+The  requirement  of  valid  GATE
+score is exempted
+Mechatronics Engineering, Applied Mechanics,
+B.Tech. or B.E. (Mechanical Engineering Production
+Engineering,  Applied  Mechanics,  Automobile
+Engineering,  Aeronautical  Engineering,  Power
+plant  engineering,  Nanotechnology,  Materials
+from any of the CFTIs with CPI or CGPA 8/10
+(9) For  Materials Engineering (MTE Dept):
+B.Tech.  or  B.E.  or  BS  Program  of  4  years  or
+equivalent or M.Sc.
+Valid GATE  score (in any discipline)
+B.  Tech.  or  B.E.  from  any  of  the  CFTIs  with  CPI  or
+CGPA 8/10 or above
+The  requirement  of  a  valid  GATE  score
+(10) For Chemical Engineering (Chemical Dept):
+B.Tech. or B.E. or BS Program of 4 years, or
+B.Sc.(Engg) Program of 4 years or M.Sc., or
+equivalent in Chemical Engineering or allied
+Valid GATE score (in any discipline)
+B.Tech.  (Chemical  Engineering  or  allied  discipline)
+from   any  of  the  CFTIs   with  CPI  or  CGPA  8/10  or
+The  requirement   of valid GATE score is
+(11) For Environmental Engineering (Civil Dept):
+Engineering or Environmental Engineering
+Valid  GATE  score  (Civil  Engineering  /
+B.  Tech.  in  Civil  Engineering  or  Environmental
+Engineering from any of the CFTIs with CPI or CGPA
+8/10 or above
+The  requirement  of  valid  GATE  score  is
+(12) For Energy Infrastructure (Civil Dept):
+Valid GATE score (Civil Engineering)
+B.  Tech.  in  Civil  Engineering  from  any of the CFTIs
+with CPI or CGPA 8/10 or above
+The  requirement   of valid GATE score is
+(13) For Robotics:
+in  Mechanical  Engineering/
+B. Tech. or B.E. or B.Sc. (Engineering) Program of 4
+Electrical  and  Communication
+Engineering/   Computer  Science  and  Engineering/
+Instrumentation and Control Engineering/ Aerospace
+Engineering/  Automobile  Engineering/  Aeronautical
+Engineering,  Mechatronics  Engineering/  AI  &  DS  or
+in  Mechanical  Engineering/  Electrical
+Electrical  and  Communication
+Engineering/   Computer  Science  and  Engineering/
+Aerospace  Engineering/   Automobile   Engineering/
+Communication  Engineering/  Computer
+Science  and  Information  Technology/
+Electrical  Engineering/  Instrumentation
+Engineering/  Mechanical  Engineering,
+Data Science and Artificial Intelligence
+The  requirement  of  valid  GATE  Score  is
+Aeronautical Engineering/   Engineering   Physics / AI
+&  DS   or Equivalent from any of the CFTIs with CPI
+or CGPA of 8/10 or above
+(14)  For  Augmented  Reality  and  Virtual  Reality  (AR  &  VR)-  School  of  Artificial
+Intelligence & Data Science (SAIDE):
+Valid GATE score
+B. Tech. from any of the CFTIs
+with CPI or CGPA 8/10 or above:
+The requirement of valid GATE score is
+(15) For Interdisciplinary Research Platform- Quantum Information and Computation
+B.Tech.  or  B.E.
+in  Computer  Science  and
+Engineering,  Electrical  Engineering,  Data  Science
+Communication Engineering, Materials Engineering
+Valid GATE score
+M.Sc. In Physics, Chemistry, Mathematics, Computer
+B.  Tech.  or  BS  Program  of 4 years from any branch
+of Engineering /Sciences from any of the CFTIs with
+CPI or CGPA 8/10 or above.
+The requirement of valid
+GATE core is exempted
+Assistantship/Fellowship,  Full-time  Regular  without  Assistantship/Fellowship,
+Self-sponsored, Full-time  Sponsored is allowed in the Sl (15).
+(16) For  Microelectronics and VLSI (EE Dept):
+B.  Tech.  or  B.E.  or  B.Sc.  (Engineering)  in  Electrical
+Engineering / Electrical and Electronics Engineering /
+/  Electronics  and
+Engineering or allied discipline
+B.  Tech.  or  B.E.  or  B.Sc.  (Engineering)  in  Electrical
+Engineering/Electrical  and  Electronics  Engineering  /
+Engineering or allied discipline from any of the CFTIs
+with CPI or CGPA of 8/10
+/  Electronics  and
+Valid GATE score in EE/EC/IN
+The requirement of valid GATE score is
+(17) For Bridge Engineering (Civil Dept)
+in  Civil   Valid GATE score (Civil Engineering)
+B.  Tech.  in  Civil  Engineering  from  any  of  the  CFTIs
+with CPI or CGPA 8/10 or above
+The  requirement  of  valid  GATE  score  is
+(18) For Drone and Anti-Drone Technologies
+B. Tech. or B.E. in Aerospace/ Aeronautical
+Engineering, Mechanical Engineering/ Production
+Engineering/ Automobile Engineering/
+Mechatronics Engineering/ Electrical Engineering/
+Electronics and Communication Engineering/
+Instrumentation and Control Engineering
+in  Aerospace/  Aeronautical
+B.  Tech.  or  B.E.
+Engineering,  Mechanical  Engineering/  Production
+Engineering/  Automobile  Engineering/Mechatronics
+Engineering/  Electrical  Engineering/  Electronics  and
+Communication  Engineering/  Instrumentation  and
+Control  Engineering  from   any   of   the   CFTIs  with
+CPI or CGPA 8/10 or above
+D. Financial Assistance
+Valid GATE score (in Aerospace
+Civil Engineering/ Electronics and
+The requirement  of valid GATE score
+M.Tech.  (Full-time  Regular  eligible  for  Assistantship/Fellowship)  students  may  be  eligible  for  a
+monthly stipend in return for 8 hours of  work per week of Teaching or Research Assistantships as
+per the Institute norms.
+E. Reservation Policy
+The norms of reservation for different categories shall be adopted as laid down by the Ministry of
+Education, Government of India.
+F.  Documents  to  Bring  at  the  time  for  Written  Test  and/or  Interview:  Shortlisted
+candidates  must  bring  the  following  documents  (a)  Signed  copy  of  ERP  Application  form  (b)
+Uploaded all educational documents and other documents required for the minimum eligibility for
+a given admission category sought by the respective Department and Valid GATE Scorecard.
+G. Important Dates
+Start date of filling online application  form
+Last date of filling online application  form
+02 Feb 2026
+15 April 2026
+Announcement of shortlisted candidates for the admission process
+(Full-time regular without fellowship, Self Sponsored, Full time
+sponsored, Part Time and Part Time (Online)
+Admission Process for Full-Time Regular With Fellowship through
+25 Apr 2026
+Follow the COAP 2026
+*  The  candidates  applied  for  the  admission  for  different  M.Tech.   programmes  under  admission
+category  Full-time  Regular  eligible  for  Assistantship/Fellowship  are  required  to  take  their
+decisions according to COAP 2026 rounds guidelines.
+* List of CFTIs Institute link: https://www.education.gov.in/technical-education-1
+* More details about the Academic Regulations of IIT Jodhpur can found HERE
+H. Accommodation: Admitted students under various categories may be provided with
+institute hostel accommodation, subject to availability and according to the Institute
+norms amended from time to time.
+I. Important Note on Eligibility and Admission Cancellation
+“IIT Jodhpur reserves the right to immediately cancel the admission of any candidate
+at  any  stage  of  the  admission  process  or  at  any  stage  of  the  program,  if it is found
+that  the  candidate  does  not  fulfill  the  prescribed  eligibility  criteria  as  per  the  official
+advertisement  or  the  candidate  has  provided  incorrect/incomplete information in the
+Application Form. The decision of the Institute in such matters will be final and will be
+binding  on the candidates. All legal matters shall be subject to the jurisdiction of the
+Competent Court and Forum in Jodhpur, Rajasthan, India only."
+J. Whom to contact
+In  case  of  any  query,  the applicants may contact the respective department to which they are
+applying, using the contact information which is listed below:
+Bioscience and Bioengineering
+Computer Science and Engineering
+Civil and Infrastructure  Engineering
+IDRP-Robotics and Mobility Systems
+IDRP-Quantum Information & Computation
+School of Artificial Intelligence & Data Science  0291-2801752  office_saide@iitj.ac.in

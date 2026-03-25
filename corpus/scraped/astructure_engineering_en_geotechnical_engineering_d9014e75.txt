@@ -1,0 +1,22 @@
+Geotechnical Engineering | Civil and Infrastructure Engineering | IIT Jodhpur
+The geotechnical engineering lab is well equipped with different basic and advanced lab equipments such as direct shear test equipment, consolidometer, vane shear test equipment, CBR, etc. and cyclic triaxial test which is a more generalised and advanced shear strength evaluation equipment that can be used to study any type of soils, with different drainage condition, under both static and dynamic loading.  Apart from teaching, the different research groups of the lab are addressing key problems pertaining to real-life scenarios, such as sand dune migration and mitigation studies,  monopile foundations for offshore wind turbines in seismically active and liquefiable soil regions, stability of geotechnical structures during extreme shift in surface temperature while using geosynthetics, etc.  We are also actively exploring the application of AI/ML in the field of geotechnical engineering.
+Stress Path Triaxial Test Apparatus
+Ground Penetration Radar (350 MHz)
+Stress Path Triaxial Test Apparatus
+The stress path triaxial system is a valuable tool in geotechnical and civil engineering, used to understand soil behaviour under controlled stress conditions. One critical application is in the design of foundations and retaining structures, where understanding the soil response to loading helps engineers predict settlement, bearing capacity, and potential failure modes. By simulating site-specific stress conditions, the system enables more accurate modelling of how soils react to construction loads. In embankment and dam construction, the stress path triaxial system is used to assess the risk of shear failure during different construction stages or seismic loading. It also plays a crucial role in slope stability analysis, especially in identifying progressive failure mechanisms under varying drainage conditions. Moreover, in underground excavations like tunnels, the system helps simulate stress redistribution around the cavity and guides the selection of appropriate support systems. For oil and gas or mining operations, the technique aids in evaluating reservoir compaction and subsidence behaviour. By tracing the path of stresses during loading and unloading, engineers can optimize designs for safety, cost-efficiency, and longevity, especially in complex soil environments or projects with high geotechnical risks.
+Ground Penetration Radar (350 MHz)
+Ground Penetrating Radar (GPR) is a non-destructive geophysical method widely used in engineering for the detection and mapping of underground features. One key application is utility locating, where GPR accurately determines the position and depth of underground metallic and non-metallic utilities such as pipes, cables, and ducts. This prevents accidental damage during excavation and supports effective planning in urban development. GPR is extensively employed in civil engineering projects including highways, bridges, tunnels, and railway tracks, for assessing subsurface conditions, identifying voids, delaminations, and structural weaknesses. In geological and archaeological surveys, GPR helps in identifying natural layers, cavities, and buried artifacts without disturbing the ground. Advanced systems like the UtilityScan Pro by GSSI, integrated with the SIR 4000 control unit and a 350 MHz antenna, can investigate depths of up to 12 meters, making it ideal for both shallow and deep subsurface applications. Additionally, the Radan 7 analysis software enhances data interpretation through advanced visualization and filtering capabilities, enabling precise mapping of subsurface structures.
+Vibratory Sieve Shaker
+Consolidation Test Equipment
+Earth Resistivity Meter
+Cyclic Triaxial Test Equipment
+Digital Triaxial Apparatus
+Direct Shear Test, UCS Test, and Sample Extruder
+Soil Nutrient Meter
+Stress Path Triaxial Apparatus
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Mar 2026 - 09:58 AM

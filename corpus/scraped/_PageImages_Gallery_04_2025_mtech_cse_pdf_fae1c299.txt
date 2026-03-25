@@ -1,0 +1,239 @@
+Data structures and practices
+Department  Computer Science and Engineering
+Offered for  M.Tech. (CSE) 1
+Prerequisite  Computer Programming
+L-T-P [C]  0–0–2 [1]
+The Instructor will:
+1.  Explain various data structures and provide details to implement and use them in different
+The students are expected to have the ability to:
+1.  Write, debug and rectify the programs using different data structures
+2.  Expertise in transforming coding skills into algorithm design and implementation
+Exercises based on
+Abstract Data Types:
+Shortest Path First algorithm, Dynamic programing (6 labs)
+Arrays, link-list/list, hash tables, dictionaries, structures, stack, queues
+Heap, Sets, Sparse matrix, Binary Search Tree, B-Tree/ B+ Tree, Graph (4
+Quick or Merge sort, Breadth or Depth first search or Dijkstra’s
+1. Weiss, M. A. (2007), Data Structures and Algorithm Analysis in C++, Addison-Wesley.
+2. Lipschutz, S. (2017), Data Structures with C, McGraw Hill Education.
+3. Cormen, T. H., Leiserson, C. E., Rivest, R. L. and Stein, C., (2009), Introduction to
+Algorithms, MIT Press
+Software and Data Engineering
+Department  Computer Science and Engineering
+Offered for  M.Tech.
+The Instructor will:
+L-T-P [C]  3–0–0 [3]
+1.  Discuss techniques to manage a large amount of data
+2.  Provide mechanisms to design and develop data-intensive computing systems
+The students are expected to have the ability to:
+1.  Design complex end-to-end data pipeline for data processing
+2.  Critically identify and use the tools for data handling and management
+3.  Use modern software technologies to design and develop data analytical systems
+Concept of modular software, microservices,
+Basics of complex software design:
+communication, 4+1 architectural views and patterns (5 lectures)
+Architecture of cluster computing, design of data centers, open data center
+platforms, fault-tolerant system design (5 lectures)
+Type-1 and Type-2 virtualization, virtual machine, containers, dockers (4
+Structured data, relational database management, unstructured
+data, semi-structured data,  Nosql database management (mongodb), column database, graph
+database, XML, JSON, HDFS, Handling drift in data, sensor data reliability at software and
+algorithmic level, sensor data analysis techniques (14 lectures)
+systems, Hadoop, Apache Spark, Storm, parallel data processing concepts such as
+map-reduce, directed acyclic graph, resilient distributed datasets, dynamic resource allocation,
+partial & shared computation, storage architecture  (14 lectures)
+Architecture of large scale data processing
+Data Intensive Processing Systems:
+1. Bass L., Clements P., Kazman R., (2012),
+Software Architecture in Practice
+2. Martin K., (2017),
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable,
+Scalable, and Maintainable Systems
+Self Learning Material
+Theory and Practice
+Tylor,R.N., Medvidovic,N. and Dashofy,E.M., (2014),
+Preparatory Course Material
+1. IEEE Transactions on Knowledge and Data Engineering
+2. International Conference on Data Engineering
+Software Architecture Foundation:
+Department  Computer Science and Engineering
+Offered for  M.Tech. 2
+Prerequisite  Computer Organization
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Provide background to understand various components of a modern computer system,
+its interconnections, and performance issue
+The students are expected to have the ability to:
+1.   Explain the working principles of various components of modern computer systems
+2.   Compare between systems using benchmark data
+3.   Write, execute and debug parallel programs on GPU
+Introduction: Defining Computer Architecture, Flynn’s Classification of Computers,
+Metrics for Performance Measurement. (4 lectures)
+Introduction, Advanced Optimizations of Cache Performance, Memory
+Technology and Optimizations, Virtual Memory and Virtual Machines, The Design of Memory
+Hierarchies, Introduction to Pin Instrumentation and Cache grind, Case Study: Intel Core i7
+Challenges, Basic Compiler Techniques for Exposing ILP, Reducing Branch Costs with
+Advanced Branch Prediction, Dynamic Scheduling, Superscalar, Limitations of ILP, Case
+Study: Dynamic Scheduling in Intel Core i7. (9 lectures)
+Multicore Processor: Introduction, CPU Interconnections, Network on Chip (NoC), Routing
+Protocols, Quality of Service on NoC. (5 lectures)
+Introduction, Vector Architecture, SIMD Instruction Set
+Extensions for Multimedia, Graphics Processing Units, GPU Memory Hierarchy, Detecting and
+Enhancing Loop- Level Parallelism, CUDA Programming, Case Study: Nvidia Maxwell. (14
+Instruction-level Parallelism: Concepts and
+Data Level Parallelism:
+1. Hennessy,J.L. and Patterson,D.A.,
+2. Shen,J.P. and Lipasti,M.H., (2005),
+, McGraw-Hill Publishers
+​ Edition, Morgan Kauffmann Publishers
+Computer Architecture: A Quantitative
+Modern Processor Design: Fundamentals of Superscalar
+2.  OpenMP: https://www.openmp.org/
+Preparatory Course Material
+1.  Department of Computer Science and Engineering, Indian Institute of Technology
+Department  Computer Science and Engineering
+Offered for  M.Tech. 1
+​ Year, Ph.D. 1
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Provide motivation and understanding of the need and importance of Machine Learning in
+2.  Provide details about various algorithms in Machine Learning
+The students are expected to have the ability to:
+1.   Develop a sense of Machine Learning in the modern context, and independently work on
+problems relating to Machine Learning
+2.   Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Introduction, Stochastic Gradient Descent, Subgradients, Stochastic
+Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral
+Motivation, Different types of learning, Linear regression, Logistic
+Feedforward neural networks, Expressive power of neural networks, SGD and
+regression (2 lectures)
+Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick,
+Implementing Soft SVM with Kernels (4 lectures)
+Decision Tree algorithms, Random forests (2 lectures)
+k-nearest neighbour, Curse of dimensionality (1 lecture)
+Backpropagation (3 lectures)
+clustering (2 lectures)
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed
+sensing (2 lectures)
+Latent variables and Expectation-maximization algorithm, Bayesian learning (4 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning
+Model selection and validation: Validation for model selection, k-fold cross-validation,
+Training-Validation-Testing split, Regularized loss minimization (3 lectures)
+Bias-complexity tradeoff, No free lunch theorem, VC dimension, Structural risk minimization,
+Adaboost (7 lectures)
+DNN, CNN, RNN, Autoencoders (7 lectures)
+Foundations of Deep Learning:
+Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis,
+PAC learning, Agnostic
+1. Shalev-Shwartz,S., Ben-David,S., (2014),
+, Cambridge University Press
+Understanding Machine Learning: From Theory to
+1.  Mitchell Tom (1997).
+Self Learning Material
+1.   Department of Computer Science, Stanford University,
+The Instructor will:
+Ad-Hoc Wireless Networks
+Computer Science and Engineering
+​ Year, PhD 1
+Number  CS 6XX
+L-T-P[C]  3–0–0 [3]
+1.   Introduce the mathematical models and network protocol designs in wireless Ad-hoc
+2.   Provide a systematic exposition of network protocols and their cross
+3. To provide more advanced in-depth networking knowledge. Upon completion of this course,
+students will be able to apply the knowledge in their networking research. A broad perspective on
+the active research areas in wireless Ad-hoc networks
+The students are expected to have the ability to:
+1.   Demonstrate advanced knowledge of networking and wireless networking in particular
+2.   Compare different solutions for communications at each network layer
+3.   Demonstrate knowledge of protocols used in wireless communications
+MAC Protocols for Ad hoc Wireless
+Ad hoc Networks: Introduction, Issues in Ad
+Basics of wireless networks and mobile computing:
+hoc wireless networks, Ad hoc wireless internet (3 lectures)
+Media access control in ad hoc and sensor networks:
+Networks: Introduction, Issues in designing a MAC protocol for Ad hoc Wireless Networks,
+Design goals of a MAC protocol for Ad hoc Wireless Networks, Classification of MAC protocols,
+Contention based protocols with reservation mechanisms. Contention-based MAC protocols with
+scheduling mechanism, MAC protocols that use directional antennas, Other MAC protocols,
+Network and transport layer issues for ad hoc and sensor networks (8 lectures)
+Routing protocols for Ad hoc Wireless Networks: Introduction, Issues in designing a routing
+protocol for Ad hoc Wireless Networks, Classification of routing protocols, Table drive routing
+protocol, On-demand routing protocol, Hybrid routing protocol, Routing protocols with effective
+flooding mechanisms, Hierarchical routing protocols, Power aware routing protocols (8 lectures)
+Transport layer protocols for Ad hoc Wireless Networks: Introduction,
+Transport layer protocols:
+Issues in designing a transport layer protocol for Ad hoc Wireless Networks, Design goals of a
+transport layer protocol for Ad hoc Wireless Networks, Classification of transport layer solutions,
+TCP over Ad hoc Wireless Networks, Other transport layer protocols for Ad hoc Wireless Networks
+Security: Security in wireless Ad hoc Wireless Networks,
+Security issues for ad hoc networks:
+Network security requirements, Issues & challenges in security provisioning, Network security
+attacks, Key management, Secure routing in Ad hoc Wireless Networks (6 lectures)
+QoS for ad hoc Networks:
+Quality of service in Ad hoc Wireless Networks: Introduction, Issues
+and challenges in providing QoS in Ad hoc Wireless Networks, Classification of QoS solutions,
+MAC layer solutions, network layer solutions (3 lectures)
+Software-defined network (SDN), Mesh networking, Energy issues and
+Sensor networks (6 lectures)
+Programming exercises using NS2/NS3, QualNet, Java and OmNet++
+1. Siva Ram Murthy, C., & Manoj, B. S. (2015). Ad hoc wireless networks: Architectures and
+PHI Pearson Education
+2. Akyildiz, Ian F., and Xudong Wang(2015).
+. Vol. 3. John Wiley & Sons
+Wireless mesh networks
+1. Basagni, S., Conti, M., Giordano, S., & Stojmenovic, I. (Eds.). (2015).
+. John Wiley & Sons
+2. Perkins, C. E. (2001).
+3. Toh, C. K. (2001).
+(Vol. 1). Reading: Addison-wesley
+Ad hoc networking
+Ad hoc mobile wireless networks: protocols and systems
+Mobile ad hoc
+4. Cheng, X., Huang, X., & Du, D. Z. (Eds.). (2013).
+Springer Science & Business Media
+Ad hoc wireless networking (Vol. 14).
+Self Learning Material
+1.   Computer Networks - MIT OpenCourseWare
+2.  Mobile and Wireless Networks and Applications, Stanford University,
+3. IEEE Transactions and other journals
+Department  Computer Science and Engineering
+Offered for  M.Tech. (CSE) 1
+Prerequisite  Networks and Machine Learning-1
+L-T-P [C]  0–0–2 [1]
+The Instructor will:
+1.   Provide the problem of Modelling and Estimation of Autonomous Systems
+2.   Introduce the Implementation of Autonomous Systems for solving Engineering Problems
+3.   Provide the theory of advanced techniques such as Fuzzy Logic, PSO and Neural Networks
+4.   Provide the implement simulations and real systems for the control and estimation of
+processes such as a mobile robotic platform
+The students are expected to have the ability to:
+1.   Understand the theory and application of the Systems and their Design for solving diverse
+types of problems in the area of Engineering
+2.   Be able to develop software for applying the theory and actually solving complex
+3. Have experience in using state of the art sensors, used in Field Robotics and Autonomous
+Systems and their Design:
+introduction to systems and design
+The Global Architecture of an Autonomous System: Introduction to autonomous systems
+including the architecture of autonomous systems
+design of agents
+Designing a Multi-Agent Autonomous System:
+Generation of Current Representation and Tendencies
+The Notions of Point of View, Intent and Organizational Memory
+Towards the Minimal Self of an Autonomous System
+Global Autonomy of Distributed Autonomous Systems
+Real-time reactive systems
+1.   Mhamed Itmi, Alain Cardon(2016),  New Autonomous Systems,  Wiley-ISTE
+2.   De Gyurky, S. M., & Tarbell, M. A. (2013).
+. John Wiley & Sons
+Synthesis of the Sciences of the Mind
+The Autonomous System: A Foundational
+1.   Tzafestas, S. G. (Ed.). (2012).
+Springer Science & Business Media
+2.   Ge, S. S. (2006).
+. CRC press
+Self Learning Material
+IEEE Transactions and other journals
+Advances in intelligent autonomous systems
+Autonomous mobile robots: sensing, control, decision making and

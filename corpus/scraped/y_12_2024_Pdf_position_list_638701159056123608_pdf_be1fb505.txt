@@ -1,0 +1,119 @@
+Title of the project
+Name and affiliation of the PI
+Names and affiliations of each of
+the collaborating faculty.
+Summary of the project
+Development of Angular Shaped High
+Strength Artificial Aggregates for the
+Utilization in Pavement Base and Sub-
+Department of Civil and
+Dr. Anand Krishnan Plappally,
+Associate Professor, Mechanical
+Engineering, IIT Jodhpur
+Radiation hard Gallium Nitride
+transistor for IoT enabled dosimeter
+EE, IIT Jodhpur
+Satyajit Sahu, Department of Physics
+The present research project aims at utilizing fly ash, mine tailing, and other
+additives to develop high-strength artificial aggregates for road construction.
+This will help to solve the problem of waste disposal and also helps in reducing
+adverse environmental effects related to the mining of new aggregates
+The objectives of the project are as follows,
+1. Deposition and characterizations of thin films by RF Sputtering
+2. Fabrication of GaN high electron mobility transistors using photolithograph
+3. Electrical characterizations of the fabricated transistors.
+4. Deposition of high-k dielectrics on the Gate
+5. Radiation studies of the transistor
+6. Integration with IoT platform
+Conversion of wastewater and
+exhaust gas CO₂ into algae biomass-
+Dr. Prasenjit Sarkar (Assistant
+Professor, CE/CETSD), Dr. Hardik
+Kothadia (Assistant Professor,
+The proposal 'Conversion of wastewater and exhaust gas CO₂ into algae biomass-Scaling up' will involve
+chemical capture followed by biological conversion of CO₂ to algae biomass. The process is aided by an
+integrated Microbial Fuel Cell. The study will address optimization and understanding of operational
+parameters such as gas-liquid mass transport, reactor design, mathematical modeling,
+and synchronous interaction of unit operations. In addition, a study on algae harvesting
+and water recycling rates will be undertaken. Another objective of the proposal will be to undertake sustainability
+analysis at a 1000 l scale and present a demonstrable unit for industrial operations.
+Prospecting for novel nanosystems
+from Thar-desert’s extremophiles for
+healthcare and environmental
+Dr. Indranil Banerjee
+Department of Bioscience and
+affiliation: IDRP, Smart
+Healthcare,  IIT Jodhpur
+1. Dr. Raviraj Vankayala, Department
+of Bioscience and Bioengineering,
+Secondary affiliation: IDRP, Smart
+Healthcare, IIT Jodhpur
+2. Dr.  Neha Jain, Department of
+Bioscience and Bioengineering,
+Secondary affiliation: Emerging
+Technologies for Sustainable
+Development (CETSD), IIT Jodhpur
+3.Dr. Shankar Manoharan,
+Department of Bioscience and
+Bioengineering, IIT Jodhpur
+4.Dr. Ritu Gupta, Department of
+Chemistry, IIT Jodhpur
+5.Dr. Pranay Ranjan, Department of
+Metallurgical and Materials
+Engineering, Secondary affiliation:
+IDRP, Smart Healthcare, IIT Jodhpur
+The project aims to explore the extremophiles of the Thar desert of India to discover a broad class of microbial nanomaterials
+with novel compositions and multi-functionalities. Further, it is to exploit the bioengineering machinery of those extremophiles
+for fine-tuning the production and properties of those nanomaterials for healthcare and environmental applications. The project
+is aligned with the multi-institutional collaborative research among IIT Jodhpur, University of Buffalo, and IIT Delhi.
+The project needs a comprehensive knowledge and expertise of microbial nanosystems, nanosystem characterizations,
+and molecular biology.
+Mathematical modeling and
+parametric design for Point-of-care
+Dr. Sukhendu Ghosh
+Department of Mathematics
+Dr. Sudipto Mukhopadhyay,
+Department of Mechanical
+Engineering & Dr. Tara Chand
+Kumawat, Department of Chemical
+Point-of-care (POC) or near-patient testing enables acquiring real-time diagnostic results at or near to the patient site providing
+timely diagnostics at a lower cost. Microfluidics play an important role in the development of POC or lab-on-chip devices.
+Research under this proposal  will involve Effective mathematical modeling, Hydrodynamic analysis and CFD simulations.
+The analysis and modeling techniques can further be applicable to explore many other physical and real world problems.
+The project is purely interdisciplinary and collaborative in nature.
+Flexible Electronic Devices for
+Shree Prakash Tiwari
+Department of Electrical
+i.Dr. Shree Prakash Tiwari,
+Department of Electrical Engineering
+ii.Dr. Arpit Khandelwal, Department of
+iii.Dr. Ankur Gupta, Department of
+This project will involve extensive exploration of novel and flexible electronic devices for sustainable electronics in
+which the main focus will be on using biodegradable material components. The efforts may include design, simulation,
+fabrication, and characterization of emerging devices with new materials. The candidate will be involved in fabrication
+of multifunctional devices and integrating them for E-textile and wearable systems. The eventual aim is to demonstrate
+functional system prototypes for flexible electronics while contributing to scientific knowledge in the area of sustainable
+Investigation of biofilm disruption by
+mechanical and electromagnetic
+waves: A novel approach to reduce
+antimicrobial resistance due to biofilms
+Bioscience and Bioengineering
+Arani Ali Khan; Electrical Engineering
+and Arun Kumar R; Mechanical
+The project aims to investigate and establish the use of shock waves and microwaves to disrupt resilient
+biofilms. The proposal involves optimization of frequencies for the microwave to disintegrate preformed biofilms,
+assembly and standardization of shock tube for biofilm disruption and determination of efficacy of microwaves
+and shock waves to break pre-formed biofilms on catheters and in vitro biofilm models.
+The Scalar Auxiliary Variable (SAV)
+Scheme for Coupled General Gradient
+Flow Systems with Non-local Free
+Energy and its application
+Dr. Moumita Mandal
+Department of Mathematics, IITJ
+Dr. Durgamadhab Mishra, Assistant
+Professor, Department of Physics, IIT
+The proposed work aims to design unconditionally energy-stable highly efficient Scalar Auxiliary
+Variable (SAV) scheme for coupled gradient flow systems driven by nonlinear non-local free
+energy to assess the structure and stability of various physical dissipative systems describing
+quasicrystal generation in nanotechnology, formation of heterostructures in semiconductors,
+and fracture mechanics in peridynamics etc.

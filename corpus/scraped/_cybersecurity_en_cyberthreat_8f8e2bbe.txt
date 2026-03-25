@@ -1,0 +1,186 @@
+Cyber Threat | Cyber Security | IIT Jodhpur
+A Cyber or cybersecurity threat is a malicious act that seeks to damage data, steal data, or disrupt digital life in general. The General Public is one of the most vulnerable targets for cybercrimes, as they involve a huge amount of information, financial, and personal data. That’s why we need to implement strong cybersecurity measures and make sure that our people are aware of how to secure themselves and their data on the Internet.
+Juice jacking is a type of cyber-attack where attackers compromise public USB charging ports (such as those in airports, railway stations, shopping malls, hotels, or buses) to steal data or install malware on a user’s device. When you plug your phone or tablet into an unknown USB charging port, the same cable that provides power can also transfer data. If the charging station has been tampered with, it may access sensitive information from your device or silently install malicious software. Juice jacking can lead to:
+Theft of personal data (photos, contacts, emails)
+Stealing banking credentials or saved passwords
+Installation of spyware or malware
+Unauthorized access to corporate or institutional accounts
+How to be cautious against Juice Jacking?
+Avoid using public USB charging stations.
+Carry your own charger and plug it directly into a wall power outlet.
+Use a power bank instead of public charging ports.
+Use a USB data blocker (USB condom), which allows power transfer but blocks data transfer.
+Always lock your device before charging.
+Do not select “Trust This Computer” if prompted when connecting to an unknown device.
+Keep your device’s operating system updated.
+Enable device encryption and strong screen lock (PIN, password, biometric).
+What should I do if I suspect Juice Jacking?
+Immediately disconnect your device from the charging port.
+Turn off Wi-Fi, Bluetooth, and mobile data temporarily.
+Run a security scan using a trusted mobile security application.
+Change important passwords (email, banking, institutional accounts).
+Monitor your accounts for any unusual activity.
+Inform your IT support team or cyber security cell if the device is used for official work.
+If financial information is compromised, inform your bank immediately.
+Additional Best Practices
+Use charging cables from trusted sources only.
+Avoid enabling developer mode or USB debugging unless absolutely necessary.
+Regularly back up your data.
+Be cautious when charging devices in unknown locations.
+A phishing attack is a category of cyber-attack in which hackers send messages pretending to be a trusted person or entity.
+Phishing messages can influence users, causing them to perform actions such as installing malicious files, clicking on harmful links, or exposing sensitive information, including bank account credentials, passwords, and credit/debit card numbers.
+This message can be sent to the target via email, messaging applications, or even SMS services.
+How to be cautious against Phishing Attacks?
+Be suspicious of any email with an urgent request for personal information.
+Never share passwords, personal information, or financial information over email.
+Don’t click links in email messages if you suspect the message might not be authentic or if you don’t know the sender.
+Don’t trust offers that seem too good to be true.
+Email Authenticity: Always double-check the source and contents of a sensitive email that requests private information.
+HTTPS Websites: Users must make every effort to visit websites with an HTTPS certification.
+Password Rotation: To ensure the best security of our data, you must change your passwords every few months.
+Email Fraud (Gift Card Scams)
+Gift card scams are on the rise and can result in a victim losing hundreds or thousands of rupees.
+In a typical scam, an employee/student receives an email or a text message that pretends to be from their co-student, faculty members, or another senior figure or person of authority. It asks them to buy gift cards and send them photos.
+The scammer may ask you to communicate with them via text message or email only, unable to take calls.
+Identifying Gift card scam email messages:
+Indicate some level of urgency, such as indicating they are currently busy or are heading into a meeting and need your help ASAP.
+Possibly include a subject line of "Are you available?" or "URGENT REQUEST“.
+Ask you to do them a "favor“, a promise of Reimbursement.
+Possibly have typos and grammatical errors.
+What should I do?
+Reach out to the sender in a separate email or call them to check if they sent the request.
+Don't reply to the email or use any contact information provided in the email; attackers often provide fake numbers or email addresses that they control.
+If you find the email is a phish, report it! (cert-in helpline).
+Inspect the sender's email address to confirm it's coming from that person. Scammers will often send the email from a random email account and change the Display Name of the email address.
+Spam email is unsolicited and unwanted junk email sent out in bulk to an indiscriminate recipient list.
+Typically, spam is sent for commercial purposes. It can be sent in massive volumes by botnets, networks of infected computers.
+Here, Sender Name and Email ID are different, and the email is categorized as SPAM.
+Blackmail or Sextortion Emails
+It is an email scam where an attacker claims to have compromised the victims' machines, sensitive data, including sexual content and pictures.
+The attacker demands payment, bitcoins, gift cards, or more photos, and threatens to publish the data on the internet.
+Example: The emails claim to have video of users watching "adult sites" and demanding $900 if they don't want the video shared with all of their contacts.
+How to respond to sextortion?
+First of all, do not panic.
+Do not respond and do not pay.
+However, if you download any attachment or click any links from this email or suspect that your PC or mobile might be infected with malware, you can scan your device for malware.
+Talk with someone you trust, like a close friend, teacher, or parent.
+Report tech companies and any threats or images to the help center of Facebook, Instagram, etc., to have them removed if shared.
+Some notable free antivirus programs like Sophos Home Premium, Hitman Pro, and Bitdefender, you can use.
+Do not worry if the phish includes your password; likely, this has been obtained from historic breaches of personal data. If the phish includes a password you still use, then change it immediately.
+Keep your details private.
+Email attachments are one of the most common ways to get viruses or malware. Even though an attachment might look like a document Excel file. PDF, etc., it might contain a virus or malware.
+A significant number of people open attachments from unknown email addresses. But it's critical that if you don’t know from whom the email is coming, then don't open or download the attachment.
+Do not download these attachments unless you are sure that it is a legitimate emails.
+Keylogger: As the name suggests, a key logger records all keystrokes on a keyboard. Most hackers use key loggers to get passwords and account details. Please be more cautious using credentials in public places and Internet cafes, etc.
+Shoulder surfing: The attackers observe the user’s keyboard by looking over the user’s shoulder.
+Tips for Password Safety
+Make sure to use unique passwords across all websites and applications.
+Enable and utilize 2FA, or two-factor authentication, on all websites that allow it.
+When you're creating security questions, make sure to choose unique, non-true answers, so you don't have to worry about someone resetting your password by knowing information about your personal life, or finding information on your social media accounts.
+If a data breach does occur, make sure to fully change your password, not just the number and symbol, and make sure to change your security questions as well.
+Search Engine Safety
+Search engines are being used by users to ask any question they can think of. Be very careful when you're downloading anything that says that it's free, because even if it is free and it is a legitimate download, they might put something on your computer that you didn't want, or something malicious.
+Malware: This is a malicious program or software that disrupts or damages the computer.
+Sources of Malware:
+Removable media, like Pen drives, CDs, and DVDs.
+Viruses can be hidden in document files with the .exe extension. As soon as you open them, the virus activates.
+If you download from untrusted websites, there is a chance that those files will contain viruses, and as soon as you open them, the hacker might get access to your system.
+If the network is unsecured, then it can be accessed by anyone.
+Never open email attachments unless the sender can be trusted. These files may contain viruses to create backdoors.
+Never click on ads that you don’t trust. They are created so that you can click on them, and hackers will receive details about you.
+Ransomware: Ransomware is a type of malware that encrypts a victim’s files and demands payment, usually in cryptocurrency, in exchange for the decryption key. Ransomware attacks are typically carried out through phishing emails, malicious downloads, or exploiting vulnerabilities in software. In recent years, educational institutions have become larger prime targets for ransomware attacks.
+How to protect yourself from Ransomware threats:
+Don’t open unexpected email attachments.
+Make backups of your data and keep them separate.
+Install and use endpoint protection software like antivirus/EDR.
+Update with the latest OS and patches regularly.
+Don’t click links in email if the sender is unknown.
+Financial fraud as a cyber threat spreads primarily through deceptive tactics such as phishing emails, fake websites, malware, and social engineering. Cybercriminals often impersonate trusted entities—like banks, service providers, or colleagues—to trick individuals into revealing sensitive financial information such as login credentials, credit card numbers, or banking details. In more advanced attacks, fraudsters may deploy malware or ransomware to gain unauthorized access to financial systems, steal data, or extort money
+Common Fraud Tactics to Watch Out For:
+Fake Bank Customer Care Numbers & Social Media Profiles
+Fraudsters may pose as bank representatives through social media, fake websites, or unofficial contact numbers.
+Only use contact details listed on our official website or mobile banking app.
+Never share your OTP, CVV, UPI PIN, passwords, or account details with anyone.
+Urgent Requests for Financial Help
+Scammers often impersonate friends, relatives, or colleagues requesting emergency money transfers.
+Always verify such requests through a personal call or in-person confirmation.
+Suspicious Links, Attachments & Forms
+Do not click on unknown or unsolicited links received via SMS, email, WhatsAPP or social media.
+Avoid filling out any forms or providing sensitive information through such links.
+Installation of APK Files or Remote Access Applications
+Do not install APK files (apps shared outside of Google Play Store or App Store), especially via WhatsApp, SMS, or email.
+Never download or use remote access apps like AnyDesk, TeamViewer, or QuickSupport at someone else’s request — these apps can give full control of your device to scammers.
+How to Stay Safe:
+Verify before you trust. Contact your bank directly using official channels.
+Use secure and official banking platforms only.
+Regularly update your passwords and avoid using the same password across platforms.
+Enable multi-factor authentication wherever possible.
+Deepfakes are fake photos, videos, or audio created using Artificial Intelligence (AI). They look very real and are often used by scammers to trick people, spread lies, or steal money. Cybercriminals may impersonate someone you know or a famous person to gain your trust. Because these fakes are getting more advanced, it’s becoming harder to tell what’s real and what’s not.
+Common Deepfake Tactics to Watch Out For
+Impersonation of Known People
+Scammers may use AI to mimic the voice, face, or behavior of a friend, colleague, or celebrity.
+They might request money, personal data, or try to spread false information.
+Always verify the identity through a personal call or face-to-face confirmation before taking action.
+Fake Messages or Video Calls
+Fraudsters may send AI-generated videos or voice messages that seem genuine.
+Be careful if you receive an urgent request for money or personal info.
+Do not trust unfamiliar or suspicious video calls, even if the face looks familiar.
+Deepfake Content on Social Media
+Fake videos and images can spread quickly on social media to mislead people.
+Watch out for unnatural blinking, lip-sync errors, lighting issues, or robotic voices.
+Always double-check the source before sharing or reacting.
+How to Stay Safe
+Verify before you trust. Confirm requests through personal calls or official sources.
+Use strong privacy settings on your social media accounts.
+Be alert to visual and audio signs that something may be fake.
+Limit the personal photos and videos you share online.
+Enable Multi-Factor Authentication (MFA) to protect your accounts.
+Educate yourself and others about deepfake risks.
+Use official apps and platforms only for communication.
+Keep your devices updated and secure.
+Report suspicious content to the platform or relevant authorities.
+Smishing  is a type of phishing where attackers use SMS or instant messaging platforms (like WhatsApp) to trick individuals into revealing sensitive information. The most common tactic involves sending a fake alert claiming that there was an issue with a delivery, such as a "parcel undelivered" or "delivery failed" notification. These messages often contain a link that directs you to a website designed to steal your personal and financial details
+Proper Sender ID: A well-known company or service will often have a clear sender ID (such as a short code or branded name) that corresponds to their official communication.
+Header Information: Official messages from trusted sources may include a 6-digit SNS (Short Message Service) header or similar identifiers.
+Warning Signs of Smishing:
+Suspicious SMS or WhatsApp Messages: You may receive a message claiming that a parcel could not be delivered and asking you to click on a link to “confirm your details” or “reschedule delivery.”
+Unfamiliar Sender: Be cautious if the SMS or WhatsApp message comes from an unknown number or a suspicious-looking sender
+Urgency: Many smishing attacks create a sense of urgency, stating that you must act quickly or risk missing your delivery.
+Requests for Sensitive Information: The message may ask for personal details such as your name, address, credit card information, or passwords.
+How to Protect Yourself:
+Do Not Click Links in Suspicious Messages: Avoid clicking on any URLs or downloading attachments from unsolicited SMS or WhatsApp messages
+Check the Link Before Clicking: If you’re unsure about the link in the message, copy the URL and paste it into an online URL scanner, such as VirusTotal, to check for potential threats before visiting the site
+Verify the Source: If the message claims to be from a legitimate company, visit their official website (by typing the address into your browser) and contact their customer service to verify the claim
+Look for Red Flags: Check for spelling mistakes, grammatical errors, and an unfamiliar sender
+Report Suspicious SMS or WhatsApp Messages: If you receive a suspicious message, report it to your mobile provider, or WhatsApp, and delete it immediately
+What to Do if You’ve Already Clicked the Link:
+Do not provide any personal information.
+Run a security scan on your device to check for malware or suspicious activities.
+Contact your bank if you’ve entered any payment details to monitor for fraudulent transactions.
+WhatsApp Account Compromise
+This is to bring to your kind attention about recent incidents involving compromised WhatsApp accounts and cyber fraud attempts. In such cases, hackers gain access to an individual’s WhatsApp account and send messages to their contacts requesting money or sensitive information. Sometimes, when trying to call the concerned person, their mobile phone may appear switched off, making it difficult to verify the request.
+To prevent such cyberattacks, please follow the guidelines below:
+Common Methods Used to Hack WhatsApp Accounts
+Hackers commonly use the following techniques to compromise WhatsApp accounts:
+1. OTP / Verification Code Scam: Attackers trick users into sharing the 6-digit verification code received via SMS by pretending to be a friend, bank official, courier service, or technical support. Once shared, they register the WhatsApp account on another device.
+2. SIM Swap Fraud: Fraudsters obtain a duplicate SIM card by impersonating the victim with the mobile service provider. Once the original SIM is deactivated, they receive OTPs and gain access to WhatsApp and other services.
+3. Phishing Links: Malicious links sent via SMS, email, or messaging apps redirect users to fake login pages designed to steal credentials or install malware.
+4. WhatsApp Web Hijacking: Attackers physically access an unlocked phone and scan the WhatsApp Web QR code to mirror the victim’s chats on another device.
+5. Malware / Spyware Applications: Installation of untrusted apps (from unofficial app stores or shared APK files) can grant attackers remote access to messages and OTPs.
+6. Social Engineering: Fraudsters impersonate known contacts (using profile pictures and names) and emotionally pressure victims into sending money urgently.
+Enable Two-Step Verification on WhatsApp
+(Settings > Account > Two-step verification)
+Never share OTPs or verification codes with anyone, even if the request appears genuine.
+Do not click on suspicious links received via SMS, email, or messaging apps.
+Do not dial any number containing * or # on anyone’s request, as this may activate call forwarding or other services that can compromise your account.
+Verify money requests by calling the person directly or confirming through an alternative communication method.
+Keep your phone and apps updated with the latest security patches.
+Lock your SIM card with a PIN and enable additional protection with your mobile operator.
+Log out of unknown devices from “Linked Devices” in WhatsApp settings.
+Report suspicious activity immediately to the IT Department or Cyber Cell.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 10:21 AM

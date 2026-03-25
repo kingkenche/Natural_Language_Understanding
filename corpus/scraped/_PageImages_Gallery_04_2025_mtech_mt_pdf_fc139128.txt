@@ -1,0 +1,46 @@
+Indian Institute of Technology Jodhpur
+M.Tech. (Metallurgical and Materials Engineering)
+(Institute level discussion should happen to renumber the M.Tech. core courses from 5xx to 6xx.)
+Cat.  Course Number, Course Title
+Cat.  Course Number, Course Title  L-T-P-D Credit
+C  MT513  Metallurgical
+Minerals, Metals and
+C  MT6XX  Project (Stage-I)
+C  MT6XX  Project (Stage-II)
+Distribution of Credits (M.Tech.)
+S.No. Category Category Title
+Electives (Program Electives)
+Electives (Open Electives)
+The eight elective (E) courses may be taken from those listed in five groups in Tables to follow or any other as applicable.
+Following is the list of courses that can be offered to M.Tech. Students
+List of Electives
+(A)  ELECTIVE I: Materials Modeling and Simulation
+Atomistic Simulations of Materials
+Modeling of Metallurgical Processes
+Statistical Thermodynamics and Chemical Kinetics
+(B)  ELECTIVE II: Extractive and Process Metallurgy
+Fuels, Furnaces and Refractories
+Iron and Steel Making
+Industrial Waste: Control and Utilization
+Instrumentation and Process Control
+Renewable Energy Sources
+(C)  ELECTIVE III: Metallurgical Manufacturing
+Light Metals and Alloys
+Near Net Forming
+Thermo Mechanical Processing
+Metallurgy of Joining Processes
+Theory of Arc Welding Processes
+Manufacturing of Plastics, Ceramics and Composites
+(D)  ELECTIVE IV: Physical Metallurgy
+Plastic Deformation and Microstructure Evolution
+Introduction to Dislocations
+Electronic Transport in Mesoscopic System
+Understanding Scanning Tunneling Microscopy
+(E) ELECTIVE V: Functional Materials and Devices
+Nanomaterials: Principles, Processing and Characterization
+Polymers and their composites
+Principles of Engineering Material Selection
+Advance Material Design
+Sensors in Instrumentation
+Semiconductor Device Technology
+Vacuum Systems and Thin film Technology

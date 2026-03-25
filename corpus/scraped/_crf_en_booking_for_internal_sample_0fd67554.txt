@@ -1,0 +1,34 @@
+Booking for Internal Sample | Central Research Facility (CRF) | IIT Jodhpur
+Booking for Internal Sample
+Visit Online Equipment Booking Portal Guidelines to use CRF facility for internal users
+Rules for sample submission and data collection:
+Students are strictly requested to submit your own samples and collect respective data by yourself only.
+Pendrive is not allowed in any instrument under CRF facility.
+Student must come with his/her CD for collecting data.
+Students are requested to collect data within 7 days after performing samples. After that if any loss of data happens CRF staff will not take the responsibility. Rules for entering and working in CRF facility:
+Signing in register before entering in CRF is mandatory.
+Users are requested to do proper entry in log book Register for the respective equipment after completion of the measurements. Strict action will be taken if it is found that log book entry is not maintained properly.
+Users must have to submit a requisition for working after 5:30 pm on weekdays as well as on holidays and weekends. (Requisition for working in beyond office hours)   (Download file: 113 KB )
+Working alone beyond office hours is strictly prohibited. Two students are requested to work together on these times for safety purposes.
+Rules for the arrangement of consumables for measurements:
+Consumables for measurements will be provided by CRF if the expenditure is less the 10 thousands per year. Else consumables have to be arranged by users themselves.
+Rules for online booking of CRF facility:
+Every student has to do a one-time registration of their roll number for utilizing the CRF facility. In the case of project staff, registration can be done through their personal file number.
+Each student/project staff can book a slot for utilizing CRF equipment through his or her LDAP account.
+Each student is allowed to book only one slot per week for each equipment.
+Every Monday 10 AM onwards students are allowed to book a slot for the next 15 days through online portal. Slot time for each equipment is displayed on CRF portal with the equipment; students are requested to strictly adhere to the allotted time in order to make it convenient for other users.
+The cancellation of the slot is highly undesirable.
+If you have to cancel the slot due to an inevitable reason, inform the same to CRF scientific officer in advance, at least one day before to make it convenient for others.
+Users are not allowed to cancel more than two slots in a month. If they do so, that particular user will be debarred for using the CRF facility for the next three months.
+Rules for arranging demonstration for course work at CRF facility:
+Please inform CRF Scientific Officer the date of the demonstration at least one week prior.
+Please book online slot for the demonstration.
+Faculty member must be present there during the demonstration.
+Guidelines to use CRF facility located at other buildings for internal users
+For using CRF facility extended to the other departments of the institute, users are requested to send an email to the respective faculty in charge of the equipment cced to CRF coordinator and scientific officer. After getting consent from In-charge, online slot (Rules for online booking of CRF facility is same as stated above) has to be booked. Measurements should be done in that fixed time slot. The consumable required for the measurements should be arranged by users themselves.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

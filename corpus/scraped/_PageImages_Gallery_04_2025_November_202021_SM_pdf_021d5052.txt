@@ -1,0 +1,104 @@
+Salary of Staff Members for the Month of November 2021
+S.No. Name of Employee
+1 Amardeep Sharma
+2 Amit Kumar
+3 Amit Kumar Soni
+4 Anand Padegaonkar
+5 Arjun Das
+6 Arjun Singh
+7 Ashish Kachhawaha
+8 Ashish Kumar
+9 Ashok Gehlot
+10 Ashok Kumar Khanduri
+11 Baikuntha Nath Sahu
+12 Bharat Pareek
+13 Bonagiri Umamaheswara Rao (cid:13)(cid:10)
+14 Chunni Chhatwani
+15 Darsh Kumar Khatwani
+16 Deepika Sharma
+17 Dhani Ram
+18 Dhavalbhai Mansukhbhai Raiyani
+19 Dheeraj Upadhyay
+20 Dheerendra Kumar Yadav
+21 Gajraj Sharma
+22 Ganesh Kumawat
+23 Ganpat Choudhary
+24 Gaurav Bhansali
+25 Gaurav Nigam
+26 Gurpreet Kaur Virdi
+27 Hanuman Singh
+28 Himmat Singh
+29 Ishmeet Singh
+30 Jayita Sarkar
+31 Kailash Chander
+32 Kalpana Deep
+33 Kamleshkumar Jagdishbhai Patel
+34 Kshema Prakash
+35 Lalit Mohan
+36 Laxman Singh
+37 Mahendra Singh Meena
+38 Narayan Dadhich
+39 Narendra Kumar Singh
+40 Naresh Chouhan
+41 Naresh Joshi
+42 Naveen Kumar
+43 Neeraj Kumar
+45 Poonam Chand Sankhla
+46 Prashant Bhardwaj
+47 Praveen Suthar
+48 Rakesh Kumar
+Junior Engineer (Electrical)
+Assistant Library Information Officer
+Assistant Executive Engineer (Civil)
+Physical Training Instructor
+Junior Engineer (Civil)
+Junior Technical Assistant
+Assistant Library Information Officer
+Junior Technical Assistant
+Assistant Executive Engineer
+Assistant Library Information Officer
+Sr. Technical Supdt.
+Junior Technical Assistant
+Junior Technical Assistant
+49 Ramniwas Dhayal
+50 Ram Singh Ratnu
+51 Rashmi Dhyani
+52 Ravi Jangid
+53 Rimpesh Katiyar
+54 Rinkesh Kumar Mangal
+55 Robin Singh Kaintura
+57 Sampatlal Narayanlal Suthar
+58 Sandeep Singh Chandel
+59 Sapna Sankhla
+60 Shakti Ranjan Patra
+61 Shankar Singh
+62 Sharabh Pradhan
+63 Sharad Srivastava
+64 Shashank Choudhary
+65 Shubham Pandey
+66 Shyam Sunder Singh
+67 Sunil Kumar
+68 Suresh Chandra Phulara
+69 Swati Kushwaha
+70 Tirunvarangam Madhavi Lata
+71 T. Malati
+72 Trilotama Singh
+73 Vinay Kumar
+74 Vivek Verma
+75 Abhimanyu S. Rathore
+76 Bhagya Rajeswari S.
+77 Gottipati Kiran Arya
+78 Kirity Kumar Roy
+79 Mohit Mathur
+80 Nivedita Verma
+81 Pran Gobinda Basak
+82 Shiv Dayal Jatav
+83 Subash Chandra Bose
+Sr. Technical Assistant
+Junior Technical Assistant
+Sr. Technical Supdt.
+Junior Technical Assistant
+Assistant Engineer (Electrical)
+English Language Instructor
+Advisor (Industry - Academia Interface)
+English Language Instructor (ELI)

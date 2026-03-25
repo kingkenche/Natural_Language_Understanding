@@ -1,0 +1,358 @@
+Department of Mathematics
+Minor in Data Science
+Data Science is the art of generating insight, knowledge and predictions by processing of data gathered
+about a system or a process. It emerges as a multi-disciplinary field that generally highlight the use of
+statistics, predictive modelling and machine learning without changing its application, irrespective of the
+domain. Today, data science has far reaching implications in many fields, both academic and applied
+research domains like governance, finance, security, transportation, healthcare, energy management,
+agriculture, population studies, weather prediction, economics, social sciences, predictive maintenance,
+structural health monitoring, smart manufacturing and computational structural biology. The growing
+importance of data science has in turn led to the need of inculcating it in the educational ecosystem to
+come up with the future workforce.
+2. Objectives of the minor
+The main objective of specialization in Data Science is to equip students with the fundamental concepts,
+approaches, and methods in data science. On the completion of the minor, students will develop critical
+and logical thinking to solve problems in data science and further will be able to use appropriate
+technology that aids their problem-solving and data analysis.
+3. Minor Compulsory courses (8 Credits)
+Introduction to Data Science
+Statistical Inference and Simulation Techniques
+Advanced Machine Learning
+Applied ML Lab
+4. Minor Electives courses (12 Credits)
+Introduction to Financial Engineering
+Stochastic Calculus for Finance
+Time Series Analysis
+Reliability Engineering and Life Testing
+Introduction to Game Theory
+Non-linear dynamics and chaos
+Maths for Big Data
+Discrete Mathematical Structures and Applications
+10 Mathematical Biology
+Statistical Models and Regression
+Topological Data Analysis
+Group Theory for Machine Learning
+Image and Video Analytics
+Advanced Artificial Intelligence
+Graph Theoretic Algorithms
+Image and Video Forensics
+Introduction to AR and VR
+Notes: The permission of Senate is requested for the following:
+(1) To include the 700 level courses (highlighted in Yellow colour) in the Elective list of MTech (Data
+and Computational Sciences).
+(2) To include the courses with S.No. 9, 10 and 11 in the Elective list of MSc (Mathematics).
+5. Offered for: All BTech students except BTech CSE, BTech AI&DE and BTech EE
+6. Detailed Course Content of Compulsory Courses
+Applied ML Lab
+Minor in Data Science
+The Instructor will
+applicability to the problems involved in their domain.
+introduce students to the importance of Machine Learning techniques and their
+The students are expected to have the ability to design and implement Machine Learning techniques for
+the problems of the domain.
+The lab course is a mini project laboratory where the students will select a problem(s) from their
+domain and will solve the selected problem on the basis of machine learning algorithms. This unique lab
+will provide an opportunity to the students to undertake ML based research in their own domain.
+1. Research literature
+2. Research literature
+Online Course Material
+7. Detailed Course Content of Elective Courses
+Discrete Mathematical Structures and Applications
+Minor in Data Science
+The Instructor will:
+1. Introduce the methods of analytical, abstract and critical thinking.
+2. Provide logical and mathematical tools for problem solving skills.
+3. Provide formal definitions in combinatorics and graph theory with their applications.
+The students are expected to have the ability to:
+1. Understand the notion of mathematical thinking, mathematical proofs, and algorithmic thinking, and
+be able to apply them in problem solving.
+2. Understand some basic properties of graphs and related discrete structures, and be able to relate
+these to practical examples.
+Mathematical Logic [7 Lectures]: Propositional Logic, First Order Logic, Proof techniques, Mathematical
+Induction, application to verify the algorithms and processes.
+Set Theory and Algebra [9 Lectures]: Sets, Paradoxes in Set Theory, Inductive Definitions of Sets and
+Proof by Induction, Relations, Functions, Partial Orders, Lattice, Boolean Algebra, Groups and Rings:
+Examples and Basic Properties, Error-correcting codes [6 Lectures], Secret sharing, Applications in
+Cryptography specifically in RSA cryptography, (k,n)-threshold scheme and visual cryptography [3
+Combinatorics [12 Lectures]: Recurrence relations, common techniques for solving recursions,
+Permutations, Combinations, Counting,
+Polya Counting, Stirling numbers, Bell numbers,
+Combinatorial Sums [8 Lectures]; Applications of combinatorics in Machine Learning and Number
+Theory [4 Lectures].
+Graph Theory [14 Lectures]: Connectivity, Trees and its properties, Cut vertices & edges, Covering,
+Matching, Independent sets [7 Lectures]; Coloring, Planarity, Isomorphism, Applications of Graphs in
+Supply Chain, Networks and Marketing Analytics [7 Lectures].
+1. Rosen, K. H., (1999), Discrete Mathematics and Its Applications, McGraw-Hill.
+2. Epp, S.S., (2004) Discrete Mathematics with Applications, Thomson-Brooks/Cole.
+1. K. A. Ross and C. R. B. Wright, (2003) Discrete Mathematics (Fifth Edition), Prentice Hall.
+2. Van Lint, J. H. and Wilson, R. M., (2009), A Course in Combinatorics, Cambridge University Press
+3. Matousek, J. and Nesetril, J., (2008), Invitation to Discrete Mathematics, Oxford University Press.
+Online Course Material
+1. Dr. Kamala Krithivasan, Discrete Mathematical Structures, NPTEL Course Materials, Department
+Statistical Models and Regression
+Minor in Data Science
+Probability, Statistics and Random Processes
+The Instructor will discuss the following aspects
+1. Statistical Modelling
+2. Linear and Non-linear Regression
+3. ANOVA and Analysis of Categorical Data
+The students are expected to have the ability to:
+1. Understand applications of regression and assumptions
+2. Formation of Contingency Tables and Its Analysis
+3. Use of R for Analysis of Real Data
+Introduction to Statistical Modeling [6 Lectures]: Model Diagnostics, Transformations, Multicollinearity,
+Influence, Model Building, Variable Selection.
+Linear regression [8 Lectures]: Bi-variate Gaussian Distribution, Assumptions for linear regression,
+Estimation of Parameters by Least Square Approximation, Hypothesis Test and Confidence Intervals for
+Model Parameters, Multiple Linear Regression with data examples, Residual Analysis
+Regression Cont [14 Lectures]: Introduction to Logistic Regression and Poisson Regression Within the
+More General Regression Approach, Exponential Family of Distributions, Generalized Linear Model With
+Data Examples. Introduction to Multiple Approaches to Variable Selection Illustrated with an Extensive
+Data Analysis Example
+Analysis of Variance [6 Lectures]: One way and Two way ANOVA with applications
+Analysis of Categorical Data [8 Lectures] – Contingency Table, Log-linear Modeling, Measures of
+Association, Testing of Hypotheses of associations for 2-way and 3-way tables
+Lab R Programing: Reading in Data, Tables, Linear regression and basic plotting, One way ANOVA and
+QQ-norm plots, Two way ANOVA and Box Plots, Logistic and Poisson regression, Analysis of contingency
+table, demonstration of the tools for some data.
+1. Montgomery D. C., Peck, E. A. and Vining, G. G. (2013) Introduction to Linear Regression
+2. Althem, P. M. E. (2015) Introduction to Statistical Modelling in R, Cambridge University Press
+1. Draper, N.R. and Smith, H. (2011). Applied Regression Analysis, Wiley Series.
+2. Rohatgi, V.K. and Saleh, A.K.M.E. (2008). An Introduction to Probability and Statistics, Wiley.
+Salabh, Linear Regression Analysis and Forecasting, NPTEL Course Material, Department of Mathematics
+and Statistics, IIT Kanpur, https://nptel.ac.in/courses/111/104/111104098/
+Topological Data Analysis
+Minor in Data Science
+The Instructor will:
+1. Provide the introduction to the topological data analysis.
+2. Provide new methods lying at the interface between pure mathematics, applied mathematics, and
+The students are expected to have the ability to:
+3. Be familiar with basics in topology that are useful for data analysis.
+4. Develop a comprehensive understanding of extracting topological information from data.
+5. Appreciate the connection of Pure and Applied mathematics with computer science.
+Introduction (4 lectures): Motivation for topological data analysis, Basic concepts (graphs, connected
+components, topological space, manifold, point clouds), Combinatorial structures on point cloud data,
+topology based dimension reduction, topology-based data partition and classification.
+Topological Homology (5 lectures): Homotopy, homeomorphism, Classification of surfaces up to
+Approximation, Simplicial homology, Chains spaces, Boundary operators, Homology group,
+Topological Persistence (5 lectures): Topological
+Incremental algorithm for filtrations,
+persistent homology groups, Persistence diagrams, persistence decomposition, persistence matrix
+reduction, stability of matrix reduction, transpositions, switches, types of switching, Bottleneck
+distance, Stability of filtrations and persistence.
+Topological Inference (8 lectures): Topological distance functions, medial axis and reach, topology from
+data, homotopy equivalence, Cech and Rips filtrations, nerves filtration, persistent nerves, sparsified
+filtrations and their usage in inference.
+Topological Learning (10 lectures): Learning with Persistence Diagrams, kernal Hilbert space, Kernels for
+persistence diagrams, Explicit Feature Map in Rd, Wasserstein Gaussian kernel, Frechet means in
+diagrams space, Hilbert space embedding, Deviation inequality, Confidence regions, landscapes,
+Subsampling with landscapes.
+Manifold Learning (10 lectures): Motivation for manifold learning, Multi-dimensional Scaling (MDS),
+metric MDS, isomaps, isomap interpolation, Local Linear Embedding, Maximum Variance Unfolding,
+Laplacian Eigenmap, Manifold Geometry and its application to clustering.
+1. H. Edelsbrunner, J. Harer, (2009) Computational Topology: An Introduction. AMS Press.
+2. S. Oudot, (2015) Persistence Theory: From Quiver Representations to Data Analysis. AMS Surveys
+and Monographs, Vol. 209.
+3. James R. Munkres, (1984) Elements of Algebraic Topology, Perseus.
+4. Trevor Hastie, Robert Tibshirani and Jerome Friedman, (2009) The Elements of Statistical Learning
+(2nd edition). Springer-Verlag.
+Online Course Material
+Group Theory for Machine Learning
+Minor in Data Science
+The Instructor will:
+1. Provide the introduction of group theoretic aspect for Machine Learning
+2. Give sufficient knowledge of the subject which can be used by students for further applications in
+their respective domains of interest.
+The students are expected to have the ability to:
+1. Develop a comprehensive understanding of harmonic analysis of group theory.
+2. Appreciate the connection of group theory and machine learning.
+Introduction to groups for Machine Learning (4 lecture): Groups as systems of transformations, Group
+axioms, Classes of groups: finite, countable, and Lie groups.
+Group representations (6 lecture): Group equivalence and reducibility, isomorphism, homomorphism,
+normal subgroups, direct product and semi-direct product of groups, classification of groups, group
+action, groups in the real world (quantum mechanics, robotics and permutations).
+Harmonic analysis on the symmetric group (8 lecture): Permutation cycle notation and cycle type,
+Partial rankings, commutative and non-commutative harmonic analysis, convolution theorem and
+Plancherel’s theorem, Decomposition of the group into isotypal components, Young diagrams, Young
+tableaux and Young’s orthogonal representation.
+Application of group theory (8 lecture): Spectral analysis of ranking data, Fast Fourier transforms, the
+Cooley-Tukey algorithm and its interpretation in terms of subgroups, Clausen’s FFT for permutation
+and multi-object tracking.
+Lie groups and invariance (10 lecture): Definition of Lie groups, Generators, the exponential map and
+Lie algebra, the rotation groups: parametrization and representations, connection to spherical
+harmonics Homogeneous spaces,
+the classical spectrum and
+bispectrum and their generalization to non-commutative groups, Kakarala’s completeness results,
+application to fast pattern matching, rotation and translation invariant features in image processing.
+the Euclidean motion groups,
+Group theory in Deep learning (6 lecture)
+1. H. Edelsbrunner, J. Harer, (2009) Computational Topology: An Introduction. AMS Press.
+2. Chirikjian, G. S., Kyatkin, A. B., (2001) Engineering applications of noncommutative harmonic
+analysis. CRC Press.
+3. Diaconis, P., (1988) Group Representation in Probability and Statistics. Volume 11 of IMS Lecture
+Series, Institute of Mathematical Statistics.
+4. Kanatani, K., (1990) Group theoretical methods in image understanding, Springer-Verlag.
+Online Course Material
+Minor in Data Science
+The Instructor will:
+1. Provide the introduction to the science and technology of visual analytics.
+2. Provide exposure on both theoretical foundations and application methodologies.
+3. Practical experience building and evaluating visualization systems.
+The students are expected to have the ability to:
+1. Understand the purpose of visualization in general and visual analytics in particular.
+2. Develop a comprehensive understanding of this emerging, multidisciplinary field.
+3. Apply that understanding toward a focused research problem in a real-world application.
+Introduction (2 lectures): Motivation, Historical Perspective on Visual Analytics and overview.
+Data Visualization and Visualization Models (5 lectures): Exploring the digital age, visualization as a
+tool, defining data visualization, visualization design objectives and process, classification of data
+visualization, Reference model, Data state reference model, Visual analytics model, Sense making
+Loop, Visual Analytics Process.
+Data Mining and Interaction (8 lectures): Data representation, Extracting salient features from data,
+encoded representation of data, Data aggregation and sampling, data reduction and projection, data
+integration, data attributes, visualization attributes, Interaction operators, operands and space,
+Interaction with data and problem space, Interaction with visual interfaces, data structure space,
+animating transformation and interaction control.
+Visualizing Techniques (14 lectures): Visualization of spatial data (one-, two- and three-dimensional
+line and area data) (3 lectures),
+data) (3 lectures), visualization of Geospatial data (point,
+visualization of time oriented data, visualization of multivariate data (5 lectures), visualization of
+trees, graphs and networks (3 lectures).
+Analytic Provenance and Evaluation Methods (7 lectures): Data provenance, Information provenance,
+Human-Visualization Interactions, Epistemic Action, Nested Model of VIS Design, Matching methods
+and metrics, Insight-based evaluation.
+Advanced Visualization Analytics (6 lectures): Interactive graphics (Mosaic plots, parallel coordinate
+plots and Trellis Displays), infographics, types of infographics, visualization of high dimensional data.
+1. Tamara Munzner, 1st edition (2014), Visualization Analysis and Design (AK Peters Visualization
+Series), A K Peters/CRC Press.
+2. Daniel Keim, Jörn Kohlhammer, Geoffrey Ellis, and Florian Mansmann, (2010). Mastering the
+Information Age Solving Problems with Visual Analytics, Published by the Eurographics Association.
+3. Matthew Ward, Georges Grinstein, and Daniel Keim, (2010),
+Interactive Data Visualization:
+Foundations, Techniques, and Applications, A K Peters Ltd.
+1. Claus O. Wilke, 1st edition (2019), Fundamentals of Data Visualization, O’Reilly Media
+2. Koponen, J. and Hildén, J., (2019), Data Visualization Handbook, CRC Press.
+3. Jason Lankow, J., Ritchie, J., and Crooks, R., (2012), Infographics: The Power of Visual Storytelling,
+John Wiley & Sons.
+Online Course Material
+Image and Video Analytics
+Minor in Data Science
+The Instructor will:
+1. Provide the key techniques and theory used in image and video analytics.
+2. To develop the understanding of different types of analytics processes.
+3. Provide exposure to a number of common image and video analytics application domains.
+The students are expected to have the ability to:
+1. Identify and apply appropriate principles for image and video analytics.
+2. Appreciate the implementation described in the image and video analytics applications.
+Introduction and Image basics [2 Lectures]: Image formation, Digital Image, Image sampling and
+quantization, Definition, Digital Image Characteristics, Representation and visualization.
+Feature extraction [4 Lectures]: Global
+characterizing shapes, Hough Transform.
+feature specific measurement,
+Representation and Description [7 Lectures]: Region Identification, Contour Based and Region Based
+Shape Representation and Description– Shape Classes, active contours, active shape and active
+appearance, Syntactic and Hybrid Texture Description Methods.
+Image Understanding [5 Lectures]: Control Strategies, Point Distribution Models, RANSAC, Scene
+Labeling and Constraint Propagation.
+Introduction to Video Analytics [3 Lectures]: Fundamentals of video, Advantages of employing video
+analytics (security and non-security), Distinguish between edge and server based analytics,
+Distinguish between computing and graphical processing power requirements in video analytics.
+Object Detection and Tracking [3 Lectures]: Background modeling, shadow detection, eigen faces,
+texture modeling, Object Tracking using Active Contours.
+Tracking & Video Analysis [7 Lectures]: Tracking and Motion Understanding, Kalman filters,
+particle, Bayesian filters, hidden Markov models, Motion estimation and
+Compensation-Block Matching Method, Hierarchical Block Matching, Overlapped Block Motion and
+compensation, Motion Estimation, Mesh Based Method, Optical Flow Method.
+ML-driven Video Analytics Systems [10 Lectures]: ML based object detection and recognition, machine
+learning optimizations for modern video analytics without violating latency and query accuracy
+expectations. Case studies in Face Detection and Recognition, Natural Scene Videos, Crowd Analysis,
+Video Surveillance, Traffic Monitoring, Intelligent Transport System.
+1. M. Sonka, V. Hlavac and R. Boyle, (2007) Image Processing, Analysis and Machine Vision, Third
+Edition, Cengage Learning.
+2. D. Zhang, (2019) Fundamentals of Image Data Mining: Analysis, Features, Classification and
+3. A Murat Tekalp, (1995) Digital Video Processing, Pearson.
+4. F. Camastra and A. Vinciarelli, (2015) Machine Learning for Audio, Image and Video Analysis Theory
+and Applications, Springer.
+Online Course Material
+Minor for Data Science
+The Instructor will:
+1. Introduce a variety of basic principles, techniques for text mining.
+2. Use these tools for text categorization, text clustering and topic modelling.
+3. Explore various text mining applications.
+The students are expected to have the ability to:
+1. Understand principles and various techniques for text mining
+2. Apply the tools for text categorization, text clustering and topic modelling
+3. Carry of sentiment analysis, Document summarization, develop recommendation system, carry out
+Introduction (2 Lectures): Definition of text mining, motivation for Text mining, challenges with text
+data and its applications.
+representation (7 lectures): Representation of unstructured text, document models
+(vector-space models and language models), determining the vocabulary of terms, Bag-of-Words
+representation, document frequency, Generative view of text documents, perplexity.
+Natural language processing (6 lectures): Basic techniques in natural language processing, tokenization,
+part-of-speech tagging, chunking, syntax parsing and named entity recognition, Public NLP toolkits,
+Embedding space, Word2Vec, Glove.
+Text categorization and clustering (7 lectures): Text categorization algorithms, Identifying the clustering
+text documents, assigning documents to the identified cluster(s),
+structure of a corpus of
+connectivity-based clustering and centroid-based clustering.
+Topic modeling (8 lectures): Uncovering the hidden thematic structure in document collections, the
+general idea of topic modelling, Probabilistic Latent Semantic Indexing (pLSI) and Latent Dirichlet
+Allocation (LDA), and their variants for different application scenarios, including classification,
+imagine annotation, collaborative filtering, and hierarchical topical structure modeling.
+Text Mining Applications (12 lectures): Sentiment analysis (sentiment polarity prediction, review
+mining, and aspect identification) (4 lectures), Document summarization and recommendation
+the basic concepts of recommendation algorithms,
+(Extraction-based summarization methods,
+especially the content-based and collaborative filtering based solutions)
+(4 lectures), Text
+visualization (visual representations of abstract data to reinforce human cognition, mathematical and
+programming tools to visualize a large collection of text documents) (4 lectures).
+1. Michael W. Berry and Jacob Kogan, (2010), Text Mining: Applications and Theory, Wiley.
+2. Charu C. Aggarwal and ChengXiang Zhai, (2012), Mining Text Data, Springer.
+1. Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schuetze, (2007), Introduction to
+Information Retrieval, Cambridge University Press.
+2. Dan Jurafsky and James H Martin, (2000), Speech & Language Processing - An Introduction to
+Natural Language Processing, Computational Linguistics, and Speech Recognition (2nd edition),
+Pearson Education India.
+Online Course Material
+Minor in Data Science
+The Instructor will:
+1. This course is an exploration in applications of mathematical modeling in the analysis of biological
+systems including population biology, physiology and in the biomedical sciences.
+2. To show how mathematics can be used in an integrated way to analyze biological systems.
+3. To develop student’s skills in algebraic manipulation, and the calculus of ordinary differential
+equations, introduced in the context of biological systems.
+After the completion of this course, students should:
+1. have an enhanced knowledge and understanding of mathematical modeling in the analysis of
+2. interpret biological assumptions in terms of mathematical equations
+3. be better able to assess biological inferences that rest on mathematical arguments.
+Discrete Processes in Biology: The Theory of Linear and Nonlinear Difference Equations Applied to
+Population Biology (6 lectures)
+Continuous Processes and Ordinary Differential Equations: Bacterial Growth in a Chemostat,
+Dimensional Analysis, Steady-State Solutions, Stability and Linearization, Application to related
+problems such as Delivery of drugs by continuous infusion, Modeling of Glucose -Insulin Kinetics etc (6
+Phase Plane Methods and Qualitative Solutions: Systems of two first order ODEs, The Direction Field,
+Nullclines, Phase Plane Diagrams for Linear Systems, Constructing a Phase Plane Diagram for the
+Chemostat. (6 lectures)
+Epidemiology and the SIRS Model: Analysis of equations,
+Immunization, Variation STDs (5 lectures)
+interpreting α, Nullcline analysis,
+Application of Continuous Models to Population Dynamics: Malthus Model, Logistic Growth, Predator
+Prey Systems and The Lotka -Volterra Equations, and Population in Competition. Numerical Methods to
+solve system of differential equations (6 lectures)
+Chemical Kinetics: Chemical Networks, Introduction to Enzymatic Reactions, Quasi-Steady State
+Approximations and Michaelis-Menten Reactions, Fast and Slow Behavior, Singular Perturbation
+Analysis, Inhibition, Allosteric Inhibition, Cooperativity. (6 lectures)
+Numerical Methods to solve ODE: Euler’s method, finite difference methods, shooting method, multistep
+methods, Taylors, Runge–Kutta–Fehlberg methods, ode45, linprog. (7 lectures)
+1. Leah, Edelstein, Keshet, Mathematical Models in Biology, SIAM publications.
+2. J.D. Murray, Mathematical Biology Vol. I, II, 3rd edition, Springer publications.
+3. Martin A. Nowak-Evolutionary Dynamics: Exploring the equations of life, The Beklnap Press of
+Harvard University Press, 2006
+4. J.N. Kapur, Mathematical Models in Biology and Medicine, East-West Press Private limited.
+5. K. Atkinson, W. Han, D. Stewart, Numerical Solutions of ODE, John Wiley and Sons publications
+1. Fred Brauer and Carlos Castillo-Chavez, Mathematical Models in Population Biology and
+Epidemiology, second edition, Springer publications.
+2. Haberman, R, Mathematical Models: an introduction to applied mathematics, SIAM publisher
+Online Course Reference Material
+1. Dr. Ameeya Kumar Nayak,
+IIT Roorkee, Mathematical Modeling, Analysis and application:

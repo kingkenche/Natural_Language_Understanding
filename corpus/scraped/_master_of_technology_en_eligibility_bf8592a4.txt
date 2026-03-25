@@ -1,0 +1,85 @@
+Eligibility | Master of Technology | IIT Jodhpur
+Eligibility for Admission
+The eligibility criteria prescribed below are the absolute minimum. Kindly make a note that the eligibility for admissions to different Dual degree (MTech-PhD) programs will be the same as regular M.Tech. programs of the concerned Department.The general eligibility criteria for admissions is as follows:
+(1) The applicant must have bachelor’s degree in engineering or science (4 year program) or a master’s degree in science, MCA, Pharmacy, Medical Sciences, Agricultural Sciences and Veterinary Sciences or in a related field.
+(2) A minimum of 60% marks for GEN/OBC (55% for SC/ST/PD) category in aggregate or as specified by the university/institute or a minimum CGPA of 6.0 for GEN/OBC (5.5 forSC/ST/PD) category on the scale of 10; with corresponding proportional requirements when the scales are other than on 10 (for example 4.8 for GEN/OBC category (4.4 for SC/ST/PD) on a scale of 8) or a first-class as specified by the university/institute.
+(3) (For Full time Regular Candidates with financial support)The applicant must either have a valid GATE score or exempted from GATE as per MHRD circular or have qualified an equivalent National Examination or have qualified in the written test and/or interview conducted by IIT Jodhpur.
+(For Part-time/ External/ Employer Sponsored) The applicant must have a minimum of two years of work experience (after qualifyingdegree) in industry/R&D laboratories/Academic Institutions at the time of registration tothe program. The applicant must qualify the written test and/or interview conducted by IIT Jodhpur.
+The qualifying degree and GATE requirements (only for Full-time Regular with Fellowship), specific to different M.Tech. programs, can be summarized as follows:
+(1) For Bioscience and Bioengineering:
+B.Tech., B.E. or B.Sc.
+Valid GATE score (Students from all Masters and Engineering backgrounds with training in biology or applied fields may apply)
+B. Tech. from any of the CFTIs with CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(2) For Artificial Intelligence:
+B.Tech or B.E. (any Branch of Engineering), M.Sc. (any discipline), M.C.A.
+Valid GATE score (CS/ IT/ EE/ EC)
+B. Tech. from any of the CFTIs (any branch of Engineering) with CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(3) For Computer Science and Engineering:
+B.Tech or B.E. (Computer Science and Engineering; Computer Engineering; Information Technology; Computer Science; Electronics Engineering; Electrical Engineering; Communication Engineering; Artificial Intelligence; or any other degree name involving a combination of above disciplines)
+Valid GATE score (in CS/ IT)
+B. Tech.(Computer Science and Engineering; Computer Engineering; Information Technology; Computer Science; Electronics Engineering; Electrical Engineering; Communication Engineering; Artificial Intelligence; or any other degree name involving a combination of above disciplines) from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(4) For Sensors and Internet of Things:
+B. Tech., B.E. or B.Sc. (Engineering) in Electrical Engineering/ Electronics and Communication Engineering/ Instrumentation Engineering/ Computer Science and Engineering
+Valid GATE score in EE/EC/IN/CS
+B. Tech. in Electrical Engineering/ Electronics and Communication Engineering/ Instrumentation Engineering/ Computer Science and Engineering from any of the CFTIs with CPI or CGPA of 8/10 or above
+The requirement of valid GATE score is exempted
+(5) For Cyber Physical Systems:
+B. Tech., B.E. or B.Sc. (Engineering) in Electrical Engineering/ Electronics and Communication Engineering/ Instrumentation Engineering/ Computer Science and Engineering
+Valid GATE score in EE/EC/IN/CS
+B. Tech. in Electrical Engineering/ Electronics and Communication Engineering/ Instrumentation Engineering/ Computer Science and Engineering from any of the CFTIs with CPI or CGPA of 8/10 or above
+The requirement of valid GATE score is exempted
+(6) For Communication and Signal Processing::
+B. Tech., B.E. or B.Sc. (Engineering) in Electrical Engineering/ Electronics and Communication Engineering
+Valid GATE score in EC
+B. Tech. in Electrical Engineering/ Electronics and Communication Engineering from any of the CFTIs with CPI or CGPA of 8/10 or above
+The requirement of valid GATE score is exempted
+(7) For Data and Computational Sciences:
+B.Tech., B.E., M.Sc., or equivalent
+Valid GATE score (Aerospace Engineering, Computer Science and Information Technology, Electronics and Communication Engineering, Electrical Engineering, Mathematics, Statistics, Engineering Sciences, Mechanical Engineering)
+B. Tech. from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(8) For Advanced Manufacturing and Design/Advanced Manufacturing
+B.Tech., B.E. or B.Sc. (Mechanical Engineering, Production Engineering, Aerospace Engineering, Mechatronics Engineering)
+Valid GATE score (in Mechanical Engineering / Aerospace Engineering / Production and Industrial Engineering)
+B. Tech.(Mechanical Engineering, Production Engineering, Aerospace Engineering, Mechatronics Engineering)from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(9) For  Mechanical Design:
+B.Tech., B.E. or B.Sc. (Mechanical Engineering, Production Engineering, Aerospace Engineering, Mechatronics Engineering)
+Valid GATE score (in Mechanical Engineering / Aerospace Engineering / Production and Industrial Engineering)
+B. Tech.(Mechanical Engineering, Production Engineering, Aerospace Engineering, Mechatronics Engineering) from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(10) For Thermofluids Engineering:
+B.Tech., B.E. or B.Sc. (Mechanical Engineering, Aerospace Engineering, Chemical Engineering and Power Plant Engineering)
+Valid GATE score (in Mechanical Engineering / Aerospace Engineering / Chemical Engineering)
+B. Tech.(Mechanical Engineering, Aerospace Engineering, Chemical Engineering and Power Plant Engineering) from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(11) For Materials Engineering:
+B.Tech., B.E. or B.Sc. (Engineering)
+Valid GATE score (in Metallurgical Engineering or Mechanical Engineering or Engineering Sciences)
+B. Tech. from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(12) For Chemical Engineering:
+B.Tech., B.E., B.Sc. (Engg), M.Sc., or equivalent in Chemical Engineering or allied discipline
+Valid GATE score (in any discipline)
+B. Tech. (Chemical Engineering or allied discipline) from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(13) For Infrastructure Engineering with specialization in Environment Engineering:
+B.Tech./B.E. or equivalent degree in Civil or Environmental Engineering
+Valid GATE score (in any discipline)
+B. Tech. in Civil or Environmental Engineering from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+(14)  For Infrastructure Engineering with specialization in Energy:
+B.Tech., B.E. or B.Sc. (Civil Engineering, Mechanical Engineering, Electrical Engineering, Chemical Engineering, and Power Plant Engineering)
+Valid GATE score (in Civil Engineering, Mechanical Engineering, Electrical Engineering, Chemical Engineering)
+Valid GATE score (in Physics) or equivalent National level Examination
+B. Tech.(Civil Engineering, Mechanical Engineering, Electrical Engineering, Chemical Engineering, and Power Plant Engineering) from any of the CFTIswith CPI or CGPA 8/10 or above
+The requirement of valid GATE score is exempted
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Jan 2026 - 04:39 PM

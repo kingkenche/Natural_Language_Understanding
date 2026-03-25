@@ -1,0 +1,9 @@
+Internet/Wi-Fi Access Facility | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+Internet/Wi-Fi Access Facility
+IIT Jodhpur have up to 9 Gbps Internet Leased Line from NKN, BSNL, PGCIL and Airtel. Users can access Internet with valid credentials without any proxy settings. However, it is suggested use Mozilla Firefox browser and not to close keep Alive window for continuous internet access. Download and configure below settings for connecting to WPA-2 Enterprise Wireless Network:
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

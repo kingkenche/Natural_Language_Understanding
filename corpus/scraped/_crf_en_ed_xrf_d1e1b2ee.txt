@@ -1,0 +1,43 @@
+Energy Dispersive X-Ray Fluorescence Spectrometer (ED-XRF) | Central Research Facility (CRF) | IIT Jodhpur
+Energy Dispersive X-Ray Fluorescence Spectrometer (ED-XRF)
+Energy Dispersive X-Ray Fluorescence Spectrometer (ED-XRF)
+MAKE: Malvern PANalytical
+Elemental Analysis technique
+Analysis Range: Sodium (Na) to Americium (Am).
+Concentration Range: 100 % to ppm level.
+X-Ray Source: Ag anode target (15W).
+Tube Filters: Six, Software selectable (Blank, Cu 300 µm, Cu 500 µm, Al 50 µm, Al 200 µm, Ti 7 µm, Ag 100 µm)
+Detector: Silicon Drift detector with active area 30 mm2, having resolution ≤ 140 eV @ Mn Kα
+Ten autosampler positions with spinner, circular sample holders
+Software: Omnian (standardless) software for qualitative and quantitative analysis.
+Sample Preparation Equipment:
+Vibratory cup mill for fine grinding of powders to 50-micron size.
+40-ton motorized Hydraulic press with a Die Set of 35 mm.
+Quality assurance through elemental analysis of raw materials like limestone, clays, and final cement products.
+Rapidly determine the elemental composition in ores, rocks, and minerals for exploration and quality control.
+Analysis of heavy metals and pollutants in soil, sediments, and airborne particulates.
+Sample Form: Solid, liquid, Powder, Paste.
+Dust-free flat solid sample.
+Solid block/pallets of circular shape having a flat diameter from 28 to 50 mm.
+Samples in powder form should be of a grain size around 50 microns, and preferred to make pellets for a good signal-to-noise ratio.
+The minimum amount of sample needed to make a pellet is 10 grams. Boric Acid is used as a binding agent for making pellets.
+Liquid samples can also be analyzed.
+For quantification, loss on ignition (LOI) and free moisture parameters are needed and provided by the user.
+Quantification is performed using the Omnian method, a standardless method.
+Quantification can be provided in oxide form and elemental form, depending on the user's requirement.
+The data will be updated soon once it is received from the CRF Center.
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone: 0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone: 0291 280 1347
+Name: Mr. Lalit Mohan
+Designation: Junior Assistant
+Phone: 0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

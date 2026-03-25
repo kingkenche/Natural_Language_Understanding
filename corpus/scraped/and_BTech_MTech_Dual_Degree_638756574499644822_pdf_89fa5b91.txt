@@ -1,0 +1,343 @@
+Department of Metallurgical and Materials Engineering
+Specialization 3: Computational Materials Engineering
+Table 2: List of Specialization Core and Electives as per Senate approved document
+List of core courses [8 Credits]
+List of Elective courses [12 Credits]
+1  MTL4XXX: Introduction to Dislocation
+MTL7XXX: Modelling of Metallurgical
+2  MTL7XXX: Modelling in Materials
+7XXX: Machine Learning for Materials Design
+3  Microstructure Image Processing [2-0-
+4  MTP7XXX: Computational Materials
+Engineering Laboratory [0-0-2]
+MTL7XXX: Single and Multi-objective
+Evolutionary and Nature Inspired Algorithms
+MTL7XXX: Principles of Continuum Mechanics
+MTL7XXX: Continuum Plasticity [3-0-0]
+MTL7XXX: Crystal Plasticity and Its
+CHLP4XX0: Process Control and AI
+CHL4XXX0: Molecular Transport Phenomena
+PHL7XXX: Computational Materials Science
+10  MEL7XXX: Finite Element Methods in
+11  MEL7XXX: Computational Fluid Dynamics and
+Heat Transfer [3-0-0]
+12  CHL7XX0: Data Analytics in Process Modelling
+and Simulation [2-0-2]
+13  CHL7XX0: Molecular Simulations [2-0-0]
+14  MTL7XXX: Data visualization in Materials
+15  MTD 7XXX: Project [0-0-6] /[0-0-8]/[0-0-12]
+Table 3: Proposed Semester-wise Structure of 20 Graded Credits and positioning of core courses for Computational
+Materials Engineering Specialization
+One 400 level 3 credit course
+may be placed in this semester
+Introduction to Dislocation
+SC  Modelling in Materials
+SC  Microstructure Image
+Overload this semester 3-4 credits
+Overload this semester 3 credits
+Overload this semester 4-3 credits
+Note: Students will also be required to complete any non-graded credits associated with a minor programme.
+Dual Degree in Computational Materials Engineering
+Table 4: Credit requirements for dual degree
+Total (As per
+31 (Compulsory + Elective)
+Table 5: List of Dual Degree Programme Core
+List of core courses [Credits]
+Industry 4.0: Applications in Metallurgical and Materials Engineering [2-0-0] (MC)
+Note: List of Specialization Core up to VIII Semester will be as per B.Tech. (Specialization) curriculum
+List of Specialization Electives up to VIII Semester will be as per B.Tech. (Specialization) curriculum
+List of Specialization Electives in IX th Semester will be as per M.Tech. Computational Materials Engineering Course
+Table 6a: Proposed Semester-wise Structure of 54-56 Graded and 4 Non-Graded Credits and positioning of core
+courses for the specialization leading to  dual degree [B.Tech.+M.Tech.]
+One 400 level 3 credit
+course may be placed
+in this semester for
+Modelling in Materials
+Overload this semester 4 credits
+SC  Computational Materials
+SE   Specialization Elective
+SE  Specialization Elective
+Overload this semester 3 credits
+Overload this semester 3 credits
+MO  Open Elective
+MP  M.Tech. Project
+Non-graded PG courses
+Department  Metallurgical and Materials Engineering
+Introduction to Dislocation Dynamics  Number
+Introduce basic concepts of discrete dislocation dynamics simulations
+The student will be able to
+Create a simulated system with various dislocation configurations.
+Determine the properties associated with the dislocations by running simulations.
+mechanism of dislocation motion, introduction to atomistic simulations (6 lectures)
+Crystal dislocations, The burgers vector, Motion of a crystal dislocation, Atomistic
+Static simulations: setting up initial configuration, boundary conditions, data analysis
+and visualisation: Energy filtering and centro-symmetry deviation (6 lectures)
+Dynamic simulations: Creation of dislocation through misfit at interfaces, stress control
+and temperature control, extraction of dislocation velocity (6 lectures)
+Periodic boundary conditions: Displacement field induced by a dislocation, dislocation
+core energy, Peierls stress (6 lectures)
+Free energy calculations: harmonic approximation, a Vacancy in the Dislocation Core,
+beyond harmonic approximation (4 lectures)
+Laboratory (Computer simulations):
+1) An atomistic simulation of an edge and a screw dislocation in BCC tantalum
+2) Simulation of a system containing vacancy–interstitial pair and data analysis
+3) Simulation of a perfect grain boundary and data analysis
+4) Simulation of dislocation glide motion at different stress values
+5) Simulation a system with a screw dislocation dipole and estimation of the excess energy
+associated with the dislocation dipole
+6) Estimation of dislocation core energies
+7) Estimation of a Peierls stress near dislocations
+8) Compute the free energy of a silicon crystal containing a vacancy
+1. Bulatov, Vasily, and Cai, Wei. Computer Simulations of Dislocations. United Kingdom, OUP
+1. Cui, Yinan. The Investigation of Plastic Behavior by Discrete Dislocation Dynamics for Single
+Crystal Pillar at Submicron Scale. Singapore: Springer Nature Singapore, 2016.
+Modelling in Materials Engineering
+Metallurgical and Materials Engineering
+B.Tech., B.Tech.-M.Tech. Dual Degree,
+2–0–0 [2], SC
+1. Introduce first-principles calculations and molecular dynamics.
+2. Introduce crystal plasticity and phase-field modelling techniques.
+1. Able to use quantum and atomistic simulation tools
+2. Awareness of modelling techniques at meso and macro-length scales.
+First-principles calculations (7 lectures)
+Introduction, Periodic Structures, Supercells, Electronic kinetic energy cut-off, Total Energy,
+Geometry Optimization, Electronic Structure and Magnetic Properties, Calculations for
+Surfaces, Defects in solids
+Molecular dynamics simulations (7 lectures)
+Introduction, Application of various distribution functions in amorphous and crystalline
+materials, Study of Diffusion and activation energy barrier, Application of MD in studying the
+kinetics of battery electrodes and electrolytes, Steered molecular dynamics: Theory and
+Phase-Field Modelling (7 lectures)
+Microstructure evolution, Continuum vs sharp interface description, The Ginzburg-Landau free
+energy functional, Equilibrium interfaces and surface tension, Conserved and non-conserved
+order parameters, Driving forces, fluxes, Spinodal decomposition in a binary alloy
+Introduction to Crystal Plasticity (7 lectures)
+Deformation gradient and finite strain, rotation and stretch, elastoplastic decomposition,
+Flow rules, hardening rules, slip systems and resolved shear stress, Pole figures and
+stereographic projection, Euler angles and orientation distribution, Phenomenological models,
+dislocation based constitutive laws, geometrically necessary dislocations
+1. Lee, J., Computational Materials Science: An Introduction, 2nd Edition, CRC Press 2016.
+2. Sholl, D. S., and Steckel, J. A., Density Functional Theory: A Practical Introduction, 1st
+Edition, Wiley, 2009.
+3. Provatas, N., Elder, K., Phase-Field Methods in Materials Science and Engineering, John
+Wiley & Sons, 2011.
+4. Roters, F., Eisenlohr,P., Bieler, T., Raabe, D., Crystal Plasticity Finite Element Methods in
+Materials Science and Engineering, WILEY-VCH Verlag GmbH & Co. KGaA, 2010.
+5. LeSar, Richard, Introduction to Computational Materials Science: Fundamentals to
+Applications, Cambridge University Press, 2013.
+1. Raabe, D., Computational Materials Science: The Simulation of Materials, Microstructures
+and Properties, Wiley VCH, 1998.
+2. Hull, D., and Bacon, D. J., Introduction to Dislocations, Butterworth-Heinemann (Elsevier),
+5th Ed., 2011.
+Online Course Materials
+1. Gururajan, M.P., Phase field modeling: the materials science, mathematics and
+computational aspects, Department of Metallurgical Engineering and Materials Science, Indian
+Institute of Technology Bombay,
+2. MIT open courseware:  Gerbrand Ceder, and Nicola Marzari. 3.320 Atomistic Computer
+Modeling of Materials (SMA 5107). Spring 2005. Massachusetts Institute of Technology: MIT
+OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Microstructure Image Processing
+Department  Department of Metallurgical and Materials
+B.Tech., B.Tech.-M.Tech. Dual Degree, M.Tech.
+Core for UG
+1. Introduce the emergent field of image processing for better understanding the microstructure
+for material engineering.
+The students are expected to have the ability to acquire basic knowledge and understanding of
+image processing and their applications in metallurgy and materials engineering.
+Image Filtering and Feature Extraction
+Colour spaces, Frequency domain representation, convolution, Image transforms, noise removal,
+restoration  of  degraded  images,  Texture  Features:  moments,  correlation,  frequency  domain,
+wavelet transform, keypoints and line extraction, keypoint based features.
+Image Segmentation and Image Registration
+Region growing, Clustering, Mixture Models, graph partitioning, keypoint correspondence, image
+registration as an optimization problem, 2D and 3D registration, multimodal registration
+1. Gonzalez, R., Woods. R., Digital Image Processing, 4th Edition, Global Edition, 2017
+2. Szeliski . R., Computer Vision: Algorithms and Applications, 2nd Edition, Springer, 2022.
+1. Cecen, A., Fast, T. & Kalidindi, S.R. Versatile algorithms for the computation of 2-point
+spatial correlations in quantifying material structure. Integr Mater Manuf Innov 5, 1–15 (2016).
+2. Kalidindi, S.R., Niezgoda, S.R. & Salem, A.A. Microstructure informatics using higher-order
+statistics and efficient data-mining protocols. JOM 63, 34–41 (2011).
+Computational Materials Engineering
+Department  Department of Metallurgical and Materials
+B.Tech., B.Tech.-M.Tech. Dual Degree, M.Tech.
+1. To provide hands-on experience of using computer simulations for studying materials.
+2. To provide experience in analysing the simulation results for understanding materials.
+1. Familiarity with the advantages and limitations of computational tools available for studying
+2.  Able  to  run  the  simulations  and  study  materials’  behaviour/properties  from  the  simulation
+Course Content (Computer Simulations)Analysis:
+1. Calculation of the electronic band structure and density of states in a semiconductor
+2. Calculation of the electronic band structure and density of states in a metal
+3. Calculate glass transition temp of polymer
+4. Yield mechanism of an Au nanowire
+5. Determination of the elastic stiffness tensor
+6. Spinodal decomposition in a binary alloy
+7. Modeling of grain growth:
+8. Generation of synthetic 3D polycrystalline grain structure from Electron Backscatter
+Diffraction (EBSD) data
+9. Simulation of uniaxial compressive stress-strain response of a polycrystalline FCC single-phase
+metal  based  on  strain  rate-independent  and  strain  rate-dependent  3D  Crystal  Plasticity
+10. Materials data visualization
+Edition, Wiley, 2009
+Wiley & Sons, 2011
+Provatas, N., Elder, K., Phase-Field Methods in Materials Science and Engineering, John
+Sholl, D. S., and Steckel, J. A., Density Functional Theory: A Practical Introduction, 1st
+Online Course Material
+1.  Voorhees, P.W., Phase Field methods: From fundamentals to applications, Department of
+Material Science and Engineering, Northwestern University,
+Machine Learning for Materials
+Metallurgical and Materials Engineering
+B.Tech., B.Tech.-M.Tech. Dual Degree,
+Introduce a selected set of Machine learning and Deep Learning techniques for
+Introduce hands-on experience with some practical methods and techniques in
+materials informatics for materials classification, regression, clustering, and adaptive
+through a set of case studies pertaining to Materials Engineering.
+Introduce hands-on experience in analyzing data and applying ML approaches
+1.  To be able to apply different data-driven techniques for creating Materials Knowledge.
+2.  To use machine learning tools for solving problems in materials design
+Deep Learning Techniques:
+Supervised Learning using deep networks: Convolutional Neural Networks (CNN), Recurrent
+Neural Networks (RNNs), Self-Supervised Learning, Few Shot Learning, adversarial Learning,
+and Transformers. (14 lectures)
+Unsupervised Learning using deep networks: Auto encoders, Deep Belief Networks (5
+Ensemble Classifiers: Random Forests, Gradient Boosted Decision Trees (4 lectures)
+Association Analysis: Mining association rules, Graph Neural Networks (5 lectures)
+A deep-learning technique for phase identification using synthetic XRD powder
+Physics-driven ML for catalysts design
+Data-Driven Prediction of Interatomic Potentials
+Automated Micrograph Analysis: Optical, SEM, TEM and EBSD analysis.
+Data-Driven Approach for design and rapid screening of High Entropy and Amorphous
+Materials Property Predictions Based on Data from Chemistry, Structure and
+Data Driven Modelling for Defect prediction during Additive Manufacturing Process
+Fatigue life prediction using ML
+1. Pilania, G., Balachandran, P. V., Gubernatis, J. E., and Lookman, T., Data-Based Methods
+for Materials Design and Discovery: Basic Ideas and General Methods, Morgan & Claypool
+2. Machine Learning And Data Mining In Materials Science, Edited by Huber, N., Kalidindi, S.
+R., Klusemann, B. and Cyron, C. J., Frontiers in Materials, 2020.
+3. Mueller, T., Kusne, A.G. and Ramprasad, R., Machine Learning in Materials Science. In
+Reviews in Computational Chemistry, Edited by Parrill, A.L., and Lipkowitz, K.B., John Wiley &
+1. Materials Informatics: Methods, Tools, and Applications, Edited by Olexandr Isayev,
+Alexander Tropsha, Stefano Curtarolo, John Wiley & Sons, 2019
+2. Informatics for Materials Science and Engineering-Data-driven Discovery for Accelerated
+Experimentation and Application, Edited by:  Krishna Rajan, Butterworth-Heinemann, 2013
+Data Visualisation in Materials Modelling
+Department  Department of Metallurgical and Materials Engineering   L-T-P [C]
+B.Tech. (CME specialization), B.Tech.-M.Tech. Dual
+1. Introduce the emergent field of data visualization for better understanding and processing of
+scientific data for material engineering.
+Understand key methods and libraries for scientific data visualization.
+Understand the data handling and efficiently visualize the data in 2D and 3D.
+Performing the fits to the data and quantify the quality of the fit.
+Basics of data handling and visualization: Overview of python language, Data input and output,
+Organisation  of  big  multidimensional  data  in  numpy  and  pandas,  and  efficient  data  format
+conversion, Python IDE. (7 lectures)
+Data visualization in Python for materials modelling: Data visualization in various python libraries,
+2D  and  3D  data  visualization,  linear,  matrix  and  multidimensional  data  visualization,  Data
+visualization of density of states, band structure, charge density, spectroscopic data, numerical
+data fitting and its visualization in materials modelling (7 lectures)
+1. Landup. D, Data visualization in python with pandas and matplotlib, 2020.
+1. Beazley, D., Jones, B.K, Python Cookbook: Recipes for Mastering Python 3 (English Edition),
+O’Reilly media, 2013.
+Modelling of Metallurgical Processes
+Metallurgical and Materials Engineering
+B.Tech., B.Tech.-M.Tech. Dual Degree,
+The Instructor will:
+important process variables
+Introduce methods for developing simple models of metallurgical processes considering
+The models will be evaluated for their industrial adaptability
+The students are expected to have the ability to:
+control metallurgical processes
+Relate the basic phenomena and process output through modelling
+Apply the principles of  thermodynamics and transport phenomena to  understand and
+thermochemistry (6 lectures)
+thermochemistry,  Ellingham  diagram,
+Process  metallurgy:  transport  phenomena,  reaction  kinetics,  rate  phenomena,  chemical
+reaction kinetics, fluid flow, heat and mass transfer (12 lectures)
+Metal-slag interactions: Thermo-physical properties of metals and slags, slag-metal equilibrium
+calculations, application of slag capacity during metal refining (12 lectures)
+Process phenomena: bubble formation, foaming, gas-liquid reactions, reactions between liquid
+phases (10 lectures)
+Process  control  in  metallurgical  processes:  iron  making,  converter  steel  making,  electric  arc
+furnace, secondary steel making (12 lectures)
+Academic Press, 1997.
+Universities Press, 2014.
+Sano  N.,  Lu  W.,  Riboud  P.,  Advanced  Physical  Chemistry  for  Process  Metallurgy,
+Shamsuddin M., Physical Chemistry of Metallurgical Processes, John Wiley & Sons, 2016.
+Roy, Sanat Kumar., Bose, Subir Kumar, Principles of Metallurgical Thermodynamics,
+Mohanty, A. K., Rate Processes in Metallurgy, India: PHI Learning, 2009.
+Ghosh, Sudipto., Ghosh, Ahindra, A Textbook Of Metallurgical Kinetics, India: PHI
+Seetharaman S.S., Treatise on Process Metallurgy, Volume 1: Process Fundamentals,
+Seetharaman  S.S.,  Treatise  on  Process  Metallurgy,  Volume  2:  Process  Phenomena,
+Elsevier Ltd., 2014
+Elsevier Ltd., 2014
+Elsevier Ltd., 2014
+Online Course Materials
+1. Muzumdar, D., and Koria, S.C., Steel Making, NPTEL Course Material, Department of
+Material Science and Engineering, Indian Institute of Technology Kanpur,
+Seetharaman  S.S.,  Treatise  on  Process  Metallurgy,  Volume  3:  Industrial  Processes,
+Evolutionary  and  Nature  Inspired
+Metallurgical and Materials Engineering
+B.Tech., B.Tech.-M.Tech. Dual Degree,
+The Instructor will:
+1. Introduce evolutionary algorithms for single and multi-objective optimization
+The students are expected to have the ability to:
+1. Carry out Multi-objective optimization using evolutionary algorithms
+Historical perspective of Evolutionary Algorithms: the American and German schools of
+thought. The scope of evolutionary algorithms and the advantages of a ‘non-calculus’
+approach. (1 lecture)
+The ‘Simple Genetic Algorithm’. The basic genetic operators: selection, crossover, mutation
+and their variants. (1 lecture)
+How Genetic Algorithm works: The Schemma Theorem. The problems of binary encoding:
+Hamming Cliff. Remedial measures: Gray encoding, real encoding, (1 lecture)
+Recent algorithms:  Differential Evolution, Particle Swarm Optimization, Ant Colony
+optimization, Artificial Immune System Algorithms (2 lectures)
+Fundamentals of Multi-objective Optimization. The concept of Pareto Optimality (2 lectures)
+Major Evolutionary Multi-objective optimization Algorithms: SPEA, NSGAII, MOGA etc. (2
+Genetic Programming (1 lecture)
+Data-driven modeling, Surrogate or metamodeling. Modeling data with random noise: EvoNN,
+BioGP and EvoDN2 algorithms. Commercial software like Kimmeme and ModeFrontier.  (4
+Term Project on a problem of student’s choice.
+1. Chakraborti Nirupam, Data-driven evolutionary modelling in materials technology, CRC
+2. Datta, Shubhabrata,  Materials design using computational intelligence techniques. CRC
+3. Deb K. Multi-objective optimization using evolutionary algorithms. John Wiley & Sons;
+1. DE Golderg, Optimization & Machine Learning, Addison Wesley, 1989.
+2. Melanie Mitchell, An introduction to genetic algorithms. MIT press, 1998.
+3. Coello, Carlos A. Coello, and Gary B. Lamont. Applications of multi-objective evolutionary
+algorithms. Vol. 1. World Scientific, 2004.
+4. Ant Colony Optimization by Marco Dorigo and Thomas Stützle, MIT Press, 305 pp.
+Crystal Plasticity and Its Applications  Number
+Metallurgical and Materials Engineering
+B.Tech., B.Tech.-M.Tech. Dual Degree,
+1. The objective of this course is to learn different aspects of plasticity in relation to the
+crystallographic orientation of metallic materials.
+1. Fundamental understanding of the correlation between microstructural aspects and
+2. Apply the fundamental concepts to use crystal plasticity modeling for a better
+understanding of different microstructural evolution phenomena during deformation.
+Introduction: Metallurgical fundamentals of plastic deformation, Concepts of stress and strain,
+Introduction to continuum mechanics, Deformation gradient and deformation of line, Velocity
+gradient, Elastoplastic decomposition, Stress analysis and Yield surfaces  (10 lectures)
+Crystal  orientation  and  its  representation:  Description  of  orientation  and  misorientation,
+Measurement techniques, Statistical representation of crystallographic texture (4 lectures)
+Crystal plasticity modeling and numerical aspects:
+Mean Field Models: Taylor Model, Grain Interaction Based Models, Viscoplastic Self consistent
+Models, Full Field Models : crystal plasticity finite element method, fast Fourier transformation
+method (10 lectures)
+Work hardening models: Voce Model, extended Voce Model, Dislocation density based Kocks
+Mecking Model.  Slip system interactions, latent hardening, Concepts of Taylor factor, Schmid
+factor and Single Crystal Yield Locus, Treatment of twinning in crystal plasticity. (10 lectures)
+Examples  of  applications:  Microscopic  and  Mesoscopic  Examples:  Plane  strain  deformation,
+Simple shear deformation, Single-and bicrystal deformation, Recrystallization, Multiphase steel
+(TRIP) deformation etc., Texture dependent properties and macroscopic examples such as deep
+drawing  (8 lectures)
+1. Roters, F., Eisenlohr, P., Bieler, T., Raabe, D., Crystal Plasticity Finite Element Methods in
+Materials Science and Engineering, WILEY-VCH Verlag GmbH & Co. KGaA, 2010.
+2. Hosford, W. F., The mechanics of crystals and textured polycrystals, Oxford University
+Press (USA), 1993.
+1. R. J. Asaro and Vlado A. Lubarda, Mechanics of Solids and Materials, Cambridge University
+2. A. F. Bower, Applied Mechanics of Solids, CRC Press, 2009.
+3. A. S. Argone, Strengthening Mechanisms in Crystal Plasticity, Oxford University Press,
+4. Raabe, D., Roters, F., Barlat, F., and Chen, L. Q. (Eds.)., Continuum scale simulation of
+engineering materials: fundamentals-microstructures-process applications. John Wiley &
+Online Course Material:
+1. Biswas, S. and Toth, L. S., Crystallographic texture and crystal plasticity, GIAN-MHRD, IIT
+2. Biswas, S., Texture in Materials, https://nptel.ac.in/courses/113105103
+3. Bag, S., Introduction to crystal elasticity and crystal plasticity,

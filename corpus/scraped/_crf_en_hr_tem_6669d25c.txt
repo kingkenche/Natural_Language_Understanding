@@ -1,0 +1,43 @@
+High Resolution Transmission Electron Microscope (HR-TEM) | Central Research Facility (CRF) | IIT Jodhpur
+High Resolution Transmission Electron Microscope (HR-TEM)
+High Resolution Transmission Electron Microscope (HR-TEM)
+Make: Thermo Fisher
+Model: Talos F200i
+Configured for 80 or 200 (default) kV operation
+X-FEG field emission gun
+Single-tilt and low-background double-tilt (hex ring) holders available:
+Alpha tilt:+-30 degree, Beta tilt; 30 degree
+Bottom-mounted Thermo Ceta 16 megapixel CMOS camera
+Line Resolution: /information limit: 0.12nm
+Point Resolution: 0.25nm
+TEM Line Resolution: 0.10nm
+Ceta speed enhancement for recording sample operation videos
+STEM Resolution: 0.16 nm
+STEM detector: BF, DF, HDAAF, Segmented Panther Detector
+EDX detector energy resolution 122eV @ 10kcps/Elemental Mapping
+Selected Area Electron Diffraction (SAED)
+High-resolution imaging of crystal structures, grain boundaries, and nanoparticles to study materials at the atomic scale.
+Visualization of cellular structures (e.g., organelles, viruses, proteins) at nanometer resolution for disease and function analysis.
+Investigation of fractures, defects, and dislocations in metals, semiconductors, and composites to understand failure mechanisms.
+Determination of crystal orientation, phase identification, and diffraction patterns using selected area electron diffraction (SAED).
+Content will be updated soon.
+Academics(Rs) + 18% GST
+Industry(Rs) + 18% GST
+Rs1250 /hr+ Grid charges
+Rs2500 /hr+ Grid charges
+Content will be updated soon..
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone:0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone:0291 280 1347
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone:0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

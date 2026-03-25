@@ -1,0 +1,443 @@
+Department of Metallurgical and Materials Engineering
+Specialization 2: Functional Materials
+Table 2: List of Specialization Core and Electives as per Senate approved document
+List of core courses [8 Credits]
+List of Elective courses [12 Credits]
+1  MTL 4XXX: Nanomaterials for Hydrogen
+1  MTL 4XXX: Fundamentals of Transmission
+Production and Storage [3-0-0]
+Electron Microscopy [3-0-0]
+2  MTL7XXX: Functional Materials [3-0-0]
+2  MTL 4XXX: Smart Ceramics and Composites
+3  MTP7XXX Functional Materials
+3  MTL7XXX: Symmetry, Structure and Tensor
+4  MTL7XXX: Metamaterials [1-0-0]
+4  MTL/EEL 7XXX: Advanced Semiconductors
+Materials and Device Applications [2-0-2]
+5  MTL 7XXX: Functional 2D Materials [2-0-2]
+6  MTL 7XXX: Functional Materials for Sensors
+and Actuators [2-0-2]
+7  MTL/PHL 7XXX: Materials for Electrochemical
+Energy Conversion and Storage [2-0-0]
+8  CHL 4XXX: Organic Molecules, Complexes
+and Polymers for Electronics and
+PHL 7XXX: Solar Energy Technologies [3-0-2]
+10  MEL 7XXX: MEMS & Microsystems Technology
+11  CHL7XX0: Structure & Property for Polymers
+12  CYL6XXX: Advanced Electrochemistry and
+13  BBL7XX0: Tissue Engineering & Medical
+devices and Implants [3-0-0]
+14  MTD 7XXX: Project [0-0-6]/[0-0-8]/[0-0-12]
+Table 3: Proposed Semester-wise Structure of 20 Graded Credits and positioning of core courses for Functional
+One 400 level 3 credit course
+may be placed in this semester
+SC  Nanomaterials for Hydrogen
+Production and Storage
+SC  Functional Materials Laboratory
+SE  Specialization Elective
+SE  Specialization Elective
+Overload this semester 3-4 credits
+Overload this semester 4-3 credits
+Note: Students will also be required to complete any non-graded credits associated with a minor programme.
+Overload this semester 3 credits
+Dual Degree in Functional Materials
+Table 4: Credit requirements for dual degree
+Total (As per
+31 (Compulsory + Elective)
+Table 5: List of Dual Degree Programme Core (Excluding courses of Preparatory nature)
+List of core courses [Credits]
+Industry 4.0: Applications in Metallurgical and Materials Engineering [2-0-0] (MC)
+Note: List of Specialization Core up to VIII Semester will be as per B.Tech. (Specialization) curriculum
+List of Specialization Electives up to VIII Semester will be as per B.Tech. (Specialization) curriculum
+List of Specialization Electives in IX th Semester will be as per M.Tech. Functional Materials Course Bouquet
+Table 6a: Proposed Semester-wise Structure of 54-56 Graded and 4 Non-Graded Credits and positioning of core
+courses for the specialization leading to dual degree [B.Tech.+M.Tech.]
+One 400 level 3 credit
+course may be placed in
+this semester for
+SC   Nanomaterials for
+Hydrogen Production and
+Overload this semester 4 credits
+SE   Specialization Elective
+SE  Specialization Elective
+Overload this semester 3 credits
+Overload this semester 3 credits
+MO  Open Elective
+MP  M.Tech. Project
+Non-graded PG courses
+●  The total of semester VI+VII+VIII should be 20 graded credits and IX+X would be graded 34 credits
+●  Graded credit requirements for M.Tech. is 54, whereas 2 Non-graded requirements.
+●  Courses out of 11-12 Credits of Specialization done in Semester VI and Semester VII if not part of M.Tech.
+Programme will be counted towards M.Tech. PE.
+●  Students will be required to complete all MTech. Core courses except for preparatory courses. Students will be
+required to take additional credit of Programme Elective against preparatory courses.
+●  Clearly state courses of M.Tech. core/electives UG students cannot take due to significant overlap
+with Minor/Specialization core/elective
+Nanomaterials for Hydrogen Production and
+Department  Metallurgical and Materials Engineering
+L-T-P [C]  3-0-0 [3]
+1. To develop an understanding of different forms of nanostructured materials.
+2. Tuning of intrinsic properties of nanomaterials for hydrogen storage and generation.
+The students will be able to understand the role of nanomaterials and nanodevices in hydrogen
+energy production and storage.
+Introduction:  Brief  overview  of  the  role  of  nanomaterials  in  hydrogen  energy  conversion  and
+storage, Basics of Hydrogen economy (4 lectures)
+Thermodynamics  of  hydrogen  storage:  Kinetics  and  Thermodynamics  of  hydrogen  storage,
+Molecular hydrogen physisorption, Chemisorption of atomic hydrogen. (8 lectures)
+Production  using  nanomaterials,  transportation,  conversion  and  Development  of  commercial
+metal hydride electrodes. (4 lectures)
+Natural  Process:  Hydrogen  production  from  biowaste  and  fossil  fuels,  Artificial  processes:
+Thermochemical,  Electrochemical,  and  Photo-electrochemical,  Emerging  nanomaterials  for
+hydrogen production: 2D Materials, nano-catalysts, artificial photosynthesis. (8 lectures)
+Metal  hydride  nanomaterials  for  hydrogen  storage:  Hydrogen  storage  in  metal  hydrides,
+Microcrystalline hydride materials. (6 lectures)
+Non-metal  hydride  nanomaterials  for  hydrogen  storage:  carbon  hydrides:  Fullerenes,  Carbon
+nanotubes, Graphene (6 lectures)
+Hydrogen and Water in positive electrode materials, Manganese Dioxide electrodes in aqueous
+systems, The “Nickel” Electrode: Structural aspects of the Ni(OH)2 and NiOOH phases. (6 lectures)
+Nanotechnology, USA, 2009.
+1119283655, Wiley, 2017.
+Nalwa, H.S., Nanomaterials for Energy Storage Applications, Journal of Nanoscience and
+Varin, R. A., Czujko, T., Wronski Z. S., Nanomaterials for Solid State Hydrogen Storage,
+Sankir, M., Sankir, N. D.,Hydrogen Production Technologies, ISBN 9781119283652,
+1.  Cheong,  K.Y.,  Impellizzeri,  G.,  Fraga,  M.  A.,  Emerging  Materials  for  Energy  Conversion  and
+Storage, 1st Edition, Elsevier, 2018.
+2. Şen, F., Khan, A., Asiri, A.M.A, Nanomaterials for Hydrogen Storage, Elsevier, 2020.
+Online Course Materials
+1.  Pal,  K.,  Selection  of  Nanomaterials  for  Energy  Harvesting  and  Storage  Application,  NPTEL
+Institute  of  Technology  Roorkee,
+Course  Material,  Mechanical  Engineering,
+Department  Metallurgical and Materials Engineering
+B.Tech, B.Tech-M.Tech. Dual Degree, M.Tech
+L-T-P [C]  3-0-0 [3]
+1.  To  provide  the  students  with  a  detailed  understanding  (synthesis/growth,  structure,  and
+properties) of the functional materials.
+2. To develop an understanding of the usage of functional materials as a component of modern
+The students will be able to:
+1. Compare, correlate and investigate the different synthesis, characterization, and application of
+exemplar functional materials.
+2. Integrate the understanding of functional materials' properties and their applications.
+Material synthesis and processing of functional materials: Bulk Synthesis: Solid state synthesis,
+Sol-Gel  synthesis,  Thin-Film  synthesis:  Sputtering,  Molecular  beam  epitaxy,  CVD,  3D  printing,
+electrospinning. (8 lectures)
+Defects  in  solids:  Defect  types  and  dimensionality  effect  on  defects,  Characterization
+(morphological and spectroscopic), Control of defects. (8 lectures)
+Semiconductor materials: Band structure, Doping, Band-Gap engineering. (2 lectures)
+Applications:  Beyond  Si  semiconductors,  GaN,  GaAs,  SiC,  Ga2O3,  LEDs,  and  photovoltaic  cells
+(CdS, CIGS, CZTS, Perovskites and Organic solar cell materials). (6 lectures)
+Materials  for  energy  applications:  Thermoelectric  materials:  ZT  value,  Band-Gap,  Conductivity
+engineering, Oxide materials, Heusler alloys, Artificial and hierarchical materials, Peltier cooling,
+Thermoelectric  generator,  Dielectric,  Piezoelectric,  Ferroelectric  materials  and  applications.  (8
+Magnetic  materials  &  applications:  Magnetic  exchange  energy,  anisotropy  energy,  Magnetic
+domains,  Application  of  soft  and  hard  magnetic  materials,  Magnetic  data  storage,  and
+Superconductors in electronics. (6 lectures)
+Optical materials: Optical lithography, and applications, Electro-optic materials. (4 lectures)
+1. Askeland, D.R., Phule, P.P., Wright, W.J., The Science and Engineering of Materials, 6th edition,
+Cengage Learning, 2010.
+2.  Callister,  W.D.,  Rethwisch,  D.G.,  Materials  science  and  Engineering:  An  Introduction,  8th
+edition, Wiley, 2010.
+3. Mitchell, B.S., An Introduction to Materials Engineering and Science for Chemical and Materials
+Engineers, 1st ed., Wiley- Interscience, 2003.
+4. Kittel, C., Introduction to Solid State Physics, 8th edition, Wiley, 2005.
+1. Kasap, S.O., Principles of Electronic Materials and Devices, 3rd edition, McGraw-Hill, 2006.
+2. Raghavan, V., Materials Science & Engineering: A first course, 5th edition, PHI Learning, 2004.
+Online Course Material
+1. Haridoss, P., Physics of Materials, NPTEL Course Material, Department of Metallurgy & Material
+Science, Indian Institute of Technology Madras,
+2.  Garg,  A.,  Electroceramics,  NPTEL  Course  Material,  Department  of  Material  Science  &
+Engineering, Indian Institute of Technology Kanpur,
+Functional Materials Laboratory
+Department  Metallurgical and Materials Engineering
+B.Tech, B.Tech-M.Tech. Dual Degree, M.Tech
+1. To introduce different kinds of functional material synthesis (thin film and bulk) techniques,
+as well as an insight into device fabrication.
+2. Introduce different functional property measurement techniques and concomitant analysis.
+The students will be able to:
+1. Get first-hand knowledge of synthesizing functional materials and device fabrication.
+2. Understand different types of measurement techniques and analyse the device performance.
+Performance evaluation of capacitors by electrochemical impedance spectroscopy.
+Performance evaluation of secondary batteries by electrochemical impedance
+Fabrication and property evaluation of dielectric/ ferroelectric (BaTiO3/PZT) materials.
+Electrode preparation (Thin-Film deposition) via spin coating.
+Synthesis of 2D materials and their hybrids (e.g, graphene, MoS2).
+Magnetic measurements (M-H hysteresis/ M vs T measurement).
+Semiconductor characterization: Hall/ I-V measurements.
+Optical Property measurements: Transmittance/ Photoluminescence/ Band-Gap.
+Performance evaluation of alkaline primary cell/ lead-acid battery/ Li-ion batteries.
+3D Printing of electronic material/bio-materials/energy materials.
+1. Cheong, K.Y., Impellizzeri G., Fraga M. A., Emerging Materials for Energy Conversion and
+Storage, 1st Edition, Elsevier, 2018.
+2.  Banks,  C.,  E.,  Browson,  D.,  A.,  C.,  2D  Materials,  Characterization,  Production  and
+Applications, CRC Press, 2017.
+3.  Schroder,  D.K.,  Semiconductor  Material  and  Device  Characterization,  3rd  ed.,  Wiley-
+Interscience, New York, 2006.
+4. Venuvinod, P.K., Ma W., Rapid prototyping: laser-based and other technologies. Springer
+Science & Business Media, 2013.
+5. Gibson, I., Rosen, D., Stucker, B., Additive Manufacturing Technologies: Rapid Prototyping
+to Direct Digital Manufacturing, Springer, New York, NY, 2015.
+6. Kumar, L. J., Pandey, P.M., Wimpenny, D.I., eds. 3D printing and additive manufacturing
+technologies. Singapore: Springer, 2019.
+1.  Lab  manuals  and  study  materials  will  be  provided  for  Hall,  I-V  measurements,  M-H
+hysteresis, M vs T measurement, spin coater, electrochemical impedance spectroscopy and 3D
+Online Course Material
+1. Ramanathan, S., Chemistry and Biochemistry, IIT Madras,
+2. Maiti, H.S., Department of Metallurgy and Material Science, IIT Kharagpur,
+3. Bhat, K.N., Anathasuresh, G.K., Gopalakrishnan, S., Vinoy, K.J., Department of
+Mechanical Engineering, IISc Bangalore,
+4.  Ganguli, A.K., Department of Nanotechnology, IIT Delhi,
+5. Banerji, P., Department of Metallurgy and Material Science, IIT Kharagpur.
+6. Majumder, S.B., Material science Centre, IIT Kharagpur,
+7. Kapil, S., Department of Mechanical Engineering, IIT Guwahati,
+Metallurgical and Materials Engineering
+B.Tech. Specialization, B.Tech.-M.Tech.
+This course introduces the student to the field of metamaterials.
+fabrication techniques of metamaterials.
+The students will be exposed to the various application of metamaterials.
+The  students  will  learn  fundamental  concepts  underlying  physical  properties  and
+Introduction to metamaterials and Meta surfaces. (2 lectures)
+Optical  and  mechanical  metamaterials,  Micro-/Nano-fabrication  methodologies,  and
+Prospective applications. (3 lectures)
+Sub-wavelength  waveguiding  and  focusing,  Super-resolution  imaging  and  nano-lithography
+beyond  the  diffraction  limit  of  the  light,  Negative  refraction  and  permeability  and  Invisibility
+cloaking. (5 lectures)
+Plasmonic  metamaterials,  Enhanced  Raman  scattering,  Extraordinary  transmission,  Light-
+trapping for solar cell. (4 lectures)
+Francis Group, 2021.
+Choudhury,  P.K.,  Metamaterials:  Technology  and  Applications,  CRC  Press,  Taylor  &
+Cambridge University Press, 2020.
+Simovski,  C.,    Tretyakov,  S.,  An  Introduction  to  Metamaterials  and  Nanophotonics,
+Cui, T.J.,  Smith, D.,  Liu, R., Metamaterials: Theory, Design, and Applications, Springer
+Fundamental of Transmission
+Metallurgical and Materials Engineering
+To introduce the fundamentals of Transmission Electron Microscopy (TEM).
+Introduce computational techniques of TEM image analysis.
+Simulate the electron diffraction and TEM micrographs.
+Understand digital micrograph scripting for post-processing the electron micrograph.
+The students will be able to:
+Introduction  of  basics  of  TEM:  Basics  of  TEM  from  instrumental  and  theoretical  perspective,
+Overview of electron matter interaction in TEM, Wave interference in TEM. (7 lectures)
+Introduction of  various  imaging method in TEM: Basics of image formation in TEM, Contrast
+transfer function, High-resolution TEM imaging (HRTEM) (7 lectures)
+Scanning  transmission  electron  microscopy  imaging  (STEM),  Bright  field  imaging,  Dark  field
+imaging, spectrum imaging (7 lectures)
+Introduction  of  electron  diffraction  in  TEM:  Reciprocal  lattice,  Basics  theory  of  electron
+diffraction  formation  in  TEM,  selected  area  electron  diffraction  (SAEDP),  Convergent  beam
+electron  diffraction  (CBED),  Electron  diffraction  analysis  methods  for  material  science.  (7
+Introduction  of  spectroscopic  method  in  TEM:  Basics  of  electron  energy  loss  spectroscopy
+(EELS), Basics EELS analysis for material science (7 lectures)
+Energy dispersive x-ray in TEM, basics of quantitative chemical analysis by EDS. (5 lectures)
+TEM alignment: Basics HRTEM alignment, TEM sample preparation methods. (2 lectures)
+1. Kirkland, E. J., Advanced computing in electron microscopy, Springer, 2020.
+2. Landup, D., Data visualization in python with pandas and matplotlib, 2020.
+3.  Pennycook  S.J.,  Nellist,  P.D.,  Scanning  Transmission  Electron  Microscopy:  Imaging  and
+Analysis, Springer, New York, 2011.
+Online Course Material
+1. nanoHUB.org - Courses: Transmission Electron Microscopy
+1.  Beazley, D., Jones, B.K., Python Cookbook: Recipes for Mastering Python 3 (English
+Edition), O’Reilly media, 2013.
+2. Williams, D.B., Carter, C.B, Transmission Electron Microscopy: A Textbook for Materials
+Science, Springer, 2016.
+Department  Metallurgical and Materials Engineering
+Smart Ceramics and Composites
+1. Introduce the importance of smart ceramics and composites along with their structures and
+2.  Enable to understand the design and manufacturing concepts of these materials for specific
+The students are expected to:
+1. Realize and appreciate the role of functionalities and functional material-based smart ceramics
+2. Knowledge to extend the compositional and processing variables to enhance the properties of
+smart ceramics and their composites.
+Introduction: Definition and classification of smart ceramics and composites, Structures and their
+effect on properties, Multifunctional materials. (5 lectures)
+Ceramic smart Materials: Introduction, Synthesis of smart ceramic materials, Intelligent control
+of phase assemblage. (4 lectures)
+Ceramic  based  multifunctional  nanomaterials:  Overview  of  ceramic  based  nanomaterials,
+Strategies  of  synthesis,  Other  ceramic  systems,  Porous  nanoceramic  materials,  Doping  of
+nanoparticles for enhanced functionality. (5 lectures)
+Bioceramics  for  clinical  applications:  Definition,  Classification,  Biocompatibility  and  biomedical
+applications, Mesoporous ceramics as drug delivery system, Bone tissue regeneration.
+Smart composites: Laminated composites, Mechanical response to impact and electromagnetic
+loads. (4 lectures)
+Design  and  characterization  of  magnetostrictive  composites:  Introduction,  Behaviour  of  high
+magnetostriction  materials,  Coupling  between  magnetic  and  mechanical  properties,
+Micromechanical analysis, Terfenol D-composite. (5 lectures)
+Multifunctional  nanocomposites:  Carbon  nano  materials-based  nanocomposites,  Sensing
+capability,  Structural  health  monitoring  and  Self-healing,  Solid  state  ceramic  fuel  cells  (solid
+oxide fuel cells) and silicon manufacturing for solar cells. (5 lectures)
+Active fibre composites: Micromechanics modelling, Fabrication, Characterization. (5 lectures)
+Mechanics  and  Design  of  smart  composites:  Analytical  model  with  and  without  piezoelectric
+additions, Manufacturing, characterization and applications. (4 lectures)
+1. Schwartz, M., Smart Materials, CRC Press, Taylor and Francis Group, 2009.
+2.  Mishra, A.K., Smart Ceramics-Preparation, Properties and Applications, Pan Stanford
+1.  Vallet-Regi,  M.,  et  al.,  Biomedical  Applications  of  Mesoporous  Ceramics,  CRC  Press,  Taylor
+and Francis Group, 2013.
+2. Elhajjar et al., Smart Composites Mechanics and Design, LLC, Taylor and Francis Group, 2014.
+Online Course Material
+1.    Bhattacharya,  B.,  Smart  Materials and  Intelligent  System  Design,  IIT  Kanpur,  2018,
+2. Bhat K. N. et al., Micro and Smart Systems, IISc Bangalore. NPTEL 2012,
+Symmetry, Structure and Tensor
+Metallurgical and Materials Engineering
+B.Tech,  B.Tech-M.Tech.  Dual  Degree,
+Linear Algebra and Matrix Mathematics, MATLAB/Mathematica
+1. Introduce the concept of symmetry in crystal lattices, point groups, and space groups.
+2.  Use  of  symmetry  in  the  tensor  representation  of  crystal  properties,  including  anisotropy,
+representation surfaces, elasticity, and applications to piezoelectricity.
+The students will be able to:
+1. Learn how to calculate different thermodynamic properties of different materials.
+2. Understand how crystalline anisotropy affects/governs the property anisotropy.
+Introduction: Spherical trigonometry and Applications in crystallography. (5 lectures)
+Crystal lattices: Direct lattice, Crystal systems, Bravais lattice. (2 lectures)
+Point  groups: Stereographic  projection,  Proper  cubic  point  groups,  Improper  point  groups
+(dihedral angle, inversion symmetry), Types of point groups: 2D and 3D lattices. (7 lectures)
+Space groups: Enumeration of the  operations,  Different space groups  with specific materials
+examples. (7 lectures)
+Group  theory: Basic  Concepts,  Character  Tables,  Examples,  Symmetry  and  Lattice
+Vibrations:  Mode of Vibrations, Jahn-Teller Effect. (7 lectures)
+Tensor  properties  of  materials: Basic  tensorial  operations,  Transformation  of  axis,  Eulerian
+angles,  Orthogonality  Neumann  principle,  Pseudo  tensors,  Symmetry  and  Mathematical
+properties of tensors. (7 lectures)
+Different  ordered  tensors:  2nd  order  (Stress-Strain,  Permittivity,  Permeability,  Thermal
+Expansion), 3rd order (Piezoelectricity), 4th order (Elasticity Tensor). (7 lectures)
+1.Newnham,  R.E.,  Structure-property  relations (Vol.  2).  Springer  Science  &  Business  Media,
+2.  Nye,  J.F.,  Physical  properties  of  crystals:  their  representation  by  tensors  and  matrices.
+Oxford university press, 1985.
+1. Buerger, M.J., Elementary crystallography, John Wiley & Sons, 1956.
+2. International Tables for Crystallography Volume A: Space-group symmetry, ISBN: 978-0-
+Online Course Material
+1. Wuensch, B., Symmetry, Structure, and Tensor Properties of Materials, DMSE MIT, MIT OCW,
+Advanced  Semiconductors  Materials  and
+Department  Metallurgical  and  Materials  Engineering  and
+L-T-P [C]  2-0-2 [3]
+B.Tech, B.Tech-M.Tech. Dual Degree, M.Tech
+1.  To  develop  an  understanding  of  the  layered  and  non-layered  semiconductor  materials
+synthesis/growth and characterization techniques used in the semiconductor industry.
+The students will be able to:
+1.  Understand  the  basics  of  advanced  semiconductor  materials  properties,  failure  analysis
+methods, reliability, and characterization.
+2. Fabricate semiconductor layered material devices and analyse their properties.
+Fractal-1: Material Synthesis and Characterization
+Introduction, Basics of semiconductor, Crystallographic properties of the semiconductors.
+Growth and synthesis of semiconductor materials (2D and 3D), Defects and its characterization
+and Advantages of 2D materials. (7 lectures)
+Fractal-2: Device Characterization
+Electrical  characterization  of  semiconductors:  Material  influenced  test  structure  based
+electrical characterization methods like: two-probe/four-probe, Van der Pauw method, Hall-
+effect measurements etc. (5 lectures)
+Characterization of junctions and diodes: C-V measurements, Life-time measurement, Metal-
+semiconductor: Schottky contacts, Barrier-height measurement, I-t techniques. (5 lectures)
+Reliability and failure analysis: Gate  oxide reliability measurement, Time-to-breakdown and
+charge to breakdown and Failure analysis, Noise measurements and analysis. (4 lectures)
+Synthesis of semiconductor materials atomic sheets of Graphene Oxide (MT).
+Synthesis  of  semiconductor  elemental  sheets  of  Xenes  and  Transition  metal
+Fabrication of p-n junction (Graphene/Si/SiO2, G/MoS2, etc.) (MT).
+Characterization of p-n junction (Graphene/Si/SiO2, G/MoS2, etc.) (MT).
+Electrical characterization of the fabricated devices (EE).
+Reliability and Failure analysis (EE).
+Material process (spectroscopic) and Quality control (MT).
+Tailoring the electrical, optical and Youngs’ modulus of the semiconducting materials
+dichalcogenides (TMDCs) (MT).
+Application of semiconductor in sensing (SERS/gas/strain) (MT/EE).
+Application of semiconductor in opto-electronics (MT/EE).
+1.  Schroder,  D.K.,  Semiconductor  Material  and  Device  Characterization,  3rd  edition,  Wiley-
+Interscience, New York, 2006.
+2. Nicollian, E.H., Brews, J., MOS Physics and Technology, ISBN: 978-0-471-43079-7, 1982.
+Online Course Material
+1.  Haridoss,  P.,  Physics  of  Materials,  NPTEL  Course  Material,  Department  of  Metallurgy  &
+Material Science, Indian Institute of Technology Madras,
+2. Parasuraman, S., Fundamentals of electronic materials and devices, NPTEL Course Material,
+Department of Metallurgy & Material Science, Indian Institute of Technology Madras,
+Functional 2D Materials
+Metallurgical and Materials Engineering
+B.Tech,  B.Tech-M.Tech.  Dual  Degree,
+heterostructures systems that are relevant to different scientific applications.
+To introduce the emergent field of functional 2D materials.
+Provides  a  comprehensive  overview  of  2D  materials  their  hybrids  and
+Upon completion, students are expected to
+To know the basics of 2D materials.
+Van der Waal and Non- van der Waal materials hybrids and heterostructures.
+Design and fabricate 2D Advanced Materials based devices.
+Fractal-1: Fundamentals of 2D Materials
+Introduction  of  functional  quantum  materials,  2D  family,  Electronic,  Magnetic,  Optical
+properties of functional quantum materials, Dirac metals, Weyl fermions. (5 lectures)
+2D  functional  quantum  materials  at  atomic  scale,  Topological  insulators,  Computation  of
+functional  quantum  materials,  Investigation  of  defect  and
+electronic  properties  of
+Ohmic/Schottky contacts. (5 lectures)
+Fundamental  and  properties  of  two-dimensional  materials  in  sensing:  Introduction,  Band
+Alignment, Parameters of sensor performance. (4 lectures)
+Fractal-2: Fabrication of Devices, Application and Challenges
+Synthesis (top-down and bottom-up approach and challenges), Characterization, and transfer
+of Van der Waals (graphene, boron nitride, Molybdenum disulphide, Tungsten Disulphide, Black
+Phosphorus, etc.) atomic sheets, Microscopic characterization by TEM. (3 lectures)
+Non-Van  der  Waals  Materials  (Borophene,  Hematene,  Plumbene,  MXene,  etc.)  their  Hybrids
+(2D/1D, 2D/2D, 2D/3D), composites and heterostructures, Fabrication of 2D Material devices
+and challenges. (3 lectures)
+Application  of  2D  Materials  and  their  hybrids  as  well  as  heterostructures:  Introduction
+(Graphene, Xenes, MXene, and Complex 2D  Materials) Opto-Electronics (LEDs), Gas Sensor,
+Bio-Sensor,  Drug-Delivery,  Filtration/Desalination,  Photovoltaics,  Energy  Storage  and
+Generation, Lubricants, Environmental Remediation. (6 lectures)
+Challenges with 2D Materials hybrids/heterostructures and device fabrications. (2 lectures)
+1) Synthesis of Van der Waals 2D material (e.g. Graphene, TMDCs) atomic sheets.
+2) Characterization (morphological and spectroscopic) of the atomic sheets.
+3) Fabrication of nano-devices (bio sensors, gas sensors, etc.).
+4) Failure analysis and Quality control.
+5) Synthesis of non-Van der Waals 2D material (e.g. Hematene, borophene, etc.) atomic
+6) Characterization (morphological and spectroscopic) of the atomic sheets.
+7) Fabrication of nano-devices (bio sensors, gas sensors, etc.).
+8) Failure analysis and Quality control.
+9) Synthesis of 2D hybrids and heterostructres (e.g. graphene/graphene oxide/reduced
+graphene oxide/borophene/hematene/TMDCs, etc.) atomic sheets.
+10) Characterization (morphological and spectroscopic) of the atomic sheets.
+11) Failure analysis and Quality control.
+1. Zettilli, N., Gubernatis, J.E., Lookman, T., Quantum Mechanics: Concepts and Applications,
+2. Griffiths, D.J., Introduction to quantum mechanics, Prentice Hall International, 2004.
+3. Banks, C., E., Browson, D.A.C., 2D Materials, Characterization, Production and Applications,
+CRC Press, 2017.
+1.  Ng,  L.W.T.,  Hu,  G.,  Howe,  R.C.T.,  Zhu,  X.,  Yang,  Z.,  Jones,  C.,  Hasan,  T.,  Printing  of
+Graphene and Related 2D Materials: Technology, Formulation and Applications, Springer, 2019.
+2. Errana, G., Metal Oxide Nanostructures as Gas Sensing Devices, CRC Press, 2012.
+3. Avouris, P., Heinz, T.F., Low, T., 2D Materials Properties and Devices, Cambridge University
+1. Paglione, J., Butch, N.P., Rodriguez, E. E., Fundamentals of Quantum Materials: A Practical
+Guide to Synthesis and Exploration, World Scientific Pub Co Inc, 2021.
+2. Heitmann, D., Quantum Materials, Lateral Semiconductor Nanostructures, Hybrid Systems
+and Nanocrystals, Springer, 2010.
+3.  Bartolomeo,  D.,  2D  Materials  and  Van  der  Waals  Heterostructures,  MDPI,  ISBN  978-3-
+4.  Hywel,  M.,  Rout,  C.S.,  Late,  D.J.,  Late  Fundamentals  and  Sensing  Applications  of  2D
+Materials, Elsevier, 2021.
+Sensors and Actuators
+B.Tech,  B.Tech-M.Tech.  Dual
+1. To understand the basics of sensors, actuators materials, and their operating principle.
+2. To explain the working of various types of electrochemical sensors and actuators.
+The students will be able to:
+1.  Apply  the  knowledge  for  the  selection  of  appropriate  materials  for  sensing,  design,  and  device
+2. Understand the design and device fabrication challenges.
+Fractal-1:  Sensor  Materials  and  its  Applications:  Introduction  of  sensors,  Basics  of  energy
+transformation  and  differences  between  transducers,  Sensors  and  Actuators,  Principles  of  micro
+sensors, basics of semiconducting metal oxide–based gas sensors. (7 lectures)
+Conducting  polymers  sensor  materials,  mechanism  of  sensing,  properties  and  their  applications,
+magnetic  nanoparticles  sensors,  gas  sensing  materials:  Transition  metal  oxides,  SiC,  2D  materials
+their hybrids and heterostructures, Materials for Biosensing, FET based biosensors and luminescent
+materials for biosensing. (7 Lectures)
+Fractal-2:  Actuator  Materials  and  its  Applications:  Introduction  of  actuators  and  its  working
+principle, Piezoelectric Actuators: Resonant and Non-Resonant actuation, Bimorphs, Figure of merit,
+Group  III-V  nitrides  (GaN/AlN),  Electrochromic  and  Electroactive  Polymer  actuators:  Wet  and  Dry
+Electroactive  polymer  actuators  (EAP)  actuators,  material  selection,  design  and  fabrication  of
+actuators. (7 lectures)
+Shape memory alloys (SMAs): Introduction of Shape memory alloy materials, design of SMAs, figure
+of merit (FOM), Scaling laws, magnetic actuators: Magnetostriction, Magnetostrictive materials: giant
+magnetostriction, Design and Control of magnetostrictive actuators, Scaling laws (7 lectures)
+Synthesis of functional materials (graphene oxide, boron nitride) for application in gas sensing
+Fabrication of gas sensor (graphene oxide/ other 2D materials) (MT).
+Characterization using spectroscopic technique (UV-Visible) and Quality control (MT).
+Synthesis of metal (gold/silver/glass substrate) nanoparticles for biosensing (MT).
+Fabrication and characterization (Raman Spectroscopy) of biosensor (MT).
+Characterization using spectroscopic technique (UV-Visible) and Quality control (MT).
+Synthesis of PVDF for application in polymeric sensing (MT).
+Characterization using spectroscopic technique (UV-Visible) and Quality control (MT).
+Fabrication of polymer sensor (Universal Testing Machine) (MT).
+Synthesis of carbonaceous material for electrochemical sensing (MT).
+Fabrication of electrochemical sensor (Three-Electrode System) (MT).
+Characterization using spectroscopic technique (UV-Visible) and Quality control (MT).
+1.  Kloeck, B., Rooji, N.F., Mechanical Sensors in semiconductor Sensors, John Wiley NY 1994.
+2.  Silva, D., Clarence W., Sensors and actuators: Engineering system instrumentation. CRC Press,
+1.  Rupitsch,  Johann, S.,  Piezoelectric  Sensors  and  Actuators.  Springer-Verlag  Berlin  Heidelberg,
+Online Course Material
+1.  Pandya,  H.J.,  Department  of  Electrical  &  Electronic  Engineering  IISc  Bangalore  NPTEL  Course

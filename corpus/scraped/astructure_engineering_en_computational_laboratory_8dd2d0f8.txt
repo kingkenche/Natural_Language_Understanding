@@ -1,0 +1,15 @@
+Computational Laboratory | Civil and Infrastructure Engineering | IIT Jodhpur
+Number of Workstations: 4 (2 running Ubuntu and 2 running Windows 11)
+Specification of every workstation: Intel Xeon Silver CPU (16 cores), 187 GB RAM, NVIDIA Quadro Graphics
+There are 39 desktops available in the computation lab. These computers can be availed by research scholar for academic/research purposes.
+Software License procured by department/institute: MATLAB, Mathematica, ArcGIS, Rocscience, Plaxix 2D, SAP 2000 ultimate, MIKE 11, Abaqus, ANSYS, PSCAD, STAAD Pro, PTV VISSIM, Solidworks, Q-GIS.
+Computatiuonal Lab also has an HPC Server.
+Computational Lab Desktops
+Computational Lab Desktops
+Computational Lab Workstation
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Mar 2026 - 09:58 AM

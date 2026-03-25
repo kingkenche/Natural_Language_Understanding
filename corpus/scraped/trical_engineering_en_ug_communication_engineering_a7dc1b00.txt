@@ -1,0 +1,8 @@
+Communication Engineering | Electrical Engineering | IIT Jodhpur
+The fast development of economy and society requires modern and highperformance communications systems that can reliably communicate the massive amount of data originating from various sources including Internet of Things, while still offering acceptable levels of energy consumption, equipment cost and network deployment and operation cost. To achieve these objective communication engineers require a deep mathematical understanding of the trade-offs involved in efficient reliable communication design and circuits and systems for future communication systems. The core component of the Communication Engineering specialization enables students to face these challenges by focusing on topics involving communication theory, wireless networking and protocol design, security architectures, and system performance analysis. The elective bouquet provides students an opportunity to either gain required depth for graduate level academic programs of their choice or sufficient breadth to expose them to defining technology for future generation communication systems including optical and millimeter wave technologies. Focus Areas Communication theory Wireless networking and protocol design Security architectures System performance analysis RF and Microwave Communication Optical Communication
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

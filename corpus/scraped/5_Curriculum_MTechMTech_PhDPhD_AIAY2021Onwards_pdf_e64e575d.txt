@@ -1,0 +1,151 @@
+Indian Institute of Technology Jodhpur
+Dual degree M.Tech. (AI) + PhD
+oﬀered by the
+Department of Computer Science and Engineering
+Artiﬁcial Intelligence (AI) is a branch of computer science that aims to create machines to act with
+higher levels of intelligence and emulate the human capabilities of sense, comprehend and act. The
+core problems of artiﬁcial intelligence include programming computers for certain traits such as
+Knowledge, Reasoning, Problem-solving, Perception, Learning and Planning. AI technology
+development and applications are evolving rapidly with major implications for economies and
+societies. As the demand for such applications increases, there is also an increasing need for building
+the future workforce for AI. For developing the AI ecosystem, this program will be executed in
+synergy with other M.Tech programs running in IIT Jodhpur, such as Sensors & IoT, Cyber-Physical
+Systems, and Advanced Manufacturing and Design.
+This M.Tech in AI programme will oﬀer students with deep knowledge of both fundamental AI
+technologies, as well as application-oriented AI. A student completing this program will be capable to
+undertake careers in industry as well as academia. He/She will have the option to explore a variety of
+domains including Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, Education,
+Retail/Customer Engagement, Human and Robot interaction/intelligent automation, Smart City , Aid
+for Diﬀerently Abled/Accessibility Technology.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1. Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI
+2. Design and Build real-world AI systems for complex planning, decision making and learning,
+solving application-speciﬁc problems, and to reason about them.
+3. Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine interfaces.
+4. Design, Develop and Deploy machine learning based applications using structured and
+unstructured data (e.g., speech, text, images/videos).
+5. Understand and Assess reliability, dependability and trust-worthiness of AI-based systems.
+6. Design and develop AI applications for resource constrained environments.
+7. Adhere to evolving ethics and privacy laws across various domains and territories.
+8. Plan and manage technical projects.
+1. Understand the fundamentals of Artiﬁcial Intelligence, Machine Learning, Inference Engines,
+Speech, Vision, Natural Language Understanding, Robotics, and Human Computer
+2. Unify the knowledge of human cognition, AI, Machine Learning and data engineering for
+3. Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-solving.
+4. Ability to develop real-time and robust AI-based systems with speciﬁc software, hardware
+and data requirements.
+5. Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay
+computer graphics onto our view of our immediate environment (AR) along with smart,
+6. Demonstrate advanced skills to comprehend and communicate eﬀectively.
+7. Carry out projects using intelligent cognitive solutions provided by AI algorithms to get more
+insights in stakeholder management, risk modeling, intelligent resource scheduling and
+managing project constraints with intelligent use of data models.
+Course Structure for
+M.Tech. (AI) Program and Dual degree M.Tech. (AI) + PhD
+* Bridge Course on DSA
+C MAL7xx0 Optimization
+Advanced Data Structures
+CSP7xx0 Machine Learning
+Program Elective 1
+Technical Communication 1-0-0 1
+Core Bucket: Advanced Artiﬁcial
+Program Elective 2
+Program Elective 3
+Open Elective 1
+Ethics and Professional Life
+Total Credits: 15
+Total Credits: 17
+CSDxx0 Major Project – Part 1
+Program Elective 4
+Program Elective 5
+Open Elective - 2
+System Engineering and
+CSDxx0 Major Project – Part 2
+Program Elective 6
+Total Credits: 15
+Total Credits: 15
+**List of Prescriptive Electives
+Linear algebra for data science
+Statistics for Data Science
+*The students should have satisfactory performance in the course in order to be eligible for internships and
+placements opportunities from the institute.
+**Depending on the background of students, courses from the prescriptive electives can be recommended for
+students by the DRC.
+Program Electives for M.Tech. (AI) and
+Dual Degree M.Tech. (AI) + Ph.D. Program
+Courses oﬀered by Department of Computer Science and Engineering
+Advanced Artiﬁcial Intelligence
+Advanced Computer Graphics
+Advancements in Computer Vision
+Advanced Human-Machine Interaction
+Algorithms for Big Data
+Computational Learning Theory
+Crowd-sourcing and Human Computing
+Digital Image Analysis
+Edge and Fog Computing
+Ethics, Policy, Law and Regulation in AI
+Graph Theory and Applications
+Graph Theoretic Algorithms
+Introduction to AR and VR
+Machine Learning with Big Data
+Medical Image Analysis
+Natural Language Processing
+Neuromorphic Computing and Design
+Principles of Biological Vision
+Reliability Engineering and Life Testing
+Resource Constrained Artiﬁcial Intelligence
+Scalable Machine Learning
+Selected Topics in AI - I/II/III
+Selected Topics in CS - I/II/III
+Selected Topics in ML - 1/2/3
+Social Network Analysis
+Social Networks (700)
+Software and Data Engineering
+Security and its Applications
+Vehicular Ad-hoc Networks
+Virtualization and Cloud Computing
+Advanced Data Structures and Algorithms (Fractal 3)
+Courses oﬀered by Department of Electrical Engineering
+Adaptive Signal Processing
+Advanced Digital Signal Processing
+Digital Signal Processing and Applications
+Cyber Physical System Modelling and Simulation lab
+Digital Video Processing
+Introduction to Haptics
+Introduction to Cyber-Physical Systems
+Machine Learning for Communication
+Introduction to Smart Grid
+Speech and Audio Signal Processing
+Statistical Decision Theory
+Courses oﬀered by Department of Mechanical Engineering
+Planning and Decision Making for Robots
+Courses oﬀered by Department of Bioscience and Bioengineering
+Courses oﬀered by Department of Mathematics
+Advanced Topics in Computational PDE
+AI for Finance
+Computational Game Theory
+Linear Algebra with Data
+Courses oﬀered by Department of Physics
+Linear Algebra for Data Science
+Statistics for Data Science
+Mathematical modeling and simulations
+Quantum Information Processing
+Quantum Cryptography and Coding
+Courses oﬀered by IDRP Digital Humanities
+Analysis of Social Media Networks
+Human Factors in Interaction Design
+Digital Methods and Tools
+Courses oﬀered by School of AIDE
+Introduction to Financial Engineering
+Computational Cognition & Behavior Modelling
+Fundamentals of Digital Humanities: Fractal - 2 (Data
+and Knowledge representations)
+Introduction to Game Theory
+Machine Learning for Epidemiology
+Nonlinear Dynamics and Chaos
+Optimization in ML
+Special Topics in Data Science - 1/2/3
+Courses oﬀered by School of Management and Entrepreneurship
+AI for Risk Analysis
+Risk Management Analytics

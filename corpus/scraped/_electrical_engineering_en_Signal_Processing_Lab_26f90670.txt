@@ -1,0 +1,21 @@
+Signal Processing Lab | Electrical Engineering | IIT Jodhpur
+Signal Processing Lab
+Research at the Signal Processing Lab are centered around Signal Processing, Condition Monitoring, Image Processing, Data Compression, Blind Source Separation, Artificial Neural Network. Current Research Themes
+Automatic Modulation Classification
+Modelling of Complex Networks
+Automatic Fault Diagnosis in distribution Networks
+NI PXI-5652 Signal generator NI PXI-5611 RF Up-converter
+NI PXIe-5450 Arbitrary waveform generator
+NI PXIe-5601 RF Down-converter
+NI PXIe-5622 Digitizer
+NI PXIe-5791 Adapter module
+NI PXIe-7975 FPGA
+NI 8880 Controller USRP 2920
+For equipment utilization, please write to  sy@iitj.ac.in .
+Room 214, First Floor, EE Building, IIT Jodhpur Signal Processing Lab
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

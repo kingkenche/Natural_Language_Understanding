@@ -1,0 +1,10 @@
+1.  Program Structure
+Cat  Course Title
+Total (Graded + Non-graded)
+2.  Credit Requirements for the degree
+Student with M Sc
+Students with M Tech
+Students with B Tech
+Course work credits 30
+Course work 12
+Course work credits 30

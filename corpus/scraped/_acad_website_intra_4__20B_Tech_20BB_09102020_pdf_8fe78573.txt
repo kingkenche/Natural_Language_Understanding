@@ -1,0 +1,1627 @@
+Every life form, beginning from microscopic bacteria to multicellular organisms, can be considered as a system
+that  has  been  perfected  over  millennia  by  Evolution.  Beginning  from  thermodynamically  efficient  cellular
+processes  to  the  molecular  motors  driving  the  bacterial  flagella,  each  product  of  evolution  is  an  optimized
+engineering design that can be translated into real-life applications across disciplines. Today’s interdisciplinary
+biology is well complemented by engineering domains including electronics, computer science, mechanics, and
+materials engineering.  Computational biology, for example, permits solving biology problems using statistical,
+artificial intelligence and machine learning approaches. Extensive use of computational biology is essential in
+including  Genomics,  Proteomics,  Transcriptomics,  and  Metabolomics.  This
+amalgamation  of  biology  and  computer  science  has  transformed  the  landscape  of  the  infectious  and  non-
+infectious diseases research allowing the development of new diagnostic and therapeutic modalities. Today’s
+disease  diagnosis  is  much  more  specific  and  sensitive,  thanks  to  biosensors,  which  have  far-reaching
+applications  not  only  in  healthcare  but  also  in  the  environment,  energy,  and  agriculture.  Some  applications
+include in-situ biosensors for human biochemical parameters, environmental contaminants, soil moisture, soil
+physicochemical parameters, etc. Advances in Biology have not only permitted the early diagnosis of disease
+but have also contributed abundantly to therapeutic interventions. It is now possible to intervene in diseases
+taking  a  multi-pronged  approach,  including  the  development  of  new  drugs;  production  of  recombinant
+therapeutics;  development  of  implantable  sensors,  control  systems;  and  editing  genetic  defects.  Similarly,
+synthetic biology and genome editing tools have enabled the development of industrially important organisms
+for biofuel production as well as environmental remediation. Together, these technologies have significantly
+contributed to extending the healthy lifespan of the human race and have shown promise towards food, water,
+and energy security. In other words, bioengineering as a discipline has evolved to a great extent in last couple
+of decades and now demands a different intellectual outlook and scientific understanding for its further study.
+Therefore,  an  undergraduate  academic  program  in  Bioengineering  should  reflect  this  rapid  evolution  of  the
+discipline, underlying scientific and technological advancements and interdisciplinary cross talk so as to capture
+the mind of the next generation.
+The Indian Institute of Technology Jodhpur is committed to achieving excellence in shaping the young minds
+of tomorrow with a unique blend of teaching techniques and hands-on research-based learning. The Institute
+works towards the holistic development of students allowing them to be able to assume leadership positions in
+Industry,  Academia,  and  Entrepreneurial  ventures.  The  Department  of  Bioscience  &  Bioengineering  is
+committed to this goal and has developed academic programs that are interdisciplinary in nature and include
+a substantial component of courses from other science and engineering Departments. The Department aspires
+to  produce  Graduates,  who  can  develop  solutions  to  tackle  local  and  global  problems  related  to  healthcare,
+energy, environment, water, and food.
+2. Objectives of the program
+The B. Tech. program in Bioengineering at IIT Jodhpur aims to equip our graduates with in-depth knowledge
+and  hands-on  training  in  areas  that  will  be  relevant  for  the  next  decade.  The  curriculum  aims  to  impart
+knowledge and skills to budding engineers to address future challenges. This includes innovative pedagogy
+and highly interdisciplinary approach towards problem-solving.
+The key objectives of this program are:
+1.  To provide a strong foundational understanding of concepts in biology, engineering, mathematics, and allied
+sciences, enabling students to approach bioengineering problems through interdisciplinary lenses.
+2.  To stimulate the development of disruptive technologies and futuristic research in the domains of healthcare,
+energy, and the environment
+3. Expected Graduate Attributes
+1.  Graduates of the B. Tech program in Bioengineering will:
+2.  be  able  to  choose,  design,  develop,  and  implement  engineering  solutions  to  solve  technical  problems  in
+bioscience and bioengineering using trans-disciplinary knowledge and skill set.
+3.  be able to think out-of- the box to solve critical challenges and be able to innovate novel technologies for
+affordable healthcare, clean energy, sustainable agriculture, and safe environment.
+4.  be able to work effectively as a member and leader in a multi-disciplinary team.
+5.  have the requisite skills and knowledge to be bio-entrepreneurs.
+6.  be  able  to  effectively  communicate  biological/  bioengineering  problems  and  solutions  within  the
+professional sphere and with the society at large.
+7.  be committed to high ethical standards in professional and social practices.
+4. Learning Outcomes
+1.  Graduates of the B. Tech program in Bioengineering:
+2.  Will  have  comprehensive  understanding  of  the  essential  concepts  of  bioscience  and  bioengineering
+encompassing  cell  and  molecular  biology,  physiology,  immunology,  microbiology,  genetics,  genetic
+engineering, multi-omics, computational and systems biology.
+3.  Will gain trans-disciplinary knowledge and skill sets pertaining to biosensors, bioimaging, biomedical device
+development, biomaterials engineering and drug discovery.
+4.  Will be able to design, develop and implement technological solutions related to affordable healthcare, clean
+energy, sustainable agriculture and safe environment adopting a trans-disciplinary approach.
+5.  Will gain a strong understanding of the fundamentals of basic science, engineering, designing, computing
+and will get hands-on training on cutting edge technologies.
+6.  Will  be  able  to  apply  the  knowledge  of  artificial  intelligence  and  machine  learning  in  solving  complex
+7.  Will learn to think critically to solve complex problems pertaining to bioscience and bioengineering.
+8.  Will develop communication skills (verbal and written) to communicate effectively in the professional and
+9.  Will be committed to high ethical standards.
+10. Will gain the knowledge and skills required to be an innovator-entrepreneur.
+5. New skillsets targeted
+1.  Design and develop AI-based technologies in healthcare, environment, and agriculture.
+2.  Analyze spatial complexity of living systems using imaging and image processing.
+3.  Analyze and solve complex problems in the diverse fields of bioscience and bioengineering using omics
+and systems biology.
+4.  Integrate multidisciplinary technologies for the development of lab-on-chip devices, biosensors, and other
+5.  Integrate omics data to quantitative structure-activity relationship for drug discovery and development
+6.  Design and develop smart biomaterials using micro- and nano-scale technologies
+7.  Design novel strategies for tissue engineering application
+8.  Design new therapeutic molecule in silico.
+6. Topic clouds and Mapping of Topic clouds with proposed courses
+Table 1 Topics and Mapping of Topic with Courses
+Cells and organelles
+Transcription and translation
+DNA, RNA, Proteins,
+Polymerase chain reaction
+Core and Techniques
+Core and Techniques
+Core, Techniques and
+Core and Techniques
+Core and Techniques
+Biological networks and
+Omics analysis algorithms
+Deep learning models
+Deep generative  models
+Core, Techniques and
+Core, Techniques and
+Concepts & Dynamics:
+Molecular Cell Biology
+Biochemistry (PC 3rd)
+Genetics & Gene
+Manipulation (PC 5th)
+Molecular Cell Biology
+Microbiology (PC 3rd)
+methods for multi-
+Omics  (PC 6th)
+Deep Learning  (PC
+machine Learning (PC
+Engineering (PC 6th)
+Cell adhesion on substrate
+Core and Techniques
+Tissue repair and regeneration
+Animal cell culture
+Core, Techniques and
+Sustained, on-demand and
+Drug loading and drug release
+Core, Techniques and
+Field deposition model (FDM)
+Selective laser sintering
+Core and Systems
+Core and Techniques
+Numerical Methods for PDE
+Core and Techniques
+Methods and method
+development in computational
+Core, Techniques and
+Engineering (PC 6th)
+Engineering (PC 6th);
+Engineering (PC 6th)
+Engineering (PC 6th)
+Engineering (PC 6th)
+(From BSBE, CHE,
+System Biology (PC
+Molecular Cell Biology
+(PE) (From MA)
+Biology (PC 5th)
+Algorithms in biology
+Core and Techniques    Modelling biological
+Design of experiments
+Core, Techniques and
+Bioimaging (PC 6th)
+Fourier transform theory
+2D, 3D registration
+Electron scattering and
+Scanning and transmission
+Immuno and cryo-electron
+Genetic circuits for
+Selectivity and sensitivity
+amperometric, electrical, optical
+RNA based sensors
+Dendrimer based sensor
+Bio-geo chemical cycling
+Solid waste management
+In situ and ex situ
+Probiotic, symbiotic, plant –
+Single cell protein
+Core, Techniques and
+Core and Systems
+processing (PE) (From
+Bioimaging (PC 6th)
+(PE) (From CS)
+Bioimaging (PC 6th)
+for biology (PE)
+Bioimaging (PC 6th)
+Biosensors (PC 5th)
+Biochemistry (PC 3rd)
+Whole cell based
+Biosensors (PC 5th)
+Biosensors (PC 5th)
+Microbiology (PC 3rd)
+Microbiology (PC 3rd)
+Microbes in food and
+Microbiology (PC 3rd)
+Solid , liquid, gaseous
+biofuels and sustainability analysis
+Engineering microbes for
+Different generations of
+Microbiology (PC 3rd)
+Core and Techniques
+Core, Techniques and
+Structural Biology (PC
+Biochemistry (PC 3rd)
+Principles of Drug
+Structural Biology (PC
+Biochemistry (PC 3rd)
+Core and Techniques
+Chiral drug molecule
+Antibiotics and antiviral
+Virus life cycle
+Core, Techniques and
+Viral infection and
+B- and T-cell lymphocytes
+Core and Techniques
+The Human Immune
+to Detect, Defend and
+Attack (PC 4th)
+The Human Machine
+Physiology (PC 5th)
+7. Course Categories, credit distribution and Credit Structure of B. Tech Programmes
+Table 2 Proposed Course Categories and credit distribution in the proposed B. Tech Programmes
+Institute Core (I)
+Programme Linked (L)  Science (LS)
+Programme Core (P)
+Programme Compulsory (PC)
+Programme Electives (PE)
+B.Tech. Project (PP)
+Open Electives (OE)
+Engineering Science Core (EC)
+Engineering Science Elective (EE)
+Design/Practical Experience (ND)
+Total Graded + Non-Graded
+8. Credit Structure of B. Tech Programmes
+Table 4 Credit Structure for B. Tech Programmes (Up 6000 Level)
+1 hour of Lecture
+1 hour of Tutorial
+1 hour of Lab/Project
+L-T-P  Distribution of contact and beyond contact hours
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+9. List of Programme Compulsory Courses
+Table 5 Programme Compulsory Courses
+S. No  Course Name
+Data Structures and Algorithms
+Concepts and Dynamics: Molecular Cell
+The Human Immune System: Mechanisms
+to detect, defend and Attack
+Computational and Systems Biology
+The Human Machine for Engineers:
+Biophysics and Structural Biology
+Genetics and Gene manipulation
+10. Area-wise Programme Elective Courses
+Table 6 Stream-wise Programme Electives Courses
+l  and  Systems
+Microbiomes and metagenomics (level 4)
+Computational methods for multi-omics (level
+Microarray data analysis (level 4)
+Cell-material interactions (level 4)
+Tissue engineering (level 4)
+Therapeutic delivery systems (level 4)
+Principles of biomechanics (level 4; from ME)
+Additive manufacturing (level 7; from ME)
+Mathematical biology (level 4; from MA)
+Algorithms in biology (level 4)
+Modelling of biological systems (level 4)
+Design of experiments (level 4; from MA)
+Electron microscopy for biology (level 4/6; from
+biotechnology (level 4)
+Special topics on biomedical imaging (level 4)
+Digital Image processing (level 4; from CS)
+Bio-image computing (level 7; CS)
+Whole cell based biosensors (level 4)
+Special topics in biosensors (level 4)
+Microsystems fabrication technology (level 7;
+Chemosensors (level 6; from CY)
+Microbial remediation and environmental
+Microbes in food and sustainable agriculture
+Bioenergy (level 4)
+Principles of drug discovery (level 4)
+Medicinal chemistry (level 4)
+Viral infection and antiviral drug development
+11. Specialization to be offered by the department
+Table 7 Specialization and courses
+Specialization Core (8 credits)
+Specialization Elective (12 Credits)
+•  Modern approaches of drug
+• Principles of drug discovery (3-0-
+•  Introduction to Precision Medicine
+• Medicinal chemistry (3-0-0)
+• Viral infection and antiviral drug
+•  AI based drug discovery (2-0-0)
+• Anti-microbial drug and drug
+• Anticancer drug discovery and
+• Modern approaches for
+• Novel Drug Delivery Systems (3-
+• Theranostic Systems (3-0-0)
+• Industry collaborated project
+4 credit (0-0-6) x 1
+• Microbial Nanotechnology (3-0-0)
+• Metabolic Engineering for
+2  Microbial systems
+• Engineering Microbes (3-0-0)
+• Bioprocess Engineering and
+• Mathematical modelling of microbes
+• Microbial remediation and
+• Microbes in food and sustainable
+• Bioenergy (3-0-0)
+• Soil Microbiome & Microbial
+• Biofilms: Bacterial communities
+• Gut microbiomes in health and
+• Downstream processing (3-0-0)
+• Industry collaborated project
+4 credit (0-0-6) x 1
+12. Curriculum of B.Tech. Bioengineering (Regular)
+Table  8a. Curriculum of B.Tech in BB
+CH  NC  GC
+ion Skill I
+IS  Mathematics II
+NE  Engineering Design
+Social Connect and
+IE  Materials Science &
+Data Structure and
+The Human Immune
+to Detect, Defend
+IH  Humanities I
+PP  B. Tech.
+PE  Program Elective -II
+Professional Ethics II
+IH  Humanities IV
+Open Electives -III &
+Total of graded and Non-Graded Credit   9
+Non-Graded Design Credits  6
+Grand Total   1
+Distribution of courses in 7th & 8th Semester for specialization
+PP  B. Tech. Project
+Open Electives -
+IH  Humanities III
+IH  Humanities IV
+Open Electives -III &
+Total of graded and Non-Graded Credit   9
+Non-Graded Design Credits
+Total  16-0-8  24
+Table 8b. Curriculum of B.Tech.in AI/CS/EE Engineering
+Grand Total   15  175
+IS  Chemistry Lab
+IS  Physics Lab
+IS  Mathematics II
+-  NE  Engineering
+IE  Materials Science
+IS  Mathematics I
+NH  Social Connect
+NH  Performing Arts
+I /Sports I
+PC  Data Structures
+1. 6 × (1-0-0)
+2. 4 × (0-0-1)
+3. 2 × (0-1-0)
+IH  Humanities I
+1. 12× (1-0-0)
+2. 8 × (0-0-1)
+3. 2× (0-1-0)
+IH  Humanities II
+PP  B. Tech. Project
+IH  Humanities III
+1. 12× (1-0-0)
+2. 8× (0-0-1)
+3. 2× (0-1-0)
+IH  Humanities IV
+Total of graded and Non-Graded Credit   9
+Non-Graded Design Credits
+Grand Total   15  165
+13. Curriculum of Double B.Tech. :B.Tech. Bioengineering and Engineering Science
+Table 9. Programme structure of Double B.Tech.
+CH  NC  GC
+First two semesters same as Table 8a or 8 b
+33 Graded and 6 non graded credits
+ES  Morden Physics
+IE  Materials Science
+3  ES  Embedded
+Systems and IoT
+ES  Data Structures and
+Signals and Systems
+Intro. To Profession
+4  ES  Design of
+4  ES  Control Systems
+IH  Humanities I
+Genetics and Gene
+NH  Professional Ethics
+-  NH  Professional
+B. Tech. Project
+IH  Humanities III
+Total of graded and Non-Graded Credit   9
+Grand Total   15
+Non-Graded Design Credits
+Note: ES are proposed Engineering Science compulsory courses
+14. Detailed Course Content of Programme Compulsory Courses
+Biosciences & Bioengineering
+The Instructor will:
+Introduce basic chemical properties of biomolecules and principles governing chemical properties of cell.
+The students will have the ability to:
+Understand the structure-function relationship of biomolecules in living system.
+Chemistry of Lipids [5 Lectures]: Classes of Lipids and their structure; Membrane Lipids and their properties; Bio
+membrane organization; Sterols; Membrane Transport
+Chemistry of Amino Acids [5 Lectures]: Amino acid structure and properties; Peptide bond; acid-base chemistry
+of amino acids;  isoelectric point
+Chemistry  of  Proteins  [5  Lectures]:  Protein  structure  and  its  importance;  Enzymes;  Michaelis-Menten  kinetics;
+Nucleic acid chemistry [5 Lectures]: Nucleotides; DNA; RNA; Types of RNA
+Properties of Carbohydrates [4 Lectures]: Aldoses, Ketoses; Epimers; Mutarotation; Glycosidic bond
+Carbohydrates  Chemistry  [5  Lectures]:  Common  polysaccharides;  Reducing  &  Non  reducing  sugars;
+Bioenergetics  [5  Lectures]:  Catabolism;  Anabolism;  Energy  Coupling;  High  energy  bonds  formation  and
+Metabolic pathways [5 Lectures]: Glycolysis; TCA, Electron Transport Chain, Calvin cycle, Reverse TCA
+Active learning component [3 Lectures]: Flipped classroom (group presentations), debates, case studies on applied
+biochemistry, group discussions, think-pair-share
+D. L. Nelson and M. N. Cox, Lehninger Principles of Biochemistry, WH Freeman, (2012), Sixth Edition.
+D. Voet, C. W. Pratt and J. G. Voet, Principles of Biochemistry, Wiley (2012), Fourth  Edition.
+S  Dasgupta,  Biochemistry  I,  NPTEL  Course  Material,  Indian  Institute  of  Technology  Kharagpur,
+Bioscience & Bioengineering
+The Instructor will:
+1. Give students foundational knowledge on the microbial world
+2. Provide context as to how these microbes play an essential role in human health and environment
+The students are expected to have the ability to:
+1. Understand the biology of microbes and how they impact life on earth
+2. Explore unique structure-function relationships in microbes
+3. Analyse the diversity in microbial metabolism and its adaptability to environmental changes
+Introduction: the ubiquitous micro-organisms, microbial cell structure and function, primitive microbes to
+modern ones; bacteria, fungi, algae, protozoa and viruses (5 lectures)
+Microbial nutrition and metabolism: nutritional classification of microbes, basics of metabolism (4 lectures)
+Metabolic pathways: Overview of catabolic and anabolic pathways and diversity in microbial metabolism (5
+Microbial growth and kinetics: Different phases of microbial growth, formulation of culture medium, batch
+and continuous systems (5 lectures)
+Microbial evolution: systematics and taxonomy, Different classes of bacteria (4 lectures).
+Applications of Microbes: production of microbial metabolites & industrial Microbiology (4 lectures)
+Microbial ecology: methods, ecosystems, nutrient cycling (4 lectures)
+Environmental Microbiology: bioremediation, role of microbes in wastewater treatment and toxic waste
+treatment (4 lectures)
+Medical Microbiology: interaction of microbes with higher organisms, microbial diseases ( 4 lectures)
+Food Microbiology: microbial spoilage of food, prevention of food spoilage, microbial activity in various
+kinds of foods (3 lectures).
+Biosafety, Microscopic examination of microbial world - Staining; Preparation and sterilization of microbial
+growth  media,  Microbial  motility  and  Chemotaxis;    Cultivating  microbes  by  streak  plate  and  pour  plate
+method.  Enumeration of microbes by turbidometry; Microbial enumeration by plate count; Effect of pH and
+temperature on microbial growth; Safely discarding microbial cultures
+1.  R. Y. Stanier, General Microbiology, Macmillan (1999), 5th edition.
+2.  M. Pelczar, A. Chen, A. Krieg, Microbiology, Tata McGraw Hill Education (2001), 5th edition.
+3.  R. M. Atlas, R. Bartha Microbial Ecology: Fundamentals and applications, Pearson, (1997), 4th edition.
+1.  Brock, et al., Biology of Microorganisms, Benjamin Cummings (2012), 13th edition
+2. D. L. Nelson and M. N. Cox, Lehninger Principles of Biochemistry, WH Freeman, (2012), Sixth Edition.
+3. P. Harley, Klein’s Microbiology, McGraw Hill Higher Education, (2008), 7th edition,
+Online Course Material
+David Schauer, and Edward DeLong. 20.106J Systems Microbiology. Fall 2006. Massachusetts Institute of
+Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+The Human Immune System: Mechanisms to Detect,
+Defend and Attack
+Biosciences & Bioengineering
+The Instructor will:
+1. Provide an overview of the human immune system and its components
+2. Emphasize immune responses in context of bacterial, viral and parasitic infections.
+The students are expected to have the ability to:
+1.   Evaluate applications of immunology in industry
+2.   Apply their knowledge for design of immunological experiments
+Immunology-fundamental  concepts  and  anatomy  of  the  immune  system  [8  Lectures]:  Components  of  innate  and
+acquired immunity; complement and inflammatory responses; Innate immune response; mucosal immunity;
+antigens and immunogens, haptens; Major Histocompatibility complex and disease susceptibility.
+Immune  responses  generated  by  B  and  T  lymphocytes  [6  Lectures]:  Immunoglobulins  -  structure,  function
+signalling, kinetics of immune response, memory;
+B cell and T-cell maturation, activation and differentiation[6 Lectures]: antigen processing and presentation, cell-
+cell co-operation, Hapten-carrier system.
+Antigen-antibody  interactions  [8  Lectures]:  Precipitation,  agglutination  and  complement  mediated  immune
+reactions  and  associated  immunological  techniques,  cell  cytotoxicity  assays,  microarrays,  transgenic  mice,
+Clinical immunology [14 Lectures]: Immunity to infection, hypersensitivity: Type I-IV; autoimmunity; treatment
+of  autoimmune  diseases;  transplantation:  immunological  basis  of  graft  rejection;  tumor  immunology  ;
+Immunodeficiencies; anaphylactic shock, immune tolerance, neuroinflammatory diseases, immunotherapy.
+1. K. Murphy, P. Travers, M. Walport, C. Janeway, Janeway’s Immunobiology. New York: Garland Science (2012)
+1. T. J. Kindt, R. A. Goldsby, B. A. Osborne, J. Kuby. Kuby Immunology. New York: W.H. Freeman (2002), First
+2. J. Brostoff, J. K. Seaddin, D. Male, I. M. Roitt, Clinical Immunology. London: Gower Medical Pub (2002), First
+Cellular and molecular immunology, Fall 2005, MIT OpenCourseWare Massachusetts Institute of Technology,
+https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Concepts and dynamics: molecular cell
+Biosciences & Bioengineering
+The instructor will:
+1.  Offer  both  basic  and  advance  concepts  in  cellular  and  molecular  biology.  The  focus  of  the  course  is  to
+provide basic understanding of functional machineries of cells.
+2. Apprise the students about the dynamics of cellular processes and the regulatory mechanisms involved.
+The students are expected to:
+Have the ability to understand the structure and function of cells as a fundamental unit of life.
+Cell organelles and cellular signalling [5 Lectures]: Structure and function of cellular organelles
+Cellular architecture [5 Lectures]: Cytoplasmic and nuclear compartment, basic protein structure and cellular
+Cell division and proliferation [5 Lectures]: Biological principles of mitosis and meiosis; difference of cell
+division among prokaryotes and eukaryotes and cell cycle regulation in health and diseases.
+Mechanisms of cell death & diseases [5 Lectures]: phases and significance linked with apoptosis, morphological
+and biochemical changes associated with apoptotic cells.
+Regulation of gene expression [4 Lectures]: DNA replication, prokaryotic & eukaryotic transcription prokaryotic
+transcription; transcription unit and TATA binding proteins, translation.
+Cellular  quality  control  mechanisms  [4  Lectures]:  cellular  stress  conditions  and  their  effects;  protein  quality
+control mechanisms and nucleic acid quality control mechanism.
+Laboratory experiments: bacterial transformation, mammalian cells transfections; DNA gel electrophoresis;
+cell  death  assays;  localization  of  proteins  in  different  cellular  compartments;  DNA  ligation  and  digestion;
+animal cell culture and immunocytochemistry.
+1. B. Alberts., Molecular Biology of the cell,  Garland Science, 2014,  6th Edition
+2. G. Karp and N. L Pruitt., Cell and Molecular Biology, John Wiley and Sons, 2016, 8th Edition
+1. L. Benjamin, Gene IX, Jones and Barlett Publishers, 2007, 9th Edition
+2. J.D. Watson,  Molecular Biology of the Gene, Benjamin Cummings, 2007, 6th Edition
+on  Molecular  Cell
+Biology,  Devarajan  Karunagaran,
+Biosciences & Bioengineering
+Biochemistry (PC 3rd)
+The Instructor will:
+Give hands-on training on standard biochemical techniques and its applications.
+The students will be able to:
+Perform and implement biochemical techniques in research and industrial applications.
+Identification of biomolecules in samples: proteins, carbohydrates and lipids
+Protein isolation and purification: salting out, chromatography (ion-exchange and affinity), SDS-PAGE
+Characterization  of  proteins  using  spectroscopic  techniques:  absorbance,  fluorescence  and  secondary  structure
+Protein estimation by different methods: BCA, Bradford and Lowry
+Identification and quantification of nucleic acids: absorbance and gel based methods
+D. K. Geetha Practical Biochemistry, Jaypee Brothers Medical Publishers (2016) 2nd Edition.
+Elizabeth  Taylor.  5.36  Biochemistry  Laboratory.  Spring  2009.  Massachusetts  Institute  of  Technology:  MIT
+Course Title  Computational and Systems Biology  Course No.
+Pre-requisite  Basic  understanding  of  molecular
+Bioscience and Bioengineering
+Program Compulsory (PC)
+biology and computation
+1.  To train the students in the interdisciplinary areas on the interface of biology and computation.
+2.  To provide fundamental understanding of methods in computational biology along with hand on
+1.  Application of computational methods for modelling biological systems.
+2.  Ability to model and infer from biological models.
+Genome and Sequences [Lectures 2]: Sources of information  of biological origin, gene  and protein sequences,
+sequence homology and its biological significance (2 lectures)
+Building  biological  databases  with  SQL  [Lectures  6]  :  Common  database  types,  relational  database  design  (3
+lectures), database access using SQL (2 lectures), biological databases (1 lecture)
+Sequence  Alignment  [Lectures  10]:  Need  for  aligning  biological  sequences,  Smith-Waterman  algorithm,
+Needleman-Wunsch algorithm (4 lecture), Multiple Sequence Alignment (2 lecture) , Phylogeny (2 lecture),
+Applications, BLAST (2 lecture)
+Gene and promoter prediction [Lectures 4]: Gene prediction, promoter and regulatory element prediction
+Protein Structure Prediction [Lectures 6]: Protein folding (1 lecture), Ab initio and knowledge-based prediction
+of structures, Force fields (3 lectures), Homology modelling (2 lectures)
+Introduction to Mathematical Modelling [2 lecture]: Introduction to Modelling, why model biological systems?,
+examples of models, the modelling process, scope/assumptions, types of models
+Introduction to Static Networks [12 lectures]: Representation of Biological Networks (1 lecture), Introduction to
+Network Biology (3 lectures), Network Topology, Power-law Networks/Network Perturbations (3 lectures),
+Community Detection / Network Motifs (3 lectures), Reconstruction of Gene networks (2 lectures)
+Laboratory [10-12 Sessions]
+Database searches and data retrieval, Database creation and data retrieval using MySQL, Writing code for
+translation  of  nucleic  acid  sequence  to  protein  sequence,  Writing  code  for  dynamic  programming  and
+performing global alignment, Pairwise sequence alignment: BLAST, Multiple Sequence alignment: CLUSTAL
+OMEGA, Gene prediction tools (Glimmer, GeneMark) Visualisation and analysis of 3D-structures of proteins
+and protein-ligand  interactions using graphics tool (RasMol), Homology modelling using SWISS-MODEL,
+Network  Biology  (Cytoscape),  Network  Biology  (Topologies),  Motif  and  module  detection,  Parameters  of
+network (Cytoscape),, Network Perturbations, reconstruction of gene regulatory network
+D.  Mount,  Bioinformatics:  Sequence  and  Genome  Analysis,  Cold  Spring  Harbor  laboratory  Press  (2004),
+1.  R.  Durbin,  S.  Eddy,  A.  Krogh,  G.  Mitchison,  Biological  Sequence  Analysis,  Cambridge  University  Press
+(1998) First Edition.
+2. C. Branden, J. Tooze, Introduction to Protein Structure, Garland Science (1999) Second Edition.
+3.  P  Baldi,  S  Brunak,  Bioinformatics:  The  Machine  Learning  Approach,  Bradford  Publishers  (2001) Second
+1. NPTEL course link: Bioanalytical Techniques And Bioinformatics (http://nptel.ac.in/courses/102103044/)
+2. Video  lectures  on  Foundation  of  Computational  and  Systems  Biology,  MIT  Open  Courseware,
+3. Lecture Notes for Introduction to Computational Molecular Biology and Genomics by Prof. Mona Singh,
+The Human Machine for Engineers:
+Bioscience and Bioengineering
+The Instructor will:
+1. Provide an understanding of the hierarchical organization of chemical and electrical signals and control
+mechanisms for energy, mechanics, flow and transport.
+2. Provide an understanding of the workings of the human body in context of engineering principles so as to
+develop an interdisciplinary outlook to biological as well as engineering problem-solving.
+The students will have the ability to:
+1. Understand and analyse basic human physiology from an quantitative perspective
+2. Imagine engineering solutions that can solve biological problems and/or get inspired by biology to solve
+Physical and Chemical Foundations of Physiology [6 Lectures]: Homeostasis, feedback control systems, pressure
+driven flow, electrochemical potential and free energy, membrane transport across a biological membrane.
+Physiology of excitable Cells [10 Lectures]: The origin of the resting membrane potential, GHK equation, action
+potentials,  membrane  excitability,  modeling  action  potentials,  saltatory  conduction,  skeletal  muscle
+mechanics, neuromuscular transmission, excitation–contraction coupling motor units, type of contractions,
+fatigue and tetanus.
+Cardiovascular  Physiology  [7  Lectures]:  electricity  in  cardiac  cells,  control  of  cardiac  automaticity,  ECG,
+cardiovascular  mechanics,  and  dynamics,  microcirculation  control  mechanisms,  cerebral  and  pulmonary
+circulation, congestive heart failure, shock,
+Pulmonary Physiology[6 Lectures]: breathing, resistance to air flow, alveolar gas exchange, acid-base balance,
+neural control of respiration.
+Renal Physiology [13 Lectures]:  Body fluid compartments and overview  of renal function, Measurements of
+function and clearance, Glomerular filtration/Renal Hemodynamics, Tubular transport of electrolytes and
+water, Concentration and dilution of urine, Regulation of sodium balance, extracellular volume and Blood
+pressure, Renal mechanisms of hypertension.
+1. J. Feher Quantitative Human Physiology, Academic Press, 2nd Edition (2016).
+2. K. E. Barrett, S. M. Barman, Ganong’s Review of Medical Physiology, McGraw Hill Education, 26th Edition,
+1. E.N. Marieb Human Anatomy and Physiology, Pearson Education (2006), 6th Edition.
+2. W. F. Boron, E. L. Boulpaep Medical Physiology, Elsevier (2017) 3rd Edition.
+1. Dennis Freeman, 6-021j Quantitative Physiology: Cells and Tissues, Fall 2004, MIT OpenCourseWare
+Massachusetts Institute of Technology, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+2. Venegas, J, Mark, F. Quantitative Physiology: Organ Transport Systems, MIT OpenCourseWare
+Massachusetts Institute of Technology, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Biophysics and Structural Biology
+Bioscience and Bioengineering
+The instructor will provide
+1.  In-depth  understanding  of  three  dimensional  structure  of  bio-macromolecules  and  macromolecular
+assemblies governing the cellular life.
+2. Introductory idea of the state of the art tools and techniques in understanding the interactions of
+After completion of the course the students are expected to have the ability to -
+1. Conceptualize the basic principles of macromolecular structural assembles and their implications in the
+regulation of biological phenomena.
+2. Understand the basic principles of modern day techniques of structural biology and their applications in
+Structural  hierarchy  of  macromolecules  [14  Lectures]:  Introduction  to  structural  biology,  structure-  function
+relationship  (5  Lectures);  protein  folding  and  its  regulation,  Role  of  chaperones  (4  Lectures);  higher  order
+protein assembly, Structural basis of eukaryotic DNA compaction, molecular machines (5 Lectures).
+Determination  of  macromolecular  structure  [14  Lectures]:  Introduction  to  macromolecular  crystallography:
+Macromolecular  crystallization  methods  and  basics  of  crystal  symmetry  (5  Lectures);  Analysis  of  X-ray
+diffraction  data  and  validation  of  crystal  structure  (5  Lecture);  Small  Angle  X-ray  Scattering  (SAXS)  and
+Neutron diffraction to study macromolecular structures (4 Lecture).
+Biophysics  of  macromolecular  interactions  [14  Lectures]:  Physical  forces  in  macromolecular  interactions  (2
+lectures), protein -protein and protein  -nucleic acid interactions (3 lectures),  structure of heme, myoglobin
+and  haemoglobin,  oxygen  binding  mechanism  (3  lectures),  Bohr  effect,  Energetics  of  active  transport  (3
+lectures), Principles of spectroscopic methods for studying macromolecular interaction (3 lectures).
+1. Introduction to Macromolecular Structure
+2. Retrieving biochemical information from protein primary structure.
+3. Prediction of protein 3D structure model from amino acid sequence
+4.Validation of protein 3D structure model
+5. Analysis of protein 3D structure -
+a. Overall structure and enzyme active site
+b. Enzyme allosteric site
+c. Enzyme substrate specificity
+d. Enzyme inhibition by small molecule/peptide
+6. Protein -small molecule docking and analysis
+7. Protein-protein docking and analysis
+8. Protein-DNA docking and analysis
+9. Analysis of the effect of mutation(s) in protein interactions
+1. A. M. Pherson,  Introduction to Macromolecular Crystallography, Wiley-Blackwell (2009), 2nd Edition.
+2. W. Bialek, Biophysics – Searching for Principles, Princeton University Press (2012).
+3. R. Glaser, Biophysics: An Introduction, Springer (2012) 2nd edition.
+1. D. Voet, C. W. Pratt and J. G. Voet, Principles of Biochemistry, Wiley  (2012), Fourth Edition.
+Genetics and Gene Manipulation
+Bioscience and Bioengineering
+The Instructor will:
+1.  Provide an overview of the principles of heredity and gene manipulation
+2.  Highlight how gene manipulation can be applied to engineer simple and complex life forms and safety
+considerations associated with genetic engineering
+The students will have the ability to:
+1.  Choose the best method to manipulate DNA for genetic engineering applications
+2.  Engineer simple biological systems for biotechnological applications
+3.  Practise safety and ethical considerations while manipulating and engineering biological systems
+Fundamentals of Genetics [18 Lectures]: Introduction, genetic distances, chromosome mapping, natural selection,
+crossovers  and  recombination  (6  lectures),  genetic  drift,  effect  measures  (6  lectures),  study  designs,  Hardy-
+Weinberg law, linkage disequilibrium, linkage and association analysis, principles of inheritance, simple and
+complex diseases, heritability estimation, genetic markers, DNA fingerprinting (6 lectures)
+Gene Manipulation [12 Lectures]: Polymerase Chain Reaction (2 lectures), DNA modifying enzymes (1 lecture),
+strategies  for  gene  cloning  (3  lectures),  gene  editing  (1  lecture),  vectors,  selection  &  screening  (2  lectures),
+sequencing DNA (1 lecture), heterologous expression of genes (2 lectures)
+Genetic Engineering [6 Lectures]: Gene transfer to animal cells & transgenic animals (2 lectures), gene transfer to
+plant cells & transgenic plants (2 lectures), genetically modified organisms (2 lectures)
+Applications of Genetic Engineering [4 Lectures]: Production of important metabolites (1 lecture), introducing new
+traits, improving existing traits (1 lecture), gene therapy,  development of model systems, animal cloning (2
+Ethical & Safety Considerations [2 Lectures]: Biosafety considerations for recombinant DNA research (1 lecture),
+Ethical considerations for Genetic Engineering (1 lecture)
+Laboratory Experiments (12 exercises)
+Cloning strategies; Transformation, Selection & Screening; Clone confirmation & Sequencing of cloned DNA;
+Directional cloning; Heterologous protein expression; Site directed mutagenesis
+1. S. B. Primrose, and R. M. Twyman, Principles of Gene Manipulation & Genomics, Blackwell Publishing
+(2006), 7th Edition.
+2. N. M. Laird, and C. Lange, The Fundamentals of Modern Statistical Genetics, Springer: New York (2011),
+1.  M. Nagarajan, Ed. Metagenomics: Perspectives, Methods, and Applications, Elsevier (2017) 1st Edition,
+2.  D. P. Snustad, M. J. Simmons, Principles of Genetics, John Wiley and Sons (2011), 6th Edition.
+Bioscience & Bioengineering
+The Instructor will:
+1.  Introduce the organization of a genome and highlight the complexity of the encoded proteome and
+2.  Describe methods to access the genome, proteome and metabolome for specific applications
+3. Highlight applications of genomics, proteomics and metabolomics in biological research
+The students will have the ability to:
+1. Sequence and analyse the genome of a simple organism to understand its functioning
+2. Appreciate the usage of proteomics approaches to obtain a global picture of cellular activities
+3. Understand the metabolic complexity of simple organisms from the perspective of their genome and
+Genomics & Transcriptomics [12 Lectures]: Organization of the genome, Genome mapping (2 lectures), Genome
+sequencing (3 lectures), Comparing genomes (2 lecture), Functional Genomics (2 lectures), Epigenomics (1
+lecture), Genome sequencing projects (1 lectures), Genome databases (1 lectures)
+Proteomics [10 Lectures]: Separation of proteins, Analysis of protein expression [3 Lectures], Detection of post-
+translational  modifications  [2  Lectures]  ,  Reverse  phase  protein  microarrays  [2  Lectures],  Structural
+proteomics, Interactomics [3 Lectures]
+Metabolomics  [14  Lectures]: NMR  for  metabolomics  (2  lectures),  Gas  chromatography  (2  lectures),  High-
+performance liquid chromatography (2 lectures), Mass spectrometry (5 lectures), Global metabolite profiling
+from biological samples (3 lectures)
+Applications  of  Omics  [6  Lectures]: Genomics  &  proteomics  in  Medicine,  Biomarkers,  Pharmacogenomics  &
+personalized medicine (3 lectures), Plant genomes (1 lecture), Microbial genomes (1 lecture), Proteomics and
+metabolomics for biomarker discovery & disease diagnosis (1 lectures)
+S. B. Primrose and R. M. Twyman Principles of Gene Manipulation & Genomics, Blackwell Publishing (2006)
+1.  A. M. Lesk, Introduction to Genomics, Oxford University Press (2017), 3rd Edition.
+2.  R. Twyman, Principles of Proteomics, CRC Press (2013), 2nd Edition.
+Bioscience and Bioengineering
+The Instructor will:
+1. Provide an insight on the fundamental concepts of biomaterials engineering.
+2.  Give  an  overview  of  techniques  for  characterizations  of  different  types  of  biomaterials  for  various
+The students will have the ability to:
+1. Analyze the suitability of the material to be used as a biomaterial.
+2. Compare the performance of different biomaterials.
+2. Design a strategy for modification of biomaterials for a specific application.
+Fundamental  of  Biomaterials  [14  Lectures]:  Introduction  to  biomaterials  (2  lectures),  types  of  biomaterials  (1
+lectures), processing of biomaterials (4 lectures), surface properties and surface modification of biomaterials
+(3 lectures), physicochemical characterization of biomaterials (4 lectures). (offered by MM department)
+Biological  properties  of  biomaterials  [14  Lectures]:  Concepts  of  biocompatibility,  immune-compatibility,
+hemocompatibility  and  biodegradability  (5  lectures),  Bioconjugations,  Biomineralization  (4  lectures),
+Biological characterization of biomaterials (5 lectures) (offered by BSBE)
+Applications  of  Biomaterials  [14  Lectures]:  Biomimetic  and  stealth  biomaterials  (3  lectures),  types  and
+applications  of  implants  (4  lectures),  biomaterials  for  drug  delivery  systems  (3  lectures),  biomaterials  for
+tissue engineering (3 lectures), regulatory affairs (1 lecture) (offered by BSBE)
+B. Bikramjit, Biomaterials Science and Tissue Engineering, Cambridge University Press (2017), First edition.
+W.  R.  Wagner,  Shelly  E.  Sakiyama-Elbert,  Guigen  Zhang,  Michael  J.  Yaszemski,  Biomaterials  Science:  An
+Introduction to Materials in Medicine, Academic Press Inc (2020), 4th edition.
+Prof. Bikramjit Basu, IIT Kanpur, https://nptel.ac.in/courses/113/104/113104009/
+15. Detailed Course Content of Programme Elective Courses
+Title of the course
+Microbiomes and Metagenomics
+Computational Methods for Multi-omics
+Microarray Data Analysis
+Microbiomes and Metagenomics
+Bioscience & Bioengineering
+The Instructor will:
+1. Introduce microbial communities that are ubiquitous and are functionally adapted to specific
+2. Outline methods to understand microbial community structure in a given environment
+3. Describe strategies to access the genomic diversity specific to these microbial communities
+The students will have the ability to:
+1. Unravel microbial communities associated with specific environments using culture-dependent /
+2. Access metagenomes associated with unique environments to bioprospect enzymes, metabolites and
+Fractal 1. Quantitative ecology of Microbial communities [14 Lectures]: Development of microbial communities (2
+lectures), selection and succession, diversity and stability of communities (3 lectures), indices for diversity (2
+lectures),  structure  and  function  of  some  natural  microbial  communities  (2  lectures),  accessing  the
+microbiome:  from  sample  collection  to  detection  of  microbial  populations,  counting  microbes  (3  lectures),
+measuring microbial biomass and metabolism (2 lectures)
+Fractal  2.  The  current  standard  in  microbiome  profiling  [14  Lectures]:  Extraction  of  environmental  DNA  (2
+lectures),  PCR  considerations  in  microbiome  research  (2  lectures),  multiplexing  samples,  next  generation
+sequencing primer (2 lectures), exploiting NGS methods for microbiome profiling (2 lectures), data analyses
+(4 lectures), assessment of community diversity (2 lectures)
+Fractal 3. Metagenome sequencing [14 Lectures]: Metagenome library construction and sequencing (2 lectures),
+metagenome  amplification,  shotgun  metagenome  sequencing  (3  lectures),  single-cell  metagenomics  (2
+lectures),  predicting  genes  and  gene  function  from  metagenomes  (2  lectures),  metabolic  reconstruction  of
+microbial communities (2 lectures), bioprospecting from metagenomes (3 lectures)
+1. R. Atlas, R. Bartha, Microbial Ecology: Fundamentals and Applications, Pearson
+(1998), 4th edition.
+2. J. Izard, M. Rivera, Eds. Metagenomics for Microbiology, Elsevier (2015), First edition.
+1. M. Nagarajan, Ed. Metagenomics: Perspectives, Methods, and Applications, Elsevier (2017), 1st Edition.
+2. Research articles, Case reports & Review articles as provided by the Instructor
+Computational Methods for Multi-
+Bioscience & Bioengineering
+The Instructor will:
+1. Introduce to basic knowledge of computational and statistical methods in omics data analysis
+2. Highlight how multi-omics data is to be preprocessed, assessed for integrity, analyzed and interpreted
+Programme Elective (PE)
+The students are expected to have the ability to:
+1. Identify key methods for analysis and integration of omics data based on a given dataset
+2. Efficiently analyze large scale multi-omics data sets
+3. Make biological inference from the analyzed data
+Fractal 1: Basics of Multi-omics Analysis (14 lectures)
+Genome first and phenome first approaches, biological networks and pathways (4 lectures),  multi-omics
+data types and repositories, multi-omics data examples, biological interpretation (4 lectures); homogeneity
+and heterogeneity issues, batch effect correction, normalization and transformation (4 lectures); processing
+of high-throughput multi-omics data sets (2 lectures)
+Fractal 2: Horizontal Multi-omics Integration (14 lectures)
+Horizontal  integration  scheme,  single-level  omics  data,  meta-analysis  methods  (4  lectures);  integration
+methods  for  multiple  biological  networks,  integration  of  genetically  regulated  gene  expression  data  (4
+lectures); correlation motif model, ChIP-X data integration, analysis of allele-specific binding in ChIP-Seq
+(3 lectures); illustrative case-studies (3 lectures)
+Fractal 3: Vertical Multi-omics Integration (14 lectures)
+Vertical  integration  schemes  including  parallel  integration  and  hierarchical  integration  (3  lectures);
+clustering  methods,  latent  variable  approach  (4  lectures);  Bayesian  methods,  network-based  methods,
+HotNet algorithm (4 lectures); illustrative case-studies (3 lectures)
+Laboratory Experiments (14 classes)
+perform multi-omics integration for cancer TCGA data sets (4 lectures); analyze the complex structure of
+repeated measurements from different biological assays using open access data sets (4 lectures); develop a
+meta-analysis approach for integrating data on blood lipid levels (3 lectures); apply visualization approaches
+for the multi-omics analyses and biological interpretation (3 lectures)
+1. G. Tseng, D. Ghosh, X. J. Zhou, Integrating Omics Data. Cambridge University press (2015), First
+1. A. Vlahou, F. Magni, H. Mischak, J. Zoidakis, Integration of Omics Approaches and Systems Biology for
+clinical applications. Wiley (2018), First edition.
+1.  George  Michailidis,  University  of  Michigan,  Data-driven  Approaches  and  Multi-omics  Integration,
+Microarray Data Analysis
+Bioscience and Bioengineering
+Basic understanding of molecular biology and
+Structure (L-T-P-C)  3-0-0 [3]
+1.  Training students to analyze microarray technology/RNA sequencing gene expression data.
+2.  To be knowledgeable about high dimensional biology data analysis. The course will help to minimize
+a major bottleneck in the utilization of these data.
+3.  To  familiarize  the  students  with  the  use  of  advanced  tools  and  methodologies  for  analyzing
+microarray/RNA seq expression data
+4.  Assignments  will  help  them  to  practice  and  learn  about  the  tools  required  in  the  microarray  data
+1.  Be able to understand the structure of the data, the statistical procedures used to remove the inherent
+noise present in the data (pre-processing of the data)
+2.  Be able to decide which data analysis tool to use
+3.  Be able to understand new methods to describe observations made on a biological phenomenon and
+to make inferences on the biological significance of the results
+Fractal  1:  DNA  Microarray:  Gene  expression  biology,  The  technical  foundations,  Why  are  microarray
+important?(1 lecture) What is a DNA microarray and RNA seq data?(2 lectures), Types of microarrays-
+two-channel  cDNA  arrays,  single-channel  Affymetrix  genechips,  microarray  platforms  (5  lectures),
+Designing  a  microarray  experiment-The  basic  steps  (2  lectures);  Microarray  Databases:  NCBI  and
+microarray data management,  GEO (Gene  Expression Omnibus), Array Express, The benefits of GEO
+and Array Express (4 lectures).
+Fractal 2: Microarray Data Normalization : Importance of microarray data pre-processing, Background
+correction  (4  lectures),  Data  normalization,  Measuring  dissimilarity  of  expression  pattern  using
+dissimilarity  measures  (3  lectures),  Pre-processing  of  RNA  seq  data  (5  lectures),  Visualizing
+microarray/RNA seq data using- Principal Component Analysis (2 lectures)
+Fractal 3: Microarray Data Analysis: Identification of differentially expressed genes- using statistical and
+computational approaches (4 lectures), Classifying samples from two populations (4 lectures), grouping
+co-expressed genes (2 lectures). Visualization and Functional Analysis: Bio-molecular  pathways, gene
+ontology, enrichment analysis, hypergeometric distribution, calculation of P-Value, hypothesis testing,
+multiple hypothesis testing (4 lectures)
+R. M. Simon, E. L. Korn, L. M. McShane, M. D. Radmacher, Wright G. W., Zhao Y., "Design and
+Analysis of DNA Microarray Investigations", Springer-Verlag New York, 2003, First Edition.
+Approach", CRC Press,  USA, 2014, First edition.
+Korpelainen E., Tuimala J., Somervuo J., Huss M., Wong G., "RNA-seq Data Analysis: A Practical
+1. Knudsen S., “Guide to Analysis of DNA Microarray data”, John Wiley & Sons, USA, 2004, First Edition.
+2. Stekel D., “Microarray Bioinformatics”, Cambridge University Press, 2003, First edition.
+3.  Draghic  S.,  “Data  Analysis  tools  for  DNA  Microarray”,  Chapman  and  Hall/CRC  Press,  USA  2002,
+Microarray based DNA Detection---- http://nptel.ac.in/ courses/104103018/41
+Title of the course
+Therapeutic Delivery Systems
+Principles of Biomechanics
+Bioscience and Bioengineering
+Biomaterials Engineering (PC)
+The Instructor will
+1. Provide an insight about cell-material interactions at different length scale essential for the design and
+development of wearable devices, implants, therapeutic formulations and engineered organs.
+The students will have the ability to:
+1. Analyse the nature of cell-material interactions at molecular level.
+2. Choose appropriate techniques for analysing cell-material interactions.
+3.  Develop  an  appropriate  surface  modification  strategy  for
+the  performance  of
+Fractal 1. Fundamentals of cell-material interactions [14 Lectures]: Cell-material interactions over a length scale
+from  macro  to  nano,  mechanism  of  adhesion  of  cells  (4  lectures),  ECM  and  its  interactions  with  cells  (3
+lectures);  Reticuloendothelial  cell  clearance,  interaction  of  immune  cells  with  materials  (4  lectures)),
+interaction of microbes with substrate (3 lectures).
+Fractal 2. Influence of material properties on cell-material interactions [14 Lectures]: Influence of the surface and
+bulk properties of the materials on physiology of anchorage dependent cells (5 lectures), effects of size and
+morphology  of  the  materials  on  their  interactions  with  the  cells  (4  lectures),  Important  techniques  for
+characterizing cell-material interactions (5 lectures).
+Fractal 3. Tuning of cell-material interactions [14 Lectures]: Strategies to tune the cellular function by modifying
+material  properties  for  biomedical  applications  (5  lectures),  anchorage  promoting  peptides,  tuning  the
+mechanism of biofilm formation (4 lectures), design of stimuli-responsive (optical, electric and magnetic)
+surfaces for modulating cell behaviour (5 lectures).
+J. Y. Wong, J. D. Bronzino, Biomaterials, CRC Press (2019), first edition.
+W. R. Wagner, S. E. Sakiyama-Elbert, G. Zhang, M. J. Yaszemski, Biomaterials Science: An Introduction to
+Materials in Medicine, Academic Press Inc (2020), 4th edition.
+MIT  Open  Courseware,  Prof.  Ioannis  Yannas  and  Prof.  Myron  Spector,  Course  number:  20.441J/
+Bioscience and Bioengineering
+Biomaterials Engineering (PC)
+Cell-Material Interactions (PE)
+The Instructor will:
+1.  Provide  an  understanding  of  the  process  of  repair  and  regeneration  in  various  tissues  and  the  role  of
+different factors therein.
+2. Fundamental concepts and technical aspects of tissue engineering.
+The students will have the ability to:
+1. Design a tissue-engineered product for a specific application.
+2. Analyze and compare the performance of different tissue-engineered products.
+Fractal  1.  Fundamental  concepts  of  tissue  engineering  [14  Lectures]:  Fundamentals  of  tissue  repair  and
+regeneration; manipulation of repair and regeneration (4 lectures); introduction to basic principles of tissue
+engineering (5 lectures); components of an engineered tissue: role of biomaterials, growth factors, bioactive
+molecules and cells (5 lectures).
+Fractal 2. Fabrication and characterization of solid support systems [14 Lectures]:  Fabrication techniques of films
+and  hydrogels  (4  lectures);  fabrication  of  scaffolds  (5  lectures);  Physico-chemical  characterizations  of
+different solid support systems (5 lectures).
+Fractal 3. Development of engineered tissue in vitro [14 Lectures]: Animal cell culture (2D and 3D) (5 lectures);
+strategies  for  the  development  of  cell-seeded  tissue  engineering  construct  (5  lectures);  implantation  and
+integration of tissue-engineered products (3 lectures); Ethical and regulatory issues in tissue engineering (1
+B. Palsson, S. Bhatia, Tissue Engineering, Pearson Prentice Hall (2016), First edition.
+J.  P.  Fisher,  G.  Antonios,  G.  Mikos,  J.  D.  Bronzino,  D.  R.  Peterson,  Tissue  Engineering:  Principles  and
+Practices, CRC Press (2017), First edition.
+1.  Introduction  to  Tissue  Engineering,  Prof.  S.  Swaminathan,  Centre  for  Nanotechnology  &  Advanced
+Biomaterials, SASTRA University. https://nptel.ac.in/courses/102/106/102106036/;
+2.  Tissue  Engineering,  Prof.  Vignesh  Muthuvijayan,  Department  of  Biotechnology,  IIT  Kanpur.
+Therapeutic Delivery Systems
+Bioscience and Bioengineering
+Biomaterials Engineering (PC)
+The Instructor will:
+1.  Provide  deep  insight  on  the  fundamental  concepts  and  advances  on  various  types  of  therapeutic
+2. An understanding principles/rationales of therapeutic delivery systems.
+The students will have the ability to:
+1. Design a therapeutic delivery system for a specific application.
+2. Decipher and modulate the mechanism of therapeutic drug loading and release.
+3. Formulate novel strategies for personalized drug delivery.
+Fractal 1. Introduction to therapeutic delivery systems [14 Lectures]: Overview of therapeutic delivery systems
+(3 lectures); rationales of designing therapeutic delivery systems (3 lectures), classification of therapeutic
+delivery systems (3 lectures); characterization of therapeutic delivery systems (5 lectures).
+Fractal  2.  Essential  concepts  of  therapeutic  delivery  systems  [14  Lectures]:  Strategies  of  drug  loading,
+mechanism  of  drug  release,  kinetics  of  drug  release  (3  lectures),  essentials  of  pharmaco-kinetics  and
+pharmacodynamics  (3  lectures),  principles  of  sustained,  targeted  and  on-demand  delivery  (5  lectures),
+case studies on therapeutic delivery systems (3 lectures).
+Y. Chien, Novel Drug Delivery Systems (Drugs and the Pharmaceutical Sciences) CRC Press, 2nd edition
+P.  Stroeve,  Morteza  Mahmoudi  Drug  Delivery  Systems:  1  (World  Scientific  Series:  From  Biomaterials
+Towards Medical Devices), (2018) First edition.
+Drug delivery: Principles and Engineering, Prof. Rachit Agarwal, Department of BioSystems Science and
+Engineering, IISc Bangalore. https://nptel.ac.in/courses/102/108/102108077/
+The Instructor will:
+1.  Provide  knowledge  about  momentum,  heat  and  mass  transfer  in  bio-systems  and  their  analogous
+2.  Train the student to create bio-engineering knowledge using the transport phenomena approach with
+special focus on combined transport problems.
+The students are expected to have the ability to:
+1. Identify and analyze the properties and mechanisms of momentum, energy and mass transport.
+2. Analyze, design and solve problems combining these transport phenomena in bio-engineering.
+Basics of Transport phenomena and Momentum Transport (14 Lectures): Introduction, Formulation of transport
+problems from nature, conservation principle, Basic concepts of Vector and Tensor Analysis. (6 Lectures)
+Basic concepts, laminar and turbulent flows, boundary layers, equations of change, dimensional analysis,
+applications to Newtonian & Non-Newtonian fluids. (8 lectures)
+Fundamentals  of  biological  transport  processes  (14  Lectures):  Driving  forces  for  fluid  transport  in  biological
+systems, biological transport process on different length scale , Bio-rheology of  blood and other body fluids
+(  5  lecture),  Transport  across  cell  membrane;  diffusion,  filtration  and  osmosis  (3  lecture),  facilitated  and
+active transport processes (3 lecture), interstitial fluid transport, fluid flow in bone canaliculi and streaming
+potential ( 3 lecture),
+Circulatory and respiratory transport processes (14 Lectures): Models for blood flow; steady flow in tubes, pulsatile
+flow in a rigid tube, pulsatile flow in an elastic tube (3 lecture), blood flow in capillaries and bolus flow,
+blood flow dynamics in arteries and veins (3 lecture), heart-valve hemodynamics (3 lecture), air flow in the
+lungs:  Mechanics  of  breathing,  gas  exchange  and  transport  (4  lecture),  Application  of  the  principle  of  bio-
+transport phenomenon in medical device development(1 lecture).
+1.  G.  A.  Truskey,  F.  Yuan,  D.  F.  Katz,  Transport  Phenomena  in  Biological  Systems,  Prentice  Hall,  New
+Jersey (2009), 2nd edition.
+2. R. B. Bird, W. E. Stewart, E. N. Lightfoot, Transport Phenomena, Wiley India (2006), 2nd edition.
+1.  C. E.  Welty,  R. E.  Wicks,  G. L.  Wilson,  G. L.  Rorrer,(2007),  Fundamentals of Momentum, Heat, and  Mass
+Transfer. Wiley India Pvt. Ltd (2007), 5th edition.
+2.  C.  J.  Geankoplis  Transport  Processes  and  Separation  Process  Principles,  Prentice-Hall  of  India  (2004),  4th
+3.  R.  S.  Brodkey,  H.  C.  Hershey,  Basic  concepts  in  transport  phenomena,  a  unified  approach.  Vol  1,  Brodkey
+Publishing (2003), 1st edition.
+4. W. J. Thompson, (2000) Introduction to Transport Phenomena, Prentice Hall (2000), First edition.
+Online Course Material
+Transport Phenomena’ by Prof. S.K. Gupta, NPTEL: https://nptel.ac.in/courses/103/102/103102024/
+Computational and Systems Biology
+Title of the course
+Algorithms in Biology
+Modelling Biological Systems
+Design of experiments
+Algorithms in Biology
+Bioscience & Bioengineering
+To  develop  an    understanding  of  the    main    algorithmic  approaches    used    in    solving  computational
+problems that arise in the analysis of biomolecular data (such as DNA/RNA/amino acid sequences, mass
+spectra of proteins, whole genomes, or gene expression levels).
+The students are expected to:
+1. Understand various algorithms related to biological data analysis.
+2. Develop new efficient algorithm to solve biological data.
+[Fractal 1] Greedy Algorithms: Genome Rearrangements (7 lectures), A greedy approach to motif finding (7
+[Fractal  2]  Dynamic programming  algorithms:  The  power  of  DNA  sequence  comparison  (2  lectures),  global
+sequence alignment, local sequence alignment (4 lectures), alignment and gap penalties (2 lectures), multiple
+alignment (2 lectures), Gene Prediction, Similarity-Based Approaches to Gene Prediction (4 lectures)
+[Fractal 3] Clustering algorithms: identification of co-expressed groups of genes (2 lectures), construction of
+phylogenetic trees (3 lectures), detection of communities in a biological network (3 lectures)
+Gene selection algorithms: types of gene selection algorithms, SAM, Limma, CFS, mRMR, MRMS (4 lectures),
+ensemble gene selection algorithm (2 lecture)
+1. N. C. Jones, P. A. Pevzner An Introduction to Bioinformatics Algorithms, MIT Press (2014), First edition.
+2. G.  Benson,  R.  Page  (Eds.)  Algorithms  in  Bioinformatics”,  Springer  International  Edition  (2004)  First
+3. D. Gusfields, Algorithms on strings, trees and sequences: Computer Science and Computational Biology,
+Cambridge University Press (1997), First edition.
+1. S.  S.  Kremer,  Molecular  Bioinformatics:  Algorithms  and  Applications,  Walter  de  Gruyter  (1996)  First
+2. R.  Durbin,  S.  R.  Eddy,  A.  Krogh,  G.  Mitchison.  Biological  Sequence  Analysis:  Probabilistic  Models  of
+Proteins and Nucleic Acid, Cambridge University Press, (1999), First edition.
+3. S. Mitra, S. Datta, T. Perkins, G. Michailidis Introduction to Machine Learning and Bioinformatics, New
+York: Chapman & Hall/CRC Press (2008), First edition.
+Online Course Material
+2. MIT  Open  Courseware:  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-
+Modelling Biological Systems
+Bioscience and Bioengineering
+The main objective of the course is to introduce students to various aspects of mathematical modelling in
+the particular context of biological systems.
+Program Elective (PE)
+Students will have a knowledge of important concepts related to the mathematical modelling of complex
+systems, especially metabolic networks, protein interaction  networks and gene  regulatory  networks, and
+will be able to apply them to model the behaviour of biological systems as well as develop strategies for
+Kinetic/Dynamic Modelling of Biological Systems [14 lectures]: Introduction to Dynamic Modelling (2 lectures),
+Computer Simulation (3 lectures), Parameter Estimation (3 lectures), Sensitivity Analysis (2 lectures), case
+study (3 lectures)
+Modelling metabolic networks/Constraint-based analyses [7 lectures]: Introduction to Constraint-based Analyses
+of Metabolic Networks (2 lectures), Constraint-based Analyses of Metabolic Networks: FBA and MoMA (5
+lectures); Current/Advanced Topics in Systems Biology [7 lectures]: Robustness in Biological Systems (4 lectures),
+Robustness and Evolvability in Biological Systems (3 lectures)
+Lab: [10-12 Sessions]
+Introduction to MATLAB, Solving ODEs/Parameter Estimation with MATLAB, Parameter Estimation with
+MATLAB,  Simulation  with  CellDesigner  (TCA  cycle),  Constraint-based  Analyses  of  Metabolic  Networks
+(FBA and MoMA)
+Voit E, A First Course in Systems Biology. Garland Science (2012), First edition.
+1. E. Klipp, Systems biology: a textbook. Wiley-VCH (2009), First edition.
+2. MEJ Newman, Networks: an introduction. Oxford Univ. Press (2011), First edition.
+NPTEL Lectures: Computational Systems Biology, Karthik Raman, IIT Madras
+Title of the course
+Electron microscopy for Biology
+Digital Image processing
+Special topics in Biomedical Imaging
+Title of the course
+Whole cell based biosensors
+Microsystems fabrication technology
+Special topics in biosensors
+Whole Cell based Biosensors
+Bioscience & Bioengineering
+Pre / Co-requisite
+The Instructor will:
+1. Introduce the basic regulatory mechanisms of gene expression in prokaryotes
+2. Outline how these gene expression circuits can be rewired to make effective biosensors
+3. Briefly expand into synthetic biology approaches to construct whole-cell biosensors
+The students will have the ability to:
+1. Choose the right regulatory circuits for design of effective biosensors
+2. Genetically engineer living prokaryotic systems for sensing
+Genetic  circuitry  [20  Lectures]:  Transcriptional  and  post-transcriptional  regulation  of  gene  expression  in
+bacteria (4 lectures), two-component systems (3 lecture), reporter genes and their usage (2 lectures), choice
+of  host  strain,  free  living  biosensors  (2  lectures),  immobilized  biosensors,  immobilization  strategies  (2
+lectures),  DNA  manipulation  for  construction  of  reporter  fusions  (1  lecture),  RNA-based  sensing  (4
+lectures), specificity, sensitivity, cross-reactivity (2 lecture).
+Case  studies  [14  Lectures]:  Whole  cell  biosensors  for  sensing:  antimicrobials  (1  lecture),  organics,  plant
+nutrients  (3  lectures),  microbial  metabolites  (2  lectures),  heavy  metals,  xenobiotics  (3  lectures),  pH,
+temperature (2 lectures), synthetic biology for whole cell biosensor development (3 lectures).
+Seminars on current topics in whole cell biosensors [8 Lectures]: Student-led seminars on current topics in whole
+cell  biosensors.  Students  will  present  and  discuss  instructor-approved  research  articles  describing
+development of biosensors using living cells.
+Research articles & Review articles as provided by the Instructor
+T. Gerald, Ed. Handbook of cell biosensors, Springer (2020), 1st Edition.
+Microbial Systems for Sustainable Development
+Title of the course
+Microbial remediation and environmental biotechnology
+Microbes in food and sustainable agriculture
+Microbial remediation and Environmental
+Bioscience and Bioengineering
+1.  To acquaint students with the way wastes/wastewaters as well as toxic wastes are treated
+2.  The instructor will teach methods pertaining to sustainable wastewater recycling
+The students will have the ability to:
+1.  Address the increasing water, soil or air pollution problems arising due to industrialization and how
+biotechnology can circumvent these problems
+2.  Students will be able to design a treatment process based on the characteristics of the wastewater to be
+Fractal  1:  Introduction,  Stoichiometry  and  bacterial  energetics  (5  lectures),  reactors  for  wastewater
+treatment,  Carbon  removal,  Nitrification  and  denitrification,  phosphorus  remova  (6  lectures)l,
+Detoxification of hazardous chemicals (3 lectures).
+Fractal  2:  Bioremediation,  Type  of  bioremediation  (4  lectures),  Engineering  strategies  for
+bioremediation (5 lectures), case studies on bioremediation (5 lectures)
+Fractal 3: Strategies in solid waste management, landfill & associated hazards (4 lectures) , chemistry
+of  biodegradable  wastes,  composting,  solid  state  fermentation  (5  lectures),  solid  waste  to  biofuel,
+chemistry of non-biodegradable wastes, the case studies  (5 lectures)
+B.E.  Rittmann,  P.  L.  McCarty,  Environmental  Biotechnology:  Principles  and  Applications,  Tata
+McGraw Hill (2001), 2nd edition.
+1. M. Shuler, F. Kargi, Bioprocess Engineering: Basic Concepts, Prentice Hall (2002), 2nd  edition.
+2. R. Y. Stanier, General Microbiology, Macmillan (1999), 5th edition.
+Gargi  Singh,  Applied  Environmental  Microbiology,  NPTEL  Course  Material,  Department  of  Civil
+Engineering, Indian Institute of Technology, Roorkee, http://nptel.ac.in/courses/105107173/
+Microbes in food and sustainable agriculture
+Biosciences & Bioengineering
+This  course  will  emphasize  on  the  role  of  microbes  in  food,  additives  and  sustainable  agriculture  and  its
+practical applications in the field.
+The students will have the ability to:
+Be able to utilize the potential of microbes in creating a sustainable food and agriculture alternatives.
+Plant-microbe interactions [14 Lectures]:
+Plant community ecology and soil symbiont interactions, soil resources, local niche in shaping community
+[5 Lectures], Microbial interactions, role of root exudates in microbial community growth, types of microbial
+community    [5  Lectures],  Factors  affecting  plant-microbiome  interactions  (environmental  and  genetic)  [4
+Microbes for better food and health [14 Lectures]:
+Prebiotics, probiotics and synbiotics, microbes as nutritional supplement [5 Lectures],  microbial preparation
+of dairy products, microbial production of antibiotics [5 Lectures], Fermented beverages and health benefits,
+quality control [4 Lectures]
+Microbes for sustainable agriculture [14 Lectures]:
+Microbes as symbiotic microbes, nitrogen fixers and phosphate solubilizer [5 Lectures], Microbial herbicides
+and  pesticides,  microbes  for  nutrient  recycling  [5  Lectures],  Phytohormone  production  and  genetically
+modified food [4 Lectures]
+R. Chandra, R. C. Sobti. Microbes for Sustainable Development and Bioremediation. CRC Press (2020), First
+S. Tulasi, J. B. Naraian, A. Prakash, Microbes in food and sustainable agriculture. Springer (2012),  First
+1. Microbiology. Gurvinder Kaur Saini. https://nptel.ac.in/courses/102/103/102103015/)
+2. Applied environmental microbiology. Gargi Singh. https://nptel.ac.in/courses/105/107/105107173/
+Bioscience and Bioengineering
+BBL4XX0 (Level 4)
+To acquaint students with the principles and applications of bio-energy harnessing systems ranging from
+conventional processes to the latest developments in the area
+The students will have the ability to:
+1. Use biomass as sustainable fuel
+2.  Utilize the knowledge of bioenergy systems while integrating bioenergy with other renewable energy
+Fractal  1.  Thermochemical  biomass  conversion:  Chemical  composition,  biomass  types  and  characteristics  (4
+lectures),  biomass  pre-treatment  and  processing,  biomass  gasification  technology  (5  lectures),  biomass
+boilers, catalytic conversion of biomass to liquid biofuels, life cycle analysis (5 lectures) (offered by CY).
+Fractal  2.  Biochemical  biomass  conversion:  Anaerobic  fermentation  technology,  biogas  production,  process,
+microbiology (4 lectures), different types of bioreactors, basic process kinetics, various types of biofuels,1st
+and  2nd  generation  biofuels,  algal  biofuels  (5  lectures),  ASTM  standards  for  biofuels,  basic  biochemical
+processes, genetic engineering (5 lectures).
+Fractal  3.  Bioelectrochemical  systems:  Introduction  to  microbial  fuel  cells  (MFCs),  the  Nernst  equation  and
+electrochemical  potential  difference,  the  biochemical  redox  reactions,  (5  lectures),  the  exoelectrogenic
+microbes,  MFC  components,  applications  of  MFC  (5  lectures),  bio  electrochemical  system  for  hydrogen
+production, artificial photosynthesis (4 lectures).
+German Solar Energy Society, Ecofys, (2006) Planning and installing bioenergy systems: A guide for installers,
+architects and engineers, Earthscan, 2.  Vertes, A. A., Qureshi, A., Yukawa, H.,  Blaschek, H.P.,(2010) Biomass
+to Biofuels, Wiley.
+1.  R. Y. Stanier, General Microbiology, Macmillan (1999), 5th edition.
+2.  M. Pelczar, A. C. Krieg, Microbiology, Tata McGraw Hill Education (2001), 5th edition.
+Michelle O'Malley, Fueling Sustainability: Engineering Microbial Systems for Biofuel Production, Spring 2011,
+MIT OpenCourseWare Massachusetts Institute of Technology, https://ocw.mit.edu. License: Creative
+Drug Design and Development
+Title of the course
+Principles of drug discovery
+Viral infection and antiviral drug development
+Principles of drug discovery
+Bioscience and Bioengineering
+Pre/Co-requisite  Biophysics and Structural Biology (PC)
+The instructor will:
+Focus on route of drug design and discovery
+BBL4XX0 (Level 400)
+The students will have the ability to:
+Appreciate the underlying principles of drug design and development
+Fractal 1. Target Identification and Validation: Drug targets, computer aided drug design, principles of QSAR
+(4 Lectures); pharmacokinetics, administration and dosing (2 Lectures); drug testing: in vivo and in vitro
+(2  Lectures);  drug  discovery:  natural  lead,  synthetic  lead,  combinatorial  synthesis  (3  Lectures);
+pharmacokinetics based drug design (3 Lectures). [14 Lectures]
+Fractal 2. Artificial Intelligence Applications in Drug Discovery: drug target identification, drug databases,
+virtual screening (4 lectures); classifying new drugs, predicting drug responses, applications in clinical
+trials (4 lectures); deep learning based survival prediction, disease prognosis prediction (3 lectures); data
+driven medicine, drug-target interaction prediction (3 lectures). [14 Lectures]
+Fractal  3.  Bench-to-Bed  side:  Chemical  development  (2  Lectures),  patenting  (2  Lectures),  process
+development  (2  Lectures);  toxicology  (1  Lectures),  pharmacology  (2  Lectures),  drug  metabolism  (1
+Lectures);  clinical  trials  (2  Lectures);  commercialization:  regulatory  affairs,  pipeline  development,
+pharmaceutical market places, business opportunities (2 Lectures). [14 Lectures]
+K. Stromgaard, P. K. Larsen, U. Madsen, Drug Design and Discovery, CRC Press (2016), 5th Edition.
+E. Stevens, Medicinal Chemistry: The Modern Drug Discovery Process, Pearson Publisher
+(2013), 1st Edition.
+The Instructor will:
+1. Provide understanding of representing stereochemical structures of drug molecules and their important
+2.  Provide  knowledge  of  disconnection  of  drug  molecules  followed  by  targeting  them  synthetically  by
+designing synthetic routes and methods development to achieve them in concise and atom economical
+The students are expected to have the ability to:
+1. Design and develop a method for targeted biologically active natural products or drug molecule from the
+knowledge of the retrosynthesis and synthetic organic chemistry.
+2. Appreciate and understand the importance of stereochemistry avail in drug molecules.
+Fractal 1. Pharmacophore [14 lectures]:  Stereochemical feature of pharmacophore (2 Lectures), Natural and
+synthetic pharmacophores (2 Lectures), introduction and importance of natural product chemistry in drug
+development (2 Lectures), analogue-based lead designing (2 Lecture), Examples of Synthetic  and natural
+Product-based  landmark  drugs  (1  Lecture),  Drug  metabolism:  Concept  of  prodrugs  (1  Lecture),  adverse
+drug reaction (2 Lectures), biotransformation (2 Lectures).
+Fractal 2. Basic Concept of Organic Synthesis [14 lectures]: functional group interconversions, (4 Lectures) donor
+and  acceptor,  (1  Lecture)  chemo-,  regio-and  stereo-selectivities,  (3  Lectures)  natural  and  umpolung
+reactivities, (2 Lectures)  1,3 and 1,5-difunctional compounds, (2 Lectures) importance and role of chiral drug
+molecules  and selective synthesis of chiral drug molecule. (2 Lectures).
+Fractal 3. Synthetic procedure of biologically active molecules [14 lectures]:  Few applications of retrosynthetic
+strategies in the total synthesis of selected organic molecules such as: Drugs acting on Central Nervous
+System  (2  Lectures),  Anti-inflammatory  agents  (such  as  paracetamol,  naproxine,  ibuprofen,  aspirin,
+diclofenac)(4  Lectures),  Antibiotics  and  Antifungal  agents  (2  Lectures),  Antiviral  agents  (1  Lecture),
+Medicinal  Plant  products  [tetrahydrocannabinol  (THC)]  (2  Lectures),  Importance  of  peptides  in  drug
+discovery  (tubulysin,  dolastatin,  milnamide)   general  aspects  of  Peptides  and  Peptidomimetics  in
+designing therapeutic molecule (3 Lectures).
+1. S. Warren, Organic Synthesis, The Disconnection Approach Wiley (2014), Third edition.
+2. E. M. Carriera, L. Kvaerno Classics in Stereoselective synthesis, Wiley (2009), First edition.
+3. L. Kurti, B. Czako, Strategic Applications of Named Reactions in Organic Synthesis, Elsevier (2005), First
+4. D. S.  Johnson, J. J. Li, The Art of Drug Synthesis. Wiley (2007), First edition.
+1. K. C. Nicolaou, S. A. Snyder, Classics in Total Synthesis-II: Further Targets, Strategies, Methods, Wiley
+(2003), First edition.
+2. R. K. Bansal, Heterocyclic Chemistry, New Age International Private Limited (2017), 5th edition.
+1. NPTEL Lectures: Organic synthesis - https://nptel.ac.in/courses/104105087/
+2. NPTEL Lectures: Medicinal Chemistry- https://nptel.ac.in/courses/104106106/
+Viral infection and antiviral drug development  Number
+Bioscience & Bioengineering
+The Instructor will:
+1. Provide the fundamental knowledge of Viral pathogenesis and Host cell responses
+2. Provide the detailed knowledge of antiviral drug targets, mechanism of existing antiviral drugs and future
+antiviral therapeutics and drug designing endeavours.
+The students are expected to have the ability to:
+1.   Understand the molecular mechanism of viral pathogenesis and host antiviral immune responses.
+2.   Understand the mode of action of common antiviral therapeutics and the fundamentals of antiviral drug
+Basic concept of Virus and Viral pathogenesis:(14 lectures) Virus a unique infectious agent, Classification of virus
+(5  Lectures);  Example  of  pathogenic  virus  and  their  life  cycles  (Host  specificity,  attachment,  replication,
+proliferation, maturation, release and cross species infectivity) (5 Lectures); Virus induced cell transformation
+Viral  infection  versus  host  defense  mechanisms:  (10  lectures)  Host  immune  responses  against  viral  infection
+(4  +  4  Lectures)
+Immunopathological effects of viral infections (2 Lectures)
+Antiviral therapies: (18 lectures) Identification and validation of antiviral drug targets (4 Lectures), Strategies
+to develop antiviral drugs (small molecule and peptide based) (4 Lectures) Therapeutic antibodies as antiviral
+drugs, AON and RNAi based antiviral therapies, Immunization (active and passive) as antiviral therapy (5
+Lectures); Mode of action of common antiviral drugs (5 Lectures).
+and  cell  mediated
+1. E. Lycke and E. Norrby, Text Book of Medical Virology, Elsevier (1983), First edition.
+2. T. J. Kindt, B. A. Osborne, R. A. Goldsby, J. Kuby, Immunology, New York Publisher (2007), 6 th Edition.
+3. E. D. Clercq, Advances in Antiviral Drug design, Volume 5, Elsevier (2007), First edition.
+Chorghade, M. S., Drug Discovery and Development, Volume 1, Wiley (2006), First edition.
+Online Course Material
+1.  Dr. Jun Wang, from The University of Arizona, USA Lecture on Influenza Drug Development
+2.  Dr. Vincent  Racaniello, from Columbia University, USA Lecture on antiviral drugs
+16. Detailed Course Content of Departmental Specializations
+Microbial Systems Engineering
+Specialization Core (8 credits)
+Specialization Elective (12 Credits)
+- Engineering Microbes (3-0-0)
+- Bioprocess Engineering and
+- Mathematical modelling of microbes (1-
+-  Microbial Nanotechnology (3-0-0)
+-  Metabolic Engineering for biofuels (2-0-0)
+-  Microbial remediation and environmental
+-  Microbes in food and sustainable agriculture
+-  Bioenergy (3-0-0)
+-  Soil Microbiome & Microbial Technology (2-
+-  Biofilms: Bacterial communities (3-0-0)
+-  Gut microbiomes in health and diseases (3-0-
+-  Downstream processing (3-0-0)
+Industry collaborated project
+4 credit (0-0-6) x 1
+Bioscience & Bioengineering
+Genetics & Gene Manipulation (PC)
+The Instructor will:
+1. Introduce advanced methods for genetic engineering microbes
+2. Discuss case studies outlining the application of introduced methods to develop engineered microbes for
+applications in various domains
+The students will have the ability to:
+1. Select the appropriate method for genetic engineering of microbes
+2. Develop solutions for their chosen domain of research using genetically engineered microbes or
+Genetic manipulation of microbes [16 Lectures]: Strain development for specific applications (2 lectures), basic
+metabolic  engineering  (3  lectures),  microbial  community  engineering  (2  lectures),  construction  of  reporter
+strains  and  biosensors  (4  lectures),  applications  of  genetically  engineered  microbes  in  healthcare,  food
+production, energy production and environmental remediation (5 lectures).
+Gene & genome engineering [16 Lectures]: Introduction to CRISPR-Cas biology (3 lectures), engineering CRISPR-
+cas systems (5 lectures), applications of CRISPR-Cas in microbial system engineering (4 lectures), introduction
+to microbial genomes, minimal genome concept (2 lectures), synthetic genomes (2 lectures).
+Advanced Genetic engineering research prospects in industry [10 Lectures]: Medicines and genetic   engineering;
+insulin (3 lectures), albumin and human growth hormones production (2 lectures); generation of monoclonal
+antibodies and vaccines (2 lectures); gene coding for a useful protein and cloning concepts (3 lectures).
+1.   S. B. Primrose,  and R. M. Twyman,  Principles of Gene Manipulation & Genomics, Blackwell
+Publishing (2006), 7th edition.
+2.   Reviews & Research articles provided by the Instructor
+Reviews & Research articles provided by the Instructor
+Bioprocess Engineering & Fermentation
+Bioscience and Bioengineering
+1. Introducing the students to principles and applications of industrial biotechnology.
+2. Enable students to use their knowledge of microbiology and biochemistry for bioprocess design.
+The students will have the ability to:
+1. Understanding enzymatic and microbial process kinetics
+2. Ability to identify and understand the key principles and limitations underlying bioprocess design
+Basics of Biochemical Engineering: Basics of reactions and thermodynamics (5 lectures); Isolation, screening and
+maintenance of industrially important microbes; strain improvement (3 lectures)
+Stoichiometry, bacterial energetics and Microbial growth kinetics: substrate partitioning and cellular yield, energy
+reactions, overall reactions for biological growth (5 lectures), Microbial growth, Basic rate expressions, mass
+balances, Nutrient and electron acceptors (3 lectures).
+Bioreactors: Introduction to bioreactors (2 lectures), Batch and Fed-batch bioreactors, Continuous bioreactors,
+plug flow reactors (5 lectures) and control of bioprocess parameters (2 lectures).
+Fermentation  economics:    Various  types  of  dimensionless  analysis  in  mass  transfer;  heat  transfer  and
+momentum transfer (5 lectures); Importance of dimensionless number in designing the bioreactors, and scale
+up (3 lectures)
+Industrial  Processes  and  Process  economics:  Process  technology  for  the  production  of  primary  metabolites  (4
+lectures), Discussion on the national and international scenario of the products (2 lectures).
+Applications of biotechnology in production of biological: Microbial production of useful metabolites (3 lectures)
+1. M. Shuler, F. Kargi, Bioprocess Engineering: Basic Concepts, Prentice Hall, Englewood, Cliff (2002), 2nd
+2. P. F. Stanbury, A. Whitaker, Principles of Fermentation Technology.  Oxford: Pergamon (1997), third
+3. P. Doran, Bioprocess engineering principles, Academic Press (1995), 1st edition.
+1.  R. G. Harrison, P.  Todd, S. R. Rudge, D. P. Petrides, Bioseparations  Science and Engineering. Oxford
+University Press (2015) 2nd Edition.
+2.  C. Ratledge, B. Kristiansen, Basic Biotechnology, Cambridge University Press (2001),  2nd edition.
+3.  W. Crueger and A. Cruger, Biotechnology: A text book of Industrial Microbiology, Panima publishing
+Corporation, Delhi (2004), 2nd edition.
+Kristala Jones Prather. 10.442 Biochemical Engineering. Spring 2005. Massachusetts Institute of Technology:
+MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Mathematical  modelling  of
+Bioscience and Bioengineering
+The main objective of the course is to introduce students to various aspects of mathematical modelling in the
+particular context of microbial systems.
+Students will have a knowledge of important concepts related to the mathematical modelling of microbial
+systems,  and  will  be  able  to  apply  them  to  model  the  behaviour  of  biological  systems  as  well  as  develop
+strategies for manipulating them.
+Introduction,  Growth  of  microbial  populations,  Volume  and  macromolecular  content  of  cells  (4  lectures),
+Biochemical  reactions  underlying  microbial  growth  (2  lectures),  Growth  in  a  changing  environment,
+Connecting  metabolism  and  growth:  flux  balance  analysis  (4  lectures),  Connecting  gene  expression,
+metabolism and growth: coarse-grained whole-cell models (4 lectures)
+Modelling microbial growth, Simulation with CellDesigner, Flux balance analysis
+E. Voit, A First Course in Systems Biology. Garland Science (2012), First edition.
+1. E. Klipp, Systems biology : a textbook. Wiley (2009), First edition.
+2. MEJ Newman, Networks : an introduction. Oxford Univ. Press (2011), First edition.
+Bioscience and Bioengineering
+The Instructor will:
+1. Provide deep insight on fundamental concepts and advances in microbial nanotechnology.
+2. Provide overview on the mechanistic understanding on how nanomaterials interact with microbes.
+The students will have the ability to:
+1. Design a greener and eco-friendly synthetic strategy to prepare nanomaterials in bulk scale.
+2. Compare their intrinsic antimicrobial activities of different nanomaterials.
+3. Design a nanomaterial with a specific size and shape for a particular application.
+Fractal 1. Microbial Synthesis of Nanoparticles [14 Lectures]: Biosynthesis of plasmonic nanoparticles by microbes
+and their mechanism (5 lectures), biosynthesis of magnetic nanoparticles by microbes and their mechanism
+(5 lectures), physico-chemical characterization of nanomaterials (4 lectures).
+Fractal  2.  Interactions  of  Microbes  with  Nanomaterials  [14  Lectures]:  Nanomaterial–microbe  cross-talk:
+physicochemical  principles  and  biological  consequences  (5
+nanotechnology (4 lectures), and antimicrobial properties of nanomaterials (5 lectures).
+lectures),  role  of  bacteriophages
+Fractal  3.  Microbial  Nanovesicles  and  Viral  Nanoparticles  [14  Lectures]:  Magnetosomes  (3  lectures),  bacterial
+membrane  vesicles(3  lectures),  applications  in  vaccines  and  immunotherapeutics  (2  lectures),  Engineered
+nanoparticles from viruses (3 lectures), case studies on applications of viral nanoparticles in biomedicine (3
+1. R. Prasad, B. Siddhardha, M. Dyavaiah, Nanostructures for Antimicrobial and Antibiofilm Applications
+(Nanotechnology in the Life Sciences), Springer (2020), First edition.
+2. N. Cioffi, M. Rai, Nano-Antimicrobials: Progress and Prospects, Springer (2012), First edition.
+1. R. Prasad, Microbial Nanobionics: Volume 1, State-of-the-Art (Nanotechnology in the Life Sciences) (2019),
+Springer, ISBN-10: 3030163822.
+2. R. Prasad, Microbial Nanobionics: Volume 2, Basic Research and Applications (Nanotechnology in the Life
+Sciences) (2019), Springer, ISBN-10: 3030165337.
+Biofilms: Bacterial communities  Course No.
+Biosciences & Bioengineering
+1.  Introduce students to the concept of social living and community formation in bacteria.
+2.  To enable students understand role of biofilms in healthcare and environment.
+Students will be able to appreciate the importance of biofilm formation with respect to their beneficial
+and detrimental roles.
+Biofilm formation [14 Lectures]:
+Introduction and significance [5 Lectures]: Composition of biofilm matrix, Structure and function of matrix, Factors
+contributing to biofilm formation (intrinsic and extrinsic)
+Biofilm life cycle [5 Lectures]: Stages of Biofilm Development, Physiology of biofilms, Viability, metabolism, social
+Biofilm evolution [4 Lectures]: Population distribution with the matrix (active and persister cells), multispecies
+biofilm, Evolutionary significance of biofilms
+Occurrence and Relevance of Biofilms [14 Lectures] :
+Environmental  Biofilms  [5  Lectures]:  types  of  biofilms,  bacterial  species  contribution,  multi-species  biofilm,
+biofouling, corrosion, plant root nodule interactions, sulfur cycle.
+Clinical  Biofilms  [5  Lectures]:  opportunistic  infections,  hospital  acquired  infections,  antibiotic  resistance,  gene
+transfer through biofilm community.
+Methods  to  study  biofilms  [4  Lectures]:  microscopy  (confocal),  staining  (congo  red  and  crystal  voilet),
+quantification of biofilm biomass
+Biofilms in engineering systems [14 Lectures]:
+Biofilms  in  treatment  of  waste  water  treatment,  biofiltration,  bioremediation,  decomposition  [5 Lectures],
+Implications  food  and  agriculture  industry,  as  metabolizers  [4  Lectures],  generation  of  electric  signals,
+biocatalysis, microbial fuel cells [5 Lectures]
+1. L. F. Melo, T. R. Bott, M. Fletcher and B. Capdeville. Biofilm-Science and Technology. Springer (1992), First
+2. M. Ghannoum, G. A. Toole, Microbial Biofilms. ASM Press (2013), First edition
+Metabolic Engineering for biofuels
+Bioscience and Bioengineering
+The instructor will Introduce basic concepts in metabolic engineering and explores modern approaches in
+metabolic and strain engineering.
+The students will have an ability to:
+1.  understand microbial metabolism and describe the major metabolic pathways
+2.  Use stoichiometric models to assess metabolic pathways and adopt appropriate genetic engineering
+3. Apply genome-scale models to depict metabolic designs that improve flux towards biofuel production.
+Introduction  to  metabolic  engineering:  Microbial  physiology  and  metabolism,  Enzyme  &  growth  Kinetics  (5
+Modelling and Flux balance analysis: Modelling kinetics, methods to measure fluxes, metabolic flux analysis,
+flux balance analysis (5 lectures)
+Synthetic Biology for biofuels: Reading writing DNA, Assembling and sequencing DNA (5 lectures)
+Design: Design Transcription, translation, post translation and design pathways  (5 lectures)
+Genome engineering for biofuels: Genome engineering tools  (4 lectures)
+Case studies on biofuel production optimization (4 lectures)
+G. N. Stephanopoulos, A. A.  Aristidou, J. Nielsen, Metabolic engineering: Principles and methodologies. 1st
+ed. San Diego: Academic Press (1998), 1st edition.
+1. C. S. Smolke, Metabolic pathway engineering handbook: Fundamentals. New York: CRC Press. (2010) 1st
+2. C. S. Smolke, Metabolic pathway engineering handbook: Tools and applications. 1st ed. New York: CRC
+Press (2010). 1st edition.
+Soil Microbiome & Microbial Technology   Number
+Bioscience and Bioengineering
+The instructor will Introduce soil microbiology and soil microbiome in connection with agricultural
+productivity and crop nutrient content.
+The students will have an ability to:
+1.  depict the desirable soil microbiome
+2.  Understand pant microbe interaction and its effect on crop productivity and it nutrient content.
+3. Engineer microbes for enhancing crop productivity.
+Introduction:  Microbiomes  of  soil,  plant  and  animal  the  good  and  the  bad  soil  microbiome,  Analytical
+approaches for microbiome research (5 lectures)
+Soil Microbiome and plant growth connection: Microbiome of soil, factors that shape the host microbiome    (5
+Ecological  connection:  Microbial  symbiosis  and  host  nutrition,  the  microbiome  and  host  behaviour,  host
+microbiomes and disease (6 lectures)
+Adapting to environmental change: The changes in microbiomes, impact assessment (4 lectures)
+Engineering  soil  microbiomes:  Microbial  technologies  and  altering  soil  microbiomes  for  improved  crop
+productivity and nutrient production by plants  (5 lectures)
+Synthesis and future directions: Future approach to agricultural sustainability, case studies (4 lectures
+R. Antwis,  X. Harrison, M. Cox, M. (Eds.). (2020). Microbiomes of Soils, Plants and Animals: An Integrated
+Approach (Ecological Reviews). Cambridge: Cambridge University Press. doi:10.1017/9781108654418
+D. R. Montogomery, A. Bikle, The Hidden Half of Nature: The Microbial Roots of Life and Health. W. W.
+Norton & Company (2016), First edition.
+Gut Microbiome in Health & Disease
+Bioscience & Bioengineering
+Basic understanding of Microbiology
+The Instructor will:
+1.  Introduce the microbiome with a special emphasis on the human gut microbiome
+2.  Outline the process of establishment of the gut microbiome and will highlight the functions of a
+3.  Highlight dysbiosis in the gut microbiome associated with certain diseased states and changes in the
+The students will have the ability to:
+1.  Appreciate the importance of the various factors including the diet in shaping the gut microbiome
+2.  Study the gut microbiome using well defined and well thought out experimental strategies
+3.  Understand the metabolic roles of the microbiome and ideate towards development of novel therapies
+that may target the microbiome
+Introducing the Human Microbiome [8 Lectures]: Microbes on & within us, The great plate count anomaly (1
+lecture), The microbiome in early life (3 lectures), Development of the microbiome with age (4 lectures)
+Exploring  the  Human  Gut  Microbiome  [8  Lectures]:  Accessing  the  microbiome  (bacteria,  fungi,  viruses)  (2
+lectures), Culture based & culture independent methods (2 lectures), Sequencing based approaches, Next-
+generation sequencing based approaches (2 lectures), Interpreting microbiome data (2 lectures)
+Functions of the Gut Microbiome [8 Lectures]: Metabolic functions of the microbiome (4 lectures), Microbiome
+in immunity, Infection control by the microbiome (2 lectures), Microbiome in nutrition (2 lectures)
+Factors  impacting  the  Microbiome  [6  Lectures]:  Mode  of  delivery,  Diet  &  nutrition  (2  lectures),  Drugs  &
+antibiotics (1 lecture), Ethnicity & race, Host genetics (2 lectures), Early-life infections, Medical procedures,
+Probiotics, Prebiotics (1 lecture)
+Gut microbiome dysbiosis & Disease [7 Lectures]: Obesity, Type II Diabetes (2 lectures), Cancer, Autoimmune
+disorders (2 lectures), Gut-brain axis (2 lectures), Inflammatory bowel disease (1 lecture)
+Therapies  targeting  the  Microbiome  [3  Lectures]:  Probiotics,  Prebiotics  (1  lecture),  Fecal  microbiota
+transplantation (1 lecture), Targeted depletion, Phage therapy (1 lecture)
+1.  D. Haller, Ed. The Gut Microbiome in Health & Disease, (2018), Springer (2018), 1st Edition.
+2.  L. Pray, L. Pillsbury, E. Tomayko, Workshop Summary: The Human Microbiome, Diet & Health, The
+National Academies Press (2012), First edition.
+Research articles, Case reports & Review articles as provided by the Instructor
+Bioscience and Bioengineering
+BBL4XX0 (Level 400)
+Bioprocess Engineering and Fermentation
+The instructor will provide an insightful overview of the integrative nature of different unit operations used
+for the downstream processing of microbial  product .
+The students will have the ability to:
+1. Appreciate the underlying principles of downstream processing.
+2. Design an effective and economic downstream processing strategy for a particular microbial product.
+Fractal 1. Scope of downstream processing, selection of bio-separation techniques (5 lectures), unit operations
+in  downstream  processing  (4  lectures),  intracellular  vs  extracellular  products,  isolation  of  intracellular
+products , methods of cell disruption (5 lectures)
+Fractal 2: Methods of solid-liquid extraction (2 lectures), centrifugation and filtration (basic principles, design
+characteristics) (5 lectures), reverse osmosis, ultracentrifugation, sedimentation (5 lectures), electrophoresis
+and dialysis (2 lectures).
+Fractal  3:    Evaporation  (2  lectures),  liquid-liquid  extraction,  chromatographic  techniques  (ion  exchange,
+affinity and gel permeation) (5 lectures), spray drying and lyophilization (5 lectures), crystallization in final
+product formulation (2 lectures).
+P. M. Doran, Bioprocess Engineering principles, Academic press (2012), 2nd edition.
+G.  Roger,  G.  Harrison,  W.  Paul,  W.  Todd , S.  R.  Rudge ,P.   Demetri.  Petrides,  Bioseparations  Science  and
+Engineering (Topics in Chemical Engineering),  OUP USA (2015), 2nd edition.
+NPTEL course, Prof. Mukesh Doble, IIT Madras,  https://nptel.ac.in/courses/102/106/102106022/
+Therapeutic Engineering and Drug Discovery
+Specialization Core (8 credits)
+Specialization Elective (12 Credits)
+- Modern approaches of drug designing
+-  Anti-microbial drug and drug resistance (2-0-0)
+-  Anticancer drug discovery and development
+- Introduction to Precision Medicine (3-
+- AI based drug discovery (2-0-0)
+-  Modern approaches for immunotherapy (3-0-0)
+-  Novel Drug Delivery Systems (3-0-0)
+-  Theranostic Systems (3-0-0)
+-  Industry collaborated project
+4 credit (0-0-6) x 1
+Modern approaches of drug designing
+Bioscience and Bioengineering
+Biophysics and Structural Biology (PC)
+BBL4XX0 (Level 400)
+The instructor will provide:
+1. In-depth understanding of the modern approaches involved in drug designing and drug screening.
+2. Introductory idea of the drug targets and their identification.
+3. Detailed understanding of work flow of modern drug designing.
+The students will have the ability to:
+1. Conceptualize the basic principles of state of the art techniques used in drug designing and screening
+2. Understand the basic principles of modern day drug designing steps.
+3. Conceptualize the basic principles and applications of modern day drug designing approaches to meet
+up the demands of pharmaceutical industries.
+Introduction to Drugs, Drug Discovery and Drug targets [9 Lectures]: Definition of drugs; criteria of a good drug;
+historical perspective of drug designing approaches; brief outline of modern day drug designing approaches
+(4 Lectures); Drug targets and Drug target hot spots (5 Lectures).
+Rational drug designing approaches and techniques [18 Lectures]: in silico based approaches to identify drug target
+hotspots (homology modelling, virtual screening, molecular dynamic simulation) (5 Lectures).  Biochemical
+and  Biophysical  principles  to  develop  drug  screening  assays  (4+4  Lectures);  Single  molecule  based  high
+throughput methods of drug screening (5 Lectures)
+Ligand based drug designing approaches [10 Lectures]: Identification of molecular scaffold and pharmacophore
+mapping; pharmacophore screening (3 Lectures); pharmacophore modification and combinatorial chemistry
+(3 Lectures); lead optimization (2 Lectures)
+Validation of therapeutic leads [5 Lectures]: Preclinical pharmacology and toxicology analysis of top therapeutic
+leads (ADMET analysis); drug testing (brief idea of different phases of clinical trial).
+1.  K. Stromgaard, P. K. Larsen, U. Madsen, Drug design and discovery, Taylor and Francis (2016), 5th edition.
+2.  D. Ekinci. Medicinal Chemistry and Drug design, Intechopen (2012), First edition.
+Introduction to Precision medicine
+Bioscience & Bioengineering
+The Instructor will:
+Provide an introduction to precision medicine
+The students are expected to have the ability to:
+Understand fundamentals of techniques to create and analyse effective methods for precision medicine
+Introduction  to  Precision  Medicine[8Lectures]:  fundamentals  of  genetics  as  these  apply  to  personalized
+medicine  (DNA  structure;  RNA;  protein  structures;  function  of  DNA;  coding;  DNA  variations;  types  of
+Ethical Aspects of Precision Medicine [5 Lectures]: Privacy, Informed consent and social justice, case studies.
+Studying Genetic Variation [5 Lectures]: how we study genetic variation in families and populations. Family
+history and inheritance patterns, ancestry, and linkage. Contemporary techniques and technologies [8 Lectures]:
+Technologies used to study genetic variation, including genome-wide association and sequencing.
+Case  studies  in  Precision  Medicine  I  [8  Lectures]:  specific  cases  in  personalized  medicine.  Familial
+hypercholesterolemia: how we use genomic medicine to move from a rare disease to a common medication,
+using genomics to find new drug targets, and a discussion of the side effects of statin therapy.
+Case  studies  in  Precision  Medicine  II  [8  Lectures]:  Other  case  studies  will  include:  cystic  fibrosis,  Marfan
+syndrome, heart failure, neuropsychiatric diseases, cancer and diabetes.
+1. H. P. Deigner, M. Kohl, Precision Medicine Tools and Quantitative Approaches, 1st Edition, Academic
+2. R.A. Goldsby, J. K. Thomas and A. Barbara, K. Osborne., Kuby Immunology, Freeman,2002, 6th Edition
+1. K. Murphy, P. Travers, M. Walport, M. Janeway, C. Janeway’s Immunobiology. New York: Garland
+Science (2011), 8th edition.
+2. M. T. Madigan, J. M. Martinko, J.M. Brock, Biology of Microorganisms, Prentice-Hall, Inc., (2006), 11th
+Online Course Material
+1. NPTEL Video Lectures on Human Molecular Genetics by Prof S Ganesh,  Indian Institute of Technology
+2. NPTEL Video Lectures on  Essentials in Immunology by Prof. R. Manjunath, Prof. Dipankar Nandi ,
+Prof. Anjali Karande, Indian Institute of Science Bangalore  (http://nptel.ac.in/courses/104108055/)
+3. NPTEL Video Lectures on  Cellular and Molecular Immunology by Prof. Sachin Kumar, Indian Institute
+of Technology Guwahati  (http://nptel.ac.in/courses/102103038/)
+AI based drug discovery
+Bioscience & Bioengineering
+This course will involve a deep dive into recent advances in AI in healthcare, focusing in particular on deep
+learning approaches for drug discovery problems.
+The students are expected to:
+1.  Understand various methods for representation of a molecule, molecular descriptors, structure
+2.  Select/Develop an appropriate DL/ML techniques to perform a particular drug discovery related
+Fractal  1  [14  lectures]:    Introduction,  Chemical  formats:  Key  features  of  SDL,  MDL  and  PDB  files,  SMILES
+systems (4 lectures), Morgan algorithm for consistent labelling and structural ordering, Canonical Smile, CML
+file,  Conversion  of  file  formats  (4  lectures),  Molecular  descriptor  (0-4D  descriptors),  molecular  interaction
+field (MIF) (2 lectures) and comparative molecular field analysis (CoMFA) (1 lecture), molecular fingerprints
+(path based and sub structure), descriptor to data matrix conversion.(3 lectures)
+Fractal 2 [14 lectures]:  Identification of relevant molecular descriptors using feature selection techniques and
+deep learning (3 lectures), application of supervised learning and deep learning for predictive modelling of
+QSAR  (3  lectures),  ligand  based  virtual  screening  (1  lecture),  ADME  and  drug  sensitivity  prediction  (2
+lectures), unsupervised learning for denovo drug molecule design, drug repurposing, and meta data based
+analysis of target-disease-drug association. (5 lectures)
+1.  N. Brown, Artificial Intelligence in Drug Discovery, Royal Society of Chemistry (2020), 1st edition.
+2.  M.  Chang,  Artificial  Intelligence  for  Drug  Development,  Precision  Medicine,  and  Healthcare,  Taylor  &
+Francis Group (2020), 1st edition.
+1.  A.R R. Leach, Molecular Modelling: Principles and Applications, Prentice Hall, (2001), 2nd edition.
+2.  B.  Ramsundar,  P.  Eastman,  P.  Walters,  V.  Pande,  Deep  Learning  for  the  Life  Sciences:  Applying  Deep
+Learning to Genomics, Microscopy, Drug Discovery, and More, "O'Reilly Media, Inc. (2019), 1st edition.
+1. AI in Drug Discovery Decision Support, IBM Watson Health,
+2. Deep Learning for Drug Discovery, BayesGroup.ru, https://www.youtube.com/watch?v=Xf2uI4S9IMo
+Anti-microbial drugs and drug resistance
+Bioscience & Bioengineering
+Basic understanding of Microbiology
+The Instructor will:
+1.  Outline how antimicrobials work against microbes and how microbes are evolving resistance against
+these life-saving drugs
+2.  Highlight the key drivers of antimicrobial resistance (AMR) and describe what can be done to curb
+3.  Discuss key problems in solving the AMR problem
+The students will have the ability to:
+1.  Appreciate the importance of correct use of current antibiotics
+2.  Identify potential targets in microbes for development of new antimicrobials
+3.  Ideate about solving problems associated with AMR emergence and tackling AMR
+Antimicrobials  [7  Lectures]:  Classes  of  antimicrobials,  Mechanism  of  actions  of  antimicrobials  (2  lectures),
+Cellular targets of antimicrobials (2 lectures), Correct use of antimicrobials (1 lecture), Laboratory testing
+for antibiotic susceptibility (2 lectures)
+Resistance  to  Antimicrobials  [7  Lectures]:  General  mechanisms  of  resistance  to  antimicrobials  (3  lectures),
+Evolution of antimicrobial resistance (1 lecture), Genetics of antimicrobial resistance (1 lectures), Molecular
+testing for antibiotic resistance (1 lecture), Transmission of antimicrobial resistance (1 lecture)
+Drivers of Antimicrobial Resistance [4 Lectures]: Inappropriate usage of antimicrobials (1 lecture), Industrial
+use of antimicrobials (2 lectures), Persistence as a driver of antimicrobial resistance (1 lecture)
+Tackling Antimicrobial Resistance [10 Lectures]: Case studies on clinical impact of antimicrobial resistance (2
+lectures),  Development  of  new  antimicrobials,  Finding  novel  drug  targets  in  drug  resistant  bacteria  (2
+lectures), Drug repurposing (1 lecture), Antimicrobial stewardship & responsible use of antimicrobials (1
+lecture),  Alternative  therapies  for  drug  resistant  infections  (2  lectures),  Tracking  drug  resistant  bacteria:
+Molecular epidemiology (2 lectures)
+1.  J. M. Willey, L. M. Sherwood, C. J. Woolverton, C. J., Prescott’s Microbiology, McGraw Hill (2013), 9th
+2.  M. T. Madigan, K. S. Bender, D. H. Buckley, W. M. Sattley, D. A. Stahl, Brock Biology of Microorganisms,
+Pearson (2018), 15th edition.
+Research articles, Case reports & Review articles as provided by the Instructor
+Anticancer Drug Discovery and Development
+Bioscience & Bioengineering
+B. Tech. Program 4th Year
+BBL4XX0 (Level 400)
+The Instructor will:
+1.  Provide the insights of the molecular mechanism of carcinogenesis.
+2.  Provide  the  knowledge  of  anticancer  drug  discovery,  mechanism  of  cancer  drug  resistance  and
+upcoming anticancer therapeutics.
+The students are expected to have the ability to:
+1.   Understand the molecular mechanism of carcinogenesis and cellular factors regulating carcinogenesis.
+2.   Understand  the  mode  of  action  of  common  anticancer  drugs,  molecular  mechanism  of  cancer  drug
+3.   Adopt the importance of upcoming therapeutic strategies to combat cancer.
+(5  Lectures);  Retrotransposones  and  carcinogenesis
+Carcinogenesis:  (14  lectures)  Molecular  mechanism  of  carcinogenesis,  Genetic  and  Epigenetic  factors
+Carcinogenesis  associated  phenomena  (Alteration  of  kinase  activities,  Protein  turnover  kinetics,  tissue
+invasion and angiogenesis) (5 Lectures).
+Target  identification  and  anticancer  drug  discovery:  (14  lectures)  Brief  history  of  Cancer  chemotherapy  (2
+Lectures); Biomarkers, Cancer specific validation and use of biomarkers for anticancer drug discovery (4
+Lectures),  Example  of  drug  targets  for  cancer  chemotherapy  [Cell  cycle  checkpoint  proteins  and  their
+regulators  (2  Lectures);  Tumor  suppressors  (2  Lectures);  Cellular  Growth  factors  (2  Lectures)  Protein
+turnover enzymes (2 Lectures)]
+Anticancer therapies: (14 lectures) Strategies to develop anticancer drugs (small molecule and peptide based)
+(5  Lectures);  Mode  of  action  of  common  anticancer  drugs  and  Cancer  drug  resistance  (5  Lectures);
+Therapeutic antibodies as anticancer drugs (2 Lectures), AON and RNAi based anticancer therapies, Gene
+editing as cancer therapy (2 Lectures).
+1. B. C. Baguley, and D. J. Kerr, Anticancer Drug Development , (2001), Elsevier (2001), First edition.
+2. L. Wolfgang, Principles of Cancer Treatment and Anticancer Drug Development, (2019), Springer (2019),
+M. S. Chorghade, Drug Discovery and Development, Volume 1, Wiley (2006).
+Online Course Material
+the  war  on
+the  war  on
+3.  Discovery of biomarkers predictive of anticancer drug response in preclinical settings by Dr. Benjamin
+Haibe Kains, University of Toronto, Canda. (https://www.youtube.com/watch?v=KtR3Ufnn09o)
+Modern approaches for
+Bioscience and Bioengineering
+BBL4XX0 (Level 400)
+The human immune system:
+mechanisms to detect, defend and
+The instructor will:
+Provide an insight about the potential of  the component of immune systems as therapeutics
+1. Student will be able to understand the possible consequences of using different component of immune
+systems as therapeutics.
+2. Students will be able to design an immunotherapeutics
+Fractal 1 [14 lectures]: Principle and scope of immune-therapeutics, classification of immune-therapeutics
+(4  lectures),  immune  modulators  and  immunoadjuvant  (5  lectures),  soluble  cytokine  receptor  and
+recombinant cytokines (5 lectures).
+Fractal  2  [14lecture]:  Human  monoclonal  antibody,  human  hybridoma  and  phage  display  library  (4
+lectures), chimeric, humanized and fully human antibodies (4 lectures), engineered therapeutic antibodies
+(type, synthesis, and mechanism of action) (4 lectures), antibody fragments (2 lectures).
+Fractal 3 [14 lectures]:  Principle of cell based adoptive immune therapy (3 lectures), tetramer technology
+and selection of antigen specific CTL (2 lectures), CAR T cell therapy, NK cell therapy (4 lectures), Dendritic
+cell vaccine, immune-adjuvant therapy, exosome mediated treatment (5 lectures).
+B. T. Smith, Concepts in Immunology and Immunotherapeutics, American society of health-system
+pharmacists (2008) , 4th Edition.
+P. A. Ascierto , D. F. Stroncek , E. Wang, Developments in T Cell Based Cancer Immunotherapies,
+Humana (2015), 1st edition.
+1. MITOpenCourseware, https://ocw.mit.edu/courses/biology/7-012-introduction-to-biology-fall-
+2. MITOpenCourseware, https://ocw.mit.edu/courses/biology/7-341-of-mice-and-men-humanized-
+Novel Drug Delivery Systems
+Bioscience and Bioengineering
+The Instructor will:
+1. Provide deep insight on different strategies in designing a drug delivery system to overcome potential
+2. Provide conceptual basis to integrate different drug delivery systems with modern electronic platforms
+for remote monitoring and management of patients.
+The students will have the ability to:
+1. Design a drug delivery system for a specific application.
+2. Formulate novel strategies for personalized drug delivery.
+Fractal 1. Sustained and stimuli-responsive drug delivery systems [14 lectures]: particulate and vesicular drug
+delivery systems (5 lectures), hydrogels (2 lectures), pH, temperature, light and magnetic field responsive
+drug delivery systems (5 lectures), iontophoretic drug delivery systems (2 lectures).
+Fractal 2. Site-specific drug delivery [14lectures]: Route of drug administration and its limitations, site-specific
+drug delivery systems (4 lectures), delivery vehicles to cross blood brain barrier (BBB), colon-specific drug
+delivery, ocular drug delivery system (5 lectures), transdermal patches to cross skin barrier, tumor specific
+drug delivery, lung specific drug delivery (5 lectures).
+Fractal 3. State-of-art drug delivery systems [14 Lectures]: IoT and remote controlled drug delivery systems (5
+lectures), biomimetic systems for drug delivery (3 lectures); delivery of cell based therapeutics (3 lectures),
+case studies on state-of-art drug delivery systems (3 lectures).
+1. W. R. Wagner, Biomaterials Science: An Introduction to Materials in Medicine, Academic Press Inc (2020);
+2. R.K. Keservani, A.K. Sharma, Nanoparticulate Drug Delivery Systems, Apple Academic Press (2019), 1st
+Controlled and novel drug delivery, N.K. Jain, 2019, CBN Publishers, 1st edition.
+1. Prof. Rachit Agarwal, IISc Bangalore, https://nptel.ac.in/courses/102/108/102108077/
+2.  MIT  Open  Courseware,  https://ocw.mit.edu/courses/biology/7-341-the-microbiome-and-drug-
+Bioscience and Bioengineering
+The Instructor will:
+1. Provide an insight on the design principles of theranostic systems.
+2. Introduce various techniques for characterizations of theranostic systems.
+3. Decipher the possible mode of application of theranostic systems in diseased conditions.
+The students will have the ability to:
+1. Design and develop a theranostic system for a specific application.
+2. Compare the performance of different theranostic materials on the basis of their physico-chemical and
+Fractal  1.  Introduction  to  theranostic  systems  [14  lectures]:  Key  features  of  theranostic  systems  (1  lectures);
+combinatorial  modalities  of  theranostic  system  (1  lectures);  basic  theranostic  templates:  mesoporous
+materials  (2  lectures),  carbon  nanostructures  (2  lectures),  membrane  vesicles  (2  lectures);  surface
+engineering  of  theranostic  platforms  (2  lectures);  up-  and  down-conversion,  magnetic,  plasmonic  and
+radioactive platforms (4 lectures).
+Fractal 2. Physico-chemical characterization of theranostic systems [14 lectures]: photophysical and photochemical
+properties (3 lectures), magnetic properties (T1 and T2 relaxations) (2 lectures), hyperthermia (4 lectures);
+plasmonic  properties:  localized  surface  plasmon  resonance  (LSPR)  (3  lectures),  quantification  of
+radioactivity (2 lectures).
+Fractal 3. Case studies on theranostic systems [14 lectures]: Case studies on theranostic systems for cancer (5
+lectures),  vascular  and  brain  diseases  (5  lectures);  Case  studies  on  laparoscopy  and  endoscopy-guided
+theranostic systems (4 lectures).
+1. Z. Dai, Advances in Nanotheranostics I: Design and Fabrication of Theranostic Nanoparticles (Springer
+Series in Biomaterials Science and Engineering Book 6) 1st edition (2016) ISBN-10: 978-3-662-48544-6.
+2.  Z.  Dai,  Advances  in  Nanotheranostics  II:  Cancer  Theranostic  Nanomedicine  (Springer  Series  in
+Biomaterials Science and Engineering Book 7) 1st edition (2016) ISBN 978-981-10-0063-8 .
+1. S.T. Selvan, K. Narayanan, Introduction to Nanotheranostics (Springer Briefs  in Applied Sciences and
+Technology) 1st edition (2016) ISBN 978-981-10-1008-8
+2. J. Conde, Handbook of Nanomaterials for Cancer Theranostics, Elsevier, (2018) ISBN: 978-012-81-3339-2.
+Program-linked Science Elective/Open Elective
+Bioscience and Bioengineering
+1. The course provides insights of human nervous systems.
+2. This course offers an introduction to the basic principles of brain functioning.
+The students will have the ability to: Gain experience for the future forefront of their research career and this
+can be applied to fields, where understanding brain response to complex machine sensory information inputs.
+Introduction of Neuroscience [5 Lectures]: Nervous systems: basic structure, development and complexity and
+cellular component of nervous tissue.
+Neuronal  architecture  [5  Lectures]:  structure  and  functional  properties  of  neurons,  types  of  neurons  and
+supporting cells of nervous tissue.
+Neurotransmitters  and  Synaptic  Integration  [5  Lectures]:  Neurotransmitters  signaling,  action  potential
+propagation, synapse and synaptic transmission and electrical or chemical synapses.
+Brief Anatomy of Brain  [5 Lectures]: Brain structure overview, white and gray matter and different sectional
+views of brain.
+Fundamentals of Sensory Systems [5 Lectures]: Sensory systems  principles, sensitization and desensitization of
+sensory receptors and sensory coding.
+Somatosensory  System  [5  Lectures]:  Organization  of  somatosensory  system,  various  receptors  viz
+mechanoreceptors, proprioceptors, nociceptors, thermal receptors and visceral sensations.
+Motor System [5 Lectures]: Neuromuscular junction, primary and secondary motor  cortex and integration of
+sensory signals to motor actions and motor neuron diseases.
+Auditory System [5 Lectures]: Structure of internal ear, temporal responsiveness, ribbon synapse and mapping
+at auditory cortex.
+Visual  System  [5  Lectures]:  Structural  organization  of  visual  pathways;  visual  perception  and  processing,
+photoreceptors and high-level visual processing.
+1. E. R. Kandel., Principles of Neural Science,  Elsevier (2018), 5th Edition.
+2. Zigmond., Fundamental Neuroscience,  Elsevier (2018), 5th Edition.
+Dr. Varadhan SKM, Neuroscience of Human Movement, NPTEL Course Material Department of Biomedical
+Engineering IIT Madras, Link: https://nptel.ac.in/noc/courses/noc18/SEM2/noc18-ge13/

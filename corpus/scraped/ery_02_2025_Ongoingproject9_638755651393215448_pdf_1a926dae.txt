@@ -1,0 +1,53 @@
+Title: Photo-Rechargeable Organo-Halide Perovskite- Transition Metal Dichalcogenide Batteries.
+Funding Agency: Science and Engineering Research Board (SERB)- ECRA (Early Career Research Award)
+Completion Date: Dec 2022
+Project PI: Dr. Shahab Ahmad
+Brief Description: Solar cells are one of the most promising renewable
+energy devices since they convert sunlight directly into electricity.
+However, energy harvested by the solar cells needs to be stored by
+devices such as batteries to power-up the appliance. Both energy
+harvesting, conversion and storage require two different type of
+mechanism and hence technologies. The merger of above two
+functionalities in a single device would significantly improve the
+volumetric performance, will provide more compact energy solutions
+for mobility, standalone electronics, reduced cost of fabrication etc.
+However this is challenging because of material and manufacturing,
+and compatibilities between energy harvesting and storage materials.
+In this project we want to focus on special nanomaterials which are
+capable of harvesting sunlight, like a solar cell and store energy, like a
+Li-ion battery simultaneously, this device is termed as Photo-Battery.
+Title: Sulphur nanoparticles Reinforced Hierarchical Assemblies of Carbon nanotubes for Efficient
+Funding Agency: Department of Science and Technology (DST)
+Completion Date: Nov 2022
+Project PI: Dr. Shahab Ahmad
+Brief Description: Sulphur is one of the most abundant elements in
+earth’s crust, offers a high theoretical capacity of 1672 mAh/g, which is
+several times higher than that of the commercial lithium-ion batteries
+(graphite ~372 mAh/g). The Li-S battery technology have suffered from
+several challenges associated with sulphur cathode such as poor long-
+term performance and low Coulombic efficiency, which may prevent
+their practical applications. These problems are mainly related to poor
+electronic conductivity of solid sulphur species (S, Li2S2, and Li2S),
+significant volumetric changes (∼ 80%) upon the formation of Li2S and
+dissolution of polysulfides into the organic electrolyte, which leads to
+the shuttle effect. To address the above mentioned challenged, we
+propose the use of hierarchical assemblies of carbon nanomaterials
+where sulphur can be reinforced which will help in enhancing the
+conductivity of S electrode to provide smooth transport to the charges
+in Li-S batteries.
+Title: Photo-Rechargeable Perovskite Batteries for Future Mobility.
+Funding Agency: Department of Science and Technology (DST)- UK-India Education Research Initiative
+(UKIERI) International Research Project
+Completion Date: July 2022
+Project PI: Dr. Shahab Ahmad
+Brief Description: The project objective involve the Optical,
+Structural, Optoelectronic and Morphological characterizations
+of thin and thick films of low-dimensional perovskites, as well
+as electrochemical characterizations of perovskites electrodes
+in standard coin-cell configurations. This will help in optimizing
+high quality perovskites for photo-battery applications. Further
+perovskite photo-batteries will be fabricated and their
+electrochemical characterizations will be studied for high
+capacity and high performance photo-batteries to establish the
+relationship between the opto-structural and electrochemical
+properties of these novel nanomaterials.

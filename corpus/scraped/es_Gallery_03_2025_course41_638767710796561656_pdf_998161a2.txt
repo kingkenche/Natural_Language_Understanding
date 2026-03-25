@@ -1,0 +1,71 @@
+Advanced Digital VLSI Circuit Design
+Today state of the art, complex System on a Chip (SoC), are capable  of integrating few billion
+transistors  on  a  substrate  economically.  At  the  same  time,  such  circuits  are  produced  in  the
+fabrication plants that requires billions of dollars of investment. Therefore, circuit designers and
+architects must be aware of circuit as well as manufacturing challenges associated with it in order
+to design SoCs economically. In this course, the attendees will be exposed to advanced digital
+The primary objectives of the course are as follows:
+This  is  an  advanced  digital  VLSI  circuit  design  course  that  builds  on  a  basic
+understanding of MOS transistor. Students will be exposed to the state on the subject
+Providing students hand-on training and skills to design and simulate circuits in labs.
+  March 7-18, 2016.
+  Number  of  participants  for  the  course  will  be  limited  to  30.
+Shortlisted  candidate  would be notified  via  email  through  GIAN
+  Accommodations  are  available  on  first-come  first-serve  basis
+o  you are a graduate student or an engineer interested in gaining
+an understanding of the VLSI circuit design.
+o  you are  a  researcher  interested  in  developing skills  to  design
+and simulate circuits in lab.
+o  you are  a research  scientist or a young faculty interested  in
+applying your circuit design concepts to produce them
+The participation fees# for taking the course is as follows:
+  Participants from Abroad: USD 200
+  Academic Institutions: INR 2000/-
+Industry/Research organization: INR 5,000 /-
+The  above  fee  include  all  instructional  materials,  computer  use  for
+tutorials  and  assignments,  laboratory  equipment  usage  charges,  24  hr
+free internet facility.
+# The participation fee is in addition to the registration fee that is to be paid on the GIAN
+Professor  Manoj  Sachdev
+the  Electrical  and
+Computer Engineering department, at
+the  University  of  Waterloo,  Canada.
+His  research  interests  include  low
+power  and  high  performance  digital
+circuit  design,  mixed-signal  circuit
+design, test and manufacturing issues
+of integrated circuits. He has contributed to five books, two book
+chapters, and has co-authored 200 technical articles in conferences
+and journals. He holds more than 30 granted and several pending
+US patents on various aspects of VLSI circuit design, reliability, and
+test, and has been consultant to several semiconductor companies.
+He,  his  students,  and  his  colleagues  have  received  several
+international  awards.  In  1997,  at  the  IEEE  European  Design  and
+Test  Conference,  he  received  the  best  paper  award.  In  1998,  he
+was a co-recipient of the honorable mentioned award in the IEEE
+International Test Conference. He received the best panel award in
+2004 IEEE VLSI Test Symposium. In 2011, he was a co-recipient of
+the best paper award in IEEE International Symposium on Quality
+Electronics  Design;  In  2015,  he  was  a  co-receipient  of  the  best
+poster paper award in IEEE Custom Integrated Circuits Conference.
+Professor  Sachdev  is  an  IEEE  Fellow,  and  Fellow  of  Engineering
+Institute  of  Canada;  and  has  served  on  several  conference
+committees. In 1999, he  was the Technical Program Co-Chair for
+IEEE Mixed-signal Test Workshop. He also served as the Technical
+Program Chair from IEEE IDDQ Test Workshop in 1999, and 2000.
+In  2007-08,  he  was  an  Associate  Editor  for  IEEE  Transactions  on
+Vehicular Technology. In 2008 and 2009, he was the Program Chair
+for  Microsystems  and  Nanoelectronics  Research  Conference,
+Ottawa, Canada. He serves on the editorial board of the Journal of
+Electronic  Testing:    Theory  and  Applications.  He  is  a  program
+committee  member  of
+Dr. Sachdev received his B.E. degree (with Honors) in Electronics
+and  Communication  Engineering  from  University  of  Roorkee
+(India),  and  Ph.D.  from  Brunel  University  (UK).  He  was  with
+Semiconductor Complex Limited, Chandigarh (India) from 1984 till
+1989 where he designed CMOS Integrated Circuits. From 1989 till
+1992,  he  worked  in  the  ASIC  division  of  SGS-Thomson  at  Agrate
+(Italy). In 1992, he joined Philips Research Laboratories, Eindhoven
+(The Netherlands), where he researched on various aspects of VLSI
+testing and manufacturing.
+Dr. Suresh Gundapaneni

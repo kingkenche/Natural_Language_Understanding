@@ -1,0 +1,69 @@
+Packaging Tools | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+Semi-Automatic Wire Bonder
+Wafer Dicing Tool
+Semi-Automatic Wire Bonder
+NAME OF INSTRUMENT: SEMI-AUTOMATIC WIRE BONDER
+COMPANY: HYBOND (USA)
+MODEL: HYBOND 626
+APPLICATIONS: Wire bonding of sensors, and semiconductor devices on a chip for electrical connections. It enables precise placement and bonding of wires, ensuring low resistance, high reliability, and consistent performance.
+Ultrasonic (U/S) System
+PLL self-tuning 62.5 KHz (nominal), ±2.5 KHz
+U/S Power Range
+0–0.2 W (low), 0–2 W (high)
+Bond Time Range
+0 ms to 900 ms
+Bond Force Range
+12 g to 250 g
+Temperature Control Range
+Ambient to 250 °C
+Bondable Wire Diameters
+Ball: 0.7–3.0 mil (18–76 µm); Wedge/Peg: 0.5–3.0 mil (12.7–76 µm)
+Bondable Ribbon Dimensions
+Up to 1 × 20 mil (25.4 × 510 µm) in Wedge or Peg mode
+Bondable Wire/Ribbon Materials
+Ball: Gold, Platinum
+Wedge: Gold, Aluminum, Copper, Silver, Platinum
+Bond Head Movement/Reach
+Motorized (servo); switch- or foot-controlled; horizontal reach: 6.5 in (165 mm)
+Bond Actuation/Bond Height Detect
+Sensor at bond surface contact
+Z Travel / Vertical Bonding Window
+0.750 in (19.0 mm) / 0.740 in (18.7 mm)
+4:1 manual manipulator (standard)
+Input Power Requirements
+90–260 VAC, 50/60 Hz, 10 A max
+Minimum Bench Space Required
+Width: 25 in, Depth: 30 in (63.5 × 76.2 cm)
+Unit Weight / Shipping Weight
+70 lbs (31.8 kg) / 150 lbs (68.2 kg)
+20 inHg minimum (only needed if using vacuum work stage)
+Wafer Dicing Tool
+NAME OF INSTRUMENT: DAD 323 WAFER DICING TOOL
+COMPANY: DISCO CORPORATION (JAPAN)
+APPLICATIONS: Fully automated precisions saws cut the wafer. The device can be used for processing substrates such as silicon, glass, ceramic, SiC and other structures up to 6 inches in size.
+Max. workpiece size
+Φ6 inch / 150 mm × 150 mm (user-specified specification)
+X-axis Cutting range
+X-axis Cutting speed
+0.1 – 800
+Y-axis Cutting range
+Y-axis Index step
+Y-axis Index positioning accuracy
+0.005/160 (Single error), 0.003/5
+Z-axis Max. stroke
+32.2 (Φ2 inch blades)
+Z-axis Moving resolution
+Z-axis Repeatability accuracy
+θ-axis Max. rotating angle
+2.0 at 40,000 min⁻¹
+Spindle Rated torque
+Spindle Revolution speed range
+3,000 – 40,000
+Machine dimensions (W × D × H)
+490 × 870 × 1,600
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 29 Dec 2025 - 03:13 PM

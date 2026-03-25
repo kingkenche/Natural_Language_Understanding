@@ -1,0 +1,31 @@
+FTIR Spectrometer | Central Research Facility (CRF) | IIT Jodhpur
+MAKE: Thermo Fisher
+MODEL: Nicolet Summit X
+FT-IR System: Fully automatic .
+Spectral range: Up to 6000 cm-1 or better with Diamond ATR
+Spectral Resolution: 2 cm-1
+ATR System: Diamond ATR
+Beam Splitter: KBr
+IR-Source: Central Glow Technology/Laser source
+Analyzes water, and soil samples to identify pollutants
+Assists in studying molecular structures and chemical bonding during product development
+Detects unwanted substances or impurities in samples.
+Helps identify and confirm the chemical composition of solids, liquids,
+Ensures the consistency and purity of raw materials and finished products in manufacturing proce sses.
+Nature of sample to be Analyzed: Solid, Thin film and Liquid
+The data will be updated soon once it is received from the CRF Center.
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone: 0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone: 0291 280 1347
+Name: lalit Mohan
+Designation: Junior Assistant
+Phone: 0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

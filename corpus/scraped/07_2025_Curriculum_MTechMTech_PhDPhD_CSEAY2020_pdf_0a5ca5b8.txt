@@ -1,0 +1,41 @@
+Indian Institute of Technology Jodhpur
+Dual degree M.Tech. (CSE) + PhD
+offered by the
+Department of Computer Science and Engineering
+M.Tech and M.Tech-Ph.D dual degree programs
+in Computer Science and Engineering
+Traditionally Computer Science and Engineering (CSE) teaching were focusing on two major areas,
+i.e., theories and systems (database, computer hardware, and operating systems). With the advent of
+the era of Cloud Computing, Edge Computing, AI and Big Data, the discipline is being transformed
+by incorporation of new emerging technologies. It is becoming an instrumental tool in solving major
+problems faced by modern society such as energy, natural disasters, pollution, and water. Through
+this newly revamped M.Tech and M.Tech-Ph.D dual degree programs in CSE, IIT Jodhpur is making
+a conscious effort to divulge from the traditional path and planning to reposition itself to become a
+leading institute in this new genre of Computer Science education.
+This M.Tech and M.Tech-Ph.D dual degree programs in CSE will offer students with deep
+knowledge of core and applied computer science. Through this programme, a student will learn niche
+subject areas which are of paramount importance in the modern big data era, such as Computer
+Systems and Security. This programme is aiming at imparting the necessary breadth and depth to the
+students for pursuing careers in academics as well as in industry. This programme is aiming at
+extending undergraduate computing skills with up-to-date and in-depth expertise in specialized areas
+of Computer Systems and Security.
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1.  Understand fundamental concepts and hands-on knowledge of emerging fields in Computer
+2.  Conceive, Design and Develop state-of-the-art scalable parallel and distributed systems
+3.  Solve Big data problems through the knowledge of advanced data structures, distributed
+algorithmic design, analysis, and applications.
+4.  Design and develop network protocols for Wireless, Sensor, Mobile, and Vehicular networks.
+5.  Ideate, Implement and Integrate cryptographic, fault tolerant algorithms for large scale
+6.  Understand state-of-the-art hardware platforms for running compute intensive distributed
+7.  Ability to understand and apply evolving ethics and privacy laws across various domains and
+8.  Plan and manage technical projects
+1.  Understand the fundamentals of algorithmic complexity, advanced computer architecture,
+advanced network, and security protocols.
+2.  Apply appropriate design principles, framework and protocols to develop dependable
+3.  Demonstrate hands-on knowledge of cutting edge simulation, synthesizing, programming
+4.  Ability to design and develop system architecture for mobile, cloud, fog, and edge
+5.  Demonstrate hands-on knowledge of virtualization, data center design and management, and
+software defined networking.
+6.  Skills to comprehend and communicate effectively.
+7.  Apply appropriate project and business management principles and tools for real-world

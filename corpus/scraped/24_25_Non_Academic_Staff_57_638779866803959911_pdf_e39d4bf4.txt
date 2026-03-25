@@ -1,0 +1,110 @@
+Indian Institute of Technology Jodhpur
+Syllabus for the post of SENIOR TECHNICAL ASSISTANT (Computer Center)
+(WRITTEN TEST & SKILL TEST)
+Understanding and knowledge of Basic Technologies
+Internet and World Wide Web
+-  HTTP Servers
+-  HTTP Sessions
+-  SSL Certificates
+-  HTTP and HTTPS Protocols
+-  Web Browsers
+-  HTTP Error Codes
+-  CSS (Cascading Style Sheets)
+-  Frameworks and Libraries (CMS)
+-  Responsive Web Design
+JavaScript Frameworks and Libraries
+-  Web Performance Optimization
+-  Version Control Systems
+-  Front-End Build Tools and Task Runners
+•  SQL Databases (MySQL, PostgreSQL)
+•  NoSQL Databases (MongoDB, Redis)
+-  Server-Side Frameworks
+•  Spring Boot
+-  Authentication and Authorization
+-  Web Servers:
+•  Apache HTTP Server
+•  Microsoft Internet Information Services (IIS)
+-  Deployment of linux and windows hosting
+•  Web Server Options
+•  Deployment Steps
+•  Database Option
+•  Monitoring and Maintenance
+Python & Shell
+-  Variables and Data Types
+-  Control Flow
+-  Lists and Dictionaries
+-  File Handling
+-  Development Environment
+-  Basic Syntax and Structur
+-  Variables and Data Types
+-  Control Flow Statements
+-  Object-Oriented Programming (OOP) Concepts
+-  Methods and Functions, Exception Handling & Arrays
+-  Basic Syntax
+-  Variables and Data Types
+-  Control Structures
+-  Functions, Arrarys
+-  Forms Handling, File Handling, Error Handling
+-  PHP Frameworks
+Java APIs and Libraries
+•  Laravel, CodeIgniter, etc
+-  On-Page SEO
+•  Content Optimization, Technical SEO, Internal Linking
+-  Off-Page SEO
+•  Link Building, Online Reputation Management
+-  User Experience (UX)
+•  Site Navigation, Bounce Rate, Mobile-Friendliness
+-  SEO Tools and Analytics
+Network and System Administration:
+-  Introduction to the OSI Model
+-  Introduction to IPv4 (Internet Protocol)
+-  IPv4 Packet Header
+-  Address Resolution Protocol (ARP)
+-  Introduction to TCP and UDP
+-  TCP Header
+-  Introduction to ICMP
+-  Introduction to DNS
+-  User mode and Privileged mode
+-  VLANs Basic
+-  How to configure VLANs
+-  Introduction to Wireless Networks
+-  Introduction to Wireless LANs
+-  Wireless LAN 802.11 Service Sets
+-  Introduction to Wireless Security
+-  Wireless Authentication Methods
+-  Wireless Encryption and Integrity
+-  Wi-Fi Protected Access (WPA)
+-  WLC WPA2 PSK Authentication
+-  Introduction to Routers and Routing
+-  Router Basic Configuration
+-  Introduction to Wide Area Networks (WAN)
+-  Introduction to Subnetting
+-  Basics of Binary Numbers
+-  Subnetting in Binary, Decimal (Fast Method)
+-  Classless Inter-Domain Routing (CIDR)
+-  Variable Length Subnet Mask (VLSM)
+-  Route Summarization
+-  Hexadecimal to Binary and Decimal Conversion
+-  Create a Subnetting Cheat Sheet
+-  Understanding Linux
+-  Command Line Interface (CLI)
+-  User and Permissions Management
+-  Package Management
+-  System Monitoring
+-  Understanding Windows Operating System
+-  Graphical User Interface (GUI) and Command Line Interface (CLI)
+-  User and Group Management
+-  File System and Permissions
+-  Roles and Features
+-  Remote Management
+-  MS Office or Other Office suites
+-  Version Control Systems (Ex. Git)
+-  Collaborative Tools (Slack, Overleaf, Microsoft Teams, etc.)
+Support for online
+- Knowledge of online meeting software
+( e.g., Cisco WebEx, Microsoft Teams, Google Meet)
+- Troubleshoot issues related to audio, video, screen sharing, etc.
+-  Understanding and Creating UML/BPMN Documentation
+-  Creating Technical Diagrams: Vector Diagrams such as EPS, SVG
+-  Generate different charts from the data
+-  Creation of Technical Presentations

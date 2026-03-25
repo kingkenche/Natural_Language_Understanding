@@ -1,0 +1,68 @@
+Indian Institute of Technology
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+Non Graded Institute Level Courses
+M.Tech. and Ph.D.
+Systems Engineering and Project Management
+Offered for  M.Tech Program
+L-T-P [C]  1-0-0  [1]
+Systems  Engineering  is  an  interdisciplinary  approach  and  means  to  enable    realization  of
+successful  systems.  It  focuses  on  defining  requirements  and  then  proceeding  with  design
+synthesis and system validation while considering the complete problem including operations,
+performance, test, manufacturing, cost, and schedule.
+This  course  intends  to  help  students  to  develop  the  capability  of  systems  thinking  by
+introducing  basics  of  systems    engineering  theory,  methods,  and  tools  through  lecture  and
+After taking this class, you should be able to:
+  Develop a systems engineering plan for a realistic project.
+Judge the applicability of any proposed process, strategy, or methodology for systems
+  Apply systems engineering tools (e.g., requirements development and management,
+robust design, Design Structure Matrix) to realistic problems.
+  Know how to proactively design for and manage system lifecycle targets.
+  Understanding TRL and MRL concepts
+  Use project management tools
+Introduction - Terminology, Systems Thinking, Today’s Challenges (1 L)
+  Requirements Elicitation,  Documenting System Requirements - Proper Specification
+Language, Depth of Definition (1 L)
+  Requirements Analysis - Context Diagrams, Functional Analysis, State Diagrams (2 L)
+  Requirements Validation - User Feedback Techniques, Requirements Reviews (1 L)
+  System Architecture - Subsystem Definition, Hierarchical Analysis, Design for Reuse,
+Interface Management (2 L)
+  Specialty Engineering - Producibility/Manufacturability, Reliability/Availability,
+Maintainability/Serviceability, Usability/User Interface, Design-to-Cost (2 L)
+  Managing Systems Engineering - Estimating, Planning, Tracking, System Engineering
+Management Plan, Work Breakdown Structure, Technical Reviews (2 L)
+Introduction to the concepts of TRL (Technology Readiness Levels) and
+MRL(Manufacturability Readiness level)  (1 L)
+  Course Project  ( 8 hrs of self-work corresponding to 2 scheduled contact hours)
+o  Application of Systems Engineering Methodology to the Major Project (M.Tech)
+o  Use of Microsoft Project as the software tool for managing their M.Tech project
+Presentation of Systems Engineering Process of the Major Project
+1.  Introduction to Systems Engineering by Ian Faulconbridge, Michael Ryan (Kindle
+Argos Press, 2015.
+2.  Systems Engineering Fundamentals
+Innovation and IP Management
+Management of Innovation and IP
+Offered for  All  M.  Tech  and  PhD  students  <Shall  also  be
+considered for B.Tech Students>
+L-T-P [C]  1–0–0 [1]
+Prerequisite  Not required
+This  course  is  intended  to  familiarise  students  with  basic  concepts  of  IP,  its
+relevance  to  innovations  and  their  effective  exploitation  including  emerging  societal
+The Instructor will:
+1.  Highlight concept of Innovations and processes that leads to innovations.
+2.  Illustrate the significance of  IPR in the context of  Innovations and Demonstrate
+how information in IP data bases are used to enhance quality of innovations.
+3.  Explain  how  IP  can  be  meaningfully  Exploited  in  commerce  and  for  benefit  of
+The students are expected to have the ability to:
+1.  Use IP information as an effective resource for innovation.
+2.  Protecting innovations as IP.
+3.  Design IP strategies for protection of innovations and commercial exploitations.
+Module I: Types of creations and innovations using the mind, Modes of IP protection of
+the output of the Human mind, Such as Patents, Design registrations, Trade Mark,
+Copyright, Trade Secrets, Geographical Indications. (5L)
+Module-2 : Searching IP databases to extract technical information for research.
+Concept of Patentable inventions. Evaluating Inventions for patentability and drafting of
+patent specifications. Procedures for patent applications and their examination.
+Introducing processes for Design registrations, Trade Mark, Copyright, Trade Secrets,
+Geographical Indications. (6L)
+Module-3 : Use of IP in Trade and Commerce. Societal issues. (3L)

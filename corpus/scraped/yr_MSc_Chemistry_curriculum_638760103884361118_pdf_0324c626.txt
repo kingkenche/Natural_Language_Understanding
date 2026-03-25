@@ -1,0 +1,1501 @@
+2 yr M.Sc. Chemistry
+Introduction to the Program
+Chemistry  involves  the  study  of  substances,  their  properties,  structures,
+reactions  and  transformations.  Chemistry  is  interlinked  with  various  scientific
+disciplines and play an important role in our daily life.  It broadly covers various
+areas  including  medicinal  chemistry,  analytical  chemistry,  organometallic
+chemistry,  polymer  chemistry,  quantum  chemistry,  catalysis  and  many  aspects
+of materials science. In the modern society, knowledge of Chemistry is essential
+for  addressing  most  of  the  real-life  challenges  related  to  water,  energy,  food,
+agriculture, security and healthcare.
+Objectives of the Program
+The  major  objective  of  the  program  is  to  bring  out  professionals  having
+fundamental  knowledge,  and  specific  skill  sets  of  various  aspects  of  chemistry
+such  as  Organic  Reactions  and  their  Mechanism,  Main-Group  and  Transition
+Metals,  Organometallics  and  Catalysis,  Physical  and  Spectroscopic  techniques,
+Inorganic  and  Solid  State  Material  synthesis,  Computational  and  Theoretical
+The  department  focuses  on  preparing  future  students  to  take  up  challenges  at
+various levels of academics, R&Ds and industries.
+Expected Graduate Attributes
+Capability  to  appreciate  synthetic  methods  for  development  of  important
+chemical  products  such  as  pharmaceutical  drugs,  paints,  petrochemicals,  food
+additives, plastics etc.
+Ability  to  use  characterization  tools  for  analysing  reactions  and  monitoring
+chemical processes for product development.
+Ability  to  handle  analytical,  spectroscopic,  microscopic  and  other  instrumental
+methods for interdisciplinary research areas.
+(4)  Use  of  computational  tools  to  understand and analyse  chemical  and  biophysical
+processes, molecular structures and advanced materials.
+Ability to comprehend, write and present scientific articles and technical reports.
+(6)  Develop oral and written communication skills.
+Appreciation  and  adherence  to  norms  of  professional  ethics  and  sense  of
+Ability to plan and manage technical research projects and work in a team.
+Program Learning outcome
+Strong  fundamentals  in  theoretical  and  practical  aspects  of  organic,  inorganic
+and physical chemistry.
+(2)  Develop  appreciation  of  hands-on  wet  chemistry,  analytical,  instrumentation,
+and  experimental  data  handling  skills  to  solve  scientific  problems  to  address
+technological challenges in various domains.
+Knowledge of computational and theoretical chemistry.
+Skills for material synthesis and processes for device integration
+(5)  Develop  the  ability  to  exercise  independent  learning,  thinking  and  problem
+(6)  Develop the ability to interact in a cross-cultural environment and acquire time
+and project management skills for carrying out guided research work in any of
+the research area related to science and technology.
+(7)  Develop skills to communicate scientific learning and present ideas.
+Course Curriculum Structure
+MC   CYL6XX0 Organic
+MC   CYL6XX0 Quantum
+MC   CYL6XX0 Physical
+MC   CYL6XX0 Main Group
+Cat.  Course Number,
+MC   CYL6XX0 Organic
+MC   CYL6XX0 Solid State
+and Material Chemistry
+MC   CYL6XX0 Molecular
+MC   CYL6XX0 Theory and
+ME    Program elective-1
+0-0-3-0   1.5     MC   CYP6XX0 Physical
+MC   CYP6XX0 Inorganic
+0-0-3-0   1.5     MC   CYD6XX0 Minor
+MC   CYP6XX0 Hands on -1   0-0-3-0   1.5     MC   CYP6XX0  Hands on-2  0-0-3-
+MO   Open elective-1
+ME   Program Elective-2
+ME   Program Elective-3
+ME   Program Elective-4
+ME   Program Elective-5
+ME   Program Elective-6
+MO  Open Elective -2
+MP   CYD7XX0 Project
+MC  CYQ6XX0 Seminar
+* Open Elective Courses can be taken in the third semester as well
+Total Credits: 77
+Topic Clouds for MSc Chemistry Curriculum
+A.  PHYSICAL CHEMISTRY
+Principles, Exactly solved problems, Approximation
+Methods, Electronic Structure Methods, Group Theory.
+Molecular Thermodynamics, Chemical Kinetics, Catalysis,
+Chemical Reaction Dynamics, Reaction Kinetics of special
+Fundamentals of Spectroscopic techniques and associated
+applications, Principles of NMR, Analytical Methods.
+Electrochemistry   Basics of Electrochemistry, DC and AC techniques,
+Photoelectrochemistry, Redox Reactions, Semiconductor
+Solution interfaces, Electrochemical Sensors, Electro-
+transfer systems, Solar cells, Electrochemical Energy
+Storage Devices, Fuel cell.
+Molecular simulation, Polymer dynamics, Statistical
+mechanics, Stochastic problems in biophysics.
+Hands on and
+Analytical Methods: UV-Vis, Fluorescence, FTIR etc.
+Electroanalytical methods (CV, EIS, GCD,
+Chronopotentiometry, Ampereometric and steady state
+techniques), Surface and Interface Chemistry: contact
+angle, surface tension, surface free energy,
+B.  ORGANIC CHEMISTRY
+Organic Synthesis and
+Organic Reactions Mechanism and
+Rearrangements, Organic methods, Pericyclic
+reactions, Organic Photochemistry, Spectroscopy of
+Organic Compounds, Enolate chemistry, Radical
+Chemistry, catalysis in organic chemistry,
+Microwave Reactions, Heterocyclic Chemistry,
+Asymmetric Synthesis   Basics of Stereochemistry, Stereochemistry of
+Organic Compounds, Enantioselective Synthesis,
+Transition State Models and Reaction Outcome.
+Medicinal Chemistry and
+Fundamentals of Medicinal Chemistry, PK and PD,
+ADME-TOX, Lipinski’s Rule, Basics of Drug
+Discovery, Heterocyclic compounds as leads,
+Retrosynthetic Analysis, Natural Product Isolation,
+Total Synthesis of Natural Products
+Laboratory and Hand-
+Synthesis Protocols, Purification and Distillation
+Techniques,  Chromatography Structural
+Determination of Organic compounds
+C.  INORGANIC CHEMISTRY
+Solid -State Materials
+General consideration of d block elements,
+Coordination complexes: Structure, Bonding and
+Properties, Reaction Mechanism. Molecular Complexes,
+Coordination polymers and their properties.
+Organometallic complexes: synthesis, reactivity and
+Crystal Structures, X-Ray Diffraction Techniques,
+Synthesis and Physical Characterization of Materials,
+Bonding in Solids and properties,  Compound
+semiconductors, molecular magnets and magnetic
+properties, Defects and Non-stoichiometry,
+Nanomaterials with low-dimensional properties.
+Main Group Chemistry
+Basic Concept: Periodic Trends, Atoms, Molecules.
+Structure, Bonding and Reactivity of polyatomic
+molecules. Synthesis and properties of compounds of
+s- and p-block elements.
+Metal ions in biological systems and Medicine, Iron
+storage and Transport, Oxygen transport, Biological
+Redox processes, Metallo-Enzymes.
+Catalysis: Introductory Concept, Homogeneous and
+Heterogeneous Catalysis: Industrially important
+reactions, catalytic concept of energy and
+Environmental Remediation, Soil Chemistry, Water
+Chemistry, Chemical Sensors, Analytical Chemistry
+Laboratory and Hands-
+Synthesis Techniques for complexes and solids,
+Characterization methods, spectroscopic and analytical
+1  Organic Chemistry Core Courses and Laboratory
+1.  Organic Reactions and Mechanism
+2.  Physical organic Chemistry
+3.  Organic Synthesis
+4.  Organic Chemistry Laboratory
+2  Organic Chemistry Elective Courses
+1.  Isolation and Synthesis of Natural Products
+2.  Spectroscopic Determination of Organic Compounds
+3.  Stereochemistry of Organic Compounds
+4.  Frontiers in Organic Chemistry
+5.  Heterocyclic Chemistry
+6.  Polymer Chemistry
+Inorganic Chemistry Core Courses and Laboratory
+1.  Main Group and Bioinorganic Chemistry
+2.  Transition Metal and Organometallic Chemistry
+3.  Solid State and Material Chemistry
+4.  Inorganic Chemistry Laboratory
+Inorganic Chemistry Elective Courses
+1.  Catalysis of Energy
+2.  Nanomaterials and Nanodevices
+3.  Compounds of p-block Elements and Applications
+4.  Advanced Materials Design
+5.  Characterization Techniques in Inorganic Chemistry
+6.  Advanced Catalysis
+7.  Water Chemistry
+8.  Sustainable Catalytic Systems
+9.  Frontiers in Organometallic Catalysis
+5  Physical Chemistry Core Courses and Laboratory
+1.  Quantum Chemistry and Spectroscopy
+2.  Molecular Thermodynamics and Chemical Kinetics
+3.  Theory and Applications of Spectroscopic Techniques
+4.  Physical Chemistry Laboratory
+5.  Computational Chemistry Laboratory
+6  Physical Chemistry Elective Courses
+1.  Numerical Methods and Group Theory
+2.  Chemical Binding
+3.  Principles of Nuclear Magnetic Resonance
+4.  Molecular Dynamics Simulations
+5.  Solid State NMR Methods for Materials
+6.  Group Theory and Molecular Spectroscopy
+7.  Modern Electronic Structure Theory
+8.  Chemical Reaction Dynamics
+9.  Biophysical Techniques: Theory and Applications
+10.Stochastic problems in Biophysics
+12.Statistical Mechanics and Molecular Simulations
+13.Advanced Electrochemistry and Applications
+7  Hands on-1
+Organic Reactions and Mechanisms
+The instructor will:
+1.  To give students a better insight into the mechanism of diverse set of organic reactions
+2.  To broaden their knowledge in fundamental organic chemistry with regard to efficiency
+and selectivity of organic reactions.
+The students are expected to:
+1.  The students are expected to be able to draw mechanisms for complex reactions
+2.  Understand and predict the orbital interactions involved in organic reactions
+Introduction: reaction mechanism and its need, methods of determination of reaction
+mechanism,  concerted  versus  stepwise  processes,  transition  states  and  intermediates,
+early  and  late  transition  states,  crossover  experiments  and  examples,  molecular  orbital
+interaction of common functional groups (7 lectures)
+Acids and bases: the pKa scale and its interpretation, pKa’s of common acids; specific and
+general acid and base catalysis (3 lectures)
+Classification of reactions: introduction to substitution, elimination and addition reactions,
+aromaticity and aromatic substitution reactions (9 lectures)
+Stereochemistry:  basics  of  Stereochemistry,  stereochemistry  of  aliphatic  compounds,
+conformational analysis of acyclic and cyclic compounds, (6 lectures)
+Selectivity: chemoselectivity, regioselctivity, and stereoselectivity (4 lectures)
+Radical  Chemistry:  Basics  of  radicals,  radical  initiators,  radical  halogenation  of  alkanes,
+radical name reactions (6 lectures)
+Rearrangements and migrations: cationic rearrangements, carbanionic rearrangements,
+carbene/carbenoid based rearrangements (7 lectures)
+1.  Sykes,P., (2013), A Guidebook to Mechanism in Organic Chemistry, 6th Edition,
+2.  Clayden,J., Greeves,N., and Warren,S., (2012), Organic Chemistry, 2nd Edition, Oxford
+3.  Carey,F.A., and Sundberg,R.J., (2007) Advanced Organic Chemistry, Part A: Structure
+and Mechanisms, 4th Edition, Plenum
+1. Gossman,R.B., (2008), The Art of Writing Reasonable Organic Reaction Mechanism,
+Self Learning Material
+1.Sunoj,R.B., Organic Reaction Mechanism, NPTEL Course Material, Department of
+Chemistry, Indian Institute of Technology Bombay, http://nptel.ac.in/courses/104101005/
+Physical Organic Chemistry
+The instructor will:
+1.  To provide physical concepts of organic chemistry
+2.  To provide knowledge in pericyclic and photochemical reactions
+The students are expected to:
+1.  Be able to understand the course of organic reactions with regard to physical concepts
+and stereochemical models
+2.  Develop an in-depth knowledge with mechanistic understanding in pericyclic and
+photochemical reactions and apply those in the synthesis of organic compounds
+Introduction: Brief review of basic concepts of inductive effect, Electromeric effect,
+Resonance effect, Hyperconjugation, Captodative Effect (4 lectures)
+Stereoelectronic Effects: Participation of sigma and pi bonds in transition state, Orbital
+symmetry and frontier orbitals, , Hammond’s Postulate, Hammette Plot, Curtin–Hammett
+principle (6 lectures)
+Stereochemical Models: Cram Model, Felkin-Anh Model, Chelation Model, Zimmerman-
+Traxler Model (7 lectures)
+Pericyclic Reactions: Introduction of pericyclic reactions, Classifications, Cycloaddition,
+Electrocyclic, Sigmatropic, Group transfer reactions(15 lectures)
+Photochemistry: Basic principles of photochemistry, Photochemical reaction of cyclic and
+acyclic carbonyl compounds including enones and dienones, photochemistry of alkenes,
+dienes, aromatic compounds (10 lectures)
+1.  Anslyn, E. V. and Dougherty, D. A., (2006),Modern Physical Organic Chemistry,
+University Science Books
+2.  Singh, J. and Singh, J., (2012), Photochemistry and Pericyclic Reactions, 3rd Edition.
+1.  Smith, M. B., (2016), March’s Advanced Organic Chemistry, 7th Edition. Wiley
+2.  Carey, F. A. and Sundberg, R. J., (2007), Advanced Organic Chemistry Part A:
+Structure and Mechanisms, 5th Edition. Springer
+3.  Carey, F. A. and Sundberg, R. J. (2007), Advanced Organic Chemistry Part B: Reactions
+and Synthesis, 5th Edition. Springer
+Self Learning Material
+1.  Singh, N.D. P., Organic Chemistry and Pericyclic Reactions, NPTEL Course material,
+Department of Chemistry, Indian Institute of Technology Kharagpur,
+The instructor will:
+1.  To provide an understanding of diverse chemical reactions and their application in
+2.  To provide knowledge of key aspects of retrosynthesis of simple-to-complex organic
+The students are expected to:
+1.  Acquire the knowledge and skills required to strategize and plan organic synthesis,
+2.  Develop an understanding of total synthesis of organic molecules.
+Introduction: name reactions, functional group interconversions, transition metal
+catalyzed cross-coupling reactions, oxidations and reductions in organic synthesis (25
+Carbon-carbon bond formation: application of carbanions in organic synthesis, alkylation
+of enolates, enamines and hydrazones, alkylation of heteroatom stabilized anions,
+organometallic reagents and their application in synthesis (7 lectures)
+Strategy and design of organic synthesis: scope and brief history of organic synthesis,
+synthetic strategy, concepts of synthetic equivalents and Umpolung, retrosynthetic
+analysis, linear and convergent synthesis, synthesis of 3-membered, 4-membered, 5
+membered and 6-membered ring compounds (10 lectures)
+1.  Warren,S., and Wyatt.P., (2008), Organic Synthesis: The Disconnection Approach, 2nd
+2.  Nicolaou,K.C., Sorensen,E.J., (1996), Classics in Total Synthesis: Targets, Strategies
+and Methods, 1st Edition, Wiley-VCH
+3.  Carey,F.A., Sundberg,R.J., (2007), Advanced Organic Chemistry, Part B: Reactions and
+Synthesis, 5th Edition, Plenum
+1.  Clayden,J., Greeves,N., and Warren,S., (2012) Organic Chemistry, 2nd Ed., Oxford
+2.  Carruthers, W., (1989), Some Modern Methods in Organic Synthesis, Cambridge
+Self Learning Material
+1.  Punniyamurthy,T., Principles of Organic Synthesis, NPTEL Course Material, Department
+of Chemistry, Indian Institute of Technology Guwahati,
+Organic Chemistry Laboratory
+The instructor will:
+1. Give students a practical understanding of the theoretical phenomenons.
+2. Provide an exposure to the laboratory techniques for the purification and isolation of organic
+The students are expected to:
+1. Learn basic experimental techniques in organic chemistry
+2. Be able to carry out simple synthetic organic transformations and isolate the reaction
+Extraction: separation of an acidic, a basic and a neutral substance
+Thin Layer Chromatography (TLC): extraction and TLC of spinach pigments
+Hands on Reactions and Purifications by Column Chromatography: Wittig olefination, Henry
+reaction (Nitro-Aldol reaction), Grignard reaction etc.
+Distillation: Separation of compounds based on boiling point
+Elimination Reaction: Dehydration of methylcyclohexanols to methylcyclohexene
+Cycloaddition: The Diels-Alder reaction of a conjugated diene either in eucalyptus oil or other
+Aromatic Substitution: The Friedel-Crafts acylation of ferrocene
+Functional Group Interconversion: Reduction and oxidation of organic compounds
+Drug Synthesis: Synthesis of Aspirin from Salicylic Acid
+Green Chemistry: A Solvent-Free Aldol Condensation
+1.  Vogel, A. I., Textbook of Practical Organic Chemistry, Pearson
+1.  Ault, A., Techniques and Experiments for Organic Chemistry, University Science Books
+Electives in Organic
+Isolation and Synthesis of Natural Products
+L-T-P [C]  3–0–0 [3]
+The instructor will:
+1. Give students a brief history of natural products, their isolation and synthetic studies.
+2. Students will learn about multiple synthetic approaches to natural products including
+3. Students should understand the complete process of total synthesis of natural products and
+effort required to this end.
+The students are expected to:
+1. Understand advanced retrosynthetic principles (e.g. key disconnection, chiral pool starting
+materials, reactive functional group) and apply in the synthesis including stereochemical
+2. Understand key principles behind enantio- and diastereoselectivity, and develop skills to
+predict and interpret stereochemical outcome of reactions.
+3. Learn method development and their application in the total synthesis of natural products in
+an economical way.
+Introduction: Types of natural products - classification - terpenoids, steroids, alkaloids, natural
+pigments, carbohydrates etc. (3 lectures)
+Isolation: Isolation technique with examples and preliminary identification of natural products.
+Retrosynthesis and synthetic routes: Logical retrosynthetic disconnection, method
+developments and applications in the total synthesis of natural products. (8 lectures)
+Recapitulation of stereochemical concepts: stereoselective and stereospecific reactions,
+prochirality, Chemo-, regio-, diastereo- and enantio-controlled approaches; chirality transfer,
+asymmetric inductions; chiral pools, chiral auxiliaries, chiral catalysts. (6 lectures)
+Terpenoids : Classification, structure, chemistry and biogenesis; Steroids : Sterols and bile
+acids, estrogens, androgens, gestogens and adrenocortical hormones; Alkaloids (5 lectures)
+Characteristic reactions, general methods of degradation, structure and chemistry of some
+well-known alkaloids; Natural Pigments: Flavones, flavanones, isoflavones, xanthones,
+quinones, pterins, chlorophyll and haemin; and Carbohydrates. (8 lectures)
+Synthesis of biologically active Natural products: Strychnine (Overmann Syn.), Fredrikamycin
+A(Norman and Coxan), Cephalosporin (Woodward), Estrone, Mifepristone (Vollard), Taxol,
+Tubulysin, Epothilone, Structure determination of Natural products: Arteannuin B, Hardwickiic
+acid, and Ajmaline, stereoselective synthesis of Ibuprofen, crixivan, propranol. (10 lectures)
+1.Ernest L. Eliel., (1982), Asymmetric Reactions and Processes in Chemistry
+2.Iwao Ojima., (1993), Catalytic Asymmetric Synthesis: 2nd Ed.
+3.J. Clayden, N. Greeves, S. Warren and P. Wothers., (2012), Organic Chemistry
+1. S. W. Pelletier., (1970), Chemistry of the Alkaloids
+2. C. W.Shoppee., (1964), Chemistry of the Steroids, 2nd edition
+3.K. Nakanishi, T. Goto, S.Ito, S. Najori and S. Nozoe., (1974), Natural products Chemistry,
+Vol. 1 and 2, Academic Press
+Self Learning Material
+Spectroscopic Determination of
+M.Sc./PhD (CY) Program
+The instructor will:
+1. To teach basic aspects of spectroscopic methods, important analytical tools in academic
+research, chemical and pharmaceutical industries for structural characterization of organic
+2. Elucidation of structures of organic compounds using in-depth analysis of different
+The students are expected to:
+1. Ability to determine the structures of known/unknown organic molecules utilizing several
+spectroscopic techniques mentioned in the content.
+Infrared Spectroscopy: Introduction to IR spectroscopy, Modes of stretching and bending,
+stretching frequencies of different organic functional groups, Effects of structural and
+conformational environment (3 lectures)
+Mass Spectrometry: Principles of mass spectrometry, Different ionization techniques (EI, CI, ESI
+etc.), GC-MS, HRMS, LC-MS and MS-MS techniques, Fragmentation and rearrangement of
+different classes of organic molecules, Isotope effects, Identification of known/unknown organic
+compounds (6 lectures)
+Nuclear Magnetic Resonance Spectroscopy: Chemical shifts of different organic functional
+groups in 1H and 13C NMR, origin and interpretation of coupling constant, introduction to the
+principle and interpretation of DEPT, COSY, NOESY, NOE techniques, Structural elucidation of
+organic compounds (15 lectures)
+Ultraviolet-Visible Spectroscopy: Studies on conjugated and extended conjugated systems,
+analysis and interpretation of UV-Visible spectroscopic data, Application in mechanistic studies
+Identification and Mechanistic Studies: Application of all above techniques in the structural
+elucidation of unknown organic compounds and investigation of organic reaction mechanisms
+1.  Donald L. Pavia, Gary M. Lampman, George S. Kriz, James A. Vyvyan: Introduction to
+Spectroscopy, 4th Edition, Brookes Cole, 2008.
+2.  Robert M. Silverstein, Francis X. Webster, David Kiemle: Spectrometric identification of
+organic compounds, 7th Edition, Wiley, 2005.
+1.  Harald Gunther: NMR spectroscopy, Basic principles, concepts, and applications in
+chemistry, 2nd Ed., Wiley, 2001 (reprint)
+2.  Timothy Claridge: High Resolution NMR Techniques in Organic Chemistry, 2nd Ed. Elsevier,
+3.  Edmond de Hoffmann, Vincent Stroobant: Mass Spectrometry, Principles and applications,
+3rd Edition, Wiley, 2007
+Self Learning Material
+Stereochemistry of Organic Compounds
+MSc/PhD (CY) Program
+The instructor will:
+1.  Provide understanding of representing stereochemical structures of organic molecules.
+2.  Provide knowledge of designing synthetic routes to compounds containing one or more
+stereogenic centers and enantioselective syntheses.
+The students are expected to have the ability to:
+1.  Understand stereochemical nomenclature, classification of objects with regard to
+symmetry, desymmetrizations, stereochemical discrimination, separation of
+stereoisomers, and principles for stereoselective synthesis
+2.  Learn about the key aspects of modern asymmetric synthesis, especially the origin of
+stereoselectivity and to be able to draw plausible TS to predict enantiofacial selectivity.
+Introduction: Configuration, conformation, determination of structure, symmetry elements,
+Newman, Saw Horse, Zig-Zag and Fischer Projections, absolute stereochemistry (10
+Properties of Stereoisomers: Stereoisomer discrimination, nature of racemates, properties of
+racemates and their enantiomer components (3 lectures)
+Separation of Stereoisomers: Resolution, Crystallization, Chemical separation of enantiomers
+and diastereomers (3 lectures)
+Prostereoisomerism, Prochirality: Homotopic and heterotopic ligands, hetrotopicity and NMR,
+prochirality and centers (4 lectures)
+Conformation of Acyclic and cyclic Molecules: Conformation of Acyclic molecule, Physical and
+spectral properties of diastereomers and conformers, Conformational aspects of various ring
+size compound, stereochemistry of fused and bridged compounds (10 lectures)
+Stereoselective Synthesis: Convergent Synthesis, Distereoselective synthesis,
+Enantioselective synthesis and double stero-differentations (8 lectures)
+Chiroptical Properties: Optical activity, Anisotropic Refraction, Circular dichroism, application
+of optical activity, separation of stereoisomers by chiral HPLC (4 lectures)
+1.  Nasipuri, D., (2011), Stereochemistry of Organic Compounds, 3rd Edition, New Age
+2.  Kalsi, P. S., (2017), Stereochemistry Conformation and Mechanism, 9th Edition, New Age
+1.  Gupta, S. S., (2017), Basic Stereochemistry of Organic Molecules, 1st Edition, Oxford
+Self Learning Material
+1.  Basak, A, Stereochemistry, NPTEL Course Material, Stereochemistry, Department of
+Chemistry, Indian Institute of Technology Kharagpur
+Frontiers  in Organic Chemistry
+M.Sc./PhD (CY) Program
+The Instructor will:
+1.  Give an in-depth exposure to the latest advances in organic synthesis
+2.  Inculcating in students a research-oriented approach towards solving synthetic organic
+The students are expected to:
+1.  Advance their knowledge in strategizing and synthesis of complex organic compounds
+2.  Systematically read, understand and interpret the research reported in journals
+3.  Develop skills of scientific presentations and interpersonal skills
+Protecting Group: Selectivity and requirement of protecting groups, protecting groups and
+their deprotection (5 lectures)
+Advanced Radical Chemistry: Radical substitution reactions, coupling reactions, radical
+mediated cyclizations, addition reaction involving radicals, radical chain reactions (5
+Cycloaddition Reactions: 1,3-dipolar cycloadditions, higher order cycloadditions, asymmetric
+cycloadditions. (5 lectures)
+Advanced Enolate Chemistry: Diastereoselective aldol reactions, Evan’s chiral auxiliary,
+Ender’s chiral auxiliary, diastereofacial selectivity, asymmetric aldol reactions,
+Organocatalyzed aldol reactions (7 lectures)
+Total synthesis of complex molecules: total synthesis of penicillin, estrone, sparteine,
+prostaglandins, synthesis of important pharmaceuticals (12 lectures)
+C-H functionalization and C-H activation: Transition metal free reactions, Pd, Cu, Rh
+catalyzed C-H activation reactions, remote C-H functionalization and activation reactions (8
+1.  Carriera, E.M., and Kvaerno,L., (2009), Classics in Stereoselective synthesis, Wiley-VCH
+2.  Kurti,L., Czako,B., (2005), Strategic Applications of Named Reactions in Organic
+3.  Carey,F.A., Sundberg,R.J., (2007), Advanced Organic Chemistry, Part B: Reactions and
+Synthesis, 5th Edition, Plenum
+1.  Hudlicky,T., and Reed,J.W., (2007) The Way of Synthesis, Wiley-VCH
+2.  Nicolaou,K.C., and Snyder,S.A., (2003), Classics in Total Synthesis-II: Further Targets,
+Strategies, Methods, Wiley-VCH
+Self Learning Material
+1. Punniyamurthy,T., Catalytic Asymmetric Synthesis, NPTEL Course Material, Department
+of Chemistry, Indian Institute of Technology Guwahati,
+M.Sc./PhD (CY) Program
+The instructor will:
+1.  Provide insight into the fundamental reactivity and synthesis of heterocycles, and
+2.  Broaden their knowledge in the field of heterocyclic chemistry with regard to its
+application in the synthesis of natural products and pharmaceuticals.
+Students will be able to:
+1.  Understand the basic heterocyclic principles and apply different types of organic
+reactions in the synthesis of small heterocyclic compounds.
+2.  Learn the applications of modern organic synthetic tools in the efficient synthesis of
+3.  Design and propose routes for the synthesis of natural products and pharmaceuticals
+based on heterocycles.
+Introduction: Importance of heterocyclic compounds, Nomenclature of heterocyclic ring
+systems (3 lectures)
+Three-membered Heterocycles: Structure, reactivity and synthesis of Oxirane, Thiirane
+and Aziridine (3 lectures)
+Four-membered Heterocycles: Structure, reactivity and synthesis of four membered
+Heterocycles such as Oxetane, Thietane and Azetine (3 lectures)
+Five-membered Heterocycles: Structure, reactivity and synthesis of five membered
+Heterocycles such as Pyrrole and pyrrolidine, Thiophene and tetrahydrothiophene, Furan
+and tetrahydrofuran, chemistry of Pyrazole, Imidazole, Oxazole, Thiazole (10 lectures)
+Six-membered Heterocycles: Structure, reactivity and synthesis of Six membered
+Heterocycles: Pyridine and Piperidine, pyran and Tetrahydropyran, pyridones, Pyridine-N-
+oxides (10 lectures)
+Polycyclic heterocycles: Structure, reactivity and synthesis of Indole, Quinoline and
+Isoquinoline, Coumarins and Chromones, benzimidazole and benzoxazole (5 lectures)
+Natural Products and Drugs: Synthesis of selected heterocyclic natural products,
+synthesis of important pharmaceuticals containing heterocycles (5 lectures)
+Modern Methods: Synthesis of heterocycles using modern sustainable methods (3
+1.  J. A. Joule and K. Mills, Heterocyclic Chemistry, 5th Ed., Wiley, 2010.
+1.  R. K. Bansal, Heterocyclic Chemistry, 5th Ed., New Age International Private Limited,
+Self Learning Material
+1.  NPTEL Lectures : Heterocyclic Chemistry- http://nptel.ac.in/courses/104105034/
+L-T-P [C]  3–0–0 [3]
+1.  To give students an introduction to polymer world and plastics technology.
+2.  Students will learn the differences between the polymers and their industrial applications.
+3. Students should be aware of the synthetic and environmental risk as well as complete
+process and effort required to this end.
+The student should be able to
+1.   Understand the general structure of polymers properties of polymers in solution.
+2.   Compare the mechanical properties of polymers based on their structures.
+3.   Understand industrial application of polymers.
+4.   Assess risks during chemical synthesis of polymer material.
+Introduction to polymers; classifications of polymers (2 lectures), chain versus step growth
+process, determination of molecular weight of polymers and their distribution; ATRP (atom
+transfer radical polymerization), Ziegler-Natta and ring opening metathesis (8 lectures)
+polymerizations: living polymerization, polymer microstructure; physical properties of
+polymers; network formation of macromolecules; postpolymerization modification. (8
+Functional Polymeric Materials: organic/inorganic hybrid materials, porous polymers,
+biodegradable polymers, conducting polymers, smart materials, intelligent gels and
+coordination polymerization, systematic of synthetic polymers and biopolymers (8 lectures)
+Polymer chemistry: Polymerization, kinetics, structure and decomposition; Polymers in
+solution: thermodynamics, phase equilibrium, diffusion, viscosity, polyelectrolytes and gels.
+Polymer synthesis in laboratory and characterization. (2 lectures) , Industrial polymerization
+processes. (4 lectures)
+1.  P. C. Painter and M. M. Coleman: Fundamentals of Polymer Science, 2. ed., together with
+the problem sets.
+2.  Brydson's Plastics Materials, (1993), Eighth edition, J. A. Brydson's, edited by M Gilbert.
+1.  Polymer Chemistry by Charles E. Carraher, sixth edition.
+2.  The Chemistry of Polymers by John W. Nicholson, 3rd edition, RSC publishing.
+Self Learning Material
+1.Prof. Dibakar Dhara, IIT Kharagpur https://nptel.ac.in/courses/104105039/
+Main Group and Bioinorganic Chemistry
+M.Sc. (CY) Program
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Give better insight into chemistry of main group elements and bioinorganic chemistry
+2.  Provide broad knowledge about properties and applications of compounds of main group
+elements and metal ions essential in biological systems.
+The students are expected to have the ability to:
+1.  Appreciate chemistry of elements essential in biological systems.
+2.  To understand structure and bonding concepts in chemistry of s- and p-block elements
+and systematic understanding of their chemical reactivity
+Chemistry of main group elements: VSEPR and Point group symmetry, Synthesis, structure
+and  bonding  in  polyhedral  boranes  and  carboranes,  Wade’s  Rules,  electron  count,  Isolobal
+analogy.  B-N,  P-N,  S-N  unit  containing  compounds.  Compounds  of  Silicon,  Zeolites.
+Hydrides,  halides,  oxides,  nitrides  of  s-  and  p-  block  elements.    Allotropes  of  Carbon.
+Chemistry of halogens and Noble gases, Acid-base concept, Chemistry of S-block elements.
+Organometallic compounds of main group elements. (15 Lectures)
+Spectroscopic  Characterization:  NMR  to  study  fluxionality  and  dynamic  behavior  in
+Applications  of  main  group  compounds:  Frustrated  Lewis  pairs  and  small  molecule
+activation,Synthetic  uses  of  main  group  complexes,  Oxidizing/reducing  agents.  Precursors
+for  materials  deposition.  Deposition  of  thin  films  of  materials,  with  a  strong  focus  on
+Chemical Vapour Deposition (CVD) and ALD.  (9 Lectures)
+PET and SPECT imaging: Overview of the development of radio-labelled p-block complexes
+for applications in PET and SPECT imaging (2 Lectures)
+Bioinorganic Chemistry: Transition metals in biology - their occurrence and function, active-
+site structure, Metalloenzymes; O2 binding properties of heme (hemoglobin and myoglobin)
+and  non-heme  proteins  hemocyanin  &  hemerythrin),  co-operativity  effect,  Bohr  Effect;
+representative synthetic models of heme and nonheme systems. Electron transfer proteins -
+active  site  structure  and  functions  of  ferredoxin,  rubredoxin  and  cytochromes,  and  their
+comparisons. Metals in medicine. (12 Lectures)
+1.  Huheey, J. E., (2008), Inorganic Chemistry, 4th edition, Pearson
+2.  Housecroft, C. E., and Sharpe, A. G., (2012), Inorganic Chemistry, 4th Edition, Pearson
+3.  Miessler G. L., (2014), Inorganic Chemistry, 4th edition, Pearson
+1.  S. J. Lippard (1994) Principles of Bioinorganic Chemistry, University Science Books.
+2.  Norman, N. C., (2014), Periodicity and the p-Block Elements, Oxford Primer Nos. 51,2nd
+Edition, Oxford University Press
+3.  Atkins, P. (2010) Inorganic Chemistry, 5th Edition, Oxford University Press
+Self Learning Material
+1.  Balakrishna, M. S., Chemistry of Main Group Elements, NPTEL Course Material,
+Department of Chemistry, Indian Institute of Technology Bombay,
+2.  Ray, D., Bioinorganic Chemistry, NPTEL Course Material, Department of Chemistry,
+Indian Institute of Technology, Kharagpur, http://nptel.ac.in/courses/104105031/
+Title  Transition Metal and
+Offered for  M.Sc. (CY) Program
+The Instructor will:
+1.  To provide students with an overview of transition metal chemistry which form a
+foundation for students pursuing further studies in chemistry
+2.  To provide students fundamental of organometallic compounds and their practical
+The students are expected to have the ability to:
+1.  Understand the properties and reactivities of selected transition metal complexes with
+their structure and bonding
+2.  Utilize the principles of transition metal coordination complexes in understanding
+reactivity and properties of organometallic compounds
+Coordination Compounds: Survey of various ligands, coordination, thermodynamic stability,
+Isomerism, Irving-William series, chelate and macrocyclic effect. (5 Lectures)
+Bonding in Coordination Complexes:VBT, CFT and MOT, Crystal Field Stabilization Energies
+and its applications, High and low spin complex, Jahn-Teller theorem. (8 Lectures)
+Reaction mechanismsin Coordination complexes - substitution reactions in complexes, trans
+effect  and  its  influence,  water  exchange,  anation  and  base  hydrolysis,  stereochemistry,
+inner and outer sphere electron transfer mechanism (4 Lectures)
+Spectroscopic  properties:Color  of  the  complexes, Selection  rules.  Splitting  of  the  free  ion
+energy  levels  in  Octahedral  and  Tetrahedral  complexes. Term  Symbol,  Orgel, and Tanabe-
+Sugano diagrams. (6 Lectures)
+Magnetic Properties: Origin of Magnetic moment,Effect of orbital contributions.(2 Lectures)
+Bonding and properties of organometallic compounds:  Ligands (carbonyl, olefins,
+phosphine, hydride, alkyls, carbines, carbenes). Compounds with carbonyl, olefins, effective
+atomic number (EAN) rule. Classification of ligands-sigma, pi-donor, pi-acceptor.(7
+Bonding in organometallics: sigma and pi-back bonding, synthesis of organometallic
+compounds. Characterization by FTIR. (3 Lectures)
+Organometallic Reaction and catalysis: Oxidative addition, reductive elimination, CO
+insertion and migration reactions. Applications of Organometallic compounds in
+homogeneous catalysis – isomerization, hydrogenation reaction, hydroformylation,
+Monsanto acetic acid synthesis, C-C coupling reactions, polymerization and metathesis. (6
+1.  Weller, (2014), Inorganic Chemistry, 6th Edition, Oxford University Press
+2.  Huheey, J. E. (2006), Inorganic chemistry: principles of structure and reactivity, 4th
+3.  Crabtree, R. H. The Organometallic Chemistry of the Transition Metals, Wiley, 1998
+1.  Kettle, S.F.A., (2010), Physical Inorganic Chemistry, A Coordination Chemistry
+2.  Housecroft, C and Sharpe, A. G. (2012) Inorganic Chemistry, 4th Edition, Pearson
+Self Learning Material
+1.  Ray, D Coordination Chemistry, NPTEL course material, Department of Chemistry,
+Indian Institute of Technology, Kharagpur, http://nptel.ac.in/courses/104105033/
+2.  Samuelson, A.G., Introduction to Organometallic Chemistry, NPTEL Course Material,
+Department of Inorganic and Physical Chemistry, Indian Institute of Science, Bangalore,
+Solid State and Material Chemistry  Number
+M.Sc. (CY) Program
+The Instructor will:
+1.  To provide an overview of the relationships between molecular or solid state structures
+and material properties.
+2.  To provide an interdisciplinary understanding of solid state chemistry which aims to
+provide an understanding of how molecular structure affects the properties of
+The students are expected to have the ability to:
+1.  The student will obtain required knowledge for understanding material science
+problems and structure of solids.
+2.  Insight into electronic structure of crystals and compare it with the electronic structure
+of nanomaterials, chemical-physical fundamentals as well as basic method of
+characterisation of solids.
+Structure of Solids: Crystalline and Amorphous, diffraction techniques, symmetry and point
+groups, packing in solids, classification, lattice energy, bonding, structures: NaCl, TiO2,
+ZnS, wurtzite, Perovskite, covalent and ionic solids.(10 Lectures)
+Crystal defects: non-stoichiometry, cluster, diffusion, Fick’s Law and Kirkendall effect,
+Identification of defects using microscopic techniques.(6 Lectures)
+Solid state reaction:Chemical and Physical Methods of preparation, reactivity of solids,
+decomposition mechanism, single crystal growth and thin film deposition. (10 Lectures)
+Band theory:Intrinsic and extrinsic semiconductors, insulators,density of states, Dielectrics,
+Hall effect, Thomson, Peltier and Seeback effects.(Lectures 8)
+Properties of Solids: Magnetic, Electrical and Optical properties, Different type of
+Magnetism and Superconductivity, Introduction to nanomaterials and properties.(Lectures
+1.  B. D. Cullity and S. R. Stock, (2014), Elements of X-ray diffraction, 3rd edition, Pearson
+2.  West, A.R., (2015), Solid State Chemistry and Its Applications, 2nd edition, John Wiley
+3.  Lesley E Smart and Elaine E Moore, (2005), Solid State Chemistry: An Introduction, 3rd
+Edition, Taylor and Francis
+1.  Cheetham, A.K. and Day, P., (1997), Solid State Chemistry Compounds, 2nd Edition,
+Clarendon Press, Oxford
+2.  Harry R. Allcock, (2008), Introduction to Materials Chemistry, 1st Edition, Wiley.
+3.  C N R Rao and J Gopalkrishnan, (2004) New Directions in Solid State Chemistry, 2nd
+Self Learning Material
+1.  Subramaniam, A, Structure of Materials, NPTEL Course Material, Department of
+Materials Science and Engineering, Indian Institute of Technology Kanpur,
+Inorganic Chemistry Laboratory
+The Instructor will:
+1. Emphasize on the different techniques of reaction set-up (air-sensitive, moisture-sensitive
+etc. involved in the synthesis, isolation and purification of inorganic compounds.
+2. Expose students to various spectroscopic identification and characterization techniques.
+The students are expected to have the ability to:
+1. Understand the basic principles behind the synthesis and properties of inorganic
+2. Plan and Conduct experiments for synthesis and characterizing inorganic compounds.
+Non-metal complex: Synthesis and characterization of bispyridine iodide nitrate; Solid phase
+synthesis and characterization of trans-bis glycinato copper(II); Synthesis of penta
+amminechlorocobalt(III)chloride and its spectroscopic properties; Influence of ligand field
+tetragonality on the ground state spin of nickel(II) complexes with NH3 and H2O and
+ethylene diamine; Preparation and magnetic properties of FeIII(acac) complex; Preparation
+of TiO2 from Titanium Isopropoxide; Preparation and Characterization of Hydroxyapatite;
+Luminescent Ruthenium Complexes. Synthesis of RuHCl(CO)(PPh3)3 complex and its
+characterisation by 1H, 31P NMR and IR spectroscopy
+1. G. S. Girolami, T. B. Rauchfuss, R. J. Angelici Synthesis and Technique in Inorganic
+Chemistry, University Science Books, 3rd Ed, 1999.
+2.Elias, A. J., A Collection of Interesting General Chemistry Experiments, Universities
+Press(India) Pvt. Ltd., 2002
+1. J. Derek Woolins, Inorganic Experiments, 3rd Edition, Wiley, 2010.
+2. Roesky, H. W.; Muckel, K., Chemical Curiosities: spectacular experiments and inspired
+quotes, VCH, 1996.
+3. Handouts prepared for the laboratory experiments: collections from various literature
+sources (ACS Chemical Education)
+Self Learning Material
+John Dolhun. 5.301 Chemistry Laboratory Techniques. January IAP 2012. Massachusetts
+Institute of Technology: MIT Open Courseware, https://ocw.mit.edu.
+of Inorganic Chemistry
+Catalysis for Energy
+MSc./PhD (CY) Program
+The Instructor will:
+1.  To give an overview about defining a roadmap for the role of catalysis in energy
+2.  Relate catalysis with fuel cells, hydrogen production and storage, methane storage and
+The students are expected to have the ability to:
+1.  Understand the role and the possibilities of catalysis in the production of new energy
+carriers and in the utilization of different energy sources.
+2.  to go beyond conventional application identifying new developments that may lead to
+breakthroughs in the production of alternative energy.
+Catalysis: Introduction to heterogeneous catalysis, including models of surface reactivity,
+surface equilibria, kinetics of surface reactions, electronic and geometrical effects in
+heterogeneous catalysis.(Lectures 14)
+Catalytic reactions and application: Trends in reactivity, catalyst structure and composition,
+electro-catalysis and photo-catalysis.(Lectures 12)
+Selected applications and challenges in energy transformations: fuel cells, hydrogen
+production, OER and HER reactions, CO2 oxidation, methane and hydrogen storage and
+industrial catalysis. (Lecture 14)
+1.  Hanefeld, U, Lefferts, L. (2018) Catalysis: An Integrated Textbook for Students, 1st
+1.  Okada, Tatsuhiro, Kaneko, Masao, (2009), Molecular Catalysts for Energy Conversion
+2.  Guczi, László, Erdôhelyi, András, Catalysis for Alternative Energy Generation, Springer.
+3.  Pierluigi Barbaro, Claudio Bianchini, Catalysis for Sustainable Energy Production, Wiley
+Self Learning Material
+1.   Xile Hu, Angamuthu, R and Bera, J. K., Catalysis for Energy Storage, GIAN Course
+material, Indian Institute of Technology Kanpur,
+Nanomaterials and Nanodevices
+MSc/PhD (CY) Program
+The Instructor will:
+1.  Underlying scientific basis for the behavior of nanomaterials
+2.  Methods of synthesis, fabrication and characterization of nanomaterials
+3.  Scope of nanomaterials and potential translation as products
+The students are expected to have the ability to:
+1.  Able to describe the basic science behind the properties of materials at the nanometer
+2.  Learn principles behind advanced experimental techniques for studying nanomaterials
+3.  Systematically solve scientific problems related specifically to Nano technological
+Concepts, Definitions and Examples:Nanoscale processes, nanosystems, nanostructures,
+important nanomaterials such as clusters, nanocrystals, nanotubes and nanowires. (2
+Size-dependent properties: Quantum confinement, Bandgap, Surface effects in
+nanosystems. Optical, mechanical, electronic and magnetic properties along with surface
+Synthesis of nanomaterials: Top-down and bottom-up, soft versus hard methods, chemical
+and physical methods, hybrid methods for synthesis of nanomaterials.(6 Lectures)
+Experimental methods for the study of nanomaterials:Electron microscopes (SEM and TEM),
+scanning probe microscope (AFM and STM), X- ray photoelectron spectroscopy, BET surface
+area, electroanalytical techniques and miscellaneous methods (6 Lectures)
+Nanolithography for Nanodevices: Concepts and methods; fabrication of devices, clean room
+practices, optical, electron, ion- beam lithography, soft lithography, micromolding,
+nanoimprint lithography. (6 Lectures)
+Applications:Translating nanomaterials and nanodevices as commercial products.(4
+Synthesis of metal nanoparticles, Particle size analysis by UV Visible spectroscopy,
+synthesis of semiconducting ZnO nanoparticles, quantum dots, optical band gap analysis by
+emission spectrum, SEM imaging, AFM analysis, patterning by Photo/Soft
+Lithography,graphene synthesis and surface property analysis
+1.  Pradeep, T., (2012), Textbook of Nanoscience and Nanotechnology, Mc Graw Hill
+2.  C. N. R. Rao, P. J. Thomas and G. U. Kulkarni (2007)Nanocrystals: Synthesis,
+Properties and Applications,Springer.
+1.  Nalwa, H. S., (2004), Encyclopedia of Nanoscience and Nanotechnology, Edition
+American Scientific Publishers, Los Angeles
+2.  Rao, C.N.R. and Govindaraj, A., (2005), Nanotubes and nanowires, RSC Publishing
+3.  C. N. R. Rao, P. J. Thomas and G. U. Kulkarni (2007)Nanocrystals: Synthesis,
+Properties and Applications,Springer.
+Self Learning Material
+1.  Subramaniam, A., Balani, K. Nanostructures and Nanomaterials: Characterization and
+Properties, NPTEL Course Material, Department of Materials Science & Engineering,
+Indian Institute of Technology, Kanpur, http://nptel.ac.in/courses/118104008/;
+Compounds of p-block elements and
+M.Sc./PhD (CY) Program
+The Instructor will:
+1.  To give better insights into the interesting class of compounds such as rings, clusters,
+polymers and low valent complexes of the main-group elements.
+2.  To learn about the synthesis, structure and properties of inorganic heterocyclic and
+3.  To discuss about structure, properties and reactivity of clusters and cages of main group
+The students are expected to:
+1.  Appreciate the interesting class of compounds such as rings, clusters and polymers of
+main group metal compounds.
+2.  Gain deeper insights into the synthesis and reactivity of novel main group compounds.
+3.  Understand structure-property relationships and applications of inorganic, organometallic
+polymers and low valent compounds.
+Inorganic  Rings:  Synthesis,  structure  and  reactivity  of  compounds  containing  heterocyclic
+rings  of  elements  such  as  Phosphorus,  Boron,  Silicon,  Tin  and  Aluminum.  Structure  and
+reactivity  of  compounds  containing  homocyclic  rings  of  germanium,  boron,  silicon,
+aluminum. Synthesis and properties of inorganic macrocycles. (10 Lectures)
+Clusters:  Clusters  and  Cages  of  Main  Group  Elements,  Boron  Hydrides  and  Carboranes.
+Homo and Heteropolyatomic Anions of the Post-Transition Elements. (8 Lectures)
+Inorganic  polymers:  Synthesis,  structure-property  relationships  and  applications  of
+Polysiloxanes, Polyphosphazenes, polysilanes and organometallic polymers. (10 Lectures)
+Chemistry  of  Low  valent  compounds:  Low  valent  compounds  of  main  group  elements,
+Recent advances in NHCs and their analogous group 13, 14 and 15 compounds. (6 Lectures)
+Applications:  Main  group  element  containing  rings,  clusters  and  polymers  as  single  source
+precursors  for  nanomaterials.  Low  valent  compounds  in  small  molecule  activation.  (9
+1. Chivers, T. and Manners, I., (2009), Inorganic Rings and Polymers of the p-Block
+Elements, 1st Edition, Royal Society of Chemistry
+2. P. Atkins, (2008), Inorganic Chemistry, Indian Edition, 4th Ed, Oxford University Press
+1. H. R. Allcock, (2003), Chemistry and Applications of Polyphosphazenes, Wiley
+2. V. Chandrasekhar, (2005), Inorganic and Organometallic Polymers, Springer-Verlag
+3. M. Driess, (2004), Molecular Clusters of the Main Group Elements, Wiley-VCH
+Self Learning Material
+1. Balakrishna, M. S., Chemistry of Main Group Elements, NPTEL Course Material,
+Department of Chemistry, Indian Institute of Technology Bombay,
+Advanced Materials Design
+M.Sc./PhD (CY) Program
+The Instructor will:
+1.  Provide a comprehensive overview of synthesis and characterization of bulk materials,
+nanoparticles, nanocomposites and hierarchical materials with nanoscale features.
+2.  cover the fundamental scientific principles controlling assembly of nanostructured
+3.  materials; synthesis, characterization tools; new properties at the nanoscale, and
+existing and emerging applications of nanomaterials
+The students are expected to:
+1.  Understand a variety of different methods for synthesizing materials.
+2.  Evaluate the synthesis methods against each other and be able to make assessments as
+to what form the final products will be.
+3.  Should be able to assess appropriate methods for the synthesis of stable nanomaterials
+Introduction to Materials Chemistry: Structure, property and their relationship with materials
+performance (3 Lectures)
+Semiconducting Materials Chemistry: Semiconductor Devices, Phase Change Materials in
+Memory Technology, Thermoelectric, Superconductors, Topological Insulators, Emerging
+materials in the device industry such as graphene and 2D materials.(8 Lectures)
+Optical/Opto-electronic Materials: Light Emitting Diodes, Photosensors, Photovoltaics (3
+Structural & Basic Applied Materials: Structural Materials, Amorphous Materials, Smart &
+Responsive Materials, Bio-inspired materials (8 Lectures)
+Thermal Materials Application: Thermochromics (2 Lectures)
+Energy Materials: Batteries and Supercapacitors, Fuel Cells,Hydrogen generation,Hydorgen
+storage, Carbon capture and sequestration (8 Lectures)
+Student Seminars on Selected Topics from above
+1.  Fahlman, Bradley, (2011), Materials Chemistry, 3rd Edition, Springer
+2.  P. Yang (2003), The Chemistry of Nanostructured Materials, 1st Edition, World Scientific
+Publishing Company, Singapore
+1.  G. Cao, (2004), Nanostructures and Nanomaterials: Synthesis, Properties and
+Applications, Imperial College Press: Hackensack, NJ
+2.  Goldstein, J.I. et al. (1992), Scanning Electron Microscopy and X-Ray Microanalysis: A
+Textbook for Biologists, Materials Scientists and Geologists, 2nd Edition, Springer, US.
+Self Learning Material
+1.  Qureshi, M. Chemistry of Materials, NPTEL Course Material, Indian Institute of Technology
+Characterization Techniques in
+The instructor will:
+1.To provide an introduction to various characterization methods that are applied to
+inorganic chemical systems.
+The students are expected to:
+1.  Appreciate different important characterization methods that are applied to inorganic
+2.  Analyze the chemical and physical characterization of molecular (solution and solid-
+state) inorganic chemical systems.
+Fundamental aspects of characterisation methods in inorganic chemistry.
+Molecular Symmetry: Point group analysis of simple inorganic compounds. Infrared and
+Raman spectroscopy of simple inorganic molecules; predicting number of active modes of
+vibrations, analysis of representative spectra of metal complexes with various functional
+groups. (6 Lectures)
+Electronic spectroscopy: electronic absorption and emission spectroscopy (4 Lectures)
+Multinuclear NMR: Use of 1H and 13C NMR to study  fluxionality and dynamics in inorganic
+and organometallic chemical systems;  NMR spectral analyses of B, Al, Si, F,  and P
+containing compounds. Inorganic and Organometallic compounds of some other NMR active
+nuclei will also be discussed. (11 Lectures)
+EPR: Elementary aspects of Electron paramagnetic resonance (EPR) spectroscopy of
+inorganic compounds- g-values, hyperfine and super hyperfine coupling constants; selected
+applications in inorganic chemistry. (5 Lectures)
+Mass spectrometry: basic principles, ionization techniques, isotope abundance, molecular
+ion; illustrative examples from supramolecules, inorganic/coordination and organometallic
+compounds. (5 Lectures)
+X-ray and Photoelectron Spectroscopy: Electron microscopy and energy dispersive analysis
+of X-rays (5 Lectures)
+Cyclic voltammetry: Introduction to cyclic voltammetry and discussion on cyclic
+voltammogram of some representative examples. (5 Lectures)
+1.  R. S. Drago, Physical Methods for Chemists, 2nd Edition, Saunders, 1992.
+1. M. Weller,  Inorganic Chemistry, 6th Edition, Oxford University Press, 2014.
+2. J. E. Huheey, Inorganic Chemistry, Principles of Structure and Reactivity, 4th Edition,
+3. F. A. Cotton, Advanced Inorganic Chemistry, 6th Edition, Wiley, 2007.
+Self Learning Material
+1. Alagarsamy P, Characterization of Materials NPTEL Course Material, Department of
+Chemistry, Indian Institute of Technology Guwahati,https://nptel.ac.in/courses/115103030/
+Course Title   Advance Catalysis
+Offered for   MSc/PhD (CY) Program
+The instructor will:
+1.  Provide knowledge of key aspects of organometallic chemistry including the different binding
+modes of organic ligands, variation in oxidation states and electron counts.
+2.  Provide an understanding of the fundamental types of organometallic reaction, such as
+The students are expected to:
+1.   understand some fundamental organometallic transformations that underpin the catalytic
+formation of carbon-containing species.
+2.  understand basic knowledge, skills and experience useful to those students progressing into
+the chemical industry and research in the area of catalysis
+Fundamentals of Catalysis :Definition, reaction coordinate diagram, homogeneous
+catalysis, mechanism, catalytic cycle, fundamental organometallic processes, ligand
+substitution, oxidative addition, migratory insertion, transmetallation, reductive elimination,
+transition metals versus homogeneous catalysts, turnover limiting step, features of a catalytic
+process, Effective Atomic Number Rule (18-electron-rule).(8 Lectures)
+Stereochemistry and Selectivity: Concepts and Definitions,  Isomers, constitution,
+configuration enantiomers and diastereomers, conformation, stereochemical terms-a primer,
+optical activity, methods for determination of enantiomeric excess-chiral stationary phase
+(CSP) GC and CSP-HPLC  and NMR. (8 Lectures)
+Consequences of diastereoisomerism: (i) resolution of enantiomers via formation of
+diastereomeric salts, (ii) resolution via chromatography (GC and HPLC), (iii) identification of
+absolute stereochemistry, (iv) determination of enantiomeric ratio (er), or enantiomeric excess
+(ee), NMR shift reagents, (iv) diastereoselective synthesis, (v) kinetic resolution, examples and
+(vi) enantioselective synthesis, examples. (7 Lectures)
+Hammond Postulate: Kinetic and Thermodynamic Control.  Kinetic and thermodynamic
+control, use of energy diagrams, examples: DBr addition to 1,3-butadiene, enolate formation
+from 2-methylcyclohexanone, Hammond postulate, examples: Markovnikov regioselectivity of
+HX addition to monosubstituted alkenes, Orientation in electrophilic aromatic substitution
+reactions (7 Lectures)
+Asymmetric Catalysis Using Organometallic Reagents: Hammond Postulate and Curtin
+Hammett Concepts, Methods and Origin of Selectivity. CurtinHammett principle,reactivity of
+conformations pyrolytic elimination, Felkin-Anh model for predicting acyclic stereoselection,
+[Rh(L*)]+ X– , L* =chiral ligand)]-catalyzed asymmetric hydrogenation of dehydroamino-acids
+for the synthesis of enantiopure alpha-amino-acids Diastereomeric intermediates and origin of
+selectivity, Pd(0)-catalyzed allylation of stabilized carbon nucleophiles and Rh Catalyzed
+hydrogenation two classical examples with different reaction profiles (10 Lectures)
+1. F A Cotton, G. Wilkinson, C A Murillo and M Bochmann, Advanced Inorganic Chemistry, 6th
+ed, 1999, WileyInterscience
+2.C Elschenbroich and A Salzer, Organometallics, VCH Publishers, 1st ed 1989, 2nd ed 1993.
+3. R H Crabtree, The Organometallic Chemistry of the Transition Metals, Wiley, 1998
+1. Ashutosh Tiwari and Salam Titinchi, Advanced Catalytic Materials, Wiley, 2015
+Self Learning Material
+1. NREL Learning,  Biofuels and Bioproducts through Catalysis,
+Course Title   Water Chemistry
+Pre-requisite    Consent of Teacher
+The instructor will:
+1.  Provide the objective of this course is to provide a fundamental and advance
+understanding of the chemical and biochemical processes that are involved in water
+treatment for drinking purposes and treatment of industrial and domestic wastewaters for
+water reuse and discharge to the environment
+2.  Provide knowledge of the key chemical processes relevant to research in water chemistry
+The students are expected to:
+1.  Perform quantitative and qualitative interpretations for water quality analysis
+2.  Apply concepts of chemical equilibrium to solve water related practical problems
+Polar nature of water, Acids and bases, Buffering capacity of water (3 Lectures)
+Equilibrium constant expressions,aqueous system including concentration, activities, activity
+coefficients and pH of equilibrium. (4 Lectures)
+Chemical reaction equation and Arrenhius and Bronsted-Lowry acids and bases (4 Lectures)
+Ionization constant reactions and expressions, Self-Ionization of water, Solubility-product
+expressions (4 Lectures)
+Measuring pH, Filtration, Alkalinity and aqueous titrations (3 Lectures)
+Cycling of water and residence time (3 Lectures)
+Water availability,usage, quality and water treatment methods (5 Lectures)
+Analytical methods for water quality analysis (6 lectures)
+Measuring color in water, removing turbidity, acidity determination, alkalinity determination,
+chloride in water, hardness test for water, dissolved oxyzen by winkler’s method
+1. Sawyer, C., McCarty, P., & Parkin G, Chemistry for Environmental and Engineering Science.
+5th Edition. Toronto: McGraw-Hill, 2003
+2. Mark M. Benjamin, 2015, Water Chemistry, Waveland Press, Second Edition, ISBN 1-4786-
+1.Werner Stumm, James J. Morgan, Aquatic Chemistry: Chemical Equilibria and Rates in
+Natural Waters, 3rd Edition, Wiley
+2. Kerry J. Howe, David W. Hand, John C. Crittenden, R. Rhodes Trussell, Principles of Water
+Treatment,  George Tchobanoglous, Wiley
+Self Learning Material
+1. NPTEL Lectures: https://nptel.ac.in/courses/122106030/
+Frontiers in Organometallic Catalysis  Number
+1.  To impart advanced knowledge on frontiers of organometallic chemistry.
+2.  To teach practical applications of organometallic compounds in homogeneous catalysis
+particularly relevant to industrial applications.
+1.  The learners are expected to gain knowledge of independent thinking in designing,
+characterizing and fine tuning of organometallic complexes suitable for potential catalytic
+2.  Learners will be able to delineate mechanistic proposal of catalytic reactions based on the
+available experimental data.
+3.  Learners will have an update on current trends and challenges of organometallic chemistry
+towards molecular activation and organic transformations focusing on sustainable
+1.Introduction: Basics of organometallics, 18 e- rule, sigma and pi donor/acceptor ligands
+2. Synthetic, characterization and reactivity strategies of Transition Metal hydrides bearing
+carbonyl, nitrosyl, carbene, phosphine, olefins, and so on as ancillary ligands. Inert bonds
+(C-H, C-C, O-H, N-H) and small molecules (H2, CO, CO2) activation mediated by
+organometallic complexes. (12 lectures)
+3. Definition and concepts of catalysis: Important terminologies in catalysis
+Hydrogenation, dehydrogenation, dehydrogenative coupling reactions, hydrosilylation,
+hydroformylation, hydroamination, hydrocyanation, hydrozirconation, carbonylation,
+Wacker oxidation, Fischer Tropsch synthesis, water gas shift reaction, Olefin
+polymerization, olefin metathesis, Mechanistic pathway interpretation: Kinetic studies,
+Deuterium Kinetic Isotope effect, Rate limiting step, Resting state, Scrambling
+experiments. (13 lectures)
+4. Approaches towards Sustainability using organometallic complexes: Pincer catalysts
+design, Utilization of CO2 and other feed stocks; Sustainable Energy: H2 economy,
+Methanol economy, Liquid organic hydrogen carrier. (6 lectures)
+5.Frustrated Lewis pair Chemistry: Hydroboration, carboboration, small molecule
+activation, catalysis. (5 lectures)
+1.  Crabtree, R. H. The Organometallic Chemistry of the Transition Metals, Wiley, 1998
+2.  Gupta, B. D.; Elias, A. J. Basic Organometallic Chemistry: Concepts, Syntheses and
+Applications Paperback, Universities Press; 2nd Edition (May 30, 2013).
+1.  Collman J. P.; Finke R. G.; Norton J. R. Principles & Applications of Organo-transition Metal
+Chemistry, University Science Books
+2.  Bhaduri S.; Mukesh, D. Homogeneous Catalysis: Mechanisms and Industrial Applications
+Self Learning Material
+1.  Maiti, D. Organometallic Chemistry, NPTEL Course Material, Indian Institute of Technology
+Quantum Chemistry and Spectroscopy
+The Instructor will:
+1.  Attempt to provide an advanced level understanding of quantum chemistry
+2.  Will show a few applications of quantum mechanics to chemistry
+3.  Establish the relation between fundamentals of spectroscopy and quantum chemistry
+The students are expected to:
+1.  Understand quantum mechanics and applications to chemistry problems such as
+minimum energy path search, single point calculation and geometry optimization.
+2.  Apply spectroscopic methods as analytical tool in chemistry, biology, material science,
+Fundamentals: Old Quantum theory, Correspondence principle, Bohr-Sommerfeld
+quantization, Wave-particle duality, Stern-Gerlach experiment (9 lectures)
+Mathematical Formalism: Operators, Eigenfunctions and eigenvalues, Operators in quantum
+mechanics, expectation values, Theorems of Quantum Mechanics, Commuting and non-
+commuting operators, Angular momentum (10 lectures)
+Exactly Solvable Problems: Time independent and time dependent wave equation, Particle
+confined to infinite and finite potential wells, Harmonic oscillator, Rigid rotor, Hydrogen atom
+Approximation Methods: Variational principle, Perturbation theory, Energy and wave function
+corrections, Born-Oppenheimer approximation (8 lectures)
+Introduction to spectroscopy: Introduction to rotational, vibrational spectroscopy, electronic
+transitions, Frank-Condon principle, vertical transitions – selection rules, parity, symmetry
+and spin selection rule (5 lectures)
+1.  Levine, I. N., (1983), Quantum Chemistry, 3rd Edition, Allyn and Bacon
+1.  McQuarrie,D. A., (1983), Quantum Mechanics, 2nd Edition, University Science Books
+2.  Bernath,P. F., (2005), Spectra of Atoms and Molecules, 2nd Edition, Oxford University
+3.  Banwell,C. N., (2010), Fundamentals of Molecular Spectroscopy, 4th Edition, Tata
+McGraw Hill, New Delhi
+Self Learning Material
+1.  Krishnan, M. S., Introduction to Quantum Chemistry and Molecular Spectroscopy, NPTEL
+Course Material, Department of Chemistry, Indian Institute of Technology Madras,
+Molecular Thermodynamics and Chemical
+The Instructor will:
+1.  Provide the connection between microscopic theory and thermodynamics.
+2.  Describe how complex phenomena can be transferred into simple models.
+The students are expected to:
+1.  Predict properties of many-body systems starting from its microscopic
+constituents and their interactions
+2.  Connect microscopic theory to chemical reaction
+CYL6XX1: Thermodynamics [1-0-0]
+thermodynamics laws, state and path functions and their applications; thermodynamic description of
+various types of processes; Maxwell’s relations; spontaneity and equilibria
+Temperature and pressure dependence of thermodynamic quantities; Le Chatelier’s principle (14
+CYL6XX2: Statistical Thermodynamics [1-0-0]
+Micro and macro states, canonical, micro canonical and grand canonical ensemble,
+Boltzmann distribution; kinetic theory of gases; partition functions, thermodynamic
+properties from partition functions for model systems; Debye-Huckel theory (14 lectures).
+CYL6XX3: Chemical Kinetics [1-0-0]
+Empirical rate laws and temperature dependence; complex reactions; steady state
+approximation, determination of reaction mechanisms
+Mechanism: Theory of reaction rates, activation energy, transition state theory, potential
+energy surface, uni-molecular reaction rate, enzyme kinetics, salt effects (14 lectures).
+1.  D. McQuarrie and J. D. Simon, (2014) Molecular Thermodynamics, Viva Books.
+2.  D. McQuarrie, (2011) Physical Chemistry, A Molecular Approach, Viva Books.
+Self Learning Material
+1.  D. McQuarrie, (2000) Statistical Mechanics, University Science Books.
+2.  K. J. Laidler, (2013) Chemical Kinetics, Pearson.
+Self Learning Material
+1.  V.Balakrishnan, Department of Physics, IIT Madras. http://nptel.iitm.ac.in
+2.  Leonard Susskind, Statistical Mechanics, Stanford University,
+3.  De, A. K. Advanced Chemical Thermodynamics and Kinetics, NPTEL Course Material,
+Chemical Sciences, IISER Mohali, https://onlinecourses.nptel.ac.in/noc18_cy20/
+Theory and Applications of Spectroscopic
+The Instructor will:
+1.  Introduce to theoretical background of spectroscopic methods along with their
+instrumentation and application.
+2.  Enable students to use such methods whenever needed by giving hands on experience
+with available instruments in the institute.
+The students are expected to:
+1.  Apply spectroscopic methods as analytical tool in chemistry, biology, material science,
+2.  Operate various spectrometers available in the institute.
+CYL6XX1: Electronic Spectroscopy [1-0-0]
+Properties of electromagnetic radiation, interaction of radiation with matter, Stimulated and
+Spontaneous  processes,  Einstein  coefficient,  Rabi  Oscillation,  intensity  of  spectral  line  and
+line  shape,  Fourier  Transformation,  General  understanding  of  spectroscopic  selection  rule.
+UV-vis  and  Fluorescence Spectroscopy:  Basic  principles,  Laws  of  photochemistry,  Jablonski
+diagram,  Frank-Condon  principle,  quantum  yield  expression  and  Stern-Volmer  equation,
+FRET. (14 lectures)
+CYL6XX2: Infrared and Raman Spectroscopy [1-0-0]
+Basic  principle;  Organic  functional  group  identification  through  IR  spectroscopy,  IR  and
+Raman activity. (14 lectures)
+CYL6XX3: NMR and EPR Spectroscopy [1-0-0]
+NMR Spectroscopy: Basic principle, Zeeman splitting, chemical shift and spin-spin coupling,
+introduction to AB, AX, AMX spin system, 1D 1H and 13C NMR for structure elucidation,
+Polarization transfer methods and NOE. EPR Spectroscopy: basic principle, Electron-nuclear
+hyperfine interaction, theory of first order EPR spectra, analysis of 1st Order spectra,
+example of EPR spectra of organic radicals and transition metal complexes.  (14 lectures)
+1.  Gunther, H., (1995), NMR Spectroscopy, 2nd Edition, Wiley
+2.  Banwell, C. N., (1994), Fundamentals of Molecular Spectroscopy, 3rd Edition, Tata
+McGraw-Hill Book Company
+3.  Lakowicz, J. R., (2006), Principles of Fluorescence Spectroscopy, 3rd Edition, Springer,
+1.  Bernath, P. F., (2005), Spectra of Atoms and Molecules, 2nd Edition, Oxford University
+2.  Silverstein, R. M. and Webster, F. M., (2010), Spectroscopic Identification of Organic
+Compounds, 6th Edition, Wiley
+Self Learning Material
+1.  Mangal Sundar, K.,  Introduction to Quantum Chemistry and Molecular Spectroscopy,
+2.  Trivedi, V. and Chaudhary, N., Bioanalytical Techniques and Bioinformatics, Department
+of Biotechnology, http:// http://nptel.ac.in/courses/ 102103044.
+3.  Das, R., Principles and Applications of Electron Paramagnetic Resonance Spectroscopy,
+Department of Chemical Sciences, https://nptel.ac.in/courses/104106048/2
+Course Title  Physical Chemistry Laboratory
+M.Sc. (CY) Program
+The instructor will:
+1.  Introduction to the different spectroscopic and analytical techniques.
+2.  Introduction to the instrumentation and application of these methods.
+3.  Enable students to use such methods whenever needed by giving hands on experience
+with available instruments in the institute.
+The students are expected to:
+1.  Clear understanding of different analytical instruments.
+2.  Experimental verification of fundamental concept
+3.  Application of spectroscopic techniques as analytical tool in chemistry.
+1.  Determination of the pI of an Amino Acid using pHmeter.
+2.  Determination of critical micellar concentration by conductometry and calculation of free
+energy of micellization
+3.  Determination of Heat Capacity of metals by Dynamic Scanning Calorimeter and
+verification of Dulong and Petit Method
+4.  Determination of the ligand-protein binding constant using Fluorescence quenching
+5.  Determination of 1H spin-lattice relaxation time by NMR Inversion Recovery method
+6.  Determination of Gibbs free energy of the keto-enol tautomerism by 1H NMR
+7.  Determination of bromobenzene surface coverage on silica by FTIR
+8.  Study of surface properties (surface energy and surface tension) of various surfaces and
+9.  Study of Redox reactions for understanding the reversibility of the reactions using cyclic
+10. Surface Adsorption Kinetics of Dyes on activated carbon using UV-Visible
+Text   Text Books
+1.  Halpern, A. M.; McBane, G. C. Experimental Physical Chemistry: A laboratory Textbook,
+3rd ed. W. H. Freeman, 2006.
+Literature papers from ACS Chemical Education
+Pre-requisite  CYL6XX0 (Chemical Binding) Or Equivalent
+Computational Chemistry Laboratory
+M.Sc. (CY) Program
+The Instructor will:
+1.  Provide the connection between theory and experiments
+2.  Provide the understanding of how complex phenomena can be transferred into simple
+The students are expected to:
+1.  Learn tools and techniques used in computational chemistry.
+2.  Develop computational skills related to chemistry.
+1.Drawing the geometry of a molecule - Read XYZ coordinates - measure bond distances and
+2.Using a fixed nuclear geometry, compute the ground state electronic energy of a molecule
+using Hartree-Fock, MP2, and DFT.
+3.Perform geometry optimization (energy minimization) using different theories.
+4.Compute the vibrational frequencies and differentiate a minimum and a saddle point.
+5.Calculate potential energy profile and intrinsic reaction coordinate of a reaction.
+6.Learn visualizing bulk system using computer (VMD).
+7.Build bonded and non-bonded potential parameters after geometry optimization.
+8.Energy minimization of a bulk system at meso-scale.
+9.Different ensembles, NVT, NPT, NVE.
+1.  Levine, I. N., (1983), Quantum Chemistry, 3rd Edition, Allyn and Bacon
+2.  Molecular Modelling: Principles and Applications, Andrew Leach, 2nd Edition, Pearson.
+3.  Daan Frenkel and Berend Smit, (2002) Understanding Molecular Simulation, Academic
+1.  Mark E. Tuckerman, Statistical Mechanics, (2010) Theory and Molecular Simulations,
+Oxford University Press.
+2.  Szabo, A.and Ostlund, N.S. (1996), Modern Quantum Chemistry, Dover.
+Electives of Physical
+Numerical Methods and Group
+The instructor will:
+1.  Basic mathematics and numerical techniques required for Chemistry students
+2.  Knowledge on error analysis to be used for laboratory courses
+3.  Provide the fundamentals of group theory to understand structure, chemical bonding and
+The students are expected to:
+1.  Ability to analyze data and perform error analysis on the data
+2.  Ability to understand and appreciate the mathematical and group theoretical concepts behind
+Mathematical Concepts: Vectors and Vector spaces, Operators, Orthogonal and Unitary
+matrices, Diagonalization, Matrix eigenvalue problems, Systems of linear algebraic equations,
+Determinants, Ordinary and partial differential equations, Fourier and Laplace transformation
+Numerical Methods: Errors in Data, Absolute and relative errors, Distribution of Errors, Central
+Limit Theorem, Linear regression and correlation, Interpolation, Roots of Equations, Algorithms
+for Matrix (15 Lectures)
+Group Theory: Symmetry elements and Point Groups, Group postulates and definitions, Group
+multiplication tables, Subgroups and cosets, Symmetry classes and conjugates, Reducible and
+irreducible representations, Representations and character tables, Group theory and quantum
+mechanics, Group theory and chemical bonding, Applications of group theory to structures and
+spectroscopy, Group theory and crystal symmetry (12 Lectures)
+1.  Kreyszig, E., (2011) Advanced Engineering Mathematics, 9th Ed., Wiley
+2.  Cotton, F. A., (2008) Chemical Applications of Group Theory, 3rd Ed., Wiley India
+1.Louis, L., (1991) A Practical Guide to Data Analysis for Physical Science students, Cambridge
+2. Louis, L., (2005) Mathematics for Science Students, Cambridge University Press
+3. Arfken, W. and Harris, P. (2012) Mathematical Methods for Physicists, 7th Ed., Elsevier
+Self Learning Material:
+1. Iyengar, S. R. K., Numerical Methods and Computation, NPTEL course material, Department
+of Mathematics, IIT Delhi
+2. Chandra, M., Chemical Applications of Symmetry and Group Theory, NPTEL course material,
+Department of Chemistry, IIT Kanpur
+Pre-requisite  Basic Quantum Chemistry
+The Instructor will:
+1. Provide high level understanding of a chemical bond using quantum mechanics.
+2. Describe knowledge of modern techniques in quantum chemistry.
+The students are expected to:
+1.  Use modern quantum chemistry techniques to solve fundamental problems related to basic
+2.  Understand a chemical bond.
+CYL6XX1: Multi-electron systems [1-0-0]
+Electronic structure: Variation theory, perturbation theory, electron spin, He atom, Pauli
+exclusion principle, Slater determinant (14 lectures)
+CYL6XX2: Electronic structure theory [2-0-0]
++ ion, H2 molecule, VB theory, MO theory, Semi-empirical methods (13 lectures)
+Electronic structure of diatomic molecules: Born Oppenheimer approximation, Atomic units,
+Wave function based theory: Hartree-Fock theory, Electron correlation, Self-consistent field
+wave function, Moller-Plesset theory, Coupled cluster formulation (12 lectures)
+Density functional theory (DFT):  Principles of density functional theory, commercial
+functionals and applications (3 lectures)
+1.  Levine, I. N., (2000) Quantum Chemistry, Pearson education.
+2.  Lowe, J. P., (1995) Elementary Quantum Chemistry, Academic Press.
+1.  Szabo, A. and Ostlund, N. S., (1996) Modern Quantum Chemistry, Dover.
+Self Learning Material
+1. K. Mangala Sunder, Introduction to Chemistry & Quantum Chemical Methods, NPTEL course
+material, Department of Chemistry, IIT Madras, http://nptel.iitm.ac.in
+Principles of Nuclear Magnetic Resonance
+The Instructor will:
+1.  Introduction to Nuclear Magnetic Resonance (NMR) Spectroscopy with an emphasis on
+the basic principle along with instrumentation and application.
+2.  Enable students to understand the design of NMR experiments and analyze NMR
+spectrum to extract information of interest.
+3.  Introduce to NMR experiments by giving hands on experience on the instrument
+available in the institute.
+The students are expected to:
+1.  Understand the theoretical background of solution state NMR.
+2.  Apply NMR experimental methods as an analytical tool in chemistry, biology, material
+science, medicine for structure and dynamic studies of molecules.
+3.  Understand instrumentation of NMR spectrometer available in the institute.
+Introduction to NMR: Spin density operator, concept of density matrix, Liouville-Von-
+Neuman equation, the nuclear spin Hamiltonian- gyromagnetic ratio –energy level Diagrams-
+Zeeman Splitting. (12 lectures)
+Introduction to NMR parameters: Chemical shifts and couplings, longitudinal and transverse
+relaxation process – Redfield relaxation theory – paramagnetic relaxation, correlation times
+and relaxation times. (10 lectures)
+Introduction to 1D Fourier Transformspectroscopy: Bloch equation in the rotating frame –
+pulse sequence design – 1D 1H and 13C NMR for structure elucidation – measurement of
+relaxation rates, Nuclear Overhauser effect, effect of chemical exchange. (10 lectures)
+Introduction to 2D NMR, correlation spectroscopy: common pulse sequences –homo and
+hetero nuclear correlation spectroscopy –examples of COSY, TOCSY and NOESY – Application
+–chemical structure –biological processes – molecular dynamics etc.
+aboratory demonstration of standard NMR experiments. (10 lectures)
+1.  Farrar, T.C. and Becker, E.D., (1971), Pulse and Fourier Transform NMR, 1st Edition,
+2.  Gunther, H., (1995), NMR Spectroscopy, 2nd Edition, Wiley
+3.  Derome, A. E., (1987), Modern NMR Techniques for Chemistry Research, 1st Edition,
+1.  Ernst, R. R., Bodenhausen, G. and Wokaun, A., (1987), Principles of Nuclear Magnetic
+Resonance in One and Two Dimension, 2nd Edition, Clarendon Press
+2.  Claridge, T. D. W., (1999), High Resolution NMR Techniques in Organic Chemistry, 1st
+Self Learning Material
+1.  Atreya, H. S., Principles and Applications of NMR Spectroscopy, NPTEL Course Material,
+NMR Research Center, Indian Institute of Science, Bangalore,
+Molecular Dynamics Simulations
+The Instructor will:
+1.  Provide high level understanding of the connection between dynamics of molecules
+and their macroscopic properties
+2.  Describe modern techniques in molecular simulations using high speed computers
+The students are expected to:
+1. Use modern simulation techniques to solve fundamental problems related to
+interdisciplinary areas of Physics, Chemistry and Biology
+2. Find explanations for phenomena related to soft condensed matter
+Basics of Molecular Dynamics: Theoretical foundation of classical statistical mechanics,
+Boltzmann’s relation, harmonic oscillator and harmonic baths, introduction to molecular
+dynamics, Algorithms for equations of motions (10 lectures),
+Various ensembles: Purpose of ensembles in simulations, canonical ensembles, isobaric
+ensembles, grand canonical ensembles, applications of ensembles, thermostat,  Barostat (10
+Advance Techniques: Free energy perturbation theory, Thermodynamic Integration,
+Jarzynski’s equality, Umbrella Sampling (10 lectures)
+Applications:  How to set up Membrane system, protein and small biological molecules (12
+1.  D. Frenkel and B. Smith, (2002), Understanding Molecular Dynamics Simulations,1st
+Edition, Academic Press
+2.  Mark Tuckermann, (2010), Statistical Mechanics and Molecular Simulations, 1st Edition,
+Self Learning Material
+1.  M. P. Allen and T. J. Tildesley., (1993), Computer Simulations of liquids, 1st Edition,
+Oxford Science Publications
+Preparatory Course Material
+1.  Banerjee, T. Molecular simulations, NPTEL Course Material, Department of Chemical
+Engineering, Indian Institute of Technology Guwahati,
+2.  Tembe, B.L., Computational Chemistry and Classical Molecular Dynamics, NPTEL Course
+Material, Department of Chemistry, Indian Institute of Technology Bombay,
+Course Title  Solid State NMR Methods for Materials
+The course will enable
+1.  Introduction to essential techniques of solid state NMR
+2.  Introduction to various spin interactions important in solid state e.g., chemical shift
+anisotropy, dipolar coupling etc.
+3.  To enable students to understand the design of solid state NMR experiments and
+analyze NMR spectrum to extract information on solid state structure and dynamics.
+The students are expected to:
+1.  Have basic understanding of the theoretical background of solid state NMR.
+2.  Application of solid state NMR in the field of materials relevant in medicine, renewable
+energy, polymers etc.
+3.  Understanding of various solid state methods that can be applied to characterize
+materials of interest.
+Introduction to various nuclear spins other than 1H relevant for solid state materials:
+quadrupolar nuclei, concept of chemical shift anisotropy (CSA), scalar coupling, dipolar
+coupling and quadrupolar interactions, relation between shielding tensor and electronic
+structure, powder averaging. (8 lectures)
+Introduction to nuclear spin Hamiltonian relevant in solid state: cross polarization, isotropic
+mixing Hamiltonian, solid state echo sequence, Homo and heteronuclear decoupling, concept
+of spin diffusion and polarization transfer, concept of Nuclear Quadrupole Resonance (NQR)
+Introduction to NMR techniques: powder line shape, determination of anisotropy, Magic
+Angle Spinning (MAS), generation of spinning sideband patterns, sideband modulation,
+molecular structure and dynamics determination by probing ssb manifolds, Techniques for
+measuring CSA and orientation of shielding tensor, measurement of homo and
+heteronuclear dipolar coupling, correlation experiments. (10 lectures)
+Introduction to molecular dynamics: powder line shape analysis-relaxation time studies-2D
+rotor synchronization and Exchange Spectroscopy (EXSY). (10 lectures)
+Application of solid state NMR: in polymers, nanomaterials, drugs, narcotics, explosives etc.,
+recent advances in 1D solid state methods for dynamics, application of NQR. (4 lectures)
+1.  Duer, J. M., (2005), Introduction to Solid State NMR, Wiley.
+1.  Ernst, R. R., Bodenhausen, G., Wokaun, A., (1987), Principles of Nuclear Magnetic
+Resonance in One and Two Dimension, Clarendon Press, Oxford.
+2.  Bakhmutov, V. I., (2011), Solid-State NMR in Materials Science- Principles and
+Applications, CRC Press.
+Self Learning Material
+1.  Atreya, H. S., Principles and Application of NMR spectroscopy, NMR Research Center,
+IISC Bangalore, https://onlinecourses.nptel.ac.in/noc18_ge07/preview
+2.  Molugu, T. R., Lee, S., Brown, M. F., Concepts and Methods of Solid State NMR
+Spectroscopy Applied to Biomembranes, 2017, Chem. Rev., 117, 12087-12132
+3.  Dybowski, C., Bai, S., Solid State NMR Spectroscopy, 2008, Anal. Chem., 80, 4295-
+Group Theory and Molecular Spectroscopy
+MSc./Ph.D. (CY) Program
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Provide basic and advanced group theoretical concepts and their applications in bonding,
+spectroscopy, and solid state chemistry.
+The students are expected to:
+1.  Analyze and understand the concept of point group and symmetry associated with
+2.  Apply the knowledge of group theory to understand bonding, and structure in chemical
+Introduction: The nature of the problem, symmetry operations, elements and operators,
+groups and group theory- general definitions, defining, deriving and recognizing point groups,
+subgroups and cosets, classes, group multiplication table (10 Lectures)
+Theory of group representations: The great orthogonality theorem, character of a
+representation, reducible and irreducible representations, construction of character tables and
+physical interpretation, application of representation theory in quantum mechanics, direct-
+product groups (10 Lectures)
+Applications to Chemical Bonding and spectroscopy: Molecular orbitals, applications to valence
+bond theory and molecular orbital theory, bonding in homonuclear diatomic molecules of
+transition metal, molecular orbitals in complex compounds, Huckel molecular orbital theory,
+application of group theory to UV-Visible, IR and Raman spectroscopy (14 Lectures)
+Group theory and crystal symmetry: Crystal systems and classes, translational and space
+groups, symmorphic and nonsymmorphic space groups, applications of space group, factor
+group (8 Lectures)
+1. Cotton, F. A., (1990) Chemical Applications of Group Theory, 3rd edition Wiley-Interscience
+2. Vincent, A., (2013) Molecular Symmetry and Group Theory: A Programmed Introduction to
+Chemical Applications, 2nd Edition Wiley
+1.Engel, T. and Reid, P., (2012), Quantum Chemistry and Spectroscopy, 3rd Edition, Pearson
+Self Learning Material
+1.Chandra, M., Chemical Applications of Symmetry and Group theory, NPTEL Course Material,
+Department of Chemistry, Indian Institute of Technology Kanpur,
+Modern Electronic Structure Theory
+Basic Quantum Chemistry
+The Instructor will:
+1. Provide knowledge of modern electronic structure theories and basic computational
+chemistry techniques and tools to carry out electronic structure calculations and interpret
+The students are expected to:
+1. Carry out electronic structure calculations and interpret experimental spectra
+2. Write simple computer programs to carry out calculations
+Review of basics: Linear algebra, numerical techniques, postulates of quantum mechanics,
+Born-Oppenheimer approximation, concept of potential energy surface, variational and
+perturbation approaches (14 lectures)
+Electronic structure theories: Hartree-Fock (HF) and post-HF theories, Moller-Plesset theory,
+density functional theory, coupled cluster theory, electron correlation, configuration
+interaction, excited states, time dependent density functional theory (14 lectures)
+Techniques: Energy minimization, vibrational frequency analysis, symmetry analysis, zero
+point energy calculation, intrinsic reaction coordinate, distinguishing stationary points,
+atomic charges, Mulliken analysis (14 lectures)
+Electronic structure calculations; Geometry optimization; simple Fortran programming;
+finding intrinsic reaction coordinates; computing potential and free energy profiles
+1.  Levine, I. N., (2016), Quantum Chemistry, 7th Edition, Pearson Education
+2.  McQuarrie, D. A., (2016), Quantum Chemistry, 2nd Edition, Viva Books
+3.  Szabo, A., (1996), Modern Quantum Chemistry, Dover Publications
+1. Jensen, F., (2017), Introduction to Computational Chemistry, 3rd Edition, Wiley-Blackwell
+2.  Cramer, C. J., (2004), Essentials of Computational Chemistry, 2nd Edition, Wiley-
+Self Learning Course Material
+1. Simons, J.: https://www.youtube.com/watch?v=Z5cq7JpsG8I
+Chemical Reaction Dynamics
+Basic Quantum Chemistry
+The Instructor will:
+1.  Provide introduction to reaction dynamics in the gas phase and many advanced
+concepts in scattering theory.
+2.  Compare experimental data with dynamics simulations.
+The students are expected to:
+1.  Interpret experimental data in terms of classical and quantum scattering theory
+2.  Design and perform advanced dynamics simulations.
+Reactive collisions: Fundamentals, Potential energy surfaces, Crossed molecular beams,
+state-to-state cross sections, Classical and quantum scattering process (15 lectures)
+Rate theories: Kinetic theory of gases, Transition state theory (TST), Rice-Ramsperger-
+Kassel-Marcus (RRKM) theory, Microcanonical and thermal rate constants
+Gas phase dynamics: Photodissociation, energy transfer dynamics, intramolecular vibrational
+energy flow, mode selective chemistry with Lasers (20 lectures)
+Condensed phase dynamics: Solvation, Diffusion, Kramer-Grote-Hynes model, Correlation
+functions (7 lectures)
+1.  R. D. Levine, (2009) Molecular Reaction Dynamics, Reprint Edition, Cambridge
+University Press, USA.
+1.  T. Baer and W. L. Hase, (1996), Unimolecular Reaction Dynamics: Theory and
+Experiments, Oxford University Press, USA
+2.  A. Nitzan, (2006), Chemical Dynamics in Condensed Phases, Oxford University Press,
+Preparatory Course Material
+1.  Halder, M., Reaction Dynamics, NPTEL lectures,  Department of Chemistry, Indian
+Institute of Technology, Kharagpur, http://nptel.ac.in/courses/104105041/31
+Biophysical Techniques: Theory and
+M.Sc/PhD Program, B.Tech
+The Instructor will:
+1.  Introduce basic knowledge of a few biophysical methods and their application in the
+interdisciplinary area of chemistry and biology.
+2.  To have a greater understanding of the underlying theory of these methods and their
+practical applications in the laboratories.
+The students are expected to:
+1.  Understand the underlying principle of different biophysical methods.
+2.  To be able to use important biophysical methods to decipher problems relevant to
+3.  Better understand the structure-function activity of biomolecules.
+Spectroscopic methods: Concepts of spectral transition and analysis of spectrum, Application
+of UV-VIS spectroscopy in protein folding kinetics, Advance topics in fluorescence such as
+anisotropy, resonance energy transfer and real time fluorescence; principle of Circular
+dichroism, optical rotatory dispersion methods and applications, Principle of Surface Plasmon
+Resonance spectroscopy, SPR optical phenomenon, application of SPR in ligand-protein
+interaction. (15 lectures)
+Magnetic Resonance based methods: Principles of NMR and EPR, Concept of relaxation and
+polarization transfer, application of 1D and 2D NMR methods in biomolecules, EPR
+transitions, identification of metal centers in biomolecules, spin labelling and motions of side
+chains. (15 lectures)
+Calorimetric techniques: Principles and applications of Isothermal Titration Calorimetry,
+Differential Scanning Calorimetry, applications in biomolecules. (7 lectures)
+Centrifugation Techniques: Concepts and fundamentals of centrifugation. Ultracentrifugation
+techniques in biology. (5 lectures )
+1.  Cox, M.M, Nelson, D.L., Lehninger (2009) Principles of Biochemistry,  6th Edition, W.H.
+Freeman & Co,
+2.  Gunther, H., (1995), NMR Spectroscopy, 2nd Edition, Wiley
+3.  Circular Dichroism – Principles and Application, (2000) Edited by Brova, N., Nakanishi,
+K., Woody, R. W., 2nd Ed., Wiley.
+1.  Claridge, T. D. W., (1999), High Resolution NMR Techniques in Organic Chemistry, 1st
+2.  Stryer, L., Berg, J.M., Tymoczko, J.L., (2012) Biochemistry, W.H.Freeman & Co Ltd
+3.  Lakowicz, J. R., (2006), Principles of Fluorescence Spectroscopy, 3rd Edition, Springer,
+Self Learning Material
+1.  NPTEL lectures: https://onlinecourses.nptel.ac.in/noc19_cy07/preview
+2.  Sharma, K. A., Analytical Technologies in Biotechnology, Dept. of Biotechnology, IIT
+Course Title  Stochastic Problems in Biophysics
+The course will enable:
+1.  To understand applications of fundamental probability methods to a wide variety of
+problems related to biophysics.
+2.  To show the mathematical literature on this subject
+3.  To understand non-equilibrium statistical mechanics
+The students are expected to:
+1.  Ability to translate complex phenomena into simple models
+2.  Ability to derive mathematical models for problems related to biophysics
+1.  Introduction: Historical examples, Joint and conditional Probabilities, Correlation functions
+and Cumulants, Gaussian and Poissonian Probability Distributions (14 lectures)
+2.  Markov Processes: Chapman-Kolmogorov Equation, Examples of Markov Processes  (10
+3.  Brownian Motion: Basic assumptions, Langevin Equation, Fokker-Planck Equation, Master
+Equations and Jump Processes, Linear Response Theory  (18 lectures)
+1.  Landau and Lifshitz, Statistical Physics, Elsevier, 2005
+2.  David Chandler, Introduction to Modern Statistical Mechanics, Oxford University Press, 1987
+Self Learning Materials
+1.  C. W. Gardiner, Handbook of Stochastic Methods for Physics, Chemistry and Natural
+Sciences, Springer-Verlag, 1983
+2.  Edited and Introduced by John Stachel, Einstein’s Miraculous Year, Princeton University
+3.  S. Chandrashekhar, Reviews of Modern Physics, vol 15, No 1, APS
+Preparatory Course Material
+Prof. V. Balakrishnan, IIT Madras: https://www.youtube.com/watch?v=qNmB1qNjZ0k
+Course Title  Polymer Dynamics
+1. To understand basic principles and theory of  modern macromolecules
+2. To  understand the analogy to other branches of science at a more fundamental level
+The students are expected to:
+1.  Ability to realize that polymers are essential ingredients in biological machinery
+2.  Ability to do advanced calculations more modestly
+Ideal Chain : Freely joint chain, Flexibility of a polymer chain, Gaussian Chain, Ideal chain as a
+random walk, Ideal polymer by an external force, Flory Calculation (12 lectures)
+Polymer chains with volume interactions and Melts : Models with volume interactions, ideal
+melts, chains in solvents (10 lectures)
+Dynamics: Rouse model, Zimm Model,  Real polymer coil, Reptation model (10 lectures)
+Biopolymers:Properties, Primary structure, Secondary structure, Helix-coil transition (10
+1.  M. Doi and S. F. Edwards, The Theory of Polymer Dynamics, Oxford Science Publications,
+Self Learning Materials
+1.  Alexander Yu. Grosberg and Alexei R. Khokhlov,  Statistical Physics of Macromolecules,  AIP
+2.  Pierre-Gilles de Gennes, Scaling Concepts in Polymer Physics, Cornell University Press,
+Preparatory Course material
+1.  George Phillies lectures a series of graduate classes, based on his book "Phenomenology of
+Polymer Solution Dynamics" Cambridge University Press, 2011.
+Statistical Mechanics and Molecular
+The instructor will:
+1.  To understand the complex soft matter system that bridges the traditional disciplines of
+physics, chemistry and biology using modern theoretical methodology and high-speed
+2.  To explore the connections between basic statistical mechanical theories and real world
+applications in studying physical, chemical and biological phenomena.
+The students are expected to:
+1.  Understanding basic principles of Statistical Mechanics and Molecular Dynamics Simulations.
+2.  Mathematical formalism associated with theory and techniques of molecular modelling.
+3.  Few real world applications to understand the connections between microscopic and
+Statistical basis of thermodynamics:  Introduction to Statistical Methods, Micro and Macro
+states, Ensemble theory (micro-canonical, canonical, isobaric, grand-canonical), Mathematical
+techniques (5 lectures)
+Classical Statistical Mechanics: Partition functions, Thermodynamic functions, Phase space and
+Liouville equation, Distribution functions, Kirkwood integrals (10 lectures).
+(Module 3 of ``Statistical Physics” by Physics department) Fluctuations: Thermodynamic
+fluctuations, Spatial correlations in a fluid, Einstein-Smoluchowski theory of Brownian motion,
+Langevin theory,Fokker-Planck equation, Fluctuation-dissipation theory, Onsager relations (12
+Introduction to Molecular Modeling: Algorithms, Periodic boundary conditions, Interaction
+functions and force fields, Electrostatics, Molecular dynamics in various ensembles (10 lectures)
+Applications:Brownian dynamics simulations, Biological applications for proteins and
+membranes (5 lectures)
+1.  Mark E Tuckerman, Statistical Mechanics and Molecular Simulations, Oxford University,
+2.  David Chandler, Introduction to Modern Statistical Mechanics, Oxford University Press,
+Self Learning Material
+1.  M. P. Allen and T J Tildesley, Computer Simulations of Liquids, Oxford Science Publications,
+2.  D. A. Mcquarrie, Statistical Mechanics, University Science Books, 2000
+3.  D. Frenkel and B. Smit, Understanding Molecular Dynamics Simulations, Academic press,
+Preparatory Course Material
+Advanced Electrochemistry and
+The instructor will
+1.  Provide an introductory but thorough background in electrochemistry.
+2.  Provide fundamentals of electrochemical systems, electroanalytical techniques and
+The students are expected to:
+1.  describe the difference between equilibrium properties and properties of electrochemical
+systems and apply electrochemical methods for required information.
+2.  explain the functioning of electrochemical devices as well as the commonly employed
+underlying electrochemical reactions
+Introduction to Electrochemistry: Nernst equation, electrode kinetics, dynamic
+electrochemistry, the Butler-Volmer and Tafel equations. Overpotentials. Kinetically and
+mass transport controlled electrochemical processes. Mass transport by migration,
+convection and diffusion. Conductivity. (Lectures 7)
+Electrochemical Methods: Potentiostatic and galvanostatic electrochemical methods including
+chronoamperometry, coulometry, cyclic voltammetry, chronopotentiometry, ac impedance
+spectroscopy, spectroelectrochemistry and hydrodynamic methods.(Lectures 8)
+Solid state electrochemistry. Ion conducting and electronically conducting polymers; The
+electrochemical double layer. (5 Lectures)
+Surface confined electrochemical processes: The fundamentals of corrosion. Homogeneous
+and heterogeneous electrocatalysis (HER and OER). Electrochemical processes coupled to
+chemical steps. Nanostructured and surface modified electrodes. (8 Lectures)
+Application: Introduction to batteries, fuel cells and electrochemical solar cells. (7 Lectures)
+Electrochemical processes of particular relevance to energy conversion.(5 Lectures)
+D. I. Antropov, Theoretical Electrochemistry, Mir Publishers, 1972.
+J. M. Bockris and A. K. N. Reddy, Modern Electrochemistry, Vol.1 and 2, Plenum Press, 1998.
+Industrial Electrochemistry, 2nd ed, Pletcher, Derek/Walsh, Frank C., London: Chapman and
+Electrochemistry for Chemists, 2nd ed, Sawyer, Donald T./Sobkowiak, Andrej/Roberts, Julian
+L., New York: John Wiley, 1995
+1.  Transient Techniques in Electrochemistry, Macdonald, Digby D., New York: Plenum Press,
+2.  Laboratory Techniques in Electroanalytical Chemistry, (2nd edition) by Peter Kissinger
+and William Heineman (Marcell Dekker) 1996
+Preparatory Course Material
+1.  NPTEL material: https://nptel.ac.in/courses/104106105/
+Course Title  Hands On -1
+M.Sc. (CY) Program
+The instructor will:
+1.  Provide the students hands-on training using the available characterization tools .
+2.  Provide students with the knowledge and skills needed to conduct laboratory research,
+understand instrument design and analyze instrumental results.
+The students are expected to:
+1.  Clear understanding of different analytical instruments.
+2.  Experimental verification of fundamental concept
+3.  Application of spectroscopic techniques as analytical tool in chemistry.
+1.  NMR Working principles and instrumentation
+2.  Single Crystal X-Ray Diffraction  Working principles and instrumentation
+3.  Electroanalytical Methods (Ampereometry, Cyclic Voltametry, EIS spectroscopy etc)
+4.  SEM Working principles and instrumentation
+5.  AFM Working principles and instrumentation
+6.  UV-Vis Working principles and instrumentation
+7.  IR Working principles and instrumentation
+8.  TGA/DSC Working principles and instrumentation
+9.  BET Surface Area Analyser Working principles and instrumentation
+10. PXRD Working principles and instrumentation
+1.  Halpern, A. M.; McBane, G. C. Experimental Physical Chemistry: A laboratory Text
+Book, 3rd ed. W. H. Freeman, 2006.
+1.  Literature References from ACS Chemical Education
+Course Title  Hands on -2
+M.Sc. (CY) Program
+The instructor will:
+1.  Provide the students hands-on training using the available characterization tools .
+2.  Provide students with the knowledge and skills needed to conduct laboratory research,
+understand instrument design and analyze instrumental results.
+The students are expected to:
+1.  Have clear understanding of different analytical instruments.
+2.  Experimental verification of fundamental concept
+3.  Application of spectroscopic techniques as analytical tool in chemistry.
+1.  Chromatographic Techniques (GC and HPLC) in Organic Analysis
+2.  Fluorescence Spectroscopy and its application
+3.  Synthesis techniques and laboratory practices
+4.  OriginPro Data Analysis and Plotting of graphs
+5.  MERCURY and ENCIFER Crystal structure viewing
+6.  MATLAB for data analysis: basic plotting techniques; curve fitting; and simple linear
+7.  Chem Draw for drawing molecular structures
+8.  Mathematica for mathematical data handling
+9.  Technical communication - presentation, literature search
+10. Scifinder for literature search
+11. Analysis and identification of organic compounds by 1H NMR, Mass spectrometry and IR
+12. Modeling of intermediate and transition state of organic reactions
+1.  Halpern, A. M.; McBane, G. C. Experimental Physical Chemistry: A laboratory Text Book,
+3rd ed. W. H. Freeman, 2006.
+1.  Hunt, B. R. et al., A guide to MATLAB: For beginners and experienced user, 2nd Edition,
+University Press, Cambridge, 2006
+2.  ChemDraw user guide: http://media.cambridgesoft.com/support/15/ChemDrawHelp.pdf
+3.  McMahon, D, A & Topa, D. M., A beginners guide to Mathematica, Chapman & Hall/CRC,

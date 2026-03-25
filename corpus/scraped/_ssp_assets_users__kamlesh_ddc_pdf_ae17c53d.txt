@@ -1,0 +1,19 @@
+How are books arranged in library?
+Books  in  IIT  Jodhpur  Library  are  arranged  subject  wise  using  the  Dewey  Decimal
+Classification  System  (22nd  Ed.).  In  this  system,  all  knowledge  is  represented  by  10
+broad subject classes:
+Computer science, information & general works
+Philosophy & psychology
+Technology (Applied sciences)
+700  Arts & recreation
+900  History & geography
+The  Dewey  Decimal  system  is  a  hierarchical  system,  which  means,  within  each  broad
+class, it develops progressively from the general to the specific.
+Technology (Applied sciences)
+Engineering and allied operations
+Electrical, magnetic, optical, communications, computer engineering;
+Internal storage (Main memory)
+Semiconductor memory (bi-polar, MOS, thin-film memory etc.)
+Each item in the Library has a unique call number and is arranged under that number on
+the  shelves.  To  ensure  that  you  find  the  exact  item  you  want,  be  sure  to  copy  the
+complete call number.

@@ -1,0 +1,16 @@
+Artificial Intelligence for Information and War Gaming Technologies (AIWT) | DRDO Industry Academia Centre of Excellence IIT Jodhpur (DIA-CoE) | IIT Jodhpur
+Artificial Intelligence for Information and War Gaming Technologies (AIWT)
+Today’s multi-agent Warfare and Wargaming Technology involves the application of Artificial Intelligence in Information gathering, analysis, and decision-making. Ensuring realistic, unbiased simulations requires vast, high-quality datasets—often limited or classified in military contexts. AI algorithms can be Utilized to model the unpredictability of human-machine behavior in complex conflict scenarios. Cybersecurity and Information warfare threats loom large, as AI systems are vulnerable to data poisoning and manipulation. Additionally, integrating AI with legacy systems and ensuring interoperability across platforms adds complexity.
+Design and Assessment of Collaborative Agents
+Wargaming With UAV Swarm
+Decision Support Techniques for War Games
+Automatic Iterative Adversarial Model Improvement in War Gaming
+Modelling of Non-Contact Warfare and its Impact on Contact Warfare
+Non-Text Man-Machine Interface for War Gaming
+Post-Game Data Analysis for Doctrine and Player Assessment
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 11 Jun 2025 - 02:33 PM

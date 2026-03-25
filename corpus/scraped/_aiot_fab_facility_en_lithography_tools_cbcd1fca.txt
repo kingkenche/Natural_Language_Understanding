@@ -1,0 +1,73 @@
+Lithography Tools | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+Double - Side Mask Aligner System
+Direct Writing Maskless Lithography System
+Double - Side Mask Aligner System
+NAME OF INSTRUMENT: DOUBLE - SIDE MASK ALIGNER SYSTEM
+COMPANY: OPTICAl ASSOCIATES Inc. (USA)
+MODEL NUMBER: 0130-111795 (OAI 806 EBA 500W NUV)
+APPLICATIONS: Fabrication of microstructures based on optical lithography process using pre-defined mask with precise alignment on both sides of the wafers. Wafers up to 6” can be used.
+Up to 9" × 9"
+Vacuum and mechanical clamp
+User definable (Electronically Enhanced Hard Contact)
+Chuck Motion Control
+X, Y, Z & Theta (motorized joystick)
+X, Y Travel
+± 5 mm
+Automated wedge-compensation system
+Top to back < 2 µm (3σ), Top side to 0.5 µm
+Up to 200 mm square
+Proximity, Soft, Hard, and Vacuum Contact
+Hard contact: to 1 µm
+Soft contact: to 2 µm
+Proximity: 3–5 µm with 15–20 µm gap
+1–3200 seconds in 0.1 second increments
+Alignment Optics Magnification
+Top: Continuous zoom – 70× to 400× (optional 140× to 800×)
+Alignment Optics Separation
+Top: 42 mm to outside of mask (optional to 9 mm)
+Bottom: 19 mm to 200 mm (single microscope: 0 mm to 200 mm)
+Direct Writing Maskless Lithography System
+NAME OF INSTRUMENT: DIRECT WRITING MASKLESS LITHOGRAPHY SYSTEM
+COMPANY: DURHAM MAGNETO OPTICS LTD (UNITED KINGDOM)
+MODEL: MICRO WRITER ML3 PRO WITH DUAL WAVELENGTH LIGHT SOURCE
+APPLICATIONS: Maskless Lithography (direct laser writer) to define microstructures based on optical lithography process with a resolution of 0.6 µm.
+Maximum substrate size
+230 mm × 230 mm × 15 mm
+Maximum writing area
+195 mm × 195 mm
+Exposure minimum feature sizes
+0.6 µm, 1 µm, 2 µm, 5 µm. 0.4 µm as option.
+Surface tracking autofocus system?
+Edge locating laser for automatic wafer centering?
+Alignment microscope objectives
+x3, x5, x10, x20. x50 as option.
+Automatic lens changer for exposure resolution and alignment microscope?
+Available as option
+385 nm. 365 nm available as option.
+Maximum writing speed
+17 mm²/min at 0.6 µm resolution
+50 mm²/min at 1 µm resolution
+120 mm²/min at 2 µm resolution
+180 mm²/min at 5 µm resolution
+Overlay alignment accuracy at best resolution
+Minimum addressable grid
+Motion stage minimum XY step size
+XY interferometer resolution
+Optical surface profiler Z resolution
+NAME OF INSTRUMENT: VACUUM OVEN
+COMPANY: M.K. SCIENTIFIC INSTRUMENTS
+APPLICATIONS: Wafer drying, Cleaning via annealing, heat treatment up to 500°C in nitrogen or vacuum environment
+NAME OF INSTRUMENT: ORGANIC WET CHEMICAL BENCH
+COMPANY: NANO CLEAN CONTAMINATION CONTROL SOLUTION (INDIA)
+APPLICATIONS: For chemical cleaning of the wafers, semiconductor device processing,
+NAME OF INSTRUMENT: ELECTROPLATING WET CHEMICAL BENCH & LAMINAR AIR FLOW BENCH
+COMPANY: NANO CLEAN CONTAMINATION CONTROL SOLUTION
+NAME OF INSTRUMENT: IN-ORGANIC WET CHEMICAL BENCH & TMAH BENCH
+COMPANY: NANO CLEAN CONTAMINATION CONTROL SOLUTION (INDIA)
+APPLICATIONS: for chemical cleaning of the wafers, wet chemical etching, acid cleaning, HF treatment, semiconductor device processing,
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 29 Dec 2025 - 03:13 PM

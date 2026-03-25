@@ -1,0 +1,52 @@
+Material Characterization | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+FESEM With E-Beam Lithography System
+Stylus Based Profiler
+FESEM With E-Beam Lithography System
+NAME OF INSTRUMENT: FESEM WITH E-BEAM LITHOGRAPHY SYSTEM
+COMPANY: M/S FEI COMPANY OF USA (S.E.A.) PTE. LTD.
+MODEL NUMBER: APREO 2 S HiVac
+Imaging: High-resolution imagining and analysis of nano-scale research, semiconductor characterization, biological samples, and material science (morphology, film thickness,)
+E-beam Lithography: Fabrication of nanometre-scale structures with high resolution and accuracy.
+0.9 nm at 1 kV
+0.8 nm at 1 kV (beam decel.)
+1.0 nm at 1 kV, 10 mm working distance (beam decel.)
+0.8 nm at 500 V (beam decel.)
+1.2 nm at 200 V (beam decel.)
+200 V – 30 kV
+Biological samples HV = (1 – 10) kV
+Metal samples HV = (1 – 30) kV
+Beam Current / Spot Size
+100 pA at 30 kV High Vacuum / Low Vacuum: 5 – 6
+High Vacuum: fast scan (dwell time 0.1 – 0.3 µs)
+Low Vacuum: slow scan (dwell time about 3 µs)
+Stylus Based Profiler
+NAME OF INSTRUMENT: STYLUS BASED SURFACE PROFILER
+COMPANY: BRUKER SINGAPORE PVT. LTD.
+MODEL: DEKTAK –XT
+APPLICATIONS: Surface Characterization, Film Thickness, Step heights, Trench depth, Surface roughness.
+Stylus Contact Profilometry
+Two-dimensional surface profile measurements
+1 to 15 mg
+Stylus Tip Diameter
+Sample X/Y Stage
+Manual 100 mm (4 in.) X/Y, manual levelling
+Vision 64 Operation and Analysis Software
+Scan Length Range
+55 mm (2 in.)
+Data Points Per Scan
+Max. Sample Thickness
+50 mm (1.95 in.)
+Max. Wafer Size
+200 mm (8 in.)
+Step Height Repeatability
+< 5 Å, 1 sigma on 0.1 µm step
+1 mm (0.039 in.)
+1 Å max (@ 6.55 µm range)
+NAME OF INSTRUMENT: INVERTED METALLURGICAL MICROSCOPE WITH LAPTOP
+COMPANY: RADICAL SCIENTIFIC EQUIPMENTS PVT. LTD.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 29 Dec 2025 - 03:13 PM

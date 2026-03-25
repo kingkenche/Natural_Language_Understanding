@@ -1,0 +1,34 @@
+Title: Delivery of high Power ultra - short optical pulses in mid-infrared wavelength range
+Funding Agency: R&D (IIT Jodhpur)
+Completion date: 15-09-2020
+Project Instructor (PI): Dr Somanth Ghosh
+Our objective is to design a range of application specific microstructured optical fibers (MOF) for
+mid-infrared wavelength range, which could deliver high power and stable optical pulses. In this
+context, optical pulses with parabolic temporal intensity profile and linear frequency chirp across its
+width are the only solution that are capable of delivering higher power and tolerate larger nonlinearity
+before wave-breaking. Therefore, we have been designing MOFs which would generate/form and
+transmit stable high power parabolic pulses at suitable mid-IR wavelength for applications in defense,
+biomedical surgery, molecular fingerprint spectroscopy, and micro-machining. We also plan to study
+the stability of the parabolic pulses under the influence of finite loss-window of the fiber and
+higher-order dispersion effects. Moreover, existence and dynamics of parabolic pulses in the
+background of parameter dependent nonlinear effect of modulation instability, generation of parabolic
+pulses with a continuous wave nature, dynamics of mutually interacting parabolic pulses, and
+existence of “dark similaritons” (like “dark solitons”) are several interesting issues we plan to explore
+under this research.
+FIG. 1: (a) Schematic of the microstructured optical fiber (MOF) in which the air-holes (black dots)
+are embedded in a silica matrix with a particular periodic arrangement, reducing the effective index of
+the certain part of the silica. Thus, the center region forms a high-index core surrounded by a
+low-index region and light will be guided by modified index guiding method; (b) Schematic of the
+Bragg fiber which is a kind of photonic crystal fiber. Here, the core is a low index material
+surrounded by several bilayers of alternate high/low index material, giving rise to a photonic bandgap.
+Light is guided through such geometry by photonic bandgap method.
+Down tapered fiber
+FIG. 2: (a) Schematic of a tapered fiber in which the cross-section is Bragg type. In a tapered fiber, the
+fiber parameters namely dispersion and nonlinearity vary along the fiber length in such a way that it
+reshapes an input Gaussian pulse into a parabolic pulse in an asymptotic limit; (b) The evolution of
+the input Gaussian into the parabolic one through a 8 m long fiber is shown; (c) The corresponding
+spectral evolution of the pulse centered at 2.8 µm has been depicted.
+[1] P. Biswas, P. Adhikary, A. Biswas, and S. Ghosh, “Formation and stability analysis of parabolic
+pulses through specialty microstructured optical fibers at 2.1 μm,” Opt. Commun. 377, 120–127
+[2] P. Biswas, S. Ghosh, A. Biswas, B. P. Pal, “Toward Self-Similar Propagation of Optical Pulses in
+a Dispersion Tailored, Nonlinear, and Segmented Bragg-Fiber at 2.8 μm,” IEEE Photon. 9(4),

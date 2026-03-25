@@ -1,0 +1,11 @@
+Computing Systems | Electrical Engineering | IIT Jodhpur
+The research theme on Computing Systems focuses on novel approaches to processing and computation for energy- and memory-efficient hardware. With the availability of massive data acquisition and data processing, the research in future computing systems is oriented towards memory-driven computing AI architectures.
+Research Themes Advanced processor technologies Neuromorphic computing Real-time scheduling algorithms for multicore processors and heterogeneous platforms
+Facilities Keil Professional  ARM Development Studio Development Boards for different processors
+Associated Lab Control & Computing Lab
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

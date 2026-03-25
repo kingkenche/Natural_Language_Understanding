@@ -1,0 +1,8 @@
+# IITJ pipeline — third-party deps (stdlib excluded)
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+numpy>=1.23.0,<3
+matplotlib>=3.6.0
+wordcloud>=1.9.0
+gensim>=4.3.0
+scikit-learn>=1.2.0

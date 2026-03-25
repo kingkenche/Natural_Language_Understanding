@@ -1,0 +1,19 @@
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL SUPERINTENDENT (Digitization)
+(Integrated Information System (IIS) Division)
+(WRITTEN TEST & SKILL TEST)
+-  Digital Resource Management
+-  Tools used for document digitisation.
+-  Proficient in Microsoft Word, Excel and Power point
+-  Familiar with Modern Operating System
+-  FTP server.
+-  GoI record retention policy.
+-  Verification of Logs
+-  Devices -- like printer, scanners
+-  Tools and technique for document size compressions and data
+-  DMS Software management
+-  Preparation of SOPs
+-  Data Analytics and automation
+-  Basic Knowledge of Data Base
+-  Data quality control
+-  SQL Query

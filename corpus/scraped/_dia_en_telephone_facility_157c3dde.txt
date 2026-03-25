@@ -1,0 +1,15 @@
+Telephone Facility | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+IIT Jodhpur provides IP telephone to all Faculty, Group A officers, departments and various offices. Users may contact by dialing 0291 280 xxxx where “xxxx” is intercom number of concern section.
+Institute Telephone Directory
+The dialing procedure for accessing Intercom, local, STD & ISD facilities from your extension phone is as follows:
+Within the campus dial four digit intercom number.
+Call on Mobile: Dial 90 before 10 digit mobile number.
+Local call in Jodhpur on landline: dial 9 and seven digits of landline number without area code.
+Call anywhere in Rajasthan/India on landline : Dial 90 and STD code before landline number.
+Call outside of India: Dial 00 before the destination number.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

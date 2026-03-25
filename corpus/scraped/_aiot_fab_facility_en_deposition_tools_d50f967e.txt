@@ -1,0 +1,58 @@
+Deposition Tools | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+E-Beam Evaporation System
+Thermal Evaporation System
+R-F Sputter System
+Horizontal Three Stack (Oxygen Diffusion & Annealing) Furnace System
+E-Beam Evaporation System
+NAME OF INSTRUMENT: PHYSICAL VAPOR DEPOSITION SYSTEM (E-BEAM)
+COMPANY: EXCEL INSTRUMENTS
+APPLICATIONS: Deposition of high-quality thin films of different materials (metal, metal-oxides, and other semiconductor materials)
+2”, 3” and 4” wafers and with provision of heating and rotation
+RT to 500 °C.
+Thermal evaporator electrodes
+Heating elements: Filaments and Boats
+Electron Beam Source:
+Electron Beam Power Supply, 6kW, 400V, 50Hz 3 Phase, Voltage Adjustable from -6kV to 8kV Maximum Current is 750mA., Programmable sweep with 5 to 8 preinstalled shapes.
+Quartz crystal monitor
+Thickness accuracy = ± 0.01 nm
+Thermal Evaporation System
+NAME OF INSTRUMENT: THERMAL EVAPORATION SYSTEM
+COMPANY: EXCEL INSTRUMENT (INDIA)
+APPLICATIONS: Deposition of high-quality thin films of different materials (metal, insulators, and dielectrics) with in-situ thickness control
+2”, 3” and 4” wafers and with provision of heating and rotation
+RT to 400 °C.
+Thermal evaporator electrodes
+Heating elements: Filaments and Boats
+Electron Beam Source:
+Electron Beam Power Supply, 6kW, 400V, 50Hz 3 Phase, Voltage Adjustable from -6kV to 8kV Maximum Current is 750mA., Programmable sweep with 5 to 8 preinstalled shapes.
+Quartz crystal monitor
+Thickness accuracy = ± 0.01 nm
+R-F Sputter System
+NAME OF INSTRUMENT: RF SPUTTERING SYSTEM
+COMPANY: EXCEL INSTRUMENT (INDIA)
+APPLICATIONS: Deposition of high-quality thin films of different materials (metal, metal-oxides, and other semiconductor materials) in high vacuum.
+Deposition of metal/dielectric layers on 4” wafer
+0 - 600 W
+RT – 700 °C
+Single, Co and Multi
+Silicon Dioxide (Sio2)
+Silicon Nitride (SiN4)
+Hafnium Oxide (Hfo2)
+Horizontal Three Stack Furnace System
+NAME OF INSTRUMENT: HORIZONAL THREE STACK (OXIDATION, DIFFUSION AND ANNEALING) FURNACE SYSTEM
+COMPANY: SVCS PROCESS INNOVATION (Czech Republic)
+APPLICATIONS: Horizontal three-stack tube furnace for processing of wafers (2” & 4” diameter)
+For dry and wet oxidation
+P-type diffusion in 50mm and 100mm diameter silicon wafers
+N-type diffusion in 50mm and 100mm diameter silicon wafers
+2”, 3”, 4” and 6” wafers
+RT to 1500 °C.
+1 lot (25 wafers)
+Oxidation, Doping, Annealing
+p/n-type Solid dopant sources (POCl3, BBr3)
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 29 Dec 2025 - 03:13 PM

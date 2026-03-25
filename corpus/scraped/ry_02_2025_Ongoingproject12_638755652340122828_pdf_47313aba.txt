@@ -1,0 +1,38 @@
+Title of the project:
+Generation of entangled photons and its applications to Quantum Computation and Information
+Interdisciplinary Cyber Physical Systems (ICPS) of Department of Science and
+Duration: 3 Years (2019-2022) & Completion date: April 2022
+Project PI: V. Narayanan
+Project Co-PI: Subhashish Banerjee
+A brief description of the Objective of the project:
+Experimental generation, characterization and desired manipulation of nonclassical states are
+challenging tasks. Non-classical states that are useful for quantum communication and quantum
+information processing will be generated efficiently. Generated nonclassical states will also be
+characterized appropriately. The development of Single Photon Source and its characterization,
+potential applications of it in the domain of defence will be explored. The investigation would be
+mixture of study of theoretical and experimental facets of laser matter interactions that has applications
+in quantum information. In the theoretical front, new schemes for quantum communication will be
+developed in such a manner that it can be realized using the nonclassical states generated.
+Schematics or Pictures:
+Title of the project: Quantum Heat Engines
+Interdisciplinary Cyber Physical Systems (ICPS) of Department of Science and
+Duration: 3 Years (2019-2022) & Completion date : April 2022
+Project PI: V. Narayanan
+Project Co-PI: Subhashish Banerjee
+A brief description of the Objective of the project:
+Even though the role of quantum correlations (more generally, non-classical correlations) is well
+understood in some natural phenomena, there are plenty of other phenomena where the former can
+potentially play pivotal role, Quantum Thermodynamics being one such area. When the medium of heat
+engines are quantum mechanical objects, the work and/or the efficiency of the engine may turn out to
+be characteristically different from their classical counterparts. More surprises can occur when
+interaction is present among the quantum subsystems comprising the medium – as has been revealed –
+in the zero power case (i.e., infinite time is taken for thermalization) – for the case of two spin-1/2
+systems and two quantum harmonic oscillators in the presence of quadratic interactions in Otto engine .
+For a more realistic scenario (i.e., non-zero power case), we need quantum open system approach to
+the action of the engine, which is one of the main goals of this project. This will then be used to
+formulate – in a comprehensive manner – the laws of Quantum Thermodynamics with the aim of
+achieving the usual laws of Thermodynamics in the macroscopic limit. We will also look at the characters
+of non-linear resources in Hamiltonians of the medium of quantum heat engines to get better
+efficiencies. All of these are expected to be done, keeping in mind, some physical implementations (like
+single-atom heat engine, etc.).
+Schematics or Pictures:

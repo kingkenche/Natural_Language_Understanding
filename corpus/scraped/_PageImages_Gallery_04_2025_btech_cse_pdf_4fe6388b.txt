@@ -1,0 +1,52 @@
+Bachelor of Technology Program in
+Computer Science & Engineering
+Indian Institute of Technology Jodhpur
+Bachelor of Technology (B.Tech.) Program in
+Computer Science & Engineering
+L-T-P  Credits   Cat.  Course Title
+Cat.  Course Title
+H  ME111 System Exploration—Drawing
+H  CS111 Computer Programming
+B  PH111 Electromagnetism and Optics
+B  MA111 Linear Algebra and Calculus
+B  CY211 Chemistry
+L  HS111 English / Foreign Language
+S  PE111 Physical Exercises I
+H  EE211 Basic Electrical Engineering
+H  CS211 Digital Logic and Design
+C  CS121 Data Structures and Algorithms
+C  CS212 Object Oriented Analysis and Design
+C  EE213 Signals and Systems
+L  HS211 Principles of Economics
+C  CS311 Data Communication
+C  CS312 Compiler Design
+C  CS313 Operating Systems
+C  CS314 Algorithm Design and Analysis
+P  CS398 B. Tech. Project
+L  HS311 Principles of Psychology
+P  CS498 B. Tech. Project
+L  HS411 Basics of Leadership
+H  ME121 System Exploration—Workshop
+H  EE121 Basic Electronics Engineering
+H  ME122 Engineering Mechanics
+B  MA121 Complex Analysis & Differential Equation
+C  CS112 Discrete Mathematics
+L  HS121 Rights, Responsibilities, Law and Constitution
+S  PE121 Physical Exercise II
+B  MA221 Probability Statistics and Random Processes
+C  CS221 Computer Organization and Architecture
+C  CS222 Theory of Computation
+C  CS223 Software Engineering
+P  CS299 B. Tech. Project
+L  HS221 Principles of Management
+C  CS321 Computer Networks
+C  CS322 Database Systems
+C  CS323 Artificial Intelligence
+P  CS399 B. Tech. Project
+L  HS321 Culture, Art and Heritage
+P  CS499 B. Tech. Project
+L  HS421 Role of Technology in the Development of
+GRAND TOTAL  264
+S. No.  Category
+Course Category Title
+Games & Sports/Social Service

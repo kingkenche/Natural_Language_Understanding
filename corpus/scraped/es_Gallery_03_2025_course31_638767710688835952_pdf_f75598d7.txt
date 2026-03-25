@@ -1,0 +1,42 @@
+Fundamentals of Applied Vehicle
+With the advent of the use of a variety of automotive vehicles in India, there is an urgent need to improve the infrastructure on
+the roads and the highways that these vehicles ride. Equally important is a good understanding of how a vehicle and the driver
+interact  to  improve  the  performance  on  a  given  road  profile.  Two  main  performance  measures  in  this  context  are  the  ride
+comfort and vehicle handling. Together, these form in to a course discipline called Vehicle Dynamics and Chassis System Design.
+This proposed course has been  developed for  engineering professors,  engineers and technical personnel involved in all fields
+related  to  the  automotive  vehicle  design  or  development.  These  include,  powertrain  systems,  braking  systems,  vehicle
+dynamics,  chassis  system  design,  or  suspension  systems.  Additionally,  this  course  can  be  valuable  to  those  with  component
+design responsibilities in the above areas. The course topics will be covered by a group of qualified faculty and possibly by the
+CSM  Software  Company  representative.  Many  of  the  concepts  covered  in  the  lectures  are  planned  to  be  complimented  by
+hands-on ADAMS Car simulation package and constant interaction through Q&A, which further enhances learner interactivity.
+Course participants will learn these topics through lectures and hands-on experiments. Also case studies and assignments will
+be shared to stimulate research motivation of participants.
+Acceleration and Brake Performance
+: January 12 – January 17
+Tire Dynamics, Ride and Steering/Cornering : January 19 – January 23
+Number of participants for the course will be limited to fifty.
+you  are  a  practicing  mechanical  engineer  or  research  scientist  interested  in  understanding
+basic  principles  of  vehicle  dynamics,  or  involved  in  various  components  or  subsystems  of
+powertrain, wheels, steering or chassis systems.
+you are  test engineer interested to learn the principles of vehicle dynamics ride and handling
+conditions and the parameters that affect these.
+you are a student  or faculty  from academic  institution  interested in teaching/learning the
+several design and dynamics topics related to automotive vehicles and how to do research in
+the vehicle dynamics and chassis systems.
+The participation fees for taking the course is as follows:
+Participants from abroad : US $500
+Industry/ Research Organizations: Rs. 10000 for one module
+Academic Institutions: Rs. 1000 for one module
+The above fee includes all instructional materials.
+Prof. Raghu Echempati is in the faculty of Mechanical
+Engineering  at  Kettering  University,  Flint,  MI  (USA).
+His research interests include  Automotive Machine &
+Mechanisms  Design,  Vibrations,  Modeling  and  Study
+of  Automotive  Vehicle  and  Train  Dynamics,  Applied
+Finite  Element  Modeling  &  Analysis,  and  Sheet  Metal  Forming
+B.  Ravindra  is  the  Associate  Professor  of  Mechanical
+Engineering,  Indian  Institute  of  Technology,  Jodhpur,
+RJ  (INDIA).  His  area  of  expertise  includes  Vibrations
+and modeling of smart actuators.
+Prof. B. Ravindra
+Phone: +91-291 2449041

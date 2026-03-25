@@ -1,0 +1,29 @@
+Indian Institute of Technology Jodhpur
+Ph.D. (Energy) and Ph.D. (Mechanical Engineering)
+Cat.  Course Number: Course Title
+Cat.  Course Number: Course Title
+E  Elective 1
+E  Elective 2
+E  Elective 3
+E  Elective 4
+E  Elective 5
+E  Elective 6
+E  Elective 7
+E  Elective 8
+TH  EN799/ME799 Ph.D. Thesis
+TH  EN799/ME799 Ph.D. Thesis
+TH  EN799/ME799 Ph.D. Thesis
+TH  EN799/ME799 Ph.D. Thesis
+TH  EN799/ME799 Ph.D. Thesis
+TH  EN799/ME799 Ph.D. Thesis
+ME751  Advanced Fluid Mechanics
+Theory of Arc Welding Processes
+ME753  Vibration in Mechanical Systems
+3  ME756  Boundary Layer Theory
+3  ME757  Metallurgy of Joining Processes
+3  ME758  Vibration in Agricultural
+Soil and Water Conservation
+3  ME759  Rotor Dynamics
+3  ME760  Quality Control of Weldments
+ME761  Renewable Energy Sources
+M. Sc. Degree

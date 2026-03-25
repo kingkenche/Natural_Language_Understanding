@@ -1,0 +1,36 @@
+E-Learning Studio | Center for Education Technology (CET) | IIT Jodhpur
+The E-learning Studio of the Institute is housed in Berm W20 and aims to serve as a one-stop hub for all video and audio recording, editing, and e-learning content creation for the Institute. The studio has three bays with Production Control Room for Video and Audio Recording and Editing. The studio is equipped with state-of-the-art recording and production facilities.
+Users from IIT Jodhpur may use the Studio Booking Link to check availability and seek confirmation for any recording services. All users are requested to adhere to the studio usage policy.
+E-learning Studio Units
+Bay 01 Video Recording Studio and PCR
+This section has two parts. First, a Multicamera Video Recording set-up with Croma screen with two additional color curtains along with modern lighting set-up. There are two interactive display board compatible with Power-Point Presentation (PPT), Mathematica and other software. For enhancement of fluency in speech delivery a digital Tele-Prompter has been installed on one of the cameras as well as a mirror display of both the interactive display was installed. The second part is the Production Control Room (PCR) consisting of Multicamera Video Switcher, Full HD Video recorder, Audio Mixer, Lighting Control Unit and Tele-Propter Control unit. The Production Control Room (PCR) is equipped with a HD Live Streaming device.
+Bay 02 Audio Recording Studio & PCR
+This section has an Audio Recording set-up designed for all kinds of audio formats, and a Production Control Room (PCR) including a 24-Channel Digital Audio Mixer with a dedicated PC and Audio Recording and Mixing software.
+Bay 03 Video Editing room & Graphics Room
+This section is meant for Audio-Visual Post-Production activity. Presently it has two dedicated PCs with professional software for Video editing, Graphics & Animation.
+Video Recording Studio and Production Control Room (PCR)
+Staging Options for the Video Studio
+Currently, the Video Recording Studio supports 09 staging options :
+Single Cam Close-up with Croma Screen, Instructor with Pen-display
+Single Cam Close-up without Croma Screen, Instructor with Pen-display
+Single Cam Mid-shot with Croma Screen, with interactive display placed behind
+Single Cam Mid-shot without Croma Screen, with interactive display placed behind
+Single Cam Mid-shot with Croma Screen (for 5-10 minute bites / Talking Head)
+Single Cam Mid-shot without Croma Screen (for 5-10 minute bites / Talking Head)
+Multi-Cam Mid-shot without Croma Screen (for 5-10 minute bites / Talking Head)
+Multi-Cam 2-person interview recording with Croma Screen
+Multi-Cam 2-person interview recording without Croma Screen
+Software Licenses Available with E-learning Studio
+Camtasia and Assets
+Web Annotate tool
+Adobe Creative Clouds
+Studio Booking Link
+Use the above link to reserve an available slot in the studio.
+Calendar of Events/Bookings for the E-Learning Studio
+For booking- or facility-related queries regarding the E-learning Studio, please write to Mr Simanta Das ( simantadas@iitj.ac.in ) with cc to head@cete.iitj.ac.in .
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Feb 2026 - 09:46 AM

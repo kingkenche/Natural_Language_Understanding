@@ -1,0 +1,25 @@
+Salient features of Specialization
+Focus  areas  include  advanced  mechanics  of  solids,  robotics,  dynamics  of  land  and  aerial
+vehicles,  vibration  and  experimental  modal  analysis,  acoustics,  development  of  noise  control
+methods,  diagnostics  and  prognostics  of  dynamic  systems,  Computer-aided  design,  Finite
+element analysis, design, and optimization, MEMS/NANO
+ii.  Hands-on exposure through experiments and design complemented with exposure to state of
+the  art  tools  like  MATLAB,  Ansys,  Abaqus,  Adams,  SolidWorks,  Creo,  Pro/E,  Multi-physics
+software & Multi-body simulator.
+Aim  to  impart  advanced  concepts  in  fluid  flow  and  heat  transfer  and  will  enable  students  to
+take up advanced research challenges in this field.
+Training  on  advanced  computational  and  experimental  techniques  for  investigating  fluid  flow
+and heat transfer problems.
+Industry internship and project collaborations
+Advanced  manufacturing  students  under  this  specially  designed  curriculum  will  be  able  to
+commence academic and industrial research in thematic areas using analytical, computational
+and experimental tools.
+ii.  Dual  degree  program  aims  to impart  knowledge  of  fundamentals required  to understand  the
+recent  manufacturing  trends  and  approaches  using  the  Internet  of  things,  machine  learning,
+sensors, etc. for problem-solving required in modern manufacturing industries.
+Students  will  acquire  knowledge  of  hybrid  processing  methodologies;  research  capabilities
+associated  with  miniaturization/smart  manufacturing,  novel  engineering  materials,
+microsystems  fabrication,  Industry  4.0  and  most  importantly,  will  be  trained  to  perform
+collaborative work with an interdisciplinary approach.
+Facilities  to  design,  develop  and  manufacture  new  or  modified  components  for  mechanical
+systems using computer-aided design/modeling software/additive manufacturing

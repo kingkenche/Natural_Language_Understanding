@@ -1,0 +1,8 @@
+GIT Server | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+GIT is a distributed version control system. Git originates from the Linux kernel development and is used by many popular Open Source projects, e.g. the Android or the Eclipse Open Source projects, as well as by many commercial organizations. The core of Git was originally written in the programming language C but Git has also been re-implemented in other languages, e.g. Java, Ruby and Python. To access the GIT server click here .
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

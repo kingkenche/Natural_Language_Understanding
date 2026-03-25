@@ -1,0 +1,2148 @@
+Engineering disciplines have become increasingly interdisciplinary in nature and Chemical Engineering
+is  not  an  exception  to  that.  The  flexibility  of  opting  for  different  specialization  is  ingrained  in
+formulating  the  structure  and  curriculum  of  the  Chemical  Engineering  programme.  Traditionally,
+Chemical  Engineering  teaching  is  focused  on  transport  phenomena,  chemical  engineering
+thermodynamics,  mass  transfer,  fluid  mechanics,  heat  transfer,  chemical  kinetics,  computational
+systems and process control. With the advent of the era of Artificial Intelligence (AI), Machine Learning
+(ML), Molecular Engineering, Industry 4.0 in Chemical Plants; the discipline is being transformed by
+incorporation  of  new  emerging  technologies.  Through  this  Under-Graduate  (UG)  programme  in
+Chemical  Engineering,  IIT  Jodhpur  is  making  conscious  effort  to  divulge  from  traditional  path  and
+planning to establish itself to become a leading institute in this new genre of Chemical Engineering
+education,  which  includes  foundational  courses,  fundamental  courses  in  chemical  engineering,
+emerging areas in chemical engineering, and sustainability aspects for chemical engineers.
+The program begins with students pursuing a common foundation in mathematics, physics, chemistry,
+engineering sciences, engineering design and programming. Students are expected to build on this
+foundation with the concentration on core chemical engineering subjects ranging from material and
+energy  balance,  process  control,  chemical  engineering  thermodynamics  to  chemical  reaction
+engineering.  Core  courses  are  followed  by  a  set  of  departmental  electives  that  enable  students  to
+target their degree program towards in-depth knowledge of areas matching their specific interests.
+The  program  ensures  that  the  design  experience,  which  includes  both  analytical  studies  and
+experiments,  is  integrated  throughout  the  curriculum  in  a  structured  manner  leading  to  advanced
+work. Students can tailor their focus areas in consultation with a faculty advisor. Students can choose
+their departmental electives (streams) from the following areas:
+Chemical Engineering Design;
+Process Engineering Intelligence
+Complex Fluids & Interfacial Engineering;
+v.  Molecular Engineering and,
+Comprehensive  understanding  of  these  areas  will  provide  graduates  with  the  ability  to  adapt  and
+maintain leadership roles through the application of fundamental principles to a rapidly changing and
+growing discipline. The curriculum also offers numerous options that enable students to gain practical
+experience, ranging from collaborative projects in industries to entrepreneurship opportunities at the
+institute's incubation centre.
+2. Objective of the program
+The key objectives of this program are to:
+Enable  students  to  have  fundamental  understanding  of  the  core  concepts  of  Chemical
+ii.  Offer  opportunities  for  specialization  in  emerging  and  multidisciplinary  areas  including
+Molecular Engineering, Data Science and AI applications, Polymer Engineering, Sustainability,
+Biochemical Engineering and Complex Fluids & Interfacial Engineering.
+Empower students with emerging concepts for plant design in context of chemical engineering
+via courses designed with AI, ML, and Industry 4.0 applications.
+Integrate  analytical  and  computational  ability  with  experimental  skills  to  create  individuals
+competent in professional engineering practices in the domain of Chemical Engineering.
+Inculcate  an  attitude  towards  commitment  to  engineering  ethics,  leadership  qualities,
+entrepreneurship and professional development.
+3. Expected Graduate Attribute
+Graduates of B.Tech. program in Chemical Engineering will have:
+Strong understanding of mathematics, science and engineering fundamentals of Chemical
+Aptitude to implement AI, ML, Molecular Engineering and Industry 4.0 relevant technologies
+in chemical companies.
+Ability to use simulation and computational tools for a better understanding and designing of
+Technical competency for addressing sustainability issues and ability to provide technological
+solutions of sustainable nature.
+Entrepreneurial spirit to undertake disruptive innovations.
+Skills to communicate engineering concepts and ideas to peers in written or oral forms.
+Commitment towards professional ethics and have humanitarian engineering skills.
+4. Learning Outcome
+Graduates of the B.Tech. program in Chemical Engineering will:
+i.  Gain  a  strong  understanding  of  mathematics,  science  and  engineering  fundamentals  of
+Chemical engineering including the concepts of  material and  energy  balance;  computational
+methods; transport phenomena; reaction engineering; mass transfer; thermodynamics; heat
+transfer; fluid mechanics and process control.
+Have the ability to design a process equipment or plant to meet desired requirements under
+socio-economic and environmental constraints.
+Be  equipped  with  knowledge  of  emerging  domains:  (i)  Data  Science  &  AI  applications;  (ii)
+Have  technical  capability  for  addressing  sustainability  issues  related  to  water,  energy  and
+Receive effective hands-on laboratory training as a part of laboratory courses and short-term
+research projects, and be able to design and conduct experiments as well as to analyse and
+Develop their communication skills by participating in classroom presentations, entrepreneurial
+events, seminars and workshops.
+5. New skillsets targeted
+Graduates of UG programme in Chemical Engineering at IIT Jodhpur will have,
+Capability to design and develop process equipment and plants using computer-aided design
+and modelling software.
+Advanced technical capability to work with AI/ ML and Industry 4.0 aspects in chemical plants.
+Latest  industrial  aptitude  in  the  areas  of  Recycle  and  Reuse,  Zero  Liquid  Discharge  (ZLD),
+Wealth  from  Waste,  AI  in  Process  Engineering,  Molecular  Engineering,  Complex  fluids  and
+Interfacial  Engineering,  3D  Printing  Materials  and  Processes,  and  Packaging  of  Electronic
+Fluency with scientific computing techniques via courses including Material and Energy Balance,
+Scientific Computations and Data Analytics in Process Modelling and Simulation.
+6. Topic clouds and Mapping of Topic clouds with proposed course
+Table 1: Topics, and Mapping of Topics with Courses
+Fluid Statics, Dynamics, Viscous
+Flow, Turbulence and
+Compressible Flow Fundamentals,
+Material Balance, Energy Balance,
+Simultaneous Material & Energy
+Liquid-Liquid Mass Transfer, Gas-
+Liquid Mass Transfer, Solvent
+Fluid Mechanics (PC)
+Material and Energy
+Mass Transfer (PC)
+Conduction, Convection, Radiation,
+Boiling, Condensation, Heat
+Heat Transfer (PC)
+Kinetics of Homogeneous
+Reactions, Batch Reactor, CSTR,
+Errors in computation, Linear
+systems of equations, ODE, PDE
+Thermodynamics of Chemical
+Thermodynamic analysis of
+Process Plant Design, Equipment
+Design, Cost Economics
+Transport Properties, Continuity
+Equation, Momentum, energy and
+Different forms of Corrosion and
+Industrial Management, Hazards &
+Process Plant Design &
+Product Design, Common
+Methodologies and Strategies
+and Safety for Chemical
+Product Design in
+Conventional Unit Operations in
+Process Industries, Filtration and
+Membrane Separation, floatation,
+Fundamentals of Conventional
+Conventional Process Control, AI in
+Introduction of Machine Learning,
+Neural Networks, Statistical
+Unit Operations (PE)
+Process Control and AI
+Machine Learning (IE)
+Neural network era, deep learning
+and data science era, AI based
+Applications of Artificial
+Intelligence in Chemical
+Introductory Aspects of
+Data driven modeling of distillation
+units, FCC, catalyst regeneration
+Reliability and Maintainability
+Engineering, failure detection
+models, reliability models,
+Calibration methods, signals and
+process analysis in chemical
+plants, Spectroscopic data analysis
+Reactor models, Bayesian
+estimators, observers, filters,
+Introduction to AI, predicate logic,
+Basics of ML, decision trees, neural
+networks, foundation of deep
+Introduction to IoT architecture,
+sensing, actuation, cloud, edge
+and fog computing
+Sensor types, nanoparticles as
+Introduction to mathematical
+modelling, Equation solving
+approaches, Decomposition of
+networks, Convergence Promotion
+Introduction to manufacturing
+systems, cellular manufacturing,
+flexible, lean and agile systems,
+cloud based manufacturing
+Fundamentals and Introductory
+Aspects of Colloids and
+Introduction to Polymer
+Process Modelling (PE)
+Basics of Reliability and
+Engineering for System
+Artificial Intelligence in
+Machine learning-1 (PE)
+Introduction to Internet
+of Things (IoT) (PE),
+Sensors and IoT lab (PE)
+Data Analytics in Process
+Modelling and Simulation
+Industry 4.0 Applications
+Colloids and Suspensions
+Fundamentals of Complex Liquids
+Introductory aspects of Complex
+Fundamentals of Interfacial
+Engineering in Soft Matter
+Introduction, processes and
+applications of bioprinting
+Various materials in 3-D printing
+and their processing, Post-
+processing and Inspection
+Polymer Engineering and Principles  Fundamentals
+Physics of Complex fluids
+Introduction to Complex
+Interfacial Engineering in
+Soft Matter (PE)
+3-D Printing: Material
+Introductory Principles in
+Concepts of Conventional and
+Emerging Waste Management
+Process related Air Pollution
+Air Pollution Control
+Introduction of Rare-earth
+Materials and Radioactive
+Materials, Their Processing, Unit
+Different kinds of Energy
+Resources and their Utilization
+Waste Water Characteristics,
+changes, EIA monitoring and
+methodologies, Recycle and Reuse,
+Introduction, design and
+Fundamentals of Catalytic
+reactions and its application for
+Hydrogen and methanol as fuel
+Ocean Thermal Energy Conversion
+(OTEC) cycles, hybrid OTEC
+systems and technological
+Introduction, approached and
+applications in molecular
+Transport at molecular level,
+Boltzmann equation, transport
+theory and properties of dilute
+gases, correlation function
+Thermodynamic Principles of Self-
+Assembly, Interaction Between
+Lipid Bilayer and Biological
+Electronic and optoelectronic
+polymers, small molecules and
+complexes for electronic
+Processing of Rare-earth
+Energy Resources (PE)
+Waste Water Treatment
+Assessment (EIA) (PE)
+Advanced Waste Water
+Microfluidic Fuel Cell
+Catalysis for Energy (PE)
+Hydrogen & Methanol
+Ocean Thermal Energy
+Fluid-Like Structures and
+Complexes and Polymers
+for Electronics and
+Microstates of a system, statistical
+Food engineering, preservation,
+composition, quality control
+Food Engineering (PE)
+Properties of water molecule,
+supercritical water, confined and
+interfacial water, purification, fuel
+cells, health and medicine
+Molecular Engineering of
+Intermolecular and Molecule-
+Structure-property of electronic
+and optoelectronic polymers,
+piezoelectricity, applications, PCBs
+Molecular dynamics, basics of
+Monte Carlo method
+Basics of Biology, Immobilized
+enzyme, metabolic pathways,
+Industrial importance of
+industrial production of alcohol,
+citric acid, vinegar etc
+Momentum, heat and mass
+transfer in bio-systems and
+their analogous behavior
+Separation processes in
+Modelling of Atoms,
+Molecules and Surfaces
+Polymers for Electronics
+and Optoelectronics I
+biochemical industry, design
+variables and parameters,
+processes and methods
+Bioprocess overview, membrane
+configuration, kinetics, basics
+7.  Course Categories, credit distribution and Credit Structure of B.Tech.
+Table 2: Proposed Course Categories and credit distribution in the proposed B.Tech.
+S.N.  Course Type
+Regular B.Tech.  Double B.Tech.
+B.Tech. Project (PP)
+Open Electives (OE)
+Total Graded + Non-Graded
+8. Credit Structure of B.Tech. Programmes
+Table 3. Credit Structure for B.Tech. Programmes
+Distribution of contact and beyond
+1 hour of Lecture
+1-0-0  1 hr
+0-1-0  1 hr
+1 hour of Tutorial
+1 hour of Lab/Project  0-0-1  1 hr
+#Contact hour for project refers to the involvement of students in the laboratory, discussion, etc.
+List of Program Compulsory (PC) Courses
+Data Structure and Algorithm-CS
+Material and Energy Balance
+Mass Transfer I
+Chemical Reaction Engineering
+Chemical Engineering Thermodynamics
+Mass transfer II
+Process Plant Design & Economics
+Process Control and AI Applications
+Stream-wise Program Elective (PE) Courses
+Industrial Management and Safety for
+Applications of Artificial  Intelligence
+in Chemical Engineering
+Petroleum Refinery Process Modelling  1-0-2
+Basics of Reliability and Maintainability
+Engineering for System Safety
+Introduction to Complex Fluids
+Interfacial Engineering in Soft Matter
+3-D Printing: Material Processing and
+Solid Waste Management
+Air Pollution Control technology
+Waste Water Treatment
+Molecular Transport Phenomena
+Organic Molecules, Complexes and
+Biochemical Separation Processes
+Program elective component for 8th semester
+Design/Practical Experience (ND)
+Options: Three Summer Design Projects (0-0-4) for 2 Credits each or in regular semesters.
+9.  Specializations to be offered by the department:
+Table 6: Specialization and courses
+S.No.  Name of
+Specialization Core (8 credits)  Specialization Elective (12
+4XX0  Basics of Reliability
+4XX0  Artificial Intelligence  3-0-2
+in Chemical Reactor
+Data Analytics in
+Internet of Things
+Sensors and IoT Lab  0-0-2
+focused Mini Project
+focused Design &
+S.No.  Name of
+Specialization Core (8 credits)
+Specialization Elective (12
+Sustainability  Solid Waste
+4XX0  Air Pollution Control
+4XX0  Energy Resources
+7XX0  Catalysis for Energy
+Processing of Rare-
+focused Mini Project
+focused Design &
+S.No.  Name of
+Specialization Core (8 credits)  Specialization Elective (12
+4XX0  Organic Molecules,
+Principles in Polymer
+Modelling of Atoms,
+focused Mini Project
+focused Design &
+10. Curriculum of B.Tech. Chemical Engineering (Regular)
+Table 7. Curriculum of B.Tech. in Chemical Engineering
+CH  NC  GC  Cat  Course
+IS  Mathematics II
+NH  Social Connect
+NH  Performing Arts
+CH  NC  GC  Cat  Course
+PC  Mass Transfer
+PC  Material and
+PC  Mass transfer II
+PC  Heat Transfer
+OE  Open Elective-1
+LTP  CH  NC  GC
+OE  Open Elective-2
+OE  Open Elective-3
+Total of Non-graded and Graded Credit respectively
+Non-Graded Design Credits
+11.  Curriculum of Double B.Tech. : B.Tech. Chemical Engineering and
+Table 8. Programme structure of Double B.Tech.
+CH  NC  GC  Cat  Course
+CH  NC  GC
+Arts I /Sports
+CH  NC  GC  Cat  Course
+CH  NC  GC
+15-3-4  22  1
+CH  NC  GC
+PC  Heat Transfer
+PC  Heat Transfer Lab  0-0-2  2
+IH  Humanities II
+Mass transfer II
+LTP  CH  NC  GC
+Total  17-3-8  28
+CH  NC  GC
+LTP  CH  NC  GC
+Total of Non-Graded and Graded Credits respectively
+Non-Graded Design Credits
+Grand Total  15
+12. Detailed Course Content of Programme Compulsory Courses
+Department  Mechanical Engineering/ Chemical
+B.Tech (ME, CH)
+The instructor will
+Program Compulsory (PC)
+1.  To inculcate the fundamental laws governing fluid flow
+2.  Help the students to understand the importance and application of fluid mechanics.
+3.  To exemplify concepts of similarity and model testing
+The students are expected to have the ability to:
+1.  Apply fundamental knowledge in modelling and analysis of fluid flow problems in engineering
+2.  Interpret data from experiments of fluid flows and solve using differential equations and charts
+Introduction [2 Lecture]: Definition and properties, continuum approach, types of fluids, basics of vector
+calculus and index notations.
+Fluid statics [4 Lectures]: Basic equations, Manometry, hydrostatic force on submerged bodies, rigid
+Integral analysis of fluid flow [4 Lectures]: Reynolds transport theorem, conservation equations.
+Differential  analysis  [5  Lectures]:  Kinematics  of  fluids  -  Deformations  in  fluid  particle,  strain  rate,
+vorticity, stream function, potential function, streamlines, pathlines, streaklines, derivation of Navier-
+Incompressible  Inviscid  flow  [6  Lectures]:  Euler’s  equation,  Bernoulli’s  equation,  elementary  potential
+flows, superposition of elementary flows. Vorticity and vortex flows
+Internal Incompressible Viscous flow [4 Lectures]: Hagen-Poiseuille and Couette flows, skin friction and
+loss coefficients, venturimeter, orifice meter and Pitot tube.
+External Incompressible Viscous flow [5 Lecture]: Boundary layer over flat plate, boundary layer thickness,
+Prandtl-boundary  layer  equations,  momentum  integral  equation,  adverse  pressure  gradient  &
+separation, drag coefficients.
+Dimensional analysis and similarity [2 Lectures]: Buckingham Pi theorem and examples.
+Introduction to Turbulent flows [3  Lectures]: Decomposition of instantaneous velocities, time-averaged
+continuity and Navier-Stokes equations, Reynolds stresses, turbulent viscosity.
+Basics of Compressible flow [3 Lectures]: Acoustic waves, isentropic equations, concept of shock waves
+Few Industrial Applications [4 Lectures]: Pipe networks, Flow past immersed objects, Agitation and
+1.  Fox, R. W., Pitchard, P. J and McDonald, A. T., (2010), Introduction to Fluid Mechanics,
+7thEdition, John Wiley & Sons Inc.
+2.  Munson, B. R., Rothmayer, A. P., Okiishi, T’H., and Huebsch, W. W. Fundamentals of Fluid
+Mechanics, 7th Edition, John Wiley and Sons
+3.  Kundu, P. K, Cohen, I. M and Dowling, D. R, Fluid Mechanics, 6th Edn., Associated Press.
+4.  McCabe, W.L., Smith, J.C., Harriott, P., (2005), Unit Operations of Chemical Engineering, 7th
+edition, McGraw-Hill International edition.
+1.  White, F. M.,(2003), Fluid Mechanics, 5thEdition, McGraw-Hil
+2.  Cimbala, J.M. and Cengel, Y.A., (2010), Fluid Mechanics: Fundamentals and Applications,
+3.  Bird. R. B., Stewart, W. E. and Lightfoot, E. N., 2006, Transport Phenomena, 2nd edition, John
+Wiley & Sons.
+4.  Panton, Ronald L - Incompressible flow, John Wiley & Sons, 2006. Third edition is available from
+Wiley Student Edition
+1.  S. Chakrabarty, Introduction to Fluid Mechanics, NPTEL Course Material, Mechanical Engineering,
+IIT Kharagpur, https://nptel.ac.in/courses/112/105/112105269/
+2.  V.Shankar, Fluid Mechanics, NPTEL Course Material, Chemical Engineering, IIT Kanpur,
+Course Title  Data Structures and Algorithms
+Department  Computer Science and Engineering
+Offered for  B.Tech of all branches
+Prerequisite  Introduction to Computer Programming
+1.  To introduce and practice the implementation of various data structures used for indexing,
+searching, and sorting operations.
+2.  To introduce basic mathematical techniques for algorithm analysis and design.
+1.  Ability to design and implement appropriate data structures for indexing, searching, and sorting
+operations for real-world problems.
+2.  Designing of new algorithms using standard data structures.
+3.  Analyzing the time and space complexities of standard data structures and basic algorithms.
+Algorithm analysis and complexity: Big/little -Oh, Omega, Theta notation, Recurrence equations [2
+Abstract data types: Linear data structures, Tree, Binary trees, Tree traversal, Applications [7 Lectures]
+Search trees: Binary search trees, Balanced search trees, AVL trees, B-Trees [5 Lectures]
+Heaps: Binary Heap, Heap order property and min/max heaps [3 Lectures]
+Sets: Disjoint set ADT, Basic operations on Sets, Union/Find Algorithm [2 Lectures]
+Sorting algorithms: Bubble sort, Selection sort, Bucket sort, Insertion sort, Overview of Divide-and-
+conquer, Quick sort, Merge sort [6 Lectures]
+Hashing: Hash tables and operations, Hash function, Open and closed hashing, External and internal
+hashing, Collision resolving methods, Rehashing [5 Lectures)]
+Graph algorithms: Definitions, Branch and bound, Backtracking, Representation, Traversal, Shortest-path
+algorithms, Minimum Spanning Tree algorithm, Topological sorting [8 Lectures]
+Greedy techniques and Dynamic programming [4 Lectures]
+Implementation of data structures using C programming language.
+2.  Practically verifying and comparing run-time performance and asymptotic behavior of various data
+structures and related algorithms.
+3.  Applications of data structures from real-life scenarios.
+1. M. A. WEISS (2002), Data Structures and Algorithm Analysis in C, Addison-Wesley, 2nd Edition.
+1.  T. H. CORMEN, C. E. LEISERSON, R.L. RIVEST, C. STEIN (2009), Introduction to Algorithms, MIT
+Press, 3rd Edition.
+Department  Department of Chemical Engineering
+The Instructor will:
+1. Provide background about the basic concepts of molecular engineering, biomolecules and their
+structure,  sensors  that  are  used  for  the  detection  and  principles  of  recognition  along  with
+overview of relevant manufacturing processes and applications.
+The students are expected to:
+1.  Gain an overview of overall molecular engineering starting from biomolecules to manufacturing
+processes and applications.
+2.  This course will enable and motivate scholars to pursue higher-level courses in focused areas.
+Introduction  to  Molecular  Engineering:  [10  lectures]  Scope  of  molecular  engineering  (1lecture),
+building blocks of molecular engineering (Monosaccharides, amino acids, nucleic acids, synthetic
+monomer,  macrocyclic  molecules,  metal  chelates  and  cluster)  (5  lectures),  Redox  unit  and
+reactive functional groups, chromophore and fluorophore (4 lectures),
+Approaches in Molecular Engineering: [16 lectures] Chemical conjugation, Chemical polymerization
+(4  lectures),  enzymatic  modification,  molecular  self-assembly  (4  lectures),  methods  of
+recognition for chemical and biomolecules (4 lectures), Nanomaterials and Polymers in Chemical
+Sensors (4 lectures)
+Molecular  Engineering  Applications  for  Chemical  Engineering:  [16]  Chemical  sensor  technology,
+Definition  of  chemical  sensors,  application  of  chemical  sensors  (5  lectures),  hydrogels,
+encapsulation, polymer membranes (4 lectures), micro fabrication methods, existing molecular
+diagnostic  devices,  wearable  sensors,  Catalysis  (5  lectures),  downstream  processing  (affinity
+purification, product modification, membrane technology)(2 lectures)
+1. Banica F.G,(2012) Chemical Sensors and Biosensors: Fundamentals and applications, 1st ed.,
+1.  Nielsen M .B., (2014), Organic Synthesis and Molecular Engineering, John Wiley & Sons, Inc.
+2.  Malhotra B.D., Pandey C.M., (2017), Biosensors: Fundamentals and applications, Smithers,
+Online Course Material
+1.  Pandya H.J., Fabrication Techniques for MEMs-based sensors: Clinical perspective, NPTEL Course
+Material,  Department  of  Electrical  Engineering,  Indian  Institute  of  Science  Bangalore,
+Material and Energy Balance
+Department  Chemical Engineering
+The Instructor will:
+1. Provide the basics of material and energy balances for Chemical Engineers.
+The students are expected to:
+1.  Gain basic understanding of material and energy balances.
+2.  Gain knowledge of applying the material and energy balances to Chemical Engineering Systems.
+Introduction:  Units  and  dimensions  in  chemical  engineering  (1  lecture),  stoichiometric  and  composition
+relations (1.5 lectures), concept of degrees of freedom and linear dependence of a set of equations (1.5
+lectures). [4 lectures]
+Material Balance: Selection of a basis, conservation of mass/atom material balance for systems with and
+without chemical reactions, material balance involving gases (5 lectures), vapors, liquids and solids and
+uses  of  real  gas  relationships,  vapor-liquid  equilibrium  and  concept  of  humidity  and  saturation  (5
+lectures);  Analysis  of  systems  with  bypass,  recycle  and  purge;  Analysis  of  processes  involving
+condensation, crystallization and vaporization (4 lectures). [14 lectures]
+Energy  Balance  :  Conservation  of  energy  with  reference  to  general  energy  balance  with  and  without
+chemical  reactions,  chemical  engineering  problems  involving  reversible  processes  and  mechanical
+energy balance (5 lectures), calculations of heat of change of phase (solid – liquid and liquid –  vapor),
+heat  of  reaction,  heat  of  combustion,  heat  of  solutions  and  mixing  (5  lectures),  determination  of
+temperatures  for  adiabatic  and  non-adiabatic  reactions,  use  of  psychrometric  and  enthalpy
+concentration diagrams(4 lectures). [14 lectures]
+Simultaneous Material and Energy Balances: Degrees of freedom analysis for multicomponent systems (3
+lectures), combined steady state material and energy balances for units with multiple sub-systems (3
+lectures). [6 lectures]
+Unsteady State Material and Energy Balances: Transient material and energy balances with and without
+chemical reactions. [4 lectures]
+1.  Himmelblau D.M., Riggs, J.B. (2015), Basic Principles and Calculations in Chemical Engineering, 8th
+Ed., Prentice India Education Services.
+2.  Bhat, B.I., Vora, S.M., (2004), Stoichiometry, 4th Ed., Tata McGraw Hill Publishing Company Ltd.
+1.  Narayanan K.V. and Lakshmikutty B., (2006), Stoichiometry and Process Calculations, Prentice Hall of
+2.  Felder R.M. and Rousseau R.W., (2005), Elementary Principles of Chemical Processes, 3rd Ed., John
+Wiley & Sons.
+3.  O.A. Hougen, K.M. Watson and R.A. Ragatz, 2004, Chemical Process Principles Part 1, 2nd Edition,
+CBS Publishers and Distributors.
+Online Course Material
+Majumdar  S.K.,  Basic  Principles  and  Calculations  in  Chemical  Engineering,  SWAYAM  Course  Material,
+Mass Transfer I
+Department  Chemical Engineering
+L-T-P [C]  3-0-3 [4.5]
+The Instructor will:
+Share basic concepts of mass transfer operation, definitions and overview of equipment.
+The students are expected to:
+Gain basic understanding of the mass transfer operations and its industrial applications.
+Introduction to Mass Transfer: [8  lecture] Overview with  examples and  definitions,  Fick’s Law (1st
+law), steady state molecular diffusion for fluids in laminar flow, diffusivity of gases and liquids (5
+lectures),  applications  of  molecular  diffusion,  method  of  separation,  penetration  and  surface
+renewal theories (3 lectures)
+Direct Contact Mass Transfer Operations for Immiscible Phases: [10 lectures] Equilibrium, diffusion
+between two insoluble phases, ideal stage, local diffusion, overall diffusion (4 lectures), material
+balance  in  co-current  processes;  counter-current  processes;  stage-wise  processes;  continuous
+and batch processes (4 lectures), minimum stages for total reflux (2 lectures).
+Gas-Liquid Mass Transfer: [8 lectures] Bubble columns, multi-stage absorption, tray efficiency, NTU
+(Number of Transfer Units) (4 lectures), HTU (Height of Transfer Unit), wetted-wall towers, tray
+towers, packed towers, Ergun equation, end effects and axial mixing, q-line location (4 lectures).
+Special Cases in Gas-Liquid Mass Transfer: [12 lectures] Liquid-vapor equilibrium (1 lecture),  vapor
+pressure  curve,  triple  point,  critical  point,  Clausius-Clapeyron  equation,  absolute  humidity,
+saturation,  humidification,  dry-bulb  temperature,  dew  point,  psychrometric  charts,  wet-bulb
+temperature, the Lewis relation (5 lectures), distillation - Pressure-Temperature- Concentration
+phase  diagram  for  binary  systems,  constant  pressure  and  constant  temperature  equilibria  (4
+lectures),  relative  volatility,  Raoult’s  law,  azeotropes,  enthalpy  concentration  diagrams
+Liquid-Extraction  (Solvent  Extraction)  &  Solid-Fluid  Operations:  [4  lectures]  Basics  Definitions
+including  feed,  solvent,  extract,  raffinate  (2  lectures);  liquid-liquid  equilibria,  the  mixture  rule,
+effect of temperature and pressure, three liquid systems (2 lectures).
+Experiments on mass transfer such as
+Diffusivity in gases, diffusivity in liquids (3 experiments)
+Absorption such as packed bed tower/ plate column (4 experiments)
+Distillation (3 experiments)
+1.  Treybal R.E. (2017) Mass Transfer Operation, 3rd Ed., McGraw Hill Education, New Delhi.
+2.  Dutta, B.K. (2007) Principles of Mass Transfer and Separation Processes, 2nd edition, Prentice
+Hall of India
+1. McCabe W.L., Smith J.C. and Harriott P. (2017), Unit Operations of Chemical Engineering, 7th
+Ed., McGraw Hill
+Online Course Material
+1.  Majumdor S.K. and Das C., Mass Transfer Operations I, NPTEL Course Material, Department of
+Chemical Engineering, Indian Institute of Technology Guwahati,
+2.  Mandal B., Mass Transfer Operations I, NPTEL Course Material, Department of Chemical
+Engineering, Indian Institute of Technology Guwahati.
+Department  Mechanical Engineering
+Program Compulsory (PC)
+1.  To inculcate understanding, formulation, designing and solving problems with concepts in
+conduction, convection and radiation
+2.  To explain design concepts of fins, heat exchangers
+3.  To introduce physical background associated with empirical correlations for heat transfer
+coefficients using real world problems
+The students will have the ability to:
+1.  Analyze empirical situation of steady and transient conduction heat transfer
+2.  Evaluate transfer coefficients in natural and forced convection in and out of control areas
+3.  Assess performance of various heat exchangers
+4.  Solve numerical problems related to conduction and radiation heat transfer
+Introduction (1 Lectures): Modes of heat transfer, Fourier’s law, conductivity, diffusivity
+Introduction to Heat conduction (3 Lectures): General heat conduction equations, 1D Heat
+conduction, Boundary and initial conditions, Heat generation
+conduction (4 Lectures):  Heat
+in  plane  wall, cylinder, sphere,
+network analysis, critical radius of insulation, heat transfer from fins
+Transient heat conduction (4 Lectures): Lumped system analysis, transient heat conduction in large
+plane walls, long cylinders and sphere with spatial effect, Heisler and Grober charts
+Numerical methods of heat conduction (2 Lectures): Finite difference formulation, numerical
+methods for 1D and 2D steady state heat conduction
+Introduction  to  convection (4 Lectures): Velocity  and thermal boundary layer, laminar, turbulent
+flows, solution of boundary layer equations, Non-dimensional numbers
+External heat transfer (4 Lectures): Drag and heat transfer, parallel flow over flat plates, flow across
+cylinders and spheres
+Internal heat transfer (4 Lectures): Mean Velocity and Temperature, Critical Reynolds number, The
+entrance regions, Hydrodynamic and thermal entry lengths, fully developed flow
+Natural/free convection (2 Lectures): Physical Mechanism, Natural convection over surfaces, Criteria
+for forced and natural convection
+Boiling and condensation (3 Lectures): Boiling Curve, Nucleate boiling, film boiling, Dropwise and
+film condensation, Nusselt’s theory of film condensation
+Heat  Exchangers  (4  Lectures):  Classifications,  Overall  Heat  Transfer  Coefficient,  LMTD,
+Effectiveness-NTU method, Operation Issues, Introduction to Design of Heat Exchanger
+Introduction to radiation (4 Lectures): Physical Mechanism, Radiations laws, Intensity of Radiation,
+View factors (3 Lectures): View Factor Integral for diffuse surfaces, Radiation exchange, Electric
+1.  Incropera, F. P. & Dewitt, D. P., (2011), Fundamental of Heat and Mass  Transfer, John
+Wiley & Sons
+2.  Cengel, Y. A. & Ghajar, A. J.,(2008),Heat and Mass Transfer, McGraw Hill
+1. Holman J.P., Heat Transfer, Tata McGraw-Hill Edition, New Delhi
+Chemical Reaction Engineering
+Department  Chemical Engineering
+The Instructor will:
+1. Introduce basic concepts of reaction kinetics and chemical reactors.
+The students are expected to have the ability to:
+1.  Have fair understanding of basic concepts of chemical engineering reaction kinetics and
+2.  Design and operate a chemical reactor.
+Introduction: [4 lectures] General understanding and background, Definition of rate of reaction,
+Concepts  of  rate  equations,  stoichiometry  and  rate  laws,  types  of  reactors,  industrial
+reactions and reactors.
+Reaction  kinetics:  [10  lectures]  Determination  of  kinetic  parameters,  Interpretation  of  data,
+design equation using batch- and semi batch- reactors (5 lectures), CSTR, PFR and recycle
+reactor, auto catalytic reactions, reactor choice for single reaction, Reactor design for ideal
+flow reactors (5 lectures).
+Design  for  Multiple  Reactions:  [6  lectures]  Parallel  and  series  reactions,  analysis  of  product
+distribution  and  determination  of  reactor  size  (3  lectures),  selectivity  and  yield  factors,
+Denbigh reactions, reactor choice for multiple reactions (3 lectures).
+Reactor  design  and  operation:  [14  lectures]  Isothermal  and  non-Isothermal  design  of  ideal
+reactors,  tubular  reactor,  auto-thermal  process  (5  lectures),  CSTR,  first  order  reversible
+reaction,  Residence  time  distribution  (RTD)  theory,  role  of  RTD  in  reactor  behavior  (5
+lectures), age distribution (E) of fluid, relationship between E and F curve; non-ideal flow (4
+Catalytic reaction: [8 lectures] Rate controlling steps, intra- and inter- particle mass transfer,
+Thiele  modulus  and  effectiveness  factor,  performance  equations  (4  lectures),  product
+distribution  in  multiple  reactions,  Unreacted  core  model  for  spherical  particles,  rate  of
+reaction, rate-controlling step determination (4 lectures).
+1.  Residence Time Distribution (3 h)
+2.  Kinetics of reaction (3h) such as condensation polymerization etc.
+3.  Batch reactor (6h)
+4.  Flow Reactors (18 h) CSTR PFR Tubular
+5.  Catalysis (3h)
+6.  Half-life method analysis of kinetic data (3h)
+7.  Batch reactive distillation (6h)
+1.  Fogler H. S., (2006), Elements of Chemical Reaction Engineering, 4th Ed., Pearson-
+2.  Levenspiel O., (2000), Chemical Reaction Engineering, 3rd Ed., John Wiley and Sons.
+Schmidt L. D., (2005), The Engineering of Chemical Reactions, 2nd Ed., Oxford University Press.
+Online Course Material
+Mandal,  B.,  CHEMICAL  REACTION  ENGINEERING  –  I,  NPTEL  Course  Material,  Department  of
+Chemical Engineering IIT Guwahati, https://nptel.ac.in/courses/103/103/103103153/
+The Instructor will:
+B.Tech ME, MT, CHE
+1.  Demonstrate the validity and error in the numerical results
+2.  Explain numerical techniques for a variety of problems
+3.  Introduce how to solve numerically algebraic equations, linear systems of equations,
+approximation and ordinary differential equations.
+The students will have the ability to:
+1.  Develop an understanding of numerical error and applicability of a particular method.
+2.  Solve numerically algebraic equations, linear systems of equations and ordinary differential
+3.  Carry out numerical interpolation, differentiation and integration.
+Errors in computation [2 Lecture]: Numerical Algorithms and errors, source and types of errors,
+error propagation, floating point representation, rounding error and floating point arithmetic.
+Roots of equation [8 Lecture]: Iterative methods, order of convergence, Iterative methods for roots
+of nonlinear system of equations.
+Linear systems of equations [8 Lecture]: Direct and iterative methods (Jacobi, Gauss Seidel), rate of
+convergence  of  iterative  methods,  Condition  number,  Power  and  inverse  power  methods  for
+eigenvalue problems, matrix factorization schemes (LU, QR, spectral, Schur, polar, SVD).
+Interpolation [7 Lecture]:  Lagrange, Newton  divided  difference  formula,  Newton’s  interpolations,
+errors in interpolation.
+Differentiation and Integration [7 Lecture]: Differentiation using interpolation formulas, Integration
+using interpolation, Newton-Cotes formulas, Gauss quadrature rules.
+Ordinary  differential  equations  [4  Lecture]:  Taylor  series  method,  Euler’s  Method,  Modified  Euler’s
+Methods, multistep methods, Runge-Kutta Methods.
+Advanced methods for Differential Equations [6 Lecture]: Adaptive methods, BVP finite difference
+methods and their extension to PDEs, introduction to parallel computation.
+1.  S.S. Sastry, (2012) Introductory Methods of Numerical Analysis, PHI Learning.
+2.  E. Kreyszig, (2010) Advanced Engineering Mathematics, Wiley.
+3.  S.C. Chapra, (2008) Applied Numerical Methods with MATLAB for Engineers and Scientists,
+4.  Golub, G.H., and Loan, C.F.V., (2000) Matrix Computation, JHU Press.
+5.  Santosh Kumar Gupta, 2012, Numerical Methods for Engineers, New Academic Sciences.
+1.  R.L. Burden and J.D. Faires, (2011) Numerical Analysis, Cengage Learning.
+2.  J.H Mathews and K.D. Fink, (2006) Numerical Methods using Matlab, Pearson Education.
+3.  R. Süli and D.F. Mayers, (2003) Introduction to Numerical Analysis, Cambridge University
+1.  Lal, R. and Banerjee S., Numerical Analysis, NPTEL Course Material, Department of
+Mathematics, IIT Roorkee, https://nptel.ac.in/courses/111107062/
+2.  Usha, R., Numerical Analysis, NPTEL Course Material, Department of Mathematics, IIT
+Department  Chemical Engineering
+Chemical Engineering Thermodynamics
+L-T-P [C]  3-0-0 [3]
+Offered for  BTech
+The Instructor will:
+1. Provide background of basic concepts in thermodynamics for chemical engineers such as fugacity,
+activity  coefficient,  vapor-liquid  equilibrium  and  reaction  equilibrium  while  focusing  on
+thermodynamics of fluids, equilibria and processes
+The students are expected to:
+1.  Gain understanding of thermodynamic aspects relevant to chemical engineering
+2.  Learn about the importance of thermodynamics for mixing, equilibria and processes
+Review : Laws of thermodynamics, PVT behavior of fluids, Gibb’s phase rule, cubic equations of state
+and generalized correlations. [2 lectures]
+Vapor-liquid equilibrium (VLE): Phase rule, simple models for VLE, VLE by modified Raoult’s law(4
+lectures), VLE from K-value correlations, Flash calculations(2 lectures). [6 lectures]
+Solution Thermodynamics: Fundamental property relationships (1 lecture), free energy and chemical
+potential  (1  lecture),  partial  properties,  definition  of  fugacity  and  fugacity  coefficient    of  pure
+species and species in solution (4 lectures), the ideal solution and excess properties (3 lectures).
+Liquid phase properties from VLE: Models for excess Gibbs energy, heat effects and property change
+on mixing [5 lectures]
+Liquid-Liquid  Equilibria:  Vapor-Liquid-Liquid  Equilibria  (2  lectures);  Solid-Liquid  Equilibria  (2
+lectures); Solid-Gas Equilibria (2 lectures) [6 lectures]
+Chemical  reaction  equilibria:  Equilibrium  criterion,  equilibrium  constant,  evaluation  of  equilibrium
+constant  at  different  temperatures  (3  lectures),  equilibrium  conversion  of  single  reactions,
+multireaction equilibria (4 lectures). [7 lectures]
+Thermodynamic  Analysis of Processes: Work and free energy, availability (2  lectures), analysis of
+mixing, separation processes (3 lectures), heat exchange, lost work calculations (2 lectures). [7
+1. Smith J.M., Van Ness H.C. and Abbott M.M., (2005), Introduction to Chemical Engineering
+Thermodynamics, 7th Ed., McGraw Hill.
+1.  Rao, Y.V.C., (1997), Chemical Engineering Thermodynamics, University Press, Hyderabad.
+2.  Koretsky M.D., (2004), Engineering and Chemical Thermodynamics, John Wiley & sons.
+3.  Kyle B.G., (1999), Chemical and Process Thermodynamics, 3rd ed., Prentice Hall.
+4.  Sandler S.I. (2006), Chemical, Biochemical and Engineering Thermodynamics, 4th Ed., John
+Wiley & Sons.
+Online Course Material
+1. Ananth M.S., Chemical Engineering Thermodynamics, NPTEL Course Material, Department of
+Chemical Engineering, IIT Madras, https://nptel.ac.in/courses/103106070/
+Department  Mechanical Engineering
+Heat Transfer Lab
+Prerequisite  Heat and Mass Transfer
+B. Tech (ME)
+The instructor will:
+Program Compulsory (PC)
+1)  Provide the practical knowledge with regard to the determination of rate of heat exchange in
+various modes of heat transfer
+2)  Provide practical exposure to various temperature measurement instruments and its working
+The students will have the ability to:
+1)  Compare the performance of different convection processes
+2)  Measure the heat transfer properties of various metals
+3)  Understand basic laws of radiation heat transfer
+4)  Measure the temperature of objects using different temperature measurement instruments
+1.  Study on Temperature distribution during 1-D heat transfer in (a) Plain Wall (b) Cylinder (C)
+Sphere. (2 week)
+2.  Measurement of Thermal Conductivity of unknown material. (1 week)
+3.  Effect of Size of Plain wall on Temperature distribution and contact resistance. (1 week)
+4.  Demonstration of domestic solar water heating system (Time vs Temperature plots). (1 week)
+5.  Investigation of the influence of solar luminous intensity, the water flow rate and the angle of
+incidence of the light on the efficiency and temperature difference. (1 week)
+6.  Study on forced and free convection heat transfer for flow over flat plate, Tube bundle and Fins.
+7.  Testing  the  accuracy  and  time  response  of  different  temperature  sensors  (PT100,  NTC,
+Thermocouple,  Mercury  Thermometer,  Gas  Pressure  Thermometer,  Bimetallic  Thermometer).
+8.  Calibration  of  PT100  temperature  sensor  and  derive  equation  of  temperature  as  function  of
+resistance. (1 week)
+9.  Calibration of K-Type thermocouple temperature sensor and derive equation of temperature as
+function of voltage. (1 week)
+10. Study  on  validation  of  different  radiation  laws  (a)  Lambert’s  Distance  Law  (b)  Lambert’s
+Direction Law (Cosine Law) (C) Stefan Boltzmann’s Law (d) Kirchhoff’s Law. (2 week)
+1.  Incropera,  F.  P.  &  Dewitt,  D.  P., (2011), Fundamental of Heat and Mass Transfer, John
+Wiley & Sons
+2.  Cengel, Y. A. & Ghajar, A. J., (2008), Heat and Mass Transfer, McGraw Hill
+3.  Holman J.P., Heat Transfer, Tata McGraw-Hill Edition, New Delhi
+Mass Transfer II
+Mass Transfer I
+L-T-P [C]  3-0-3 [4.5]
+The Instructor will:
+Provide details of mass transfer unit operations and overview of the equipment. This is a 2nd
+course in the series of mass transfer followed by mass transfer I.
+The students are expected to:
+Gain detailed understanding of the mass transfer unit operations and it’s industrial applications.
+Mass Transfer Overview and Diffusion in Solids: [4 lectures] various solid geometries in diffusion (1
+lecture), diffusion (1 lecture), structure of solids and diffusion (2 lectures)
+Gas Absorption (in Liquids/ Solvents): [12 lectures] Equilibrium solubility (1 lecture), two component
+systems,  ideal  and  non-ideal  liquid  solutions,  solvent  selection  (5  lectures),  material  balances  –
+countercurrent flow, absorbers, concurrent flow, stage operations, absorption factor, non-isothermal
+operations, tray efficiency (4 lectures), continuous contact equipment, Henry’s law, transfer units,
+multi-component systems (2 lectures).
+Distillation  in  Tray  Columns:  [10  lectures]  Multicomponent  systems,  flash  vaporization,  partial
+condensation (3 lectures), differential distillation, Ponchon and Savarit Method for tray towers, Single
+Vs  multiple  feeds  (3  lectures),  McCabe  &  Thiele  Method,  reflux  ratios,  azeotropic  mixtures  (4
+Distillation  with  Packed  Towers:  [8  lectures]  Multicomponent  systems,  reflux  ratios  (3  lectures).
+Lewis and Matheson Calculation, Method  of Thiele and Geddes, azeotropic  distillation (3  lectures),
+extractive distillation, low pressure distillation (2 lectures).
+Solid-Fluid  Operations:  [8  lectures]  Effect  of  temperature  and  pressure,  liquid-solid  systems,  the
+Freundlich  equation  (3  lectures),  stage  wise  operations,  equipment,  fluidized  and  moving  beds,
+principles of ion-exchange, drying (5 lectures)
+Liquid-liquid extraction (3 experiments)
+Cooling Tower (2 experiments)
+Membrane process (2 experiments)
+1.  Treybal, R.E., (2017), Mass Transfer Operation, 3rd Ed., McGraw Hill Education.
+2.  Dutta, B.K., (2007), Principles of Mass Transfer and Separation Processes, 2nd edition, Prentice
+Hall of India.
+3.  Foust, A.S., (1980), Principles of Unit Operations, 2nd Edition, Wiley, New York.
+1. McCabe W.L., Smith J.C. and Harriott P. (2017), Unit Operations of Chemical Engineering, 7th
+Ed., McGraw Hill
+Online Course Material
+1.  Majumdor S.K. and Das C., Mass Transfer Operations I, NPTEL Course Material, Department of
+2.  Mandal  B.,  Mass  Transfer  Operations  I,  NPTEL  Course  Material,  Department  of  Chemical
+Department  Chemical Engineering
+Process Plant Design & Economics
+L-T-P  [C]  3-0-3 [4.5]
+Offered for  B.Tech.
+The Instructor will:
+1. Introduce basic concepts in Process Equipment Design, engineering economics, safety features
+and its application to chemical engineering.
+The students are expected to have the ability to:
+1.  Understand technical and business related information to design equipment required in
+2.    Follow a logical sequence of interconnected unit operations for an effective chemical
+Mechanical  design  of  process  equipment:  Background  and  relevance,  Concept  of  design  and
+economics  in  chemical  industries,  pressure  vessels,  tall  columns,  process  piping  design  (5
+lectures);  Materials  and  Fabrication  Selection,  Design  variations,  Selection  criteria,  process
+calculations (4 lectures). [9 lectures]
+Heat Exchange Equipment: Rating of an existing unit and design of a new system of shell and tube
+heat exchangers (4 lectures); design of multiple-effect evaporator (3 lectures). [7 lectures]
+Mass  Exchange  Equipment:  Design  of  a  sieve-tray  tower  for  distillation  (3  lectures);  design  of  a
+packed tower for gas absorption (3 lectures). [6 lectures]
+Pump and Compressor: Types of pumps and selection criteria (2 lectures), calculations of a pumping
+circuit  and  rating,  characteristic  curves  (2  lectures),  Cavitation  and  NPSH,  blowers  and
+compressors,  Single/multistage  compression,  Typical  multistage  compressor  calculations  (4
+lectures). [8 lectures]
+Economics: Basic concepts in economics, Economic Design criteria; Cost and Asset Accounting; Cost
+Estimation; Interest and Investment Costs (4 lectures); Profitability, estimation of various costs
+to  install  and  run  a  plant;  interest  costs  and  present/future  worth  of  cash  flows  (4  lectures);
+methods  for  depreciation  calculation;  discounted  cost  flow/net  present  worth  methods  for
+profitability analysis (4 lectures). [12 lectures]
+1.  Process and mechanical design calculations for process equipment. (6h)
+2.  Numerical studies in reactor design. (6h)
+3.  Design and analysis of separation equipment. (6h)
+4.  Steady-state simulation of flow sheets. (6h)
+5.  Optimization and costing in flow sheets. (3h)
+6.  Design and analysis of control systems. (3h)
+7.  Process flow simulations using commercial simulators. (6h)
+8.  Process economics and Profit analysis. (6h)
+1.  M.S. Peters, K.D. Timmerhaus, R. West, 2003 ‘Plant Design and Economics for Chemical
+Engineers’, 5th edition, McGraw Hill.
+2.  R. Smith, 1995, ‘Chemical Process Design’, McGraw Hill.
+1.  F.C. Jelen and J.H. Black, 1992, ‘Cost and Optimization Engineering’, McGraw Hill, 3rd ed.
+2.  S. Walas, 1988,’Chemical Process Equipment Selection and Design’, Butterworth.
+Online Course Material
+Moholkar V.S., Process Design Decisions and Project Economics, NPTEL course material, Department
+of Chemical Engineering, Indian Institute of Technology Guwahati,
+Transport Phenomena  Number
+The Instructor will:
+1.  Provide knowledge about momentum, heat and mass transfer in chemical engineering systems and
+their analogous behavior.
+2.  Train the student to create chemical engineering knowledge using the transport phenomena approach
+with special focus on combined transport problems.
+The students are expected to have the ability to:
+1.  Identify and analyze the properties and mechanisms of momentum, energy and mass transport.
+2.  Analyze, design and solve problems combining these transport phenomena in chemical engineering.
+Fractal 1: [14 Lectures]
+Basics of Transport phenomena: Introduction (1 lecture), Basic concepts of Vector and Tensor Analysis (3
+lectures) [4 lectures]
+Momentum  transport:  Basic  concepts,  Euler/Lagrangian  viewpoint,  laminar  and  turbulent  flows  (3
+lectures), boundary layers, stress tensor, Shell momentum balances, equations of change, dimensional
+analysis (5 lectures), applications to isothermal flow of Newtonian & non-Newtonian fluids (2 lectures).
+Fractal 2: [14 Lectures]
+Energy transport: Basics of energy transport, conductive, convective and viscous dissipation energy fluxes
+(5 lectures), Equations of change for non-isothermal systems (3 lectures), dimensional analysis, and
+applications to steady- state conduction and convection (6 lectures) [14 lectures]
+Fractal 3: [14 Lectures]
+Mass transport: Basics of mass transport, mechanisms, and mass and molar fluxes [3 lectures] Continuity
+equation: Derivation for a binary mixture (2 lectures), convection- diffusion  problems,
+Unsteady state mass, heat and momentum transport (4 lectures), Formulation of transport problems
+from nature (5 lectures). [11 lectures]
+Tutorial sheets will be provided every week as homework assignments and will be discussed in the next
+slot.  It  will  help  the  students  to  conceptualize  the  problems  and  understand  the  methods  to  solve
+transport related problems.
+1.  Formulation of transport problems [1 lectures]
+2.  Vector, Tensor analysis [1 lectures]
+3.  Newtonian and non-Newtonian momentum transport [4 lectures]
+4.  Boundary layer problems [1 lectures]
+5.  Steady state energy transport [2 lectures]
+6.  Flux [1 lectures]
+7.  Diffusion and convection [1 lectures]
+8.  Unsteady state transport problems [3 lectures]
+1.  Bird, R.B., Stewart, W.E. and Lightfoot, E.N., (2006), Transport Phenomena, 2nd ed., Wiley India.
+2.  Welty, C. E., Wicks, R. E., Wilson, G. L. Rorrer, (2007), Fundamentals of Momentum, Heat, and Mass
+Transfer. 5th ed., Wiley India Pvt. Ltd.
+1.  Geankoplis C.J., 2004, Transport Processes and Separation Process Principles, 4th Ed., Prentice-Hall of
+2.  Brodkey, R.S., Hershey H.C., 2003, Basic concepts in transport phenomena, a unified approach. Vol 1,
+3.  Deen, W.M., (1998), Analysis of Transport Phenomena, Oxford University Press.
+4.  Thompson, W.J., (2000) Introduction to Transport Phenomena, Prentice Hall.
+Online Course Material
+‘Transport Phenomena’ by Prof. S.K. Gupta, NPTEL: https://nptel.ac.in/courses/103/102/103102024/
+Process Control & AI
+The Instructor will:
+1.   To impart knowledge about the dynamics and control strategies for linear and non-linear
+processes along with control elements in continuous and discrete domains.
+2.  Introduce various paradigms that come under the broad umbrella of AI and the application of
+Internet of Things (IoT) in process Control.
+The students are expected to have the ability to:
+1.   Have fair understanding of the dynamics and control strategies for linear and non-linear
+processes along with control elements in continuous and discrete domains.
+2.   Have fair knowledge of IoT and AI application and have the ability to develop an understanding
+of where and how AI can be used in the field of chemical engineering.
+The concept of process dynamics and control, History and Relation of AI and IoT in control systems
+Review of feedback control, On-Off Control, Valve Gains, transfer function, dynamic model building
+Dynamic Behavior of Processes
+Response of first and second order processes, Approximation of higher-order processes transfer
+function, Process with time delays, MIMO Processes [4 lectures]
+Stability and Controller Design
+Review of stability analysis (Routh-Hurwitz test), root-locus method [4
+lectures] PID Controller design, Tuning, and Applications in Process control
+Review of Bode and Nyquist plots, Gain and Phase margins, Stability using frequency response [5
+Effect of process parameters on Bode and Nyquist plots, control system design by frequency
+response methods [4 lectures]
+AI and IoT in control systems
+Modes of control action, integration of AI and IoT, Fuzzy controllers, neural network for controllers
+Control of complex chemical processes and equipment, valve, real time computer control of process
+equipment [5 Lectures]
+AI in Chemical Processes
+AI techniques in process monitoring, fault detection and diagnosis. [5 lectures]
+1.  Basics of control system components, signals and standards (2 hrs.)
+2.  Pressure measuring devices (2 hrs.)
+3.  Level measurement (2 hrs)
+4.  Flow measuring devices (2 hrs.)
+5.  Temperature measuring devices (2 hrs)
+6.  Humidity, density, viscosity and pH measuring devices (2 hrs.)
+7.  Pressure controllers: regulators, safety valves (2 hrs)
+8.  Flow control actuators: different types of valves (2 hrs.)
+9.  Computer process control, PLC, DCS, SCADA (4 hrs.)
+10. AI/IoT in Chemical plants (4 hrs)
+1.  Coughanowr D. R. and LeBlanc S., (2008), Process System Analysis and Control, 3rd Ed.,
+2.  Quantrille, T.E. and Liu, Y.A., (1991), Artificial Intelligence in Chemical Engineering, Academic
+1.  Stephanopoulos G., (1990), Chemical Process Control – An Introduction to Theory and
+Practice, Prentice-Hall of India.
+2.  Boullart, L., Krijgsman, A., Vingerhoeds,R.A., (1992), Application of Artificial Intelligence
+in Process Control, Pergamon Press Ltd. England.
+Online Course Material
+Jogwar, S., Chemical Process Control, NPTEL Course Material, Department of Chemical
+Engineering IIT Bombay, https://nptel.ac.in/courses/103/101/103101142/
+2.  Rengasamy, R., Process Control-Design, Analysis and Assessment, NPTEL Course
+Material, Department of Chemical Engineering IIT Madras,
+Department  Mechanical Engineering
+Fluid Mechanics Lab
+Offered for  B. Tech (ME)
+Prerequisite  Fluid Mechanics
+1.  To introduce various forms of flow measuring devices and techniques
+2.  To provide hands on experience on in the area of experimental fluid mechanics
+The students will have:
+1) Ability to design experimental methods for fluid flow problems
+1. Ability to interpret data from experiments of fluid flows and usage of charts and hand
+Contents (13-14 Classes)
+1.  Determination of head loss in pipes having different diameters, different materials and
+2.  Determination of pressure drop at different types of bends and valves
+3.  Reynolds apparatus to measure critical Reynolds number for pipe flows
+4.  Lift and Drag measurement in an airfoil using pressure measurements
+5.  Wake profile measurement
+6.  Wind tunnel air velocity profile measurement using Pitot static tube
+7.  Working principle of different flow meters (orifice plate, venture meter, turbine, Rota
+meter, electromagnetic flow meter
+8.  Flow measurement around an object or blockage using PIV technique
+1.   Fox, R. W., Pitchard,P. J.,and McDonald, A. T., (2010), Introduction to Fluid Mechanics,
+7thEdition, John Wiley & Sons Inc.
+2.  Cimbala, J.M., Cengel, Y. A. (2010), Fluid Mechanics: Fundamentals and Applications,
+15. Detailed Course Content of Programme Elective Courses
+Industrial  management  and  safety  for
+The Instructor will:
+1.  Provide information about handling of hazardous materials and safety in Chemical plants.
+2.  Illustrate the method of risk assessment to avoid accidents in plants.
+The students are expected to have the ability to:
+1.  Understand the industrial practices of handling hazardous materials and safety assessment.
+2.    Assess the safety in chemical plants and provide recommendations to avoid accidents in
+Risk Assessment and safety: Introduction; Probability theory; event tress; fault trees; LOPA; QRA;
+practical application of QRA; software for QRA; (4 lectures) safety and Loss Prevention; hazard
+and risk; accident and loss statistics; nature of accident process; inherent safety (4 lectures). [8
+Toxicity, Dispersion models and Industrial Hygiene: Definition; effect of toxicants; dose and response
+curves;  relative  toxicity  and  threshold  limits;  Parameters  affecting  dispersion(4  lectures);
+neutrally buoyant dispersion models; toxic effect criteria; release mitigation, Govt. Regulations
+for industrial safety; occupational health hazards and their control(5 lectures). [9 lectures]
+Fires  and  Explosions  in  Chemical  plants:  Fire  Triangle;  flammability  characteristics  of  liquid  and
+vapour;  flammability  diagram;  ignition  energy;  auto  ignition  and  auto  oxidation  (4  lectures);
+adiabatic compression; ignition sources; sprays and mists; explosions; fire protection systems,
+designs to prevent fires and explosions; ventilation; sprinkler systems(5 lectures). [9 lectures]
+Accident Investigation and Case Histories: Theories; methodologies; impact of human factors; root
+cause analysis;  developing effective  recommendations (5  lectures) ; study of  major accidents,
+Strategies  to  avoid  accidents  (such  as,  System  design;  chemical  reactivity;  static  electricity;
+procedures, etc.) (4 lectures). [9 lectures]
+Integrity Management: Definition; risk management; Barrier models; Safety Critical Equipment (3
+lectures); Risk Register; Project Health, Safety and Environment Review; Safety Management;
+reliability management (4 lectures). [7 lectures]
+1.    Daniel A. Crowl and Joseph F Louvar, 2002, Chemical Process Safety Fundamentals with
+Applications, 3rd edition, Prentice Hall.
+2.  Trevor A. Kletz., 2001, Hazop & Hazan, 2nd edition, I.ChemE.
+Online Course Material
+Sinha, S., Chemical Process Safety, NPTEL Course Material, Department of Chemical Engineering
+IIT Roorkee, https://nptel.ac.in/courses/103/107/103107156/
+The Instructor will:
+1.  Provide information about discovery, design and delivery in the chemical industry.
+2.  Illustrate the conceptual implementation of product development in industries.
+The students are expected to have the ability to:
+1. Understand the process associated with new product development and commercialization in
+General  features:  Introduction,  Factors,  idea  generation  and  screening  (screening  vs.  high
+resolution), Framework for chemical product design (3 lectures), processing and verification of new
+material, Classification of chemical products, environmental impact and sustainability (3 lectures).
+Product development aspects: Structure of Chemical Product Engineering, concept development and
+testing (4 lectures), product architecture and industrial design (2lectures). [6 lectures]
+Computer  aided  methods:  Heuristics,  Molecular  dynamics  for  property  prediction(5  lectures),
+Population-based model, Factorial design, Group contribution methods (5 lectures). [10 lectures]
+Case  studies:  water  filter,  heat  exchanger,  paints  and  inks,  adhesives,  liquid  fuels  by  cracking  of
+heavy oil, production of fine Chemicals, fuels and chemicals from syngas, etc. [6 lectures]
+1.  Montgomery, D. C., 2009, Design and Analysis of Experiments, John Wiley & Sons.
+2.  Jess,A., Wasserscheid, P., 2020, Chemical Technology: From Principles to Products. Willey,
+1.  Ulrich, Karl T., Eppinger, Steve D., and Yang, Maria C., 2020, Product Design and Development,
+7th ed., McGraw-Hill Education.
+2.  Recent published journal articles on relevant topics.
+The Instructor will:
+1. Provide general principle and mechanism of different chemical engineering processes.
+The students are expected to have the ability to:
+1. Understand and correlate the principles of different processes and suggest design solutions to
+engineering problems related to separation.
+Particulate  matter:  Introduction,  Particulate  matter,  size  reduction  (4  lectures),  enlargement  and
+separation, Crushers and Grinders (3 lectures). [7 lectures]
+Packed Columns and Granular Beds: Motion of Particles in a Fluid, flow through beds and columns (4
+lectures),  Single  Fluid  flow  through  Granular  Beds,  Specific  Surface  and  Voidage  (5  lectures),
+Packings, pressure drop in packed column (5 lectures). [14 lectures]
+Filtration and Membrane Separation: Theory, filtration equipment, membrane processes (5 lectures),
+general equation, microfiltration, fouling, electrolysis (5 lectures), reverse osmosis, pervaporation
+(4 lectures). [14 lectures]
+Flotation  and  sedimentation:  Fundamental  concept,  froth  flotation  (3  lectures),  gravity  settling,
+centrifugation, design criteria (4 lectures). [7 lectures]
+1.  Harker, J. H., Backhurst, J. R., Richardson, J.F., 2013, Coulson and Richardson’s Chemical
+Engineering, 2nd Volume, 5th Edition, Butterworth-Heinemann.
+2.  W.L. McCabe, J. Smith, P. Harriot, 2005, Unit Operations of Chemical Engineering, 7th Edition,
+1.  E. Ortega-Rivas, 2012, Unit Operations of Particulate Solids: Theory and Practice, CRC  Press,
+Online Course Material
+1. Kishore N, Mechanical Unit Operations, NPTEL course material, Department of Chemical
+Engineering, IITGuwahati, https://nptel.ac.in/courses/103/103/103103155/
+The Instructor will:
+1.  Provide an insight to the membrane-based separations that is an integral part of the down-
+stream processing of various industries.
+The students are expected to have the ability to:
+1.  Develop necessary skills to design appropriate membrane-based separation technique/s as
+per the need.
+Introduction: Membrane and membrane materials, Material properties. [4 lectures]
+Membrane  Preparation:  Phase  inversion  process,  Preparation  of  composite  membrane,  Inorganic
+membranes (4 lectures)
+Membrane Characterization: Microfiltration (MF) characterization, Ultrafiltration (UF) characterization
+Membrane Transport: Pressure driven transport through porous and nonporous membrane, Osmosis
+concepts  (5  lectures),  Reverse  Osmosis  (RO),  Nanofiltration  (NF),  Transport  models,  Micellar-
+enhanced and affinity UF (5 lectures). MF transport, Facilitated transport, Membrane contactors
+(3 lectures). [13 lectures]
+Concentration/  Temperature  driven  and  Hybrid  membrane  processes:  Liquid  membranes,  Gas
+separation, Membrane distillation, hybrid membrane processes [5 lectures]
+Challenges  and  solutions:  Membrane  fouling  (2  lectures),  RO,  NF,  UF,  MF(5  lectures),  Dialysis,
+Electrodialysis, Pervaporation (5 lectures). [12 lectures]
+1. Baker, R.W., (2004), Membrane Technology and Applications, 2nd Edition, Membrane
+Technology and Research Inc., Menlo Park, CA.
+1.  Tewari,  P.K.,  (2016),  Nanocomposite  Membrane  Technology:  Fundamentals  and
+Applications, CRC Press, Taylor & Francis Group.
+Online Course Material
+Mohant K, Membrane Technology, NPTEL course material, Department of Chemical Engineering,  IIT
+Applications  of  Artificial  Intelligence
+B.Tech, Dual Degree
+The Instructor will:
+1. Provide background on AI in chemical engineering and allied systems
+The students are expected to:
+1.  Gain fundamental understanding of the application of AI in chemical and allied engineering.
+2.  Learn to develop AI model equations, approaches for chemical and allied engineering
+3.  Learn to write basic codes of AI for simple systems.
+Artificial Intelligence in Chemical Engineering Background: Early Attempts, Expert System Era (1
+Lecture) , Neural Network Era, Effects and Lacunae of Expert System Era and Neural Network Era
+on  Chemical  Engineering  (2  Lectures),  Deep  Learning  and  Data  Science  Era  (2  Lectures).  [5
+Application of AI in modelling: AI in chemical process modelling (2 Lectures), AI in optimisation of
+chemical  process  (2  Lectures),  Application  of  neural  networks  in  chemical  process  control,
+Modelling  Real-World  Processes:  Deep  and  Shallow  Knowledge  Integrated  with  Approximate
+Reasoning  in  a  Diagnostic  Expert  System  (4  Lectures),  Application  of  AI  techniques  in  fault
+detection and diagnosis of chemical engineering (3 Lectures), Numeric to Symbolic Structures and
+Relationships (1 Lecture). [12 Lectures]
+Case  Studies:  Oxidative  coupling  of  methane  (OCM)  over  the  Mn/Na2WO4/SiO2  catalyst  in  a
+fluidized  bed  reactor  (4  Lectures),  Control  of  Reactive  Distillation  Column  (4  Lectures),  Use  of
+Qualitative    Models    in     Discrete     Event     Simulation     to     Analyze     Malfunctions     in
+Processing Systems (4 Lectures), Fault Detection and Diagnosis Using Artificial Neural Networks
+(4  Lectures),  A  Modular  Approach  to  Multiple  Faults  Diagnosis  (4  Lectures),  Design  of  Protein
+Purification Processes by Heuristic Search (4 Lectures). [24 Lectures]
+AI in Chemical Engineering Recent Trends and Future Outlook: Emergence in large  scale
+systems of self-organizing intelligent agents. [1 Lecture]
+1.  Michael L. Mavrovouniotis, 1990, Artificial Intelligence in Process Engineering, Academic
+1.  Venkat Venkatasubramanian,  2019,  The  Promise  of  Artificial  Intelligence  in  Chemical
+Engineering: Is It Here, Finally?, AIChE, Vol. 65, No. 2
+2.  Zeinab Hajjar, Shokoufe Tayyebi and Mohammad Hosein Eghbal Ahmadi, 2018, Application
+of AI in Chemical Engineering.
+3.  Eghbal-Ahmadi M-H, Zaerpour M, Daneshpayeh M, Mostoui N. Optimization of fluidized bed
+reactor  of  oxidative  coupling  of  methane.  International  Journal  of  Chemical  Reactor
+Engineering. 2012; 10:1-21
+4.  Araromi DO, Sonibare JA, Emuoyibofarhe JO. Fuzzy identification of reactive distillation for
+acetic  acid  recovery  from  waste  water.  Journal  of  Environmental  Chemical  Engineering.
+5.  Shih-Bo  Hung  and  Ming-Jer  Lee,  2006,  Control  of  Different  Reactive  Distillation
+Configurations, AIChE, Vol. 52, No. 4
+6. Neha Sharma and Kailash Singh, 2010, Control of Reactive Distillation Column:  A
+Review, International Journal of Chemical Reactor Engineering, Vol. 8
+The Instructor will:
+L-T-P [C]  3-0-0 [3]
+1. Provide background information about the petrochemical engineering including definition,
+petrochemical products and processes
+The students are expected to:
+1. Gain a holistic view of Petrochemical Engineering and learn about the importance of
+petrochemical products and processes
+Introductory Concepts for Crude Petroleum and Petrochemicals: Composition of crude oil,  physical
+properties of crude  oil,  origin of  hydrocarbons  (3  lectures),  petrochemical global and domestic
+petrochemical  industries,  definitions,  feedstock  for  petrochemicals,  intermediate  and  finished
+products in petrochemicals (3 lectures) [6 lectures]
+Chemical  Processes  in  Petrochemicals:  Dissociation  and  dehydrogenation  (thermal  and  catalytic
+cracking)  (3  lectures),  hydrogenation,  addition,  condensation,  polymerization  (3  lectures)  [6
+Petrochemical  Intermediates  from  Petroleum  Products:  Introduction,  manufacturing  processes  for
+carbon  black  from  methane/  natural  gas,  polyethylene  production  from  ethane  (5  lectures),
+Terephthalic  acid  and  PET  from  from  Xylene,  Naphtha  for  olefins,  sulfuric  acid  from  sulfur,
+cosmetics and food grade coating wax from wax, naphtha cracking (5 lectures). [10 lectures]
+Petrochemical  Finished  Products  from  Intermediates:  Manufacturing  of  paint,  fiber,  plastics  (5
+lectures), rubber, Nylons, fibers (3 lectures), processing of plastic, rubber and fibers (4 lectures).
+Layout  and  Unit  Operations  in  Petrochemical  Plants:  Petrochemical  complex,  Reactors  processing
+units, offsite facilities, power and steam generating plants, cooling tower. [4 lectures]
+Sustainability and Latest Trends in Petrochemical Plants: Effluent water treatment, gaseous effluent
+treatment, latest trends [4 lectures]
+1.  Hatch, Lewis Frederic, and Sami Matar (1981) From hydrocarbons to petrochemicals, Gulf
+Publishing Company, Book Division.
+2.  Chaudhuri U. R. (2011) Fundamentals of Petroleum and Petrochemical Engineering, CRC Press
+1. Meyers, Robert, and Robert Allen Meyers, eds. (2005) Handbook of petrochemicals production
+Online Course Materials
+Pant, K.K. and Kunzru, D., Petroleum Refinery Engineering, NPTEL Course Material, Department of
+Chemical Engineering, IIT Delhi and Department of Chemical Engineering, IIT Kanpur
+Petroleum Refinery Process Modelling
+B.Tech., Dual Degree in Chemical Engineering
+The Instructor will provide:
+1. Thorough understanding in the area of process models for petroleum refinery
+The students are expected to:
+1.  Understand various process models available for refinery processes.
+2.  Learn simulations using Aspen Hysys/ Matlab for petroleum refinery units
+Energy conservation and new trends in petroleum refinery operations: Data Driven Modelling of
+Atmospheric  and  Vacuum  Distillation  Unit  (4  Lectures),  Data  Analytics  of:  Fluid  Catalytic
+Cracking (FCC) Process (2 Lectures), Continuous Catalyst Regeneration (CCR) and Reforming
+Process  (3  Lectures),  Hydroprocessing  Units  (2  Lectures).  Alkylation,  Delayed  Coking,  and
+Refinery-Wide Simulations (3 Lectures). [14 lectures]
+Experiments [28 hours]
+1.  Building the Model in Aspen HYSYS Petroleum Refining Components Design
+2.  Model Applications to Process Optimization
+3.  Rebuild Model Using “Backblending” Procedure
+4.  Simplified VDU Model
+5.  Rigorous Model from a Simplified Model
+6.  Kinetic Models
+7.  Unit-Level Models
+8.  Aspen HYSYS Petroleum Refining FCC Model
+9.  Calibrating the Aspen HYSYS Petroleum Refining FCC Model
+10. Basic FCC Model
+11. Perform Case Studies to Quantify Effects of Key FCC Operating Variables
+12. Generate Delta-Base Vectors for Linear Programming
+13. Aspen HYSYS Petroleum Refining Catalytic Reformer Model
+14. Model Calibration
+15. Build a Downstream Fractionation System
+16. Aspen HYSYS Petroleum Refining HCR Modelling
+17. H2-to-Oil Ratio versus Product Distribution, Remained Catalyst Life and Hydrogen
+18. Build and Calibrate a Preliminary Reactor Model of HCR
+19. Hydrofluoric Acid Alkylation Process Simulation
+20. Simulation and Calibration of a Delayed Coking
+21. Simplified Model of Delayed Coker by Petroleum Shift
+22. Refinery-Wide Process Simulation
+1. Y. A. Liu, Ai-Fu Chang, and Kiran Pashikanti, 2018, Petroleum Refinery Process
+Modeling Integrated Optimization Tools and Applications, Wiley
+Basics of Reliability and Maintainability
+Engineering for System Safety
+Department  Chemical Engineering
+B.Tech, Dual Degree
+Prerequisite  Mathematics I and Mathematics II
+The Instructor will:
+1. Provide background on Reliability Engineering Models that can be integrated for AI
+development in system safety.
+The students are expected to:
+1.  Gain fundamental understanding of the models used for failure detection and reliability
+2.  Learn to connect failure and reliability models for AI approach towards system safety.
+Introduction: Study of Reliability and Maintainability Engineering, Concepts, Terms and
+Definitions, Applications (1 Lecture), Brief History (1 Lecture). [2 Lectures]
+Failure Detection Models: Failure Distribution (4 Lectures), Constant Failure Rate Model (5
+Lectures), Time Dependent Failure Models (5 Lectures). [14 Lectures]
+Reliability Models: Reliability of Systems (4 Lectures), State Dependant Systems, Physical
+Reliability Models (5 Lectures), Design for Reliability (5 Lectures). [14 Lectures]
+Maintainability: General Overview (4 Lectures), Design for Maintainability (4 Lectures),
+Availability (4 Lectures). [12 Lectures]
+1.  Problem solving on Failure Detection Models, Reliability Models and on Designing
+1.  Charles E. Ebeling, 2004, An Introduction to Reliability and Maintainability Engineering,
+3rd Edition, TMH.
+2.  Kailash C. Kapur and Michael Pecht, 2014, Reliability Engineering, John Wiley & Sons
+1. Krishna B. Mishra, 2008, Reliability Engineering: A Perspective, DOI: 10.1007/978-1-
+The Instructor will:
+1.  Provide information of various materials that do not follow the characteristics of simple fluid like
+water (Newtonian Fluid).
+2.  Highlight the underlying intermolecular interactions and its relation to the material properties.
+The students are expected to have the ability to:
+1.  Analyze and explain the anomalous behavior of different fluids.
+2.  Explain the rheological behavior of viscoelastic materials and the structure-property relation of
+Complex  fluids:  Introduction,  common  features  &  applications  (3  lectures),  Viscoelasticity,
+Microstructures,  Intermolecular  and  Surface  forces  (5  lectures,  Forces  in  colloidal  system  and
+stability (5 lectures), Mechanical Rheology (2 lectures). [15 lectures]
+Types of complex fluids and their properties: Colloidal dispersions, polymeric solutions (4 lectures),
+gels, liquid crystals (4 lectures), Emulsions and Blends (3 lectures), Surfactants and micelles (3
+lectures). [14 lectures]
+Micro  and  Mesoscopic  Systems:  Self-assembly,  phases(4  lectures),  Characterization  of  structure-
+property  relationships  in  complex  fluids(5  lectures),  Structures  and  Rheology  of  dispersions(4
+lectures). [13 lectures]
+1.  R. G. Larson, 1999, The Structure and Rheology of Complex Fluids, 1st Edition, Oxford
+2.  Jones, R. A. L., 2002, Soft Condensed Matter, 1st Edition, Oxford University Press.
+1. Isaraelachvili, J., 2011, Intermolecular and Surface Forces, 3rd Edition, Academic Press.
+Interfacial engineering in soft
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Introduce the fundamental concepts of interfaces and its application.
+2.  Provide quantitative and conceptual treatment of interfacial forces and phenomena.
+The students are expected to have the ability to:
+1.  Anticipate the stability of a given interface.
+2.  Infer microscopic processes at the interface and suggest design solutions to engineering problems.
+Interface:  Concept  and  definition,  physical  surfaces,  surface  chemistry  and  physics  of  colloids  (5
+lectures), thin films, dispersions, emulsions, foams (5 lectures), interfacial self-assembly, amphiphilic
+system (3 lectures), comparison and contrast of liquid and solid interfaces (3 lectures). [16 lectures]
+Surfaces  and  forces:  Interfacial  energy  and  forces,  wetting,  shape  of  interfaces  (5  lectures),
+Intermolecular forces and potentials; solvation, structural and hydration forces (5 lectures); particle-
+particle interactions, thin film stability (3 lectures), self-organized monolayers and bilayers, electro-
+kinetic phenomena, adsorption (3 lectures). [16 lectures]
+Industrial aspects: Interfacial rheology and transport, Catalysis (4 lectures), reaction-injection moulding,
+emulsions and foams that require stabilization (4 lectures), emulsifier, Coating Processes (2 lectures).
+1.  Isaraelachvili, J., 2011, Intermolecular and Surface Forces, 3rd Edition, Academic Press.
+2.  Ghosh, P., 2009, Colloid and Interface Science, PHI Learning.
+1. G.J.M. Koper, 2009, An Introduction to Interfacial Engineering, second edition.
+Online Course Material
+1. Ghosh, P., Introduction to Interfacial Engineering, NPTEL course material, Department of Chemical
+Engineering, IIT Guwahati, https://nptel.ac.in/courses/103103033/
+Prerequisite  Basic knowledge of bioengineering
+The instructor will provide the essential concepts of 3D bioprinting and will apprise the student about
+the potential of 3D bioprinting for various applications.
+The student will be able to
+(i)  analyze the properties and performances of different bioinks.
+(ii)  design a bioprinting strategy for specific application.
+Introduction  to  bioprinting  (14  lecture):  Scope,  strategies  and  workflow  (3  lecture),  bioinks  :  types,
+components, physico-chemical and biological properties (5 lecture), cells and cellular micro-aggregates
+in  bioinks  (2  lecture),  cross-linking  strategies  for  bioinks,  commercially  available  bioinks,  bioinks  vs
+biomaterial inks, scaffold free bioprinting (4 lecture).
+Bioprinting processes (14 lecture): Digital designing of 3D organ/tissue model, (3 lecture), 3D bioprinting
+processes:  extrusion  based  bioprinting,  droplet  bioprinting  (4  lecture),  laser  assisted  bioprinting,
+stereolithography  based  bioprinting,  novel  bioprinting  processes  (5  lecture),  selection  criteria  for  3D
+printing processes, limitation of bioprinting processes (2 lecture).
+Application of bioprinting (14 lecture): Bioprinting for tissue engineering and regenerative medicine
+(4 lecture), bioprinted tissue model for drug and cosmetic research, bioprinted food (4 lecture), bioprinted
+bacterial biofilm and biosensors (2 lecture), Bioprinting in chemical engineering (4 lecture).
+Text  book:  W.  Y.  Yeong  and  C.  K.  Chua,  Bioprinting:  Principles  And  Applications,  World  Scientific
+Publishing Co Pte Ltd, 2015, 1st Ed
+Reference  book:  A.  Khademhosseini,  G.  Camci-Unal,  3D  Bioprinting  in  Regenerative  Engineering:
+Principles and Applications, CRC Press , 2018 , 1st Edr
+Department  Metallurgical and Materials Engineering
+3-D Printing: Material Processing and Properties
+L-T-P [C]  3-0-0 [3]
+Offered for  B.Tech. Materials Engineering
+The Instructor will introduce:
+1.  Importance of 3-D printing of materials for various range of applications
+2.  Process control and product quality evaluation through application of basics
+The students are expected to gain:
+1.  Insight of the evolutionary technology for rapid and cost effective growth of products
+into  novel  components  with
+Introduction [5 lectures]: 3-D printing small but multipurpose product inspiration, Science fiction to
+terminology,  Current  system  configurations,  Construction,
+Hardware – software – material Interdependence [5 lectures]:, Essence of hardware, software and
+materials, Impact on systems engineering in various industries, Processing philosophy
+Raw  Materials  [4  lectures]:  Forms  and  sources  of  raw  materials,  Processing  methods  and
+characteristic properties, Material specifications based industries and processing technology e.g.
+3-D Printing Processes [2 lectures]: Process flow and basics of stages involved, Process control,
+Upgrading options, 3-D product design, evaluation, justification and integration (DEJI) model,
+Additive  Manufacturing  of  Metallic  Systems  [5  lectures]:  Light  metals  and  alloys,  Superalloys,
+Intermetallic compounds, Shape memory alloys, porous metals, Rare earth permanent magnets
+Thermo-mechanical  Effects  [2  lectures]:  Phase  transformation,  Microstructure  evolution,  Variation
+in properties, Thermo-mechanical modeling of microstructure evolution and mechanical properties
+3-D Printing of Polymers and Hydrogels [5 lectures]: Natural polymers, Synthetic polymers, Design
+considerations and guidelines, Mechanics modeling, AM of tooling for mass  production processes,
+3-D  bioprinting  hardware,  Reactive  inkjet  printing  of  nylon  materials,  Stimuli  responsive
+hydrogels, Biopolymer hydrogel biolinks
+3-D Printing of Ceramics and composites [5 lectures]: Processing technology and options, Laminated
+object manufacturing, Laser Engineered net shaping, Bio-active ceramics and bio- active glasses,
+Engineering  ceramics,  Green-tape-based  AM,  Complex  ceramic  architecture,  Metal  matrix
+composites,  Ceramic  matrix  composites,  Polymer  matrix  composites  and  their  variants,  Nano-
+Special  Purpose  3-D  Printing  [5  lectures]:  Functionally  graded  materials,  Biomedical  applications,
+Biomimetic design model, Frugal design sustainability, Smart material- DNA origami, 4-D printing,
+Reconstructive  surgery,  Patient  specific  3-D  printing,  Hydrogen  storage  material,  Printed  and
+hybrid electronics enabled by digital AM technologies, Reverse Engineering
+Post-processing and Inspection techniques [2 lectures]: Post processing problems and requirements,
+Student  Presentation  &  Discussion  [2  lectures]:  Concept  for  developing  prototype  object,
+Methodology, Examining novelty and market acceptability, Translation to business idea
+1. Gibson, I., et al (Eds.) (2015), Additive Manufacturing Technology: 3D printing, Rapid
+Prototyping, and Direct Digital Manufacturing, 2nd Ed., Springer
+2.    Maniruzzaman, M.. (Ed.), (2019), 3D and 4D Printing in Bio-medical Applications: Process-
+Engineering and Additive Manufacturing, Wiley- VCH Verlag GmbH & Co.
+1.  Declan, M.D.. (2019), Polymer Based Additive Manufacturing- Biomedical Applications, Springer
+2.  Gu, D., (2015), Laser Additive Manufacture of High-Performance Materials, Springer Verlag
+Online Course Material
+1.  Ramkumar, J., 2018, NOC: Rapid Manufacturing, Department of Mechanical Engineering; IIT
+Department  Chemical Engineering
+L-T-P [C]  3-0-0 [3]
+Offered for  BTech
+The Instructor will:
+1. Provide background knowledge in polymer science and engineering to excite students to pursue
+further studies in the area of polymers and composites
+The students are expected to gain:
+1.  Basic understanding of polymers
+2.  Knowledge about application of polymers in traditional as well as advanced areas
+Introduction: Origin, basics definitions, examples of polymers and their applications, classification of
+polymers  based  on  structure,  processing,  crystallinity(5  lectures),  case  study,  molar  mass
+averages,  polymerization  reaction  and  classification,  Tacticity  and  isomerism  in  polymers(5
+lectures) [10 lectures]
+Amorphous and Crystalline Polymers: Glass transition temperature, amorphous state, definition, free
+volume  theory,  polymer  crystallinity,  crystal  structure  and  its  determination,  single  crystals(5
+lectures)semicrystalline polymers and examples, degree of crystallinity, melting and DSC, Defects
+in Crystalline Polymers (5 lectures)[10 lectures]
+Deformation in Polymers : Elastic deformation, Definitions of stress, strain and their relationship  for
+elastic  deformation(5  lectures),  elastic  deformation  in  polymers,(4  lectures)  viscoelasticity,
+examples, Mechanical Models(5 lectures) [14 lectures]
+Applications  and  other  Topics  in  Polymer  Science  &  Engineering:  Introduction,  examples  and
+applications of polymer blends(3 lectures), block-copolymers, elastomers, polymer composites(5
+lectures) [8 lectures]
+1. Young R.J. and Lovell P.A. (2011) Introduction to Polymers, 3rd Edition, CRC Press
+1. Chanda M. (2006) Introduction to Polymer Science & Chemistry, CRC Press
+Online Course Material
+1. Adhikari B, Science & Technology of Polymers, NPTEL Course Material, Department  of  Metallurgy
+Department  Chemical Engineering
+Solid Waste Management
+Offered for  BTech
+The Instructor will:
+L-T-P [C]  3-0-0 [3]
+1. Provide background about the solid waste management including types, sources and processes
+The students are expected to:
+1. Gain holistic understanding of processes and challenges in solid waste management
+Introduction: Waste generation and management in a technological society, environmental impact
+of  solid  waste,  sources  of  solid  waste,(3  lectures)  functional  elements  of  a  solid  waste
+management system, challenges in solid waste management, integrated waste management(3
+lectures) [6 lectures]
+Collection  and  Processing  of  Solid  Waste:  Collection  of  MSW,  material  separation  and  handling,
+recyclable components, (3 lectures) size reduction and separation, thermal processing of waste,
+biological processing of waste, chemical processing of waste (3 lectures)[6 lectures]
+Landfills  for  Disposal  of  Solid  Waste:  Decomposition  of  solid  waste  in  landfills,  types  of  landfills,
+requirements  of  an  engineered  landfill,(4  lectures)  layout  of  a  landfill  site,  landfill  operations,
+environmental  monitoring  of  landfills(4  lectures),  leachate  management  -  landfill  liners,
+geosynthetic materials(4 lectures) [12 lectures]
+Hazardous  Waste  and  Management:  Characteristics,  landfills  for  hazardous  waste,(4  lectures)
+autoclaving, microwaving, biomedical waste(4 lectures) [8 lectures]
+Recycling  of  Electronic  waste  and  PCBs:  Electronic  waste  management  in  India,  electronic  waste
+recycling, Current approach for PCB recycling,(5 lectures) PCB scrap characteristics, technologies
+for PCB recycling, toxins in PCB fabrication, lead-free soldering(5 lectures) [10 lectures]
+1.  Khan I. H., Ahsan N. (2014) Textbook of Solid Wastes Management, CBS Publishers and
+2.  Khandpur R. S. (2010) Printed Circuit Boards: Design, Fabrication, Assembly and Testing, Tata
+McGraw Hill Education Private Limited
+1.  Tchobanoglous G., Kreith F. (2002) Handbook of Solid Waste Management, 2nd Edition, McGraw
+2.  Shalh K. L., (1999) Basics of Solid and Hazardous Waste Management Technology, Prentice
+Online Course Material
+1.  Ramachandra T. V., Municipal Solid Waste Management, NPTEL Course Material, Department of
+Environmental Science, IISc Bengaluru, https://nptel.ac.in/courses/120108005/
+2.  IITM-EWRE, Solid and Hazardous Waste Management, NPTEL Course Material, Department of
+Civil Engineering, IIT Madras, https://nptel.ac.in/courses/105106056/
+Department  Chemical Engineering
+Air Pollution Control Technology
+Offered for  B.Tech.
+The Instructor will:
+1.  Provide a broad view of air pollution and how to reduce it.
+2.  Provide information about various techniques to control different air pollution.
+The students are expected to have the ability to:
+1.  Understand and explain the processes causing air pollution.
+2.  Anticipate and quantify air pollution and design methods to control it.
+Air pollution: Overview, fossil fuel and automobile, nature and classification of pollutants,(4 lectures)
+BS-VI  regulation,  techniques  to  measure  and  quantify  air  pollution,  air  quality  management,
+Active and future research(5 lectures). [9 lectures]
+Industrial  Air  Pollution  Sources  and  Prevention:  Air  Pollution  in  the  Chemical  Process  Industries,
+Petroleum  Industry,  Power  plants;(5  lectures)  Aluminum,  Iron  and  Steel  Manufacturing(2
+lectures);  Copper,  Lead  and  Zinc  Smelting(2  lectures);  Nickel  Ore  Processing  and  Refining(2
+lectures). [11 lectures]
+Air pollution controlling techniques: Fabric filtration, cyclones, electrostatic precipitation, wet and dry
+scrubbing,  condensation,  thermal  oxidation,  Catalytic  processes,  Activated  carbon,  gas-  phase
+biofiltration, emerging technologies. [15 lectures]
+Ventilation  and  Indoor  Air  Quality  Control:  Overview,  issues  and  impact;  Diagnose,  manage  and
+control,  Ventilation  and  Air  Conditioning,(3  lectures)  volatile  organic  compounds  (VOCs)
+household pollutants and control of indoor air quality, Issues related to ambient air clean-up(4
+lectures). [7 lectures]
+1.  Heck, R. M., Farrauto, R. J., and Gulati, S. T., 2012, Catalytic air pollution control: commercial
+technology. John Wiley & Sons.
+2.  Licht, W.,1988, Air pollution control engineering: Basic calculations for particulate collection,
+Vol. 10, CRC Press.
+1.  Wang, L.K., Pereira, N.C., Hung, Y., 2004, Air pollution control engineering, Vol. 1,
+Springer science + Business media.
+2.  Karl B. Schnelle, Jr., Charles A. Brown, 2002, Air Pollution Control Technology
+Handbook, CRC Press LLC.
+Online Course Material
+Environmental Air Pollution, NPTEL course material, Department of Civil Engineering, Indian Institute
+of Technology Delhi, https://nptel.ac.in/courses/105102089/
+Processing of rare earth & radioactive
+The Instructor will:
+1. Provide in depth knowledge about the processes used to purify rare earth and radioactive
+materials and their applications.
+The students are expected to have the ability to:
+1. Understand the mechanism of rare earth and radioactive materials separation processes and
+Basic  Concept:  Introduction  and  overview,  definition,  atomic  structures,  processing  and  handling,
+history and trade of RE and RA(5 lectures); geological distribution, application of rare earth (RE)
+and radioactive (RA) materials(4 lectures). [9 lectures]
+Rare  Earth  elements:  Ore  mineral,  classification,  physical  and  chemical  properties(4  lectures),
+chromatographic  techniques  for  analysis,  deposit  exploration,  mining,  chemical  treatment,
+separation  processes(5  lectures),  bio-sorption,  recycling,  economic  aspects(4  lectures).  (13
+Radioactive  materials:  Definition,  physicochemical  properties(3  lectures),  Resource  finding  and
+mining,  separation  techniques(5  lectures),  application  in  technology  development,  health  and
+environment effects(4lectures). (13 lectures)
+Sustainability  and  environment:  Sustainability  of  sources  and  demand(2  lectures),  sustainable
+mining, impact on environment, Geo-political considerations(5 lectures). (7 lectures)
+1.  Voncken, J.H.L., 2016, The Rare Earth Elements: An Introduction, Springer.
+2.  Atwood, D. A., 2012, The Rare Earth Elements: Fundamentals and Applications, Wiley.
+3.  Lauf, R.J., 2008, Introduction to Radioactive Minerals, Schiffer Publishing Ltd.
+4.  L'Annunziata, M. F., 2016, Radioactivity: Introduction and History, From the Quantum to
+Quarks. 2nd edition, Elsevier.
+1.    I. B. De Lima, W. L. Filho, 2016, ‘Rare Earths Industry: Technological, Economic, and
+Environmental Implications’, Elsevier.
+The Instructor will:
+1.  Provide information of various energy resources and their role in modern society, with both
+national and global perspectives.
+2.    Present different technologies to harness energy from different resources, and the
+The students are expected to have the ability to:
+1.  Describe the energy sources in use today including the extraction and use of these resources.
+2.  Address the impacts of the use of different energy sources.
+Energy production, environment and economy: Introduction to energy resources and their utilization,
+National and global power generation, role of chemical engineers in power generation, (4 lectures)
+Concepts of ecosystems and environment, local regional and global implications, role of energy
+on economy (3 lectures). [7 lectures]
+Different resources and sustainability: Fossil fuel, natural gas, Biofuel (5 lectures), solar power, wind
+and tidal energy, geothermal, Nuclear energy, (5 lectures) energy from hydrogen and methanol,
+Electrochemical energy (3 lectures), other energy sources, sustainability of different resources (3
+lectures). [16 lectures]
+Energy  harvesting  and  storage:  Introduction  and  general  concept,  Techniques,  materials  (5
+lectures); mechanism for different energy storage (4 lectures), AI and IoT in power generation
+and storage (4 lectures), storage demand, utilization (3 lectures). [16 lectures]
+Industry 4.0: Prelude to the concept; smart energy production, storage and utilization; Indian Govt.
+Policies for green and sustainable energy. [3 lectures]
+1.  G. A. Olah, A. Goeppert, G. K. S. Prakash, (2006), Beyond Oil and Gas: The Methanol Economy,
+Wiley□VCH, Weinheim, Germany.
+2.  Ball M. and Wietschel M., (2009), The Hydrogen Economy Opportunities and Challenges,
+Cambridge University Press.
+3.  Vertes, A. A., Qureshi, A., Yukawa, H., Blaschek, H.P., (2010), Biomass to Biofuels, Wiley.
+4.  R.A. Huggins, Energy Storage, Springer, 2010.
+5.  Joao Cruz, Mairead Atcheson (2016). Floating offshore wind energy (1st Ed). Springer.
+6.  A.G. Ter-Gazarian, Energy Storage for Power Systems, IET Publications,2nd Edition,  2011
+7.  G. N. Tiwari, M K. Ghosal, 2004, Renewable Energy Resources: Basic Principles and
+Applications. Narosa Publishing House, New Delhi.
+Online Course Material
+Mondal P.,Waste to Energy Conversion, NPTEL course material, Department of Chemical Engineering,
+IIT Roorkee, https://nptel.ac.in/courses/103107125/
+Waste Water Treatment
+The Instructor will:
+1.  Illustrate quantitative and conceptual foundation of conventional wastewater treatment.
+2.   Provide information related to the practical configurations, design and operation of conventional
+wastewater treatment processes.
+The students are expected to have the ability to:
+1.  Understand and apply the knowledge to waste water treatment and management.
+2.  Advance the operation of waste water treatment plant and maintenance of equipment
+Overview of water management: Water demand, supply and wastewater generation, water in operating
+units  and  effluent  rejection,  water  quality  parameters  and  standards  (5  lectures);  Waste  water
+specifications, epidemiological and toxic aspects, nature of water pollutants, measurement techniques
+of water pollution, on-line analyzers, screening and primary Treatment (5 lectures). [10 lectures]
+Water treatment processes: General theory, primary water treatment systems such as primary settlers,
+sedimentation,  Coagulation  and  flocculation(5lectures),  filtration,  disinfection,  physicochemical
+treatment,  process  water  stripping(5  lectures),  insoluble  hydrocarbons  and  sludge;  biological
+treatment  of  waste  water  (aerobic,  anaerobic,  biofiltration,  activated  sludge  basins)(5  lectures),
+biological sludge treatment, aerobic, adsorption kinetics in water treatment design of water treatment
+plants(5 lectures). [20 lectures]
+Tertiary wastewater treatment systems: Root zone technology, Ion exchange, ultraviolet (UV) treatment,
+removal  of  N,  P,  K  and  other  trace  elements,  (5  lectures)  sludge  treatment  and  disposal,  low  cost
+water  treatment  systems,  design  of  conventional  wastewater  treatment  plants  (5  lectures).  [10
+Disposal  of  treated  wastewater:  Inland  surface  water,  land  for  irrigation,  marine  coastal  areas.  [2
+1.   Peavy, H.S., Rowe, D. R., and Tchobanoglous, G., 2013, Environmental Engineering. McGraw-Hill,
+2.  Riffat, R., 2013, Fundamentals of Wastewater Treatment and Engineering, CRC
+3.  Spellman, F.R., 2003, Handbook of Water and Wastewater Treatment Plant Operations, CRC press.
+Online Course Material
+Tiwari M K, Wastewater treatment and recycling, NPTEL course material, Department of Civil Engineering,
+IIT Kharagpur, https://nptel.ac.in/courses/105105178/
+The Instructor will provide basic knowledge about molecular transport phenomena.
+The students are expected to gain knowledge about molecular transport phenomena.
+Theory of transport phenomena from a molecular view point. [5 lectures]
+Classical concept from statistical mechanics and derivation of Boltzmann equation. [6 lectures]
+Transport theory and properties of dilute gases. [6 lectures]
+Development of transport theories and properties from Boltzmann equation. [6 lectures]
+Introduction to time correlation functions. [5 lectures]
+1.  Deen W. M., 1998, Analysis of Transport Phenomena, Oxford University Press, New York.
+2.  Bird. R. B., Stewart, W. E. and Lightfoot, E. N., 2006, Transport Phenomena, 2nd edition, John
+Wiley & Sons.
+1.  Slattery J.C., 1999, Advanced Transport Phenomena, Cambridge University Press.
+2.  Leal L. G., 2010. Advanced Transport Phenomena: Fluid mechanics and convective transport
+processes, Cambridge University Press.
+3.  Ramachandran, P. A. 2014. "Advanced Transport Phenomena", Cambridge University Press.
+Online Learning Materials
+1.  R. Nagarajan, Advanced Transport Phenomena, NPTEL Course Material, Chemical Engineering,
+IIT Madras, https://nptel.ac.in/courses/103106068/#
+2.  V. Kumaran, Fundamentals of Transport Processes, NPTEL Course Material, Department of
+Chemical Engineering, IIsc Bangalore, https://nptel.ac.in/courses/103/108/103108099/
+Fluid-Like Structures and Self-Assembling
+Department  Chemical Engineering
+B.Tech, Dual Degree
+The Instructor will:
+1. Provide background on basic concepts of Micelles, Bilayers and Biological Membranes.
+The students are expected to:
+1.  Gain fundamental understanding of intermolecular forces present in Self-Assembly and
+2.  Learn about the importance of intermolecular forces in molecular modeling of Micelles,
+Bilayers and Biological Membranes
+Thermodynamic  Principles  of  Self-Assembly:  Introduction,  Fundamental  thermodynamics  (2
+Lectures), Conditions for formation of aggregates, Critical micelle concentration (2 Lectures),
+Infinite aggregates versus finite aggregates,  Size  distribution of self-assembled structures (3
+Lectures), More complex amphiphilic structures, Effect of interactions between aggregates (3
+Lectures). [10 Lectures]
+Aggregation  of  Amphiphilic  Molecules:  Introduction,  Optimal  head  group  area,  Geometric
+Packing Considerations (2 Lectures), Spherical Micelles, Non-spherical and Cylindrical Micelle,
+Bilayers  and  Vesicles  (3  Lectures),  Factors  affecting  the  changes,  Curvature  elasticity  (2
+Lectures),  Biological  Membranes,  Membrane  Lipids,  Membrane  Protein  and  Structure  (3
+Lectures). [10 Lectures]
+Interaction  Between  Lipid  Bilayer  and  Biological  Membrane:  Introduction,  Attractive  van  der
+Waals  Forces,  Electrostatic  Forces  (1  Lecture),  Hydration  Forces,  Hydration  Model  and  its
+Limitation (2 Lectures), Steric Forces, Hydrophobic Forces, Specific Interactions (2 Lectures),
+Interdependence  of  inter-  and  intra-membrane  forces  (2  Lectures),  Adhesion,  Fusion  (1
+Lecture). [8 Lectures]
+1.  J. N. Israelachvili, 2003, Intermolecular and Surface Forces, 2nd Edition, Academic
+Organic Molecules, Complexes and Polymers for
+Electronics and Optoelectronics
+Department  Chemical Engineering
+L-T-P [C]  3-0-0
+Offered for  BTech
+Prerequisite  Polymer as material fractal
+The Instructor will:
+1. Provide introductory knowledge about molecules, complexes and polymers that are relevant
+to electronics and optoelectronics
+The students are expected to:
+1.  Gain basic knowledge about organic materials for electronics and optoelectronics
+2.  build a foundation to pursue specialization in the area of molecular engineering and organics
+for electronics and optoelectronics
+Fractal 1[14 lectures]:
+Prelude:  Concept  of  electronic  polymers,  synthetic  electronic  polymers  and  their  chemistry,
+structure-property of polymers (4 lectures), nano-electronic polymers, electronic polymer based-
+based  compounds,  electronic  small  molecules,  electronic  nanocomposites  (5  lectures),  electrical
+conductivity of electronic polymers and charge transport/ transfer (5 lectures)
+Fractal 2 [14 lectures]:
+Introduction  to  optoelectronic  polymers:  overview,  optical  polymers,  optical  electroactive
+polymers, organic photovoltaic  polymers (5  lectures),  properties  of  optical polymers, organic
+optoelectronic  systems, emitters,  organic  photonics (5  lectures), optical amplifiers,  detectors
+and receivers, electro-optic modulators (4 lectures)
+Fractal 3 [14 lectures]:
+Small  Molecules  and  Complexes  for  Electronic  Systems:  overview,  small  molecules  based  on
+polycyclic aromatics, solution processable, small molecule dyes, donor-pi-acceptor structure (4
+lectures), organic electronic complexes, polymer metal complexes, liquid crystalline elastomers
+(4 lectures), electro-viscoelastic polymers, electromagnetic shielding polymers (6 lectures)
+1. Sulaiman,K., (2020), Polymers in Organic Electronics – Polymer Selection for Electronic,
+Mechatronic & Optoelectronic Systems, 1st Edition, ChemTec Publishing
+The Instructor will provide basic knowledge about concepts, microstates of a system, statistical
+thermodynamics and classical statistical mechanics.
+The students are expected to gain fair knowledge of basic concepts of molecular thermodynamics,
+microstates of a system, statistical thermodynamics and classical statistical mechanics.
+Review of classical thermodynamics, basic concepts, thermodynamic potential. [4 lectures]
+Microstates of a system. [9 lectures]
+Fundamentals of statistical mechanics, postulates of statistical thermodynamics, statistical
+ensembles, canonical ensemble. [7 lectures]
+Ideal gas, Monoatomic and polyatomic ideal gases, statistical thermodynamics of ideal gases,
+statistical thermodynamics of diatomic ideal gases. [10 lectures]
+Chemical reaction equilibrium, molar heat capacities, specific heat of solids, rate of chemical
+reaction. [2 lectures]
+Application of molecular thermodynamics. [4 lectures]
+Introduction to classical statistical mechanics. [6 lectures]
+Hanson, R.M., Green Susan (2008) Introduction to Molecular Thermodynamics, University Science
+Online Learning Materials
+Srabani Taraphder, https://nptel.ac.in/courses/104/105/104105088/
+Department  Chemical Engineering
+Offered for  BTech
+The  Instructor  will  provide  basic  knowledge  about  chemical  engineering  aspects  of  biology  and
+biotechnology, kinetics of enzyme catalysis, mass transfer, bioreactors, bio-separation and manufacture
+of biochemical products.
+The  students  are  expected  to  gain  understanding  of  chemical  engineering  aspects  of  biology  and
+biotechnology, kinetics of enzyme catalysis, mass transfer, bioreactors, bio-separation and manufacture
+of biochemical products.
+Overview of biotechnology [2 Lectures], diversity in microbial cells, cell
+Basics o f    Biology:
+constituents, chemicals for life. [5 Lectures]
+Kinetics of enzyme catalysis. [5 Lectures]
+Immobilized enzymes: Effects of intra and inter-phase mass transfer on enzyme kinetics. [5 Lectures]
+Major metabolic pathways: Bioenergetics, glucose metabolism, biosynthesis. [5 Lectures]
+Microbial growth: Continuum and stochastic models. [3 Lectures]
+Design, analysis and stability of bioreactors. [4 Lectures]
+Kinetics of receptor-ligand binding. [3 Lectures]
+Receptor-mediated endocytosis. [3 Lectures]
+Multiple interacting microbial population: prey-predator models. [2 Lectures]
+Bio-product recovery & bio-separations; manufacture of biochemical products. [5 Lectures]
+1.  Bailey, J.E. and Ollis, D. F. [1986] Biochemical Engineering Fundamentals, McGraw Hill Book
+2.  Blanch, H.W. and Clark, D.S. [1997] Biochemical Engineering, Marcel Dekker Inc.
+1.   Shuler, M.L. and Kargi, F. [2003] Bioprocess Engineering (Basic Concepts), Prentice Hall of
+Online Course Material
+1.  Ritu  Banerjee  and
+saikat  Chakraborty,  Biochemical  Engineering,
+Department  Chemical Engineering
+L-T-P [C]  3-0-0
+Offered for  BTech
+The  Instructor  will  provide  basic  knowledge  about  bioprocess  technology,  industrial  importance  of
+microorganisms,  fermentation,  industrial  production  of  alcohol,  glycerol,  acetone,  butanol  and
+microbial production of organic acids like citric acid, vinegar etc.
+The  students  are  expected  to  gain  knowledge  about  industrial  importance  of  microorganisms,
+fermentation, industrial production of alcohol, glycerol, acetone, butanol and microbial production of
+organic acids like citric acid, vinegar etc.
+Industrial importance of microorganisms. [5 lectures]
+Substrates for fermentation – major elements, minor elements, vitamins, hormones, trace
+elements and growth factors. [7 lectures]
+Alcoholic fermentation – distilled alcohol, wine and beer. [6 lectures]
+Baker’s yeast production. [2 lectures]
+Production of glycerol, acetone and butanol. [6 lectures]
+Microbial production of organic acids – citric acid, gluconic acid, itaconic acid, gibberellic acid, lactic
+acid and vinegar. [8 lectures]
+Production of industrial enzymes – amylases, proteases, invertases, pectinases, cellulases;
+mushroom production. [8 lectures]
+1.  Shuler, M.L. and Kargi, F. [2003] Bioprocess Engineering: Basic Concepts, Prentice Hall of
+2.  Mansi El-Mansi and C. F. A. Bryce, C.F.A., Fermentation Microbiology and Biotechnology
+1.  Stanbury, P.F., Whitaker, A., Hall, S. Principles of Fermentation Technology
+2.  Friberg, Stig, Handbook of Food and Beverage Fermentation Technology (Food Science and
+Online Course Material
+Patel, N.K., https://nptel.ac.in/courses/103/106/103106109/
+The Instructor will:
+1.  Provide knowledge about momentum, heat and mass transfer in bio-systems and their analogous
+2.   Train the student to create bio-engineering knowledge using the transport phenomena approach
+with special focus on combined transport problems.
+The students are expected to have the ability to:
+1.  Identify and analyze the properties and mechanisms of momentum, energy and mass transport.
+2.  Analyze, design and solve problems combining these transport phenomena in bio-engineering.
+Transport processes across cell membrane: Transport mechanisms, transport by diffusion, filtration and
+osmosis, facilitated diffusion, vesicular transport, bulk transport, co-transport, membrane transport,
+transport of virus in cells. [8 lectures]
+Intracellular Transport: Molecular mechanism of intracellular transport, membrane structure, transport
+of proteins, forms of endocytosis and intracellular transport, factors affecting intracellular transport.
+Models for blood flow: Non-newtonian fluid model, steady flow in tubes, pulsatile flow in a rigid tube,
+pulsatile  flow  in  an  elastic  tube,  blood  flow  dynamics  in  arteries  and  veins,  heart-valve
+hemodynamics. [7 lectures]
+Air flow in the lungs: Mechanics of breathing, gas exchange and transport. [3 lectures]
+Application of the principle of bio-transport phenomenon in medical device development. [2 lectures]
+1.  Truskey, G.A., Yuan, F., Katz, D.F., (2009) Transport Phenomena in Biological Systems, 2nd ed,
+Prentice Hall, New Jersey.
+2.  Bird, R.B., Stewart, W.E. and Lightfoot, E.N., (2006), Transport Phenomena, 2nd ed., Wiley
+1.  Welty, C. E., Wicks, R. E., Wilson, G. L. Rorrer,(2007), Fundamentals of Momentum, Heat, and
+Mass Transfer. 5th ed., Wiley India Pvt. Ltd.
+2.  Geankoplis C.J., 2004, Transport Processes and Separation Process Principles, 4th Ed., Prentice-Hall
+2.  Brodkey, R.S., Hershey H.C., 2003, Basic concepts in transport phenomena, a unified approach.
+Vol 1, Brodkey Publishing.
+3.  Thompson, W.J.,(2000) Introduction to Transport Phenomena, Prentice Hall, 2000.
+Online Course Material
+‘Transport Phenomena’ by Prof. S.K. Gupta, NPTEL: https://nptel.ac.in/courses/103/102/103102024/
+Biochemical Separation Processes
+The Instructor will:
+1.  Provide knowledge in biochemical separation.
+2.  Train the student in separation processes in biochemical engineering.
+The students are expected to have the ability to:
+1.  Understand different aspects of biochemical separation.
+2.  Analyze the different aspects of separation processes in the field of biochemical engineering.
+Introduction: Role of separation process in biochemical industry. [2 lectures]
+Design variables and parameters: feed, product, operating conditions, density, viscosity, diffusion
+coefficients, mass transfer data. [4 lectures]
+Different processes and methods viz. vacuum distillation, adsorption, extraction, membrane processes
+etc. [8 lectures]
+Process design [8 lectures]
+Performance evaluation [4 lectures]
+Case studies [2 lectures]
+1.  Bajpai, P., Bajpai, P.K., Dochain, D. and Dutta, N.N. Biotreatment, Downstream Processing and
+Modelling (Advances in Biochemical Engineering / Biotechnology)
+2.  Blanch, H.W. and Clark, D.S. [1997] Biochemical Engineering, Marcel Dekker Inc.
+1.  Atkinson, B. and Mavituna, F. Biochemical Engineering and Biotechnology Handbook
+2.  Bailey, J.E. and Ollis, D. F. [1986] Biochemical Engineering Fundamentals, McGraw Hill Book
+Online Course Material
+The Instructor will:
+1.  Provide knowledge about reactor design for biochemical engineering systems and scaleup.
+2.  Train the student in bioreactor configurations, design and analysis.
+The students are expected to have the ability to:
+1. Design the reactors for the biochemical engineering systems.
+2.  Analyze the bioreactors.
+Introduction: Bioprocess overview, Common types of  bioreactors, sterilization, thermal sterilization.
+Thermodynamics and rate concept of biochemical engineering systems, enzyme bioreactors, enzyme
+kinetics. measurement principles and methods. [5 lectures]
+Bioreactor configuration: batch reactor, continuous stirred-tank reactor (CSTR), tubular reactor, plug
+flow  reactor,  [5  lectures]  packed  bed  reactor,  solid  state  bioreactors,  photobioreactor,  air  lift,
+fluidized bed reactor, membrane bioreactor. [5 lectures]
+Kinetic expression: Monod’s equation and its generalization. [3 lectures]
+Bioreactor  design:  Basic  calculation;  Bioreactor  design  and  optimum  operations–  mixing
+characteristics;  [6  lectures]  residence  time  distribution  in  bioreactors  and  non-ideality,
+concentration distribution and temperature distribution. [6 lectures]
+Analysis  of  multiple  interacting  microbial  populations:  Biological  system  parameters;  processes
+involving microbial flocs; bioreactors containing microbial films. [3 lectures]
+Basic concept of scale-up of bioreactors and case studies. [4 lectures]
+1.  Bailey, J.E. and Ollis, D. F. [1986] Biochemical Engineering Fundamentals, McGraw Hill Book
+2.  Blanch, H.W. and Clark, D.S. [1997] Biochemical Engineering, Marcel Dekker Inc.
+1.  Atkinson, B. and Mavituna, F. Biochemical Engineering and Biotechnology Handbook
+2.  Aiba, S., Humphrey, A.E. and Millos, N.F. Biochemical Engineering
+3.  Asenjo, J.A. Bioreactor System Design (Biotechnology and Bioprocessing Series)
+Online Course Material
+Suraishkumar, IIT Madras, https://nptel.ac.in/courses/102/106/102106053/
+Introduction to Internet of Things (IoT)
+M. Tech. 1st
+The Instructor will:
+1. Provide overview of applications of IoT and relevant technologies
+The students are expected to have the ability to:
+1. Identify and integrate different components required for IoT applications
+Introduction to IoT: Sensing, Actuation, Basics of IoT Networking (2 Lectures) IoT
+Architecture, Communication Protocols for IoT (2 Lectures)
+Sensor Networks: Wireless Sensor Network, Sensor nodes (2 Lectures)
+Machine to machine Communication: Introduction, Node types and M2M Applications, Integration of
+Sensors and Actuators for Implementation of IoT (4 Lectures)
+Introduction to Cloud, Fog, and Edge Computing, Smart cities and Smart homes, Industrial IoT (4
+1. Kamal, R., (2017), Internet of Things - Architecture and Design Principles, 1st Edition, Mcgraw Hill.
+Preparatory Course Material
+1. Misra, S., Introduction to Internet of Things, NPTEL Course Material, Department of Computer Science
+and Engineering, Indian Institute of Technology Kharagpur, https://nptel.ac.in/courses/106105166/
+Sensors and IoT Lab
+M. Tech. 1
+1.  To introduce students with sensors fabrication
+2.  To familiarize students with measurement instruments like Spectrum and Vector Network
+3.  To introduce students with various kits and components required for IoT applications
+1.  Familiarization with sensor fabrication process and characterization
+2.  Handling high frequency measurement instruments
+3.  Implementation of various circuits required to build a transceiver
+The lab course will be dependent on the various core and elective components of the program. There
+will  be  a  scope  for  modifying  the  contents  depending  on  the  recent  developments  in  technology.
+Experiments from some of the following topics will be part of this lab.
+Implementation of Signal Conditioning Circuits
+Implementation of IoT components using Hardware/Software
+•  Sensor interfacing using off-the-shelf components
+•  Sensor Design, Fabrication and Characterization (Part of this in winter internship)
+•  RF components characterization; Antennas and RF amplifiers
+•  Selected experiments from Communication Systems
+•  Recent topics of interest
+Implementation of real time examples of IoT using Embedded Systems
+The Instructor will:
+1. provide brief understanding about Industry 4.0 concepts in manufacturing systems
+The students are expected to appreciate:
+1.  current trends at system level in manufacturing organizations
+2.  the importance of industry 4.0 concepts at manufacturing systems
+Introduction to Manufacturing systems (2 Lecture)
+Automated Manufacturing Systems: Concept of Group Technology and cellular manufacturing,
+Flexible Manufacturing Systems, Lean Manufacturing, Agile Manufacturing (6 Lectures)
+Industry  4.0  for  Manufacturing  Systems:  Agent  Based  Manufacturing,  Cloud  Based
+Manufacturing (6 Lectures)
+1.  Talavage J., and Hanman R. G, Flexible Manufacturing Systems in Practice, Taylor and
+2.  Gunasekaran A., Agile Manufacturing: 21
+Century Competitive Strategy, Elsevier
+3.  Wang L., and Vincent W. X., Cloud Based Cyber-Physical Systems in Manufacturing, Springer
+Department  Chemical Engineering,
+Offered for  B.Tech., M.Tech., M.Tech.-Ph.D.
+Prerequisite  basics of chemical engineering
+The instructor will:
+Impart knowledge of modern methods of analyzing chemical data.
+The students are expected to have the:
+Comprehensive knowledge of the modern methods of reducing and analyzing chemical data.
+Prelude to chemometrics: Introduction and history of Chemometrics, factorial analysis; reverse, surface and
+mixture design; correlograms and time series analysis; sequential methods, Pattern recognition. [6 lectures]
+Calibration: introduction to multivariable calibration, selectivity problems, statistical problems in calibration,
+Univariate  calibration,  multiple  linear  and  principal  components  regression,  model  validation,  outlier
+detection. [6 lectures]
+Evolutionary  signals  and  process  analysis  in  chemical  plants:  exploratory  data  analysis  and  processing,
+determining composition, resolution pre-processing, composition of sequential data, screening. [6  lectures]
+Derivatives  in  Spectroscopy:  Theoretical  and  computed  derivatives,  derivative  approximation,  calibrating
+with  derivatives,  spectroscopic  monitoring  of  reactions,  kinetics  and  multivariable  model,  online
+spectroscopy. [6 lecture]
+General Data Analysis:  simple analysis of  variance and experimental design (one-way, two-way with and
+without replicates, randomized and blocked designs). [6 lectures]
+Computational  methods:  control  structures  for  selection  and  iteration,  functions,  array  data  structure,
+numerical methods for data analysis. [6 lectures]
+Machine  learning  in  Chemical  plants:  Introduction,  basics  of  decision  trees,  combining  multiple  learner,
+reinforcement learning, experimental design and analysis. [6 lectures]
+1.  Richard G. Brereton, 2003, Chemometrics: Data Analysis for the Laboratory and Chemical Plant,
+2.  Howard Mark, Jerry Workman, Jr, 2018, Chemometrics in Spectroscopy, Elsevier Academic Press.
+3.  Ethem Alpaydin, 2004, Introduction to Machine Learning, MIT Press.
+1.  Vandeginste, B.G.M., Massart, D.L., Buydens, L.M.C., Jong, de D., Lewi, P.J., Smeyers-Verbeke, J.,
+1998, Handbook of Chemometrics and Qualimetrics: Part B, Elsevier.
+2.  Kreyszig, Erwin, 2014, Advanced Engineering Mathematics, John Wiley and Sons, 10th Edition.
+3.  Harald Martens, Tormod Næs, 1989, Multivariate Calibration, John Wiley & Sons.
+4.  Richard G. Brereton, 2007, Applied Chemometrics for Scientists, John Wiley & Sons.
+Artificial Intelligence in Chemical Reactor
+B.Tech, M.Tech., M.Tech-Ph.D. Dual Degree
+Material and Energy Balance, Chemical Reaction
+Engineering, Scientific Computations
+The Instructor will:
+1. Provide background on AI in chemical reactor design
+The students are expected to:
+1.  Gain fundamental understanding of the application of AI in chemical reactor design.
+2.  Learn to develop AI model equations, approaches for chemical reactors.
+3.  Learn to write basic codes of AI control for chemical reactors.
+Reactor Models: Review of Mixing Problem, Batch Reactors (1 Lecture), CSTR, PFR, Bioreactor (1
+Lecture), Non-isothermal reactors (1 Lecture), Fluidised bed and Packed bed reactors (1 Lecture),
+Slurry Reactor, Cholette’s Model (1 Lecture), Non-Ideal Reactors (1 Lecture). [6 Lectures]
+Basic  Concepts  of  Filters:  Bayesian  Estimators,  Luenberger  Observer  (4  Lectures),  Kalman
+Observer, Extended Kalman Filter (4 Lectures), Unscented Kalman Filter, Particle Filter, Moving
+Horizon  Estimation  (5  Lectures),  Multi-rate  Estimations  (3  Lectures),  Multi-rate  Observer  (4
+Lectures). [20 Lectures]
+Case Studies: Qualitative Modelling of Chemical Reaction Systems (3 Lectures), Exothermic Batch
+Chemical  Reactor  Automation  via  Expert  System  (3  Lectures),  State  Estimation  in  a    Batch
+Suspension Polymerization Reactor (3 Lectures), Dynamic Real-Time Optimization of Transitions
+in  Industrial  Polymerization  Processes  using  Solution  Models  (2  Lectures),  On-Line  Nonlinear
+Model-Based Estimation and Control of a Polymer Reactor (2 Lectures), Recursive Estimation in
+Constrained Nonlinear Dynamical Systems (3 Lectures). [16 Lectures]
+1.  Simulation of CSTR
+2.  Simulation of PFR
+3.  Simulation of PBR
+4.  Simulation of Nonisothermal Reactors
+5.  Simulation of Slurry Reactor
+6.  Simulation of Bioreactor
+7.  Simulating Cholette’s Model
+8.  Luenberger Observer
+9.  Kalman Filter
+10. Extended Kalman Filter
+11. Control of Isothermal & Non-isothermal Batch Reactors
+12. Control of Polymer Reactor
+1.  Fogler, H. S., (1992), Elements of Chemical Reaction Engineering, Prentice-Hall
+2.  Michael L. Mavrovouniotis, 1990, Artificial Intelligence in Process Engineering, Academic
+1.  Mohammad  Shahrokhi  and  Mohammad  Ali  Fanaei,  2001,  State  Estimation  in  a  Batch
+Suspension Polymerization Reactor, Iranian Polymer Journal, Vol. 10, Number 3
+2.  J.V. Kadam, B. Srinivasan, W. Marquardt, D. Bonvin, Dynamic Real-Time Optimization of
+Transitions in Industrial Polymerization Processes using Solution Models
+3.  Rajendra K. Mutha, William R. Cluett, Alexander Penlidis, 1997, On-Line Nonlinear Model-
+Based Estimation and Control of a Polymer Reactor, AIChE Journal, Vol. 43, Number 11
+Pramod  Vachhani,  Raghunathan  Rengaswamy,  Vikrant  Gangwal,  2005,  Recursive
+Estimation in Constrained Nonlinear Dynamical Systems, AIChE Journal, Vol. 51, Number
+B. Tech, M. Tech and PhD
+The Instructor will:
+1.  Provide understanding about the importance of nanoscale materials for sensing applications.
+2.  Teach approaches for fabrication and characterizing of sensors based on nanomaterials.
+3. Enhance critical, creative and innovative thinking to tailor nanomaterials for specific application.
+The students are expected to have the ability to:
+1.  Design and fabricate nanomaterial based sensors.
+2.  Undertake interdisciplinary research and exploit nanomaterials for new sensing applications.
+Sensor types: Displacement, position and proximity sensors (3 lectures); velocity, motion, force and
+pressure sensors (4 lectures); components and classification of sensors (1 lecture); parameters for
+sensor characterization (1 lecture); sensor arrays (1 lecture).
+Nanostructures and Nanoparticles: Nanostructures (1  lectures); nanostructure  fabrication (top  down
+and bottom up approach) (3 lectures); characterization of nanostructures using different techniques
+(Atomic  Force  Microscopy,  Scanning  Electron  Microscopy,  Tunneling  Electron  Microscopy)  (3
+lectures);  nanoparticles  (types  and  shapes)  (1  lecture);  nanoparticle  production,  shape  control,
+functionalization  and  application  (2  lectures);  nanowires  (properties,  sensing  mechanism,
+fabrication, and devices) (4 lectures); quantum dots (1 lecture).
+Carbon nanotubes/nanofibres (CNT/CNF) and other Nanosensors: CNT structure, properties, synthesis,
+functionalization  (3  lectures);  CNT/CNF  based  sensors  (single  layer/multi-layer)  (2  lectures);
+nanostructure,  nanoparticles,  nanowire  and  nanofibre  based  metal  oxide  sensors  (3  lectures);
+flexible sensors and electronic skin (2 lectures); Nanosensors in engineering applications: optical,
+chemical,  mechanical,  electrochemical,  mass  sensitive,  biosensors,  mechanical  sensors  in  liquid
+solution, thin film sensors (7 lectures).
+1.  Khanna, V. K., (2011), Nanosensors: Physical, Chemical, and Biological, CRC Press.
+2.  Atta, N. F., (2014), Nanosensors: Materials and Technologies. IFSA Publishing.
+3.  Meyyappan, M., (2004), Carbon Nanotubes: Science and Applications, 1
+Edition, CRC Press.
+Self Learning Material
+Data Analytics in Process Modelling and
+M.Tech.,  M.Tech-Ph.D.  Dual  Degree
+The Instructor will:
+1.  Impart knowledge about the mathematical modelling of physical systems, data analytics and
+introduce flow-sheet simulation as a tool for process analysis, enabling systems approach in
+modelling of a process with interaction among several unit processes and unit operations.
+2.  Provide insight into development of simulators to do steady-state and dynamic simulation.
+The students are expected to:
+1. Gain in-depth knowledge of the data analytics and mathematical modelling of physical systems
+and process with interaction among several unit operations and have insight into development
+of simulators to do steady-state and dynamic simulation.
+Introduction to mathematical modelling: lumped vs distributed parameter systems, process
+synthesis, design, simulation & analysis, Modelling of various chemical systems covering
+heat, mass, momentum transfer, and reactions, Sequential and simultaneous modular
+approaches for flow-sheet Simulation (9 lectures).
+Equation solving approaches: Partitioning, Decomposition, Disjointing, PTM, SWS-, Steward-, and
+Rudd-Algorithms, Direct Methods, Pivoting, Iterative methods, BTF, BBTF, Block Back
+Substitution, BTS. (4 lectures)
+Decomposition of networks: Tearing algorithms, digraph, MCN, signal flow graph, B&M
+algorithm, BTA, K&S algorithm, M&H-1 & -2 algorithms, and related problems, Convergence
+Promotion. (6 lectures)
+Data  analysis:  Sources  and  data  banks  of  physical  &  thermodynamic  properties,  Modularity &
+Routing, Specific purpose simulation, Dynamic simulation (9 lectures)
+Process Modelling and Simulation Design Lab (28 hrs)
+Modelling of Heat exchange equipment (2)
+Modular approaches for flow-sheet Simulation (4)
+Process simulation using MATLAB (6)
+Process simulation using ASPEN (6)
+Distillation with reflux, reboiler and condenser (6)
+Case studies: Process simulation of industrial scale processes and validation (4)
+1. Jana, A.K. Chemical Process Modelling & Computer Simulation, 2nd ed., PHI Learning, 2011
+1.  Babu, B.V. Process Plant Simulation, Oxford University Press, India, 2004.
+2.  Luyben, W.L. Process Modelling, Simulation & Control for Chemical Engineers, 2nd ed.,
+McGraw Hill, 1990
+Online Course Material
+1.  Agrawal,  V.K.,  Process  Modelling  and  Simulation,  NPTEL  Course  Material,  Department of
+Chemical Engineering, IIT Roorkee https://nptel.ac.in/courses/103/107/103107096/
+Computer Science and Engineering
+M.Tech. 1st year, Ph.D. 1st
+The Instructor will:
+1. Cover various paradigms that come under the broad umbrella of AI, with some of them being
+covered in depth
+The students are expected to have the ability to:
+1. Develop an understanding of where and how AI can be used
+Introduction (1 lecture)
+Propositional logic (8 lectures)
+Search: Uninformed strategies (BFS, DFS, Dijkstra), Informed strategies (A* search, heuristic
+functions, hill-climbing), Adversarial search (Minimax algorithm, Alpha-beta pruning) (10 lectures)
+Predicate logic: Knowledge representation, Resolution (6 lectures)
+Rule-based systems: Natural language parsing, Context free grammar (3 lectures) Constraint
+satisfaction problems (4 lectures)
+Planning:  State  space  search,  Planning  Graphs,  Partial  order  planning  (4  lectures)  Uncertain
+Reasoning:  Probabilistic  reasoning,  Bayesian  Networks,  Dempster-Shafer  theory,  Fuzzy  logic  (6
+1. Russel,S., and Norvig,P., (2015), Artificial Intelligence: A Modern Approach, 3rd Edition, Prentice Hall
+1. Research literature
+Self Learning Material
+1.  Department of Computer Science, University of California, Berkeley,
+2.  NPTEL: Artificial Intelligence, https://nptel.ac.in/courses/106105077/
+Computer Science and Engineering
+Year, Ph.D. 1
+The Instructor will:
+1.  Provide motivation and understanding of the need and importance of Machine Learning in today’s
+2.  Provide details about various algorithms in Machine Learning
+The students are expected to have the ability to:
+1.  Develop a sense of Machine Learning in the modern context, and independently work on
+problems relating to Machine Learning
+2.  Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+(fractal 1) Introduction: Motivation, Different types of learning, Linear regression, Logistic regression (2
+Gradient D e s c e n t :
+Subgradients,  Stochastic Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick, Implementing
+Soft SVM with Kernels (4 lectures)
+Decision Trees: Decision Tree algorithms, Random forests (2 lectures) Nearest
+Neighbour: k-nearest neighbour, Curse of dimensionality (1 lecture)
+Neural Networks: Feedforward neural networks, Expressive power of neural networks, SGD and
+Backpropagation (3 lectures)
+(fractal 2) Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral clustering (2
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed sensing (2
+Generative  Models:  Maximum  likelihood  estimator,  Naive  Bayes,  Linear  Discriminant  Analysis,  Latent
+variables and Expectation-maximization algorithm, Bayesian learning (4 lectures) Feature Selection and
+Generation: Feature selection, Feature transformations, Feature learning (3 lectures)
+Model  selection  and  validation:  Validation  for  model  selection,  k-fold  cross-validation,  Training-
+Validation-Testing split, Regularized loss minimization (3 lectures)
+(fractal 3) Statistical Learning Framework: PAC learning, Agnostic PAC learning, Bias-complexity tradeoff,
+No free lunch theorem, VC dimension, Structural risk minimization, Adaboost (7 lectures) Foundations of
+Deep Learning: DNN, CNN, RNN, Autoencoders (7 lectures)
+1. Shalev-Shwartz,S., Ben-David,S., (2014), Understanding Machine Learning: From Theory to
+Algorithms, Cambridge University Press
+1. Mitchell Tom (1997). Machine Learning, Tata McGraw-Hill
+Self Learning Material
+1.  Department  of  Computer  Science,  Stanford  University,
+The Instructor will:
+Ocean  Thermal  Energy  Conversion  (OTEC)
+B. Tech./ M.Tech./M.Tech.-Ph.D./ Ph.D.
+1. Provide understanding of Ocean Thermal Energy Conversion (OTEC) cycles, hybrid OTEC
+systems and technological challenges.
+The students are expected to have the:
+1.  Proper knowledge about Ocean Thermal Energy Conversion (OTEC) cycles and hybrid OTEC
+2.  Ability to understand OTEC design challenges.
+Ocean as a Heat Engine: Concepts of ocean thermal energy, Favorable temperature difference,
+OTEC history. (2 lectures)
+OTEC Cycles: Closed OTEC cycles, Open OTEC cycle, Flow diagrams, Comparison of OTEC Cycles,
+Products of OTEC: electricity, desalinated water, cold water for air-conditioning etc., Hybrid OTEC
+systems. (6 lectures)
+OTEC System Design: System components, Heat exchangers, evaporators, Pumps, Turbines, Piping,
+Platform concepts, Dual Purpose OTEC Plants, Challenges, Case studies. (6 lectures)
+1. Takahashi, Patrick and Trenka, Andrew, (1996) Ocean Thermal Energy Conversion, Ist ed.,
+1. Lockerby,R.W., (1981) Ocean Thermal Energy Conversion (OTEC), US Department of Energy,
+Microfluidic Fuel Cells
+B. TECH, MTECH, MTECH-PhD
+The Instructor will:
+1. Provide in-depth knowledge about the fundamentals of microfluidics devices as fuel cells.
+The students are expected to have:
+1. Detailed understanding of Microfluidic fuel cells.
+Microfluidic cells: Introduction, concept, classification, and challenges, categories, Thermodynamic and
+kinetic of microfluidic fuel cells, electrochemical principles and transport. [7 lectures]
+Designs: Microfabrication techniques, 2D, 3D electrodes in microfluidic fuel cells, performance
+evolution. [3 lectures]
+Microfluidics devices: co-laminar streaming, fuel cells with biocatalysts, gas diffusion electrodes,
+microfluidics redox batteries, cell arrays and Stacks. [4 lectures]
+1. Erik Kjeang, 2014, Microfluidic Fuel Cells and Batteries, Springer.
+Research Articles from different journals.
+Catalysis for Energy
+The Instructor will:
+1.  To give a overview about defining a roadmap for the role of catalysis in energy production
+2.  Relate catalysis with fuel cells, hydrogen production and storage, methane storage and industrial
+The students are expected to have the ability to:
+1.  Understand the role and the possibilities of catalysis in the production of new energy carriers and in
+the utilization of different energy sources.
+2.  to  go  beyond  conventional  application
+identifying  new  developments  that  may  lead  to
+breakthroughs in the production of alternative energy.
+Catalysis:  Introduction  to  heterogeneous  catalysis,  including  models  of  surface  reactivity,  surface
+equilibria,  kinetics  of  surface  reactions,  electronic  and  geometrical  effects  in  heterogeneous  catalysis.
+Catalytic  reactions  and  application:  Trends  in  reactivity,  catalyst  structure  and  composition,  electro-
+catalysis and photo-catalysis. (Lectures 12)
+Selected applications and challenges in energy transformations: fuel cells, hydrogen production, OER and
+HER reactions, CO2 oxidation, methane and hydrogen storage and industrial catalysis. (Lecture 14)
+1. Hanefeld, U, Lefferts, L. (2018) Catalysis: An Integrated Textbook for Students, 1st Edition, Wiley
+1.  Okada, Tatsuhiro, Kaneko, Masao, (2009), Molecular Catalysts for Energy Conversion Springer.
+2.  Guczi, László, Erdôhelyi, András, Catalysis for Alternative Energy Generation, Springer.
+3.  Pierluigi Barbaro, Claudio Bianchini, Catalysis for Sustainable Energy Production, Wiley
+1.   Xile Hu, Angamuthu, R and Bera, J. K., Catalysis for Energy Storage, GIAN Course material, Indian
+Institute of Technology Kanpur, https://www.youtube.com/watch?v=LvTfsIAI-VE
+The instructor will:
+Advanced Waste Water
+B.Tech., M.Tech., M.Tech.-Ph.D.
+1.  Impart comprehensive knowledge of industrial and municipal wastewater.
+2.  Discuss mechanism and methodologies for wastewater treatment.
+3.  Discuss case studies
+The students are expected to have the:
+1.  Comprehensive knowledge of wastewater treatment.
+2.  Knowledge of advanced methodologies such as waste water management, recycle and reuse.
+Introduction: Waste water engineering: an overview, characterization of waste water and monitoring
+of  industrial  and  municipal  waste  water,  environmental  impacts  of  waste  water  constituents.  (4
+Conventional  Waste  Water  Treatment:  Existing  unit  operations  and  processes,  basic  philosophy  of
+water  treatment  plants  (4  lectures);  physio-chemical  treatment  methods:  (i)  Screening,  (ii)
+conventional  filtration  (iii)  coagulation,  (iv)  flocculation,  (v)  floatation  (vi)  Clari-flocculation  (vii)
+sedimentation, (viii) sand filtration, etc. (6 lectures). [10 lectures]
+Aerobic and Anaerobic Suspended and Attached Growth Waste Water Treatment Processes: Aerated
+lagoon, activated sludge systems, trickling filter, (4 lectures) sequential batch reactor, fluidized bed
+bioreactors, Up-flow Anaerobic Sludge Blanket (UASB) and hybrid Up-flow Anaerobic Sludge Blanket
+(UASB) reactors, bio-towers (4 lectures). [8 lectures]
+Advanced  Treatment Processes: Membrane  Filtration, reverse osmosis, ultrafiltration,  nanofiltration
+and electrodialysis(3 lectures); wet air oxidation, adsorption and ion-exchange(2 lectures); Wet- land
+and root-zone treatment of industrial and municipal wastes; Design of sludge drying beds, thermal
+and  biological  processes  for  sludge  and  land  fillings(5  lectures).  Membrane  Reactors,  New
+Technologies for Waste Water Disinfection (2 lectures). [12 lectures]
+Water  Recycling  and  Reuse:  Different  unit  operations  for  water  recycling  depending  on  end  use  (3
+lectures), recovery of valuables from waste water, zero liquid discharge (ZLD)(5 lectures). [8 lectures]
+Waste Water Treatment Design Lab (28 hrs)
+Sand filtration system
+Municipal waste water system
+Grey water treatment system
+Sewage water treatment system
+Industrial waste water systems
+Pond water treatment
+1.  Burton F.L., Tchobanoglous G., Stensel H.D., 2017, Waste Water Engineering Treatment and
+Reuse, 4thed., Tata McGraw-Hill.
+2.  Arceivala S.J. and Asolekar S.R., 2007, Wastewater Treatment for Pollution Control and
+Reuse, 3rd Ed., Tata McGraw Hill.
+1. Henze M., van-Loosdrecht M.C.M., Ekama G.A. and Brdjanovic D., 2008, Biological
+Wastewater Treatment: Principles, Modelling and Design, IWA publishing.
+2. Sincero A.P. and Sincero G.A., 1996, Environmental Engineering – A Design Approach,
+Online Course Material
+Tiwari M K, Wastewater treatment and recycling, NPTEL course material, Department of Civil
+Engineering, IIT Kharagpur, https://nptel.ac.in/courses/105105178/
+(i) Chemical Engineering, (ii) Civil and
+B.Tech., M.Tech., M.Tech.-Ph.D.
+The instructor will:
+1.  Impart the knowledge to the students with the methods of assessment of environmental
+impacts due to developmental and industrial activities.
+2.  Expose the students with the EIA regulations and EMP.
+The students are expected to have the:
+1.  In-depth knowledge of the methods of assessment of environmental impacts due to
+developmental and industrial activities.
+2.  In-depth knowledge of EIA regulations and EMP.
+Introduction to EIA; definitions and concepts (2 lectures); evolution of EIA historical development of
+lectures)  strategic  environmental  assessment;
+environmental clearance procedure (4 lectures). [11 lectures]
+forecasting  environmental  changes;(5
+EIA  documentation  and  processes;  preliminary  stages  of  EIA;  project  types  and  screening;(5
+lectures) impact prediction; evaluation and mitigation (4 lectures); EIA monitoring and auditing (2
+lectures). [11 lectures]
+EIA regulations; TOR for EIAs; EIA at regional level (3 lectures), sectoral level, and policy level;(3
+lectures) sustainable development; Environmental Management Plan (EMP)(5 lectures). [11 lectures]
+Future strategies (4 lectures) and EIA case studies (5 lectures). [9 lectures]
+1. Canter, L., Environmental Impact Assessment, McGraw Hill, New York, 1996.
+1.  World Bank, ‘Environmental Assessment Source Book’, Environment Dept.,
+Washington D.C., 1991.
+2.  Rau, G.J. and Wooten, C.D., Environmental Impact Analysis Handbook, McGraw Hill, New
+York, 1980. Preventive environmental management.
+Online Course Material
+Dubey B K, Introduction to Environmental Engineering and Science – Fundamental and Sustainability
+Concepts, NPTEL course material, Department of Civil Engineering, Indian Institute  of Technology
+Department  Chemical Engineering
+Hydrogen and Methanol Economy
+L-T-P [C]  3-0-0
+Offered for  MTECH, MTECH-PhD, PhD
+The Instructor will:
+1. Provide in-depth knowledge about Hydrogen and Methanol production, storage, their Utility
+and infrastructure development.
+3.    Impart knowledge about the economic and environmental viewpoint of using Hydrogen and
+Methanol as fuel sources.
+The students are expected to have:
+1.  Proper knowledge about Hydrogen and Methanol production and related issues.
+2.  Economic view point of Hydrogen and Methanol as fuel and the related challenges & opportunities.
+Hydrogen and methanol as fuels: General aspects, Prelude to the energy systems, Hydrogen and
+Methanol as energy sources, Future energy supply, Economy and Environment, Sustainability (6)
+Hydrogen economy: Properties, production, storage, utilization and safely, Infrastructure requirement,
+Hydrogen as a transportation fuel, Hydrogen based fuel cell. (12)
+Methanol economy: Properties, production, storage, transportation and safely, Infrastructure
+Requirement, Methanol as fuel and energy carrier, Methanol as automobile, marine and aviation
+Challenges  and  opportunities:  Indian  and  global  perspectives,  Domestic  and  transportation
+application, Affordable Technology development, Policy. (6)
+Case studies: Comparative study with other energy sources. (4)
+1.   G. A. Olah, A. Goeppert, G. K. S. Prakash, (2006), Beyond Oil and Gas: The Methanol
+Economy, Wiley□VCH, Weinheim, Germany.
+2.  Ball M. and Wietschel M.,(2009) The Hydrogen Economy Opportunities and Challenges,
+Cambridge University Press.
+1.   A. Scipioni, A. Manzardo, J. Ren, (2017) Hydrogen Economy: Supply Chain, Life Cycle
+Analysis and Energy Transition for Sustainability, Academic Press.
+2.  M. Bertau, H. Offermanns, L. Plass, F. Schmidt, H. Wernicke,(2014) Methanol: The Basic
+Chemical and Energy Feedstock of the Future, Springer; 2014
+The Instructor will provide basic knowledge about molecular science and engineering of water.
+The students are expected to gain knowledge about molecular science and engineering of water.
+Properties of the water molecule, hydrogen bonding, clusters, supercritical water, condensed
+phases, solutions, confined and interfacial water, clathrates, and nucleation. [7 lectures]
+Methods of water purification, water splitting and fuel cells, water in atmospheric and climate
+science, and water in biology, health and medicine. [7 lectures]
+Leach, R. (2001) Molecular Modelling: Principles and Applications, Pearson Education.
+Online Learning Materials
+Srabani Taraphder, https://nptel.ac.in/courses/104/105/104105088/
+Polymers for Electronics and Optoelectronics
+Department  Chemical Engineering
+Polymer as material fractal
+The Instructor will:
+1. Detailed know-how about polymers for electronics and optoelectronics
+The students are expected to:
+1.  Gain detailed knowledge about polymers that are relevant to Electronics and Optoelectronics
+2.  Learn about printed circuit board technology based on polymers
+Fractal 1 [14 lectures]:
+Introduction:  basics  of  electronic  polymers  and  their  chemistry,  structure-property  of  polymers  (3
+lectures),  electronic  nanocomposites,  electrical  charge  transport/  transfer  theories  (4  lectures),
+optoelectronic  polymers,  optical  polymers,  optical  electroactive  polymers,  organic  photovoltaic
+polymers (3 lectures), basics of piezoelectricity, microelectronics, optoelectronics (4 lectures)
+Fractal 2 [14 lectures]:
+Properties of Organic Electronic Structures: band gap and excitation energy, absorption wavelength,
+transparency,  optical  absorption,  birefringence,  optical
+transmission,  haze,  polarizability,
+photoconductivity, optical emission, luminescence (4 lectures)
+Polymers in Organic Printed Circuit Boards (PCBs): Overview, polymers for traditional PCBs, prepreg,
+single-sided and double sided circuit boards, multilayered PCBs, flexible PCBs (5 lectures), rigid-flex,
+3D PCBs, molded interconnect devices, smart textile PCBs (5 lectures)
+1. Sulaiman,K., (2020), Polymers in Organic Electronics – Polymer Selection for Electronic,
+Mechatronic & Optoelectronic Systems, 1st Edition, ChemTec Publishing
+The Instructor will provide basic knowledge about statistical mechanics, molecular dynamics and
+introduce the Monte Carlo method.
+The students are expected to gain knowledge about:
+Statistical mechanics and molecular dynamics; and
+Monte Carlo method.
+Statistical Mechanics: Basics of statistical mechanics, ideal monoatomic gas, canonical ensemble,
+grand-canonical and isobaric-isothermal ensemble. [8 lectures]
+Molecular  dynamics:  Basics  of  molecular  dynamics,  force  field  and  integrating  algorithms,  periodic
+box  and  minimum  image  convention,  non-bonded  interactions,  estimation  of  pure  component
+properties. [10 lectures]
+Introduction to Monte-Carlo methods. [5 lectures]
+Case studies like Monte Carlo simulation in polymers. [5 lectures]
+Leach, R. (2001) Molecular Modelling: Principles and Applications, Pearson Education.
+Online Learning Materials
+Srabani Taraphder, https://nptel.ac.in/courses/104/105/104105088/
+The Instructor will:
+1.  Provide knowledge about different aspects of food engineering.
+2.  Train the student in food preservation and food processing.
+The students are expected to have the ability to:
+1.  Understand different aspects of food engineering and food preservation.
+2.  Analyze the food processing aspects.
+General introduction of food, food engineering and food preservation. [4 lectures]
+Composition of foods, chemistry, properties, and function of carbohydrates, proteins, amino acids,
+lipids, vitamins. [7 lectures]
+General principles underlying spoilage and chemical changes of food caused by microorganisms. [5
+Food preservation by application of heat (canning), dehydration, freezing, ionization radiation,
+chemical preservatives, fermentation and the like. [7 lectures]
+Case studies of food processing viz. meat, fish and poultry; vegetables and fruits; bakery and dairy
+products. [7 lectures]
+Quality control of food and food products. [3 lectures]
+Food laws, rules and standards, food engineering overview, [3 lectures]
+Production of engineered food products, [3 lectures]
+Case studies in food engineering, Industrial and commercial aspects of food technology. [3 lectures]
+1.  Murano P. Understanding Food Science and Technology
+2.  Friberg,  S.  Handbook of Food and Beverage Fermentation Technology (Food Science and
+1.  Reed G, Prescott and Dunn's Industrial Microbiology
+2.  Shuler, M.L. and Kargi, F. [2003] Bioprocess Engineering: Basic Concepts, Prentice Hall of India
+Online Course Material
+Modelling of Atoms, Molecules and Surfaces
+Department  Chemical Engineering
+B.Tech, M.Tech., M.Tech-Ph.D. Dual Degree
+The Instructor will:
+1. Provide background on various forms of Intermolecular and Molecule-Surface interactions.
+The students are expected to:
+1.  Gain fundamental understanding on the molecular nature of systems and surfaces.
+2.  Learn about the importance of intermolecular forces in molecular modeling and simulations
+in chemical and allied engineering.
+Introduction: Four Forces of Nature, Early Scientific Period (1 Lecture), First Phenomenological
+Theories, Modern View of origin of Intermolecular Forces (2 Lectures). [3 Lectures]
+Forces Between Atoms and Molecules, Principle and Concepts: Some Thermodynamic Aspects
+of  Intermolecular  Forces  (3  Lectures),  Covalent  and  Coulomb  Interactions  (3  Lectures),
+Interactions  Involving  Polar  Molecules,  Interactions  Involving  Polarisation  of  Molecules  (5
+Lectures),  van  der  Waals  Forces  (3  Lectures),  Repulsive  Forces,  Total  Pair  Potentials  (3
+Lectures),  Hydrogen  Bonding,  Hydrophobic  and  Hydrophilic  Interactions  (2  Lectures).  [19
+Forces Between Particles and Surfaces: Concepts of Intermolecular and Interparticle Forces (2
+Lectures), Contrast Between Intermolecular, Interparticle and Intersurface Forces (3 Lectures),
+van der Waals Forces Between Surfaces (2 Lectures), Electrostatic Forces Between Surfaces in
+Liquids  (5  Lectures),  Solvation,  Structural  and  Hydration  Forces  (3  Lectures),  Steric  and
+Fluctuation Forces (3 Lectures), Adhesion (2 Lectures). [20 Lectures]
+1.  J. N. Israelachvili, 2003, Intermolecular and Surface Forces, 2nd Edition, Academic

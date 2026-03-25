@@ -1,0 +1,430 @@
+Hkkjrh; çkS|ksfxdh laLFkku tks/kiqj
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+BOARD OF GOVERNORS
+14th March, 2023 (Tuesday)
+Board Room, IIT Jodhpur
+This page is left blank, intentionally
+Indian Institute of Technology Jodhpur
+Board of Governors
+Minutes of 32nd Meeting
+14th March, 2023 (Tuesday), 11:00 A.M.
+Board Room , IIT Jodhpur
+The following Members were present in the 32nd Meeting of the Board of Governors:
+1.    Dr. R. Chidambaram, Former PSA to Govt. of India
+2.    Prof. Santanu Chaudhury, Director, IIT Jodhpur
+3.    Prof. N.S. Shekhawat, Former Professor, JNVU, Jodhpur
+4.    Prof. Akhil R. Garg, Professor, JNVU, Jodhpur
+5.    Prof. Richa Singh, Deptt. of CS&E, IITJ
+6.    Dr.  Manish  Gupta,  Joint  Secretary  (TE),  Govt.  of  Rajasthan
+(Representative of State Govt. Nominee)
+7.    Prof. Sampat Raj Vadera, Deputy Director, IIT Jodhpur
+8.    Dr. Hari Om Yadav, Registrar
+Ms. Saumya Gupta, Joint Secretary (TE), Ministry of Education, Prof. Mitali Mukerji, Sh. Anil Bhavarlal Jain,
+Members,  BoG,  and  Sh.  P.G.  Basak,  Advisor  (Admn.),  Spl.  Invitee  could  not  attend  the  Meeting  due  to
+other pressing engagements.
+The following are the decisions of the BoG on the items of the Agenda:
+32.1  WELCOME BY THE CHAIRMAN, BoG
+The Chairman, Board of Governors,  welcomed  Prof. Richa Singh,  Deptt. of CS&E,
+IIT  Jodhpur  for  joining  the  meeting  of  Board  of  Governors  for  the  first  time  as
+Senate Nominee. The Board also placed on record the contributions of Prof. Surajit
+Ghosh,   Deptt.  of  Bioscience  &  Bioengineering,  IIT  Jodhpur  as  Member,  Board  of
+Governors, in the capacity of Senate Nominee as outgoing Member of BoG.
+Then, the Chairman, BoG, welcomed all other Members and  called the meeting in
+32.1.1  To Confirm the Minutes of the 31st Meeting of the Board of Governors held
+on 11th November, 2022 at Board Room, IIT Jodhpur
+The Board of Governors, confirmed the Minutes of the 31st Meeting of the Board of
+Governors, as circulated.
+32.1.2  Presentation  by  the  two  faculty  members  on  their  research  work
+/accomplishments before the BoG.
+As  per  the  decision  of  the  BoG  taken  in  its  24th  Meeting  held  on  5.12.2020,  the
+following two Faculty Members  of the  Institute made presentations before the BoG
+about their research work:
+1.  Dr.  Ravi  K.R.,  Associate  Professor  &  Head,  Department  of  Metallurgical  and
+Materials Engineering made a presentation and explained about the translational
+research  being  conducted  by  his  research  team  in  the  areas  of  "Additive
+Manufacturing  (AM)"  and  "Self-Cleaning  Coating".  He  discussed  how  research
+team  at  IIT  Jodhpur  has  developed
+the  "Indigenous  Metal  Additive
+Manufacturing  Machine."  Additionally,  he  briefed  about  his  current  work  on
+developing  closed-loop  control  in  metal  AM  machines  to  regulate  the
+microstructure  and  mechanical  properties  of  laser  additive  manufactured
+materials in real-time.
+The  Chairman,  BoG  suggested  exploring  the  methodology  of  utilizing  the  Metal
+AM  machine  developed  by  IIT  Jodhpur  for  research  by  the  Defense  and
+Department of Atomic Energy. Dr. Ravi further explained the coating technology
+developed for easy and self-cleaning of solar panels. He also elaborated on the
+Transparent  Anti-fogging  coating  developed
+association with AIIMS Jodhpur.
+for  Endoscope  cameras
+The  BoG  suggested  making  efforts  to  establish  Startup  company  and
+commercialize  the  "Metal  AM  technology"  and  "Self-cleaning  and  Anti-fogging
+2.  Dr.  Suril  V  Shah,  Associate  Professor  and  Head,  Department  of  Mechanical
+Engineering,  presented  his  research  on  Space  Robots,  an  essential component
+of  future  autonomous  On-Orbit  Services  (OOSs)  missions. Dr.  Shah  first
+reactionless  manipulation,  post-impact  control,
+identification,  and  predictive control  under
+uncertainty for a multi-arm space robot towards the capture of space debris. He
+also  presented  works  on  reactionless  visual  servoing,  servoing  to  tumbling
+objects, and probabilistic model-based visual servoing for autonomous proximity
+operations  using  a  space  robot.   A  unique  earth-based  prototype  of  a
+space robot  was  also  developed  for  validating  various  algorithms. It  was
+highlighted  that  these  research  activities  led  to  active  collaboration  with  the
+ISRO  Inertial  Systems  Unit  (IISU)  on  dynamics,  identification,  motion  planning
+and  visual  servoing  of  half  humanoid  for  the  Gaganyaan  program  and
+reactionless manipulation of space robots in the form of two RESPOND projects.
+BoG  Chair  and  members  appreciated  the  presented  research  on  space  robotics
+and  active  engagement  with  ISRO.  Further,  it  was  suggested  to  have  an  MoU
+with IISU in the area of space robotics to strengthen ongoing collaboration.
+The Chairman, BoG, and Members appreciated the presentations made by both the
+32.2  INSTITUTE REPORT BY THE DIRECTOR
+The  Director  presented  the  Institute  Report  before  the  Board  of  Governors  as
+  The Institute is offering 79 Academic Programs;
+  From  the  AY  2023-24,  the  Institute  is  planning  to  offer  new  Programs  like
+M.S.  by  Research,  MBA  Program  in  FinTech  and  Cyber  Security  and  M.DeS.
+in XR / Immersive Media;
+  The  present  faculty  strength  is  232,  Non-Faculty  strength  is  125  and
+Student strength is 4058;
+  Financial  parameters  such  as;  Initial  Budget  Sanction,  Grant  Received  v/s
+Actual  Expenditure  Analysis-2022-23,  Revised  Estimates-2022-23,  Fund
+received  from  MoE  and  Actual  Expenses-2022-23,  Quarter  wise  Grant
+released by the MoE and Details of HEFA Loans; and
+  The Progress of Research & Development (R&D) Projects was also reported.
+The  Director  further  informed  the  Board  of  Governors  about  various  Events
+happened / Proposed since the last Meeting of BoG, at the Institute:
+  Workshop on Field Robotics: 11-12th March, 2023
+  1st Indian Conference on Med-Tech Innovations (ICMI): 24-26th Feb., 2023
+  Conclave for Friends of IIT Jodhpur: 11-12th February 2023
+  IIT Jodhpur's Open House - Padharo 2.0: 4th February, 2023
+  Industry Day 2023: 3-4th February, 2023
+  The  Director  further  apprised  the  Board  that  IIT  Jodhpur  decided  to  have  a
+set  of  Academic  events  commemorating  IITJ@15  from  March,  2023  to
+August,  2023.  The
+launched  by  Dr.  S.
+inaugural  event  will  be
+Chandrasekhar, Secretary, DST, Govt. of India on 16th March, 2023
+  IITJ-University of Buffalo CoE on Artificial Intelligence and Data Science will
+be formally initiated through an MoU on 19th March, 2023
+  It  was  informed  to  the  BoG  that  Foundation  Stone  was  laid  for  Rishabh
+Centre for Research and Innovation in Clean Energy on 11th Feb.2023
+  New  Centre  of  Excellence  (CoE)  on  IP  in  School  of  Manageement  &
+  Govt. of Rajasthan approved the AIOT Hub
+The  Chairman,  BoG,  and  members  appreciated  the  Institute  Report  presented  by
+the  Director  for  continuous  growth  of  the  Institute  through  his  determined  efforts
+and noted the same.
+32.2.1  Action Taken Report on previous decisions of the Board of Governors
+The Board of Governors noted the Action Taken Report (ATR).
+32.3  DISCUSSION ITEMS
+32.3.1  To  consider  and  approve  the  recommendations  of  the  28th  Meeting  of  the
+Finance Committee held on 13th March, 2023 at IIT Jodhpur
+The  recommendations  of  the  Finance  Committee  made  in  its  28th  meeting  held  on
+13th  March,  2023  were  presented  before  the  BoG.  The  BoG  approved  the
+recommendations  of  the  28th  Meeting  of  the  Finance  Committee    and  made
+observations on the following items, and approved as under:
+28.2.1: Statement of Expenditure as on 28th February 2023
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  noted  the  fund  position  of  the  Institute  as  on  28th
+February,  2023.  The  Finance  Committee  also  noted  that  the  MoE  is  releasing
+Grant-in-Aid at the end of the Month, therefore, in case if the GIA is not available,
+the Institute has to manage its activities from its own fund and recoup the same
+whenever the sufficient fund is available in GIA.”
+28.2.3:  Implementation of Payment of Gratuity Act 1972 for the Employees
+The  Board  noted  and  approved  the  following  recommendations  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  deliberated  on  the  proposal  in  detail  and  also  noted
+comments  of  the  Integrated  Finance  Division  (IFD),  MoE  and  recommended  the
+following to the Board of Governors for approval:
+1.  Implementation of Payment of Gratuity Act, 1972 in the Institute;
+2.  Investment  of  Liabilities  of  Retirement  Benefits  (Gratuity  and  Leave
+Encashment)  for  the  serving  employees  with  the  LIC  as  per  the  actuarial
+3.  The Institute will deal the cases of former employees / deceased employees in
+light with the provisions of the Payment of Gratuity Act, 1972.”
+28.2.4:  Implementation  of  House  Building  Advance  (HBA)  for  the
+Employees of IITJ
+The  Board  noted  and  approved  the  following  recommendations  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  deliberated  on  the  proposal  in  detail  and  also  noted
+comments of the Integrated Finance Division (IFD), MoE. The FC recommended the
+following to the Board of Governors for approval:
+Implement the House Building Advance (HBA) for the employees of the Institute as
+per the recommendation of the 7th CPC.
+The  FC  recommended  constituting  the  following  Committee  to  deliberate  on
+operational aspects of HBA for its implementation:
+1.  Sh. Ashoke Guha, Member, FC- Chairman
+2.  Dr. Hari Om Yadav, Registrar – Member
+3.  Dr. Deepak Fulwani, AD (PRG)- Member
+4.  Sh. Ashish Kachhawaha, AR (Accounts) – Member-Convenor
+The  Finance  Committee  authorized  the  Chairman,  FC  &  BoG  to  approve  the
+recommendations of  the constituted Committee for implementation of HBA for the
+employees of IIT Jodhpur.”
+28.2.5: Interim Report of the Task Force for New Financial Model
+The  Board  noted  and  approved  the  following  recommendations  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Director  presented  the  recommendations  of  the  Task  Force  constituted  for
+New Financial Model of the Institute before the Finance Committee. The purpose of
+the Financial Model has been designed to assist in actualization of the Vision of IIT
+Jodhpur.  Therefore,  to  necessarily  include  measures  for  innovative  resource
+mobilization for financing, operational expenses, growth capital, research expenses,
+and robust mechanism for financial planning, budgeting, MIS and accountability.
+The  Finance  Committee  noted  various  recommendations  of  Task  Force  and
+suggested minor changes as below:
+1.  Objective: To rephrase the sentence as “Efficiency in expenditure, both revenue
+and  capital”  instead  of  “Adopting  efficiency  in  expenditure,  both  revenue  and
+2.  Suggested  to  change  the  recommendation  regarding  “Executive  Education
+Champion”.  FC  suggested  that  each  academic  unit  should  appoint  a  faculty  as
+“Industry  Interface  Coordinator  “to  enhance  engagement  of  the  academic  unit
+with the industry.
+Considering  the  recommendation  of  the  Task  Force  regarding  the  adoption  of  the
+PPP Mode, the Director submitted to the Finance Committee that the Institute may
+be allowed to establish the Guest House Construction in PPP Mode as the Ministry of
+Education  is  also  encouraging  the  IITs  to  go  for  PPP  Model  and  reduce  its
+dependence on the HEFA Loans for such capital investments.
+The Finance Committee welcomed the proposal of the Director and recommended it
+to  the  Board  of  Governors  for  its  approval.  The  FC  also  suggested  exploring  the
+other possibilities / proposals in PPP Mode.”
+28.2.6: To consider the Investment Policy of the Institute
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“After  detailed  deliberations  on  the  proposed  Investment  Policy  for  investment  of
+Funds  generated  through  Endowment,  Donation,  and  Institute’s  IRG,  the  FC
+recommended that the Investment in Government Securities / Bonds / other Money
+Market Instruments & Equity Investments should be done through Mutual Funds with
+The  Finance  Committee  recommended  the  same  to  the  Board  of  Governors  and
+suggested bringing the Constitution of the Committee at the beginning of the Policy
+28.2.7:  To  consider  the  guidelines  for  appointment  and  emoluments  of
+Faculty  Member(s)  as  Emeritus  Professor  /  Distinguished  Professor/
+Visiting  Professor  /  Professor  of  Practice  /  Scholar-in-Residence  /  Guest
+Faculty, etc. at IIT Jodhpur
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  noted  and  considered  the  comments  of  the  Integrated
+Finance  Division  (IFD),  MoE.  It  recommended  the  guidelines  for  appointment  and
+emoluments  (from  the  Salary  Head)  of  Faculty  Member(s)  as  Emeritus  Professor  /
+Distinguished  Professor/  Visiting  Professor  /  Professor  of  Practice  /  Scholar-in-
+Residence  /  Guest  Faculty,  etc.  at  IIT  Jodhpur,  to  the  Board  of  Governors  for
+28.2.8:  To  consider  the  Agreement  to  be  signed  with  the  M/s.  Rishabh
+Instruments  Ltd.  and  Ivaan  Foundation  towards  undertaking  various
+activities  of  the  Rishabh  Centre  for  Research  and  Innovation  in  Clean
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  discussed  the  salient  features  of  the  Agreement  and
+suggested to finalize the Agreement considering the comments of Sh. Ashoke  Guha,
+Member,  Finance  Committee.  It  recommended  the  signing  of  the  Agreement  after
+incorporating  the  suggested  changes  (of  Sh.  Guha  as  well  as  Sh.  Bhandari,  FC,
+Members) to the Board of Governors for its approval.”
+28.2.9: To consider and recommend the Policy for Write-off the obsolete /
+unserviceable assets of the Institute
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  discussed  the  Policy  for  Write-off  the  obsolete  /
+unserviceable  assets  of  the  Institute  and  noted  that  the  Policy  is  in  line  with  the
+procedure  laid  down  in  GFR  2017,  Guidelines  lines  issued  by  Govt.  of  India  and
+practice being followed by other IITs.
+The FC recommended the policy to the Board of Governors for approval.”
+28.2.10: To revise the guidelines to provide the partial financial support to
+regular  Ph.D.  Students  for  presenting  Research  Work  in  National  and
+The  Board  noted  and  approved  the  following  recommendations  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The Finance Committee noted the requirement of enhancement in partial Financial
+support  to  regular  Ph.D.  Students  to  present  their  Research  Work  in  reputed
+National and International Conferences beside the existing partial financial support
+of Rs.25,000/- being met out from GIA for attending the National Conferences and
+collecting the Data from the field.
+The Chairman, FC, suggested enhancing the partial financial support up to Rs.2.00
+lakhs  in  the  exceptional  cases  with  high  quality  R&D  work  to  be  presented  in  the
+International Conferences of repute. The FC recommended the same.
+Considering  the  comments  of  IFD,  MOE,  the  FC  recommended  that  the  Institute
+may  meet  the  financial  requirement  of  this  scheme  from  its  own  financial
+28.2.11: To consider and recommend the payment of Outstanding Rent and
+handing over the Left-over Assets to the JNVU
+The  Board  noted  and  approved  the  following  recommendations  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“After detailed deliberation, the Finance committee recommended the following to the
+Board of Governors for approval:
+Payment  of  Outstanding  Rent  of  Rs.  2,49,82,420/-  to  the  JNVU  after  the
+withdrawal of the Arbitration case by the JNVU; and
+(ii)  Handing over the leftover Assets to the JNVU and adjusting the value of Assets
+in the Books of Account.”
+28.2.12:  To  provide  the  Non-Practicing  Allowance  (NPA)  to  the  Scientific
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The Finance Committee discussed on the comments received from the IFD, MOE
+that  Contract  Staff  are  paid  consolidated  remuneration  and  no  allowances  are
+admissible to them.
+The Director apprised the Finance Committee that the Position of Scientific Officer
+(Veterinary)  is  permanent  position  against  the  sanctioned  strength  in  a  regular
+Pay Level along with admissible allowances as per the 7th CPC and eligible to draw
+NPA as per the Govt. guidelines.
+The  Finance  Committee  agreed  to  the  submission  of  the  Director  and
+recommended the payment of Non-Practicing Allowance (NPA) as per the rules for
+the post of Scientific Officer (Veterinary) to the Board of Governors.”
+28.4.1:  To  consider  and  recommend  the  revision  of  fee  structure  for  the
+students of M.Tech. under Self-sponsored category
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“After  detailed  deliberations,  the  Finance  Committee  recommended  the  proposal
+for  revision  of  the  current  Tuition  Fee  of  Rs.  39,000  per  semester  to  Rs  3,000/-
+Per  Credit-per-semester  for  the  Students  of  M.Tech.  under  Self-sponsored
+category  for  the  batch  starting  July  2023.  The  Semester  Fee  and  other  fee
+components will be charged as per the existing norms.
+The FC recommended the same to the Board of Governors for approval.”
+28.4.2: To consider and recommend securing five (5) seats for TISC in the
+upcoming IIT Alumni Centre Bengaluru (IITACB)
+The  Board  noted  and  approved  the  following  recommendation  of  the  Finance
+Committee made in its 28th Meeting held on 13th March, 2023:
+“The  Finance  Committee  evaluated  the  need  and  recommend  payment  of  Rs.25
+Lakhs towards securing 05 seats in IITACB, to the Board of Governors for approval.”
+32.3.2  To  consider  and  approve  the  recommendations  of  the  29th  Meeting  of  the
+Building  &  Works  Committee  (B&WC)  held  on  15th  February,  2023  at  IIT
+The  Board  of  Governors  was  apprised  that  the  recommendations  of  the  29th
+meeting  of  the  Building  &  Works  Committee  held  on  15th  February,  2023  were
+placed before the Finance Committee in its 28th meeting held on 13th March, 2023.
+The  Board  of  Governors  approved  the  following  recommendations  of  the  Finance
+Committee and accorded AA&ES as per below:
+“The  Finance  Committee  noted  the  recommendations  of  the  Building  &  Works
+Committee made in its 29th Meeting held on 15th February, 2023 and recommended the
+following to the Board of Governors:
+1.  The  Finance  Committee  recommended  the  Administrative  Approval &  Expenditure
+Sanction  (AA&ES)  amounting  up  to  Rs.  7.65  Cores towards  setting  up of  1.0 MW
+Solar Power Plant at the Institute.
+2.  The  Finance  Committee  also  recommended  the  other  recommendations  of  B&WC
+to the Board of Governors for approval.”
+32.3.3  To  consider  and  approve  the  recommendations  of  the  32nd  Meeting  of  the
+Senate held on 20th December, 2022 at IIT Jodhpur
+The Board noted and approved various recommendations of the Senate.
+32.3.4  To  consider  and  approve  the  recommendations  of  the  33rd  Meeting  of  the
+Senate held on 1st March, 2023 at IIT Jodhpur
+The Board noted and approved various recommendations of the Senate.
+To  consider  and  approve  the  revised  Entrepreneurship  Policy  of  the
+The  Director  briefed  the  Board  of  Governors  that  in  the  new  Entrepreneurship
+Policy,  the  scope  of  policy  has  been  widened  to  give  opportunity  not  only  to  the
+Faculty  but  also  to  the  Group  A  Officers  &  others  to  take  part  in  entreprenural
+The  Board  of  Governors  appreciated  the  same  and  approved  the  revised
+Entrepreneurship Policy of the Institute.
+To  consider  and  approve  the  Summary  of  the  Internal  Review  Reports  of
+The Board of Governors deliberated on the Summary of the Internal Review Reports
+of the Departments and suggested to take appropriate actions as recommended for
+the development of reviwed Departments.
+To consider the Report of the Institute Review Committee
+The  Director  briefed  the  Board  of  Governors  that  the  IIT  Jodhpur  constituted  the
+Institute  Review  Committee  comprising  following  eminent  experts  from  Academia
+and Industry for the Institute Review:
+1. Prof. Surendra Prasad, Former Director, IIT Delhi
+2. Prof. Ashutosh Sharma, Former Secretary, DST, New Delhi, Govt. of India
+3. Prof. Partha P. Chakrabarti, Former Director, IIT Kharagpur
+4. Dr. Aloknath De, CTO, M/s Samsung India, Bengaluru
+The  Committee  conducted  the  Institute  Review  during  28-31st  October,  2022  and
+has submitted its Report.
+The Director further briefed the Board of Governors about the key recommendations
+of the Institute Review Committee such as; the Institute should make all efforts to
+increase  the  Faculty  Strength  and  to  Create  more  Lab  spaces,  etc.  The  Director
+informed the BoG that  the  Institute has been  conducting  Faculty recruitment drive
+through Mission mode and also planned for more Lab Spaces in the upcoming 2 and
+6 Storied Buildings.
+After  detailed  deliberations,  the  Board  of  Governors  approved  the  Report  of  the
+Institute  Review  Committee  and  suggested  to  take  appropriate  actions  as
+recommended for further development of the Institute.
+To consider and  approve the  Policy for Hiring Foreign Nationals as Faculty
+at IIT Jodhpur
+After  detailed  deliberations  on  the  policy  for  hiring  Foreign  Nationals  as  Faculty  at
+IIT Jodhpur, the BoG suggested that the Age limit at Professor Level be increased to
+60  Years  to  have  the  flexibility  to  attract  eminent  foreign  faculty  at  the  Professor
+The  BoG  approved  the  policy  with  this  minor  change  in  the  age  for  the  Professor
+Level Foreign Faculty.
+To consider and approve the outcome of the Annual Performance Review of
+Faculty Members of different Departments/ Schools/ Centers
+The  Board  noted  the  outcome  of  the  Annual  Performance  Review  of  Faculty
+Members of different Departments/ Schools/ Centers and approved the same.
+To  consider  the  partial  amendment  in  the  House  Allotment  Rules  (HARs)
+2017 of the Institute
+After  detailed  deliberation,  the  Board  noted  that  other  IITs  such  as,  IIT  Delhi  has
+provision  that  employees  can  change  allotted  accommodation  after  1  Year  instead
+of proposed 3 Years. So IIT Jodhpur can also have similar provision.
+The  Board  of  Governors  approved  the  following  partial  amendment  in  the  existing
+House Allotment Rules of the Institute for the benefit of the employees:
+2.3  (2)  Condition  of  Allotment  and
+Rules of Occupancy:
+2.3  (2)  Condition  of  Allotment  and
+Rules of Occupancy:
+“No change of allotment of a house is
+permissible  within  the  same  category
+of  housing  on  Campus;  unless
+otherwise  approved  by  HAC  based  on
+very genuine or health reasons".
+“Change  of  allotment  of  a  house
+permissible  within  the  same  category  of
+housing  on  Campus  only  after
+completion of 1 year of house occupation
+approved by  HAC  based on  very  genuine
+or health reasons.”
+To  consider  the  recommendations  of  the  House  Allotment  Committee
+(HAC) of the Institute
+The  Board  of  Governors  noted  and  approved  the  recommendations  of  House
+Allotment Committee (HAC) made in its 11th Meeting held on 19th January, 2023.
+To  consider  the  proposal  for  appointment  of  Pandit  Ajoy  Chakrabarty  as a
+Scholar-In-Residence in the School of Liberal Arts (SoLA)
+The Board of Governors appreciated the proposal and approved the appointment of
+Pandit  Ajoy  Chakrabarty  as  Scholar-In-Residence  in  the  School  of  Liberal  Arts
+(SoLA) of the Institute.
+To consider the appointment of Prof. Surajit Ghosh as Dean (IR, AR, CR)
+The  Board  of  Governors  approved  the  appointment  of  Prof.  Surajit  Ghosh  as  Dean
+Dean (International Relations, Alumni Relations and Corporate Relations).
+To  consider  and  approve  addition  in  the  panel  of  experts  for  selection  of
+Faculty  Positions  in  the  (i)  School  of  Management  &  Entrepreneurship
+(SME) and (ii) School of Liberal Arts (SoLA)
+The  Board  of  Governors  approved  Panel  of  Experts  for  the  selection  of  Faculty
+positions in the SME and SoLA in addition to the existing panel.
+To consider  and  approve  the  addition to the panel  of  experts for  selection
+of Non-Faculty positions
+The  Board  of  Governors  approved  the  Panel  of  Experts  for  the  selection  of  Non-
+Faculty positions in addition to the existing panel.
+32.4  REPORTING, ADOPTING AND NOTING ITEMS
+32.4.1  Report on the implementation of the National Education Policy-2020
+The Board noted the report on the implementation of the National Education Policy-
+2020  as  presented  in  the  Agenda  and  appreciated  the  initiatives  taken  by  the
+Institute towards the implementation of the NEP-2020.
+32.4.2  Report on the status of filling up Backlog vacancies
+The  Board  noted  the  report  on  the  status  of  the  filling-up  of  backlog  vacancies  as
+presented in the Agenda and appreciated the efforts made by the Institute towards
+filling up vacancies.
+32.4.3  Report  on  Faculty  Members  and  Staff  Members  joining  and  resigning  from
+The BoG noted the report.
+32.4.4  Adoption of Circulars of Ministry of Education, Government of India
+The Board approved the adoption of the O.Ms. as presented in the Agenda.
+32.4.5  Report of R&D Projects sanctioned to the Faculty Members of the Institute
+since the last meeting of the BoG
+The Board noted the  Report of R&D Projects sanctioned to the Faculty Members of
+the Institute since the last meeting of the BoG.
+32.4.6  Report  of  MoUs/Agreement(s)  signed  with  different  Institutions  /
+organizations / companies by the Institute
+The Board noted the Report of MoUs/Agreement(s) signed with different Institutions
+/ Organizations / Companies by the Institute.
+32.5  RATIFICATION ITEMS
+32.5.1  Approvals accorded by Chairman, Board of Governors/Director.
+Reports of Selection Committees of Post-Doctoral Fellowships
+The Board ratified the approval accorded by the Chairman, BoG as presented in the
+(b)  Approval accorded by the Chairman, BoG through U.O. Note on extension /
+appointment through Standing Committee
+The Board ratified the approval accorded by the Chairman, BoG, as presented in the
+Reports of Selection Committees of Staff Members
+The  Board  ratified  the  approval  accorded  by  the  Chairman,  BoG  /  Director  as
+presented in the Agenda.
+(d)  Reports  of  Selection  Committees  of  Limited  Departmental  Examination
+The Board ratified approval as presented in the Agenda.
+(e)  Various approvals accorded by the Chairman, BoG through U.O. Note.
+The Board ratified approvals as presented in the Agenda.
+32.6  Any other item with the prior permission of the Chairman
+32.6.1  To consider and approve the formation of Section-8 Company – “AIC –IIT
+The Director briefed the Board  of  Governors that  IIT Jodhpur has been  selected to
+host  Atal  Incubation  Centre  under  the  Atal  Innovation  Mission  (AIM),  NITI
+AAYOG,  Govt.  of  India  for  establishing  Innovative  Technology  based  Incubation
+Centre to promote Startups that would impact core sectors of the economy.
+He  further  apprised  the  BoG  that  as  per  the  guidelines,  a  Section-8  Company
+named as 'AIC-IIT JODHPUR' has to be formed by IIT Jodhpur with a paid up of
+Capital of Rs. 1,00,000/- to be paid by IIT Jodhpur.
+The Board of Governors appreciated and approved the proposal.
+After  the  conclusion  of  the  Meeting  of  the  BoG,  the  Registrar  &  Secretary,  BoG  thanked  the
+Chairman, BoG and the Members for their invaluable time and crtical inputs.
+Registrar & Secretary, BoG
+Director, IIT Jodhpur
+Chairman, Board of Governors, IIT Jodhpur

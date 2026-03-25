@@ -1,0 +1,33 @@
+from our first batch
+As a student at IIT Jodhpur's Computational Social Science program, I have had a fulfilling
+campus life. The program offers a rigorous academic curriculum combined with exciting
+research opportunities and a vibrant student community. The people around me, including
+my peers and professors, have been incredibly inspiring and have challenged me to grow
+both personally and academically."
+"As a current student pursuing a Master's degree in CSS, I am thrilled
+with the education I am receiving. The coursework is challenging and
+relevant to real world problems. The professors are not just highly
+knowledgeable but also extremely supportive. The small cohort size
+provides with excellent opportunities to connect and network with diverse
+groups of students and professors. I would recommend this programme
+to self-motivated individuals seeking quality education."
+"I am indebted for all the efforts made by my professors. I was
+exposed to cutting-edge technology and tools at IIT Jodhpur,
+which enabled me to learn in a very natural way. A combination
+of education, entertainment, and the incorporation of abiding
+values are provided by School of Liberal Arts, IIT Jodhpur. As I'm
+studying Computational Social Science, the course material
+covers a wide range of topics, so I always learn something new.
+The overall learning environment facilitates learning and fosters
+the spirit of standing out among the talented and diligent
+"As a student of Computational Social Science at IIT Jodhpur, I have
+been impressed with the breadth and depth of academic opportunities
+available to me. The School of Liberal Arts has provided me with a
+unique learning experience, allowing me to engage with humanities and
+social science courses that complement my technical training. Overall, I
+am incredibly grateful for the stimulating academic environment
+provided by IIT Jodhpur and would recommend it to any student
+interested in pursuing Computational Social Science."
+I"ITJ Sola showed me that there are people that do share
+similar thought process as I do. It felt like home but not a
+home at the same time. It sounds weird but that's what I

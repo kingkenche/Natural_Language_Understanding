@@ -1,0 +1,363 @@
+Faculty Members Gross Pay for The Month of July-2023
+S.No Employee Name
+1 V. V. Mohana Sarma Chandramouli
+2 Ravindra Brammajyosula
+3 Vivek Vijay
+4 Rakesh Kumar Sharma
+5 Anil Kumar Tiwari
+6 Gaurav Harit
+7 Subhashish Banerjee
+8 Amit Kumar Mishra
+9 Sandeep Kumar Yadav
+10 Hari Narayanan V.
+11 George K. J.
+12 Deepakkumar Maganlal Fulwani
+13 Shree Prakash Tiwari
+14 Monika Sinha
+15 Barun Pratiher
+16 Ambesh Dixit
+17 Meenu Chhabra
+18 Ashutosh Kumar Alok
+19 Rahul Chhibber
+20 V. Narayanan
+21 Anand Krishnan Plappally
+22 Atul Kumar
+23 Sushmita Jha
+24 Puneet Sharma
+25 Kirankumar Rajshekhar Hiremath
+26 Samanwita Pal
+27 Satyajit Sahu
+28 Manikandan Paranjothy
+29 Ankita Sharma
+30 Mahesh Kumar
+31 Ananya Debnath
+32 Arun Kumar Singh
+33 Shaik Abdul Gafoor
+34 Gaurav Bhatnagar
+35 Prodyut Ranjan Chakraborty
+36 Kaushalkumar Ashokbhai Desai
+37 Suril Vijaykumar Shah
+38 Rajlaxmi Chouhan
+39 Ramesh Kashinath Metre
+40 Somnath Ghosh
+41 Sudipto Mukhopadhyay
+42 Soumava Mukherjee
+43 Priyanka Singh
+44 Sandip Murarka
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+45 Nirmal Kumar Rana
+46 Appala Naidu Gandi
+47 Shankar Manoharan
+48 Aashish Mathur
+49 Arpit Arvind Khandelwal
+50 Kothadia Hardikkumar Bhupendra
+51 Durgamadhab Mishra
+52 Sampat Raj Vadera
+53 Sumit Kalra
+54 Abir Bhattacharyya
+55 Ravi K. R.
+56 Santanu Chaudhury
+57 Arani Ali Khan
+58 Yashaswi Verma
+59 Chandan Pandey
+60 Prasenjeet Tribhuvan
+61 Shrutidhara Sarma
+62 Prabhat Kumar Jaiswal
+63 Rohan Diliprao Erande
+64 Santosh Mogurampelly
+65 Nitin Bhatia
+66 Neha Jain
+67 B M Krishna Mariserla
+68 Manish Narwaria
+69 Debasis Das
+70 Ram Prakash
+71 Reetanjali Moharana
+72 Nil Kamal Hazra
+73 Arun Kumar R
+74 Parichay Patra
+75 Subrata Chakraborty
+76 Ankur Gupta
+77 Pankaj Yadav
+78 Suman Kundu
+79 Surajit Ghosh
+80 Amrita Puri
+81 Moumita Mandal
+82 Anand Mishra
+83 Dilpreet Kaur
+84 Rajendra Nagar
+85 Farhat Naz
+86 Abhishek Sarkar
+87 Himanshu Kumar
+88 Anoop Jain
+89 Sudipta Bhattacharyya
+90 Amit Bhardwaj
+91 Shahab Ahmad
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+92 Deepak Mishra
+93 Saakshi Dhanekar
+94 Amandeep Kaur
+95 Dibyendu Kumar Sasmal
+96 Nipun Arora
+97 Shobhana Singh
+98 Jaiveer Singh
+99 Jai Narayan Tripathi
+100 Sukhendu Ghosh
+101 Richa Singh
+102 Mayank Vatsa
+103 Indranil Banerjee
+104 Niladri Sekhar Tripathy
+105 Harshit Agarwal
+106 Debanjan Guha Roy
+107 Deepika Bhattu
+108 Raviraj Vankayala
+109 Deepak Arora
+110 Romi Banerjee
+111 Pradeep Kumar Dammala
+112 Venkat Ram Reddy Ganuthula
+113 Atul Kumar Sharma
+114 Yerasani Sinjana
+115 Srijan Sengupta
+116 Pallavi Jain
+117 Venkatesha Murthy R
+118 Angan Sengupta
+119 Amit Kumar Rathi
+120 Manish Aggarwal
+121 Ranju Mohan
+122 Anuj Pal Kapoor
+123 Amit Sharma
+124 Saurabh Sanjay Nene
+125 Krishna Kumar Balaraman
+126 Prasenjit Sarkar
+127 Ramesh Asapu
+128 Devi Prasad Dash
+129 Vikky Anand
+130 Prashant Kumar Gupta
+131 Somitra Kumar Sanadhya
+132 Nirmalya Bachhar
+133 Dip Sankar Banerjee
+134 Suchetana Chakraborty
+135 Praveenkumar Sappidi
+136 Alok Ranjan
+137 Suman Dhaka
+138 Ruhi Sonal
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+139 Natasa Thoudam
+140 Bhupendra Singh
+141 Tekcham Gishan Singh
+142 Neeraj Jain
+143 Tuhina Mukherjee
+144 Patnayakuni Ravi Prakash
+145 Jayant Kumar Mohanta
+146 Malyala Pavana Ravi Sai Kiran
+147 Ashish Pathak
+148 Ajay Agarwal
+149 Mitali Mukherjee
+150 Angshuman Paul
+151 Binod Kumar
+152 Ravi Yadav
+153 Sucharita Dey
+154 Dweepobotee Brahma
+155 Nishanth Kumar
+156 Abhinaba Lahiri
+157 Abhilasha Maheswari
+158 Nitin Kumar Sharma
+159 Md Abu Talhamainuddin Ansary
+160 Kunwar Aditya
+161 Dipanjan Roy
+162 Shilpa Dang
+163 Sk Md Hasan
+164 Devendra Singh Negi
+165 Pranay Ranjan
+166 Saran Aadhar
+167 Amitava Banerjee
+168 Trishikhi Raychaudhury
+169 Sangeeta Sahney
+170 Mithu Rani Kuiti
+171 Sumit Kamal
+172 Tara Chand Kumawat
+173 Jitesh Mohnot
+174 Deepak Kumar Saxena
+175 Lawqueen Kanesh
+176 Amit Singh
+177 Monika Tanwar
+178 Akolekar Harshal Deepak
+179 Ayan Sadhukhan
+180 Aali Pant
+181 Mayank Suman
+182 Dinesh Kumar Ahirwar
+183 Bhargab Chattopadhyay
+184 Pradip Sasmal
+185 Kshitij Gajjar
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+186 S. Srivatsa Srinivas
+187 Ganesh Manjhi
+188 Bimal Mandal
+189 Tonisha Guin
+190 Mriganka Mandal
+191 Rachel Philip
+192 Gurujegan M.
+193 Akanksha Choudhary
+194 Pratik Mazumder
+195 Gopakumar K. U.
+196 Subhash Bhagat
+197 Sreedevi D.
+198 Riby Abraham Boby
+199 Palash Das
+200 Vimal Raj Sharma
+202 Gourhari Ghosh
+203 Moni Kumari
+204 Bhupendra Reniwal
+206 Vignesh T. G.
+207 Suresh Sarkar
+208 Anupama Mohan
+209 Jitendra Kumar
+210 Jangam Bhushan Praveen
+211 Gangawane Krunal Madhukar
+212 Vignesh Muralidharan
+213 Sherin Sabu
+214 Rajdeep Konar
+215 Sunil Kumar Lohar
+216 Varanasi Santhosh Kumar
+217 Kirti Sankhala
+218 Saurabh Maheshwari
+219 Sanhita Das
+220 Vinay Reddy Venumuddala
+221 Chandana N
+222 Vinod Vijay Kumar
+223 Avinash Sharma
+224 Ayla Joncheere
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II

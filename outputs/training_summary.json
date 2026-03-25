@@ -1,0 +1,74 @@
+[
+  {
+    "tag": "CBOW_e1",
+    "architecture": "CBOW",
+    "experiment": 1,
+    "vector_size": 50,
+    "window": 3,
+    "negative": 5,
+    "epochs": 20,
+    "vocab_size": 30654,
+    "train_time_s": 29.22,
+    "model_path": "/csehome/m25csa031/iitj_pipeline_final/models/CBOW_e1.model"
+  },
+  {
+    "tag": "CBOW_e2",
+    "architecture": "CBOW",
+    "experiment": 2,
+    "vector_size": 100,
+    "window": 5,
+    "negative": 10,
+    "epochs": 20,
+    "vocab_size": 30654,
+    "train_time_s": 37.53,
+    "model_path": "/csehome/m25csa031/iitj_pipeline_final/models/CBOW_e2.model"
+  },
+  {
+    "tag": "CBOW_e3",
+    "architecture": "CBOW",
+    "experiment": 3,
+    "vector_size": 200,
+    "window": 7,
+    "negative": 15,
+    "epochs": 20,
+    "vocab_size": 30654,
+    "train_time_s": 53.06,
+    "model_path": "/csehome/m25csa031/iitj_pipeline_final/models/CBOW_e3.model"
+  },
+  {
+    "tag": "SkipGram_e1",
+    "architecture": "SkipGram",
+    "experiment": 1,
+    "vector_size": 50,
+    "window": 3,
+    "negative": 5,
+    "epochs": 20,
+    "vocab_size": 30654,
+    "train_time_s": 47.62,
+    "model_path": "/csehome/m25csa031/iitj_pipeline_final/models/SkipGram_e1.model"
+  },
+  {
+    "tag": "SkipGram_e2",
+    "architecture": "SkipGram",
+    "experiment": 2,
+    "vector_size": 100,
+    "window": 5,
+    "negative": 10,
+    "epochs": 20,
+    "vocab_size": 30654,
+    "train_time_s": 107.63,
+    "model_path": "/csehome/m25csa031/iitj_pipeline_final/models/SkipGram_e2.model"
+  },
+  {
+    "tag": "SkipGram_e3",
+    "architecture": "SkipGram",
+    "experiment": 3,
+    "vector_size": 200,
+    "window": 7,
+    "negative": 15,
+    "epochs": 20,
+    "vocab_size": 30654,
+    "train_time_s": 230.84,
+    "model_path": "/csehome/m25csa031/iitj_pipeline_final/models/SkipGram_e3.model"
+  }
+]

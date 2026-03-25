@@ -1,0 +1,223 @@
+Indian Institute of Technology Jodhpur
+M.Tech. in Communication Systems
+(previously M.Tech. in Intelligent Communication Systems)
+Revised Curriculum Structure for AY 2025-26 Onwards
+During  the  past  few  years,  there  has  been  an  exponential  growth  in  the  usage  of  internet.  The  fast
+development  of  economy  and  society  requires  modern  and  high-performance  communications  systems
+that can cater for massive deployment of Internet of Things, while still offering acceptable levels of energy
+consumption,  equipment  cost  and  network  deployment  and  operation  cost.  It  needs  to  support  a  wide
+variety of  applications and services  requiring increased spectral efficiency, higher data rates, low latency
+and high reliability. Communication technologies need to meet the growing connectivity requirements for
+new  use  cases  (e.g.  for  ultra-low  latency  or  high  reliability  cases)  and  new  applications  for  industry,
+opening  new  revenue  streams  also  for  operators.  The  M.  Tech.  program  in  Communication  Systems
+prepares  students  for  an  advanced  engineering  career  by  in-depth  understanding  of  modern
+communication  systems  at  all  layers  and  their  associated  signal  processing  methods.  The  program
+provides students with an opportunity to learn the specialization in depth by updating and renewing their
+technical knowledge in a rapidly changing telecommunication industry.
+Objective of the Program
+Graduates  from  the  program  will  have  in-depth  knowledge  and  critical  awareness  of  theoretical  and
+practical  solutions  to  problems  at  the  forefront  of  communications  and  the  processing  of  signals.  They
+would be ready for careers in fields such as development, research, operations and management of next-
+generation telecommunication networks and information processing systems.
+  The  graduates  of  this  program  will  have  strong  fundamentals  in  modern  communications
+technology and signal processing methods.
+  Understanding of cutting-edge research on future generations of wireless communication.
+  Analytical  and  experimental  skills
+communication systems for various  applications like Internet-of-Things, smart health, Smart  City,
+Intelligent Transportation Systems
+to  design  and
+  Ability  to  do  critical  and  creative  thinking,  and  to  conduct  independent  and  original  research  and
+  Ability to apply existing skills and knowledge to identify and formulate new problems, produce new
+ideas, approaches or actions
+  Ability to teach and express ideas in both written and oral formats
+•  Ability to statistically characterize and evaluate the performance of communication systems.
+•  Ability to apply the different methods for signal detection and estimation to real world engineering
+problems and advanced research
+•  Develop understanding of cutting-edge research on future generations of wireless communication.
+•  Analyze  multi-user  networks  and  understanding  of  techniques  like  opportunistic  communication,
+multiuser diversity, superposition coding and successive interference cancellation
+Implement  end-to-end  wireless  communication  systems  with  various  MIMO  technologies  like
+maximal ratio combining, OFDM, interleaving/de-interleaving, and Alamouti codes
+•  Ability to master a specific set of methods appropriate to their dissertation, with the depth needed
+to produce methodologically rigorous research.
+•  Carry out research work demonstrating scientific problem solving and generate IPR
+Overall Structure (M. Tech. Degree Requirements for Communication Systems)
+Cat.  Course Number, Course Title
+C  EEL7XX0  Applied Linear
+C  EEL7XX0  Digital
+NG1  HSN7XX0  Non-Graded I
+Cat.  Course Number, Course Title
+C  EEL7XX0  Wireless
+E  EEL7XX0  Elective
+E  EEL7XX0  Elective
+E  EEL7XX0  Elective
+NG2 HSN7XX0  Non-Graded II
+Applied Linear Algebra
+Concepts  of  Linear
+  Matrix  Computations
+in Signal Processing &
+  Random Processes
+  Random  parameter
+  Multiple  parameter
+Digital Communications  Wireless
+  Carrier  and  Symbol
+Coding  and  design
+  Error performance in
+  Diversity Techniques
+  Capacity  of  fading
+multiple and random
+  Multiuser diversity
+  Ad-Hoc Networks
+List of Program Electives
+S. No.  Course Number  Course Title
+Cellular Communication Networks
+Data Communication and Networking
+MIMO Wireless Communications
+RF system design for Communications
+Network Information Theory
+Design and Analysis of Communication
+Advanced Digital Signal Processing
+Optical Communication Systems
+Machine Learning for Communications
+Curriculum of Core Courses
+Applied Linear Algebra
+Department:  Electrical Engineering
+Offered for:   M. Tech. and Ph.D.
+Core Course for Communication and Signal
+The instructor will:
+1.  introduce fundamental definitions and concepts of Linear Algebra
+2.  introduce matrix computations required for signal processing and communication
+At the end of the course, the students will be able to:
+1. Analyze vector spaces, orthogonality, and linear transformations to establish
+mathematical foundations for signal processing and communication
+2. Apply matrix computations and factorizations to solve problems in signal
+processing and communication.
+Fundamental Concepts of Linear Algebra (12 Lectures)
+Algebra of Matrices, Systems of Linear Equations, Vector Spaces & Subspaces, Linear
+Dependence and Independence, Inner Product Spaces, Norms, orthogonality, Gram-
+Schmidt process, Linear Transformations & Change of Basis
+Eigenvalues, Eigenvectors, and Diagonalization (9 Lectures)
+Eigenvalues & Eigenvectors, Diagonalization & Spectral Theorem, Jordan Canonical Form
+– Generalized eigenvectors and applications, Singular Value Decomposition (SVD),
+Pseudoinverse & Moore-Penrose Inverse
+Matrix Theory & Factorization (12 Lectures)
+Matrix Operations – Rank, inverse, determinant, trace, Special Matrices – Symmetric,
+skew-symmetric, Hermitian, Toeplitz, circulant matrices, LU Decomposition, QR
+Factorization, Cholesky Decomposition
+Matrix Computations in Signal Processing & Communications (9 Lectures)
+Fourier & Wavelet Transforms in Matrix Form, Fast Algorithms in Signal Processing,
+Compressive Sensing & Sparse Signal Recovery, Signal Subspace Estimation and Array
+Processing, Linear and Quadratic programming
+1.  Strang, Gilbert. Linear Algebra and Its Applications 4th ed. 2012.
+2.  Meyer, Carl D. Matrix analysis and applied linear algebra. Society for Industrial
+and Applied Mathematics, 2023.
+Strang, Gilbert., Linear Algebra, Spring 2010, MIT OpenCourseWare, Massachusetts
+Institute of Technology: https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+Rao, Vittal., Advanced Matrix Theory and Linear Algebra for Engineers, NPTEL Course
+ID 111108066: https://nptel.ac.in/courses/111108066
+Statistical Signal Analysis
+M. Tech. and Ph.D.
+Core Course for Communication and Signal
+The instructor will:
+introduce fundamental definitions and concepts of Probability, Random Variables and
+2.  provide background to understand the fundamental aspects of parameter estimation and
+The students will be able to:
+1.  perform filtering, parameter estimation, and hypothesis testing concepts of signal detection
+and estimation for deterministic and random signals
+2.  apply the theoretical knowledge to applications in communication, machine learning,
+optimization, and signal processing
+Review of Probability Theory (8 Lectures)
+Introduction to Probability Theory, Conditional Probability & Bayes’ Theorem, Independence, Conditional
+independence, Markov property, Discrete Random Variables, Continuous Random Variables, Expectation,
+Characteristic and Moment-Generating Functions, Joint Distributions of Multiple Random Variables,
+Functions of Random Variables, Conditional Expectation, Law of Large Numbers and Central Limit
+Stochastic Processes and Linear Filtering (14 Lectures)
+Stochastic Processes, Classification and characterization, Stationarity & Ergodicity, Gaussian and Poisson
+Processes, Markov Chains and Markov Processes, Spectral Representation of Stochastic Processes, Power
+Spectral Density (PSD), Linear Systems with Random Inputs, White Noise & Colored Noise Models, Wiener
+Filter, Least Squares Estimation and Linear Prediction, Kalman Filtering
+Parameter Estimation (10 Lectures)
+Parameter Estimation: Introduction to Statistical Estimation: Bias, Variance, MSE, Maximum Likelihood
+Estimation (MLE), Cramér-Rao Bound (CRB) and Efficiency of Estimators, Bayesian Estimation: MMSE,
+MAP, and Posterior Distributions
+Hypothesis Testing and Detection (10 Lectures):
+Likelihood Ratio Test (LRT), Neyman-Pearson Theorem, Bayesian Hypothesis Testing, Minimum
+Probability of Error Criterion, Matched Filter, Energy Detector (6 Lectures)
+Papoulis, Athanasios, and S. Unnikrishna Pillai. 2002. Probability, Random Variables, and Stochastic
+Processes. 4th ed. New York: McGraw-Hill.
+Kay,S.M., (1998), Fundamentals of Statistical Signal Processing: Vol. 1 Estimation Theory, 1st Edition,
+Kay,S.M., (1998), Fundamentals of Statistical Signal Processing: Vol. 2 Detection Theory, 1st Edition,
+Chakraborty, Mrityunjay. Probability and Random Processes, NPTEL Course ID 117105085:
+Sinha, Rohit, Signal Detection and Estimation Theory, NPTEL Course ID 117103018:
+Department  Electrical Engineering
+Offered for  M. Tech. and PhD
+Prerequisite  Knowledge of Probability Theory and Fundaments of
+L-T-P [C]  3–0–0 [3]
+The instructor will:
+1.  Provide  strong  theoretical  foundation  of  digital  communication  modulation  schemes  and
+2.  Help  students  understand  the  fundamentals  of  communication  through  band  limited
+channels and synchronization.
+The students will be able to:
+1.  Design receivers for optimum performance.
+2.  Analyze communication systems for their bit error performance.
+Signal Representation and Digital Modulation Schemes (8 Lectures)
+Complex  baseband  representation  of  signals,  Gram-Schmidt  orthogonalization  procedure,
+M-ary  orthogonal  signals,  bi-orthogonal  signals,  simplex  signal  waveforms,  Memoryless
+modulation  schemes,  signaling  schemes  with  memory,  power  spectral  density  of  digitally
+Receiver Design, Sufficient Statistics and Performance Analysis (14 Lectures)
+Coherent and non-coherent demodulation: Matched  filter, Correlator demodulator,  square-
+law,  and  envelope  detection;  Detector:  Optimum  rule  for  ML  and  MAP  detection
+Performance:  Bit-error-rate,  symbol  error  rate  for  coherent  and  non-coherent  schemes,
+Recurrent Neural Networks and their use for robust and adaptive receiver design
+Carrier and Symbol Synchronization (4 Lectures)
+carrier recovery and symbol synchronization in demodulation, carrier phase estimation,
+symbol timing estimation
+Introduction to Coding (12 Lectures)
+Linear  block  codes,  properties  and  examples,  soft  decision  decoding,  hard  decision
+decoding, convolutional codes, Viterbi decoding
+Design Tradeoffs (4 Lectures)
+Rate, bandwidth efficiency, power efficiency, modulation and coding tradeoffs
+1.  Proakis, J. G. and Salehi, M., (2007), Digital Communications, 5th Edition, McGraw-Hill
+2.  Madhow,  U.,  (2008),  Fundamentals  of  Digital  Communication,  1st  Edition,  Cambridge
+3.  Barry,  J.  R.,  Lee,  E.  A.,  and  Messerschmitt,  D.  G.,  (2004),  Digital  Communications,  3rd
+Preparatory Course Material
+1.  Jagannatham, A. K.,  Principles  of Communication II, Department of Electrical Engineering,
+Indian Institute of Technology Kanpur, https://nptel.ac.in/courses/108104098/
+Department  Electrical Engineering
+Offered for  M.Tech.-Ph.D. Dual Degree (Comm. Engg.)
+Prerequisite  Fundamentals of Communications
+L-T-P [C]  3–0–0 [3]
+The instructor will:
+1. Provide students with an understanding of the concepts related to communication over wireless fading
+2. Expose students to concepts and techniques for exploiting fading and application of these concepts in
+multiuser communication systems context.
+The students will be able to:
+1. Interpret and apply core principles of deep fading, diversity strategies, and channel capacity in the
+context of point-to-point wireless communication systems.
+2.  Analyze  multi-user  networks  and  understanding  techniques  like  opportunistic  communication,
+multiuser diversity, superposition coding and successive interference cancellation.
+3. Analyze and design wireless ad-hoc networks with special emphasis on energy constrained networks
+Wireless Channels [10 Lectures]:
+Review of signal detection over AWGN channels and M-ary Modulation (5L)
+Modelling  of  wireless  channels;  space,  time  and  frequency  channel  coherence;  input/output  channel
+models for single and multi-antenna systems - SIMO, MISO, and MIMO (5L)
+Diversity Techniques [14 Lectures]:
+Digital modulation and its performance in fading (4L)
+Deep fade and diversity (3L)
+Realizing  diversity:  time  diversity  (1L),  frequency  diversity  (3L),  antenna  diversity  –  SIMO,  MISO,  and
+Wireless Channel Capacity [11 Lectures]:
+Capacity of the Gaussian channels –SISO, SIMO, MISO and MIMO (4L)
+Outage limited and ergodic capacity of fading channels (4L)
+Water filling algorithm and opportunistic communication (3L)
+Multiuser system design [7 Lectures]:
+Multiple access techniques (2L)
+Multiuser channel capacity and multiuser diversity (5L)
+1.  Tse,  D.  and  Viswanath,  P.,  (2005),  Fundamentals  of  wireless  communication,  Cambridge  University
+2. Goldsmith, A., (2005), Wireless Communications, Cambridge University Press.
+3. Simon, M. K. and Alouini, M. S., (2004),  Digital communication over fading channels, John Wiley and
+1.  Zheng,  L.,  Principles  of  Wireless  Communications,  MIT  OpenCourseWare,  Electrical  Engineering  &
+Computer  Science,  Massachusetts  Institute  of  Technology,  https://ocw.mit.edu/courses/electrical-
+Preparatory Course Material
+1. Jagannatham, A. K.,  Principles of Communication II, NPTEL Course Material, Department  of Electrical
+Engineering, Indian Institute of Technology Kanpur, https://nptel.ac.in/courses/108104098/
+2.  Zheng,  L.  and  Gallager,  R.,  Principles  of  Digital  Communications  I,  MIT  OpenCourseWare,  Electrical

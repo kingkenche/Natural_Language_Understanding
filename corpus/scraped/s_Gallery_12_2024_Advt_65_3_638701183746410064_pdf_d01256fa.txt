@@ -1,0 +1,84 @@
+Indian Institute of Technology Jodhpur
+Office of Research and Development
+Advt. No.: IITJ/R&D(Advt.)/2024-25/065
+10 December 2024
+Applications  are  invited  from  the  citizen  of  India  for  filling  up  the  following  temporary
+position in the Sponsored Research Project at this Institute. The position is purely temporary, initially
+for a period of 01 Year, and same extendable but co-terminus with the duration of the project, on a
+contractual basis with consolidated pay. The requisite qualification, experience and  other details are
+Development  and  testing  of  a  bioinspired  flapping  wing
+model  with  morphing  capability  for  aerial  and  aquatic
+3.  Name of the Project Investigator   Dr. Nipun Arora
+4.  Duration for initial appointment
+5.  Name of the Post
+7.  Consolidate Pay
+Rs. 35,800/-+HRA @18%
+8.  Minimum  Qualification
+B. Tech/B.E. (Mechanical/Civil/Aerospace/Engineering
+Design)/ B. Des / Diploma (Mechanical/Civil/Aerospace
+/Engineering Design or related fields) with 2 years’ work
+ITI (2 years duration) in relevant field with 8 years of
+relevant work experience.
+M. Des (Industrial/Mobility & Vehicle/Mechanisms) or other
+relevant fields with following expertise
+•  Proficient in design software such as SolidWorks, Creo,
+CATIA, AutoCAD, FreeCAD or equivalent.
+•  Ability to generate 3D models, detailed drawings, and
+•  Strong understanding and ability to design kinematics and
+•  Hands-on experience with assembling components and
+creating working prototypes.
+•  Understanding of manufacturing processes relevant to
+10.  Brief description of Project
+11.  Maximum Age
+12.  Age Bar
+The experience requirements can be relaxed for exceptional
+•  Integrate a flapping mechanism with morphing.
+•  Collaborate with other team members to fabricate and
+test the wing in experimental setups.
+•  Conduct iterative design modifications based on
+experimental data and CFD simulations.
+This  study  explores  bioinspired  locomotion  for  next-
+generation  unmanned  vehicles.  A  morphing  wing  model
+will  be  fabricated  and  tested  for  aerodynamic  and
+hydrodynamic  performance  in  both  wind  and  water
+tunnels. Experiments using force/torque sensors and PIV
+flow  visualization  will  elucidate  vortex  dynamics,  while
+CFD  simulations  and  reduced-order  models  will  predict
+thrust and power to support the experiments. This project
+requires  one  Research  Assistant  who  will  be  responsible
+for  designing  the  experimental  setups  and  flapping
+Age  will  be  calculated  on  the  closing  date  of  the  online
+submission  of  the  application.  Relaxation  in  age  for  the
+category  candidates  only  would  be  admissible  as  per
+Central Government Rules. Also kindly enclose the Caste
+Certificate along with the application.
+The candidates possessing the requisite qualification and experience should apply through the
+ONLINE process up to 24 December 2024.
+It  is  mandatory  to  send  the  soft  copy  of  the  application  with  all  relevant  documents  to
+recruitment_rnd@iitj.ac.in (Please mention the advertisement number in the subject line of the email).
+Without documents, your application will not be considered. There is no need to send the hard copy.
+General Instructions to Applicant(s)
+1.  The  post(s)  is  purely  temporary  and  contractual  for  a  period  of  01  Year  and  extension  based  on
+satisfactory performance, but co-terminus with the duration of the project
+2.  Application,  which  is  incomplete,  not  in  prescribed  format,  without  photograph  or  unsigned  will  be
+3.  Certificate in  support  of  experience  should be in  proper  format  i.e.  it  should  be  on  the  organizations
+letter  head,  bear  the  date  of  issue,  specific  period  of  work,  name  and  designation  of  the  issuing
+authority along with his signature.
+Institute reserves the right to:
+a. Fix, modify or revise the eligibility conditions, age and selection criteria as per its requirements, at
+b. Fill up the post, not to fill up the post or cancel the advertisement in whole or partly without
+assigning any reason.
+c. Place a reasonable limit on the total number of candidates to be called for the Written Test and/or
+Skill Test, Interview.
+5.  The  Institute  shall  verify  the  antecedents  or  documents  submitted  by  a  candidate  at  the  time  of
+appointment or during the tenure of the service. In case, it is detected that the documents submitted by
+the  candidates  are  fake  or  the  candidate  has  a  clandestine  antecedents/background  and  has
+suppressed the said information, then his/her services shall be terminated.
+6.  Higher initial pay may be given to exceptionally qualified/deserving candidate.
+7.  No TA/DA shall be paid to the candidates for attending the interview.
+8.   No correspondence will be entertained from candidates regarding interview and reasons for not being
+called for interview.
+9.  Canvassing in any form will be a disqualification.
+10.  No interim correspondence will be entertained.
+11.  No need to send hard copy.
+Research & Development

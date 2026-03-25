@@ -1,0 +1,340 @@
+Sr. No. Name of Employee
+1 V V M Sarma Chandramouli
+2 B. Ravindra
+3 Vivek Vijay
+4 Rakesh Kumar Sharma
+5 Anil Kumar Tiwari
+6 Gaurav Harit
+7 Subhasish Banerjee
+8 Amit Kumar Mishra
+9 Sandeep Kumar Yadav
+10 Harinarayanan V.
+11 K.J. George
+12 Deepak M. Fulwani
+13 Shree Prakash Tiwari
+14 Monika Sinha
+15 Barun Pratiher
+16 Ambesh Dixit
+17 Meenu Chhabra
+18 Ashutosh Kumar Alok
+19 Rahul Chhibber
+20 V. Narayanan
+21 Anand K Plappally
+22 Atul Kumar
+23 Sushmita Jha
+24 Vidya Sarveswaran
+25 Puneet Sharma
+26 Kirankumar R. Hiremath
+27 Samanwita Pal
+28 Satyajit Sahu
+29 Manikandan Paranjothy
+30 Ankita Sharma
+31 Mahesh Kumar
+32 Ananya Debnath
+33 Arun Kumar Singh
+34 Shaik Abdul Gafoor
+35 Gaurav Bhatnagar
+36 Prodyut Ranjan Chakraborty
+37 Kaushalkumar Desai
+38 Suril Vijaykumar Shah
+39 Ritu Gupta
+40 Rajlaxmi Chouhan
+41 Sushmita Paul
+42 Ramesh K. Metre
+43 Somnath Ghosh
+44 Sudipto Mukhopadhyay
+45 Soumava Mukherjee
+46 Priyanka Singh
+47 Sandip Murarka
+48 Nirmal Kumar Rana
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+49 Appala Naidu Gandi
+50 Shankar Manoharan
+51 Aashish Mathur
+52 Arpit Arvind Khandelwal
+53 Kothadia Hardikkumar Bhupendra
+54 Durgamadhab Mishra
+55 Sampat Raj Vadera
+56 Sumit Kalra
+57 Abir Bhattacharyya
+58 Ravi K. R.
+59 Professor Santanu Chaudhury
+60 Arani Ali Khan
+61 Yashaswi Verma
+62 Chandan Pandey
+63 Prasenjeet Tribhuvan
+64 Shrutidhara Sarma
+65 Prabhat Kumar Jaiswal
+66 Rohan Diliprao Erande
+67 Santosh Mogurampelly
+68 Nitin Bhatia
+69 Neha Jain
+70 B.M. Krishna Mariserla
+71 Manish Narwaria
+72 Debasis Das
+73 Ram Prakash
+74 Reetanjali Moharana
+75  Nil Kamal Hazra
+76 Arun Kumar R.
+77 Parichay Patra
+78 Subrata Chakraborty
+79 Ankur Gupta
+80 Pankaj Yadav
+81 Suman Kundu
+82 Surajit Ghosh
+83 Amrita Puri
+84 Moumita Mandal
+85 Anand Mishra
+86 Dilpreet Kaur
+87 Rajendra Nagar
+88 Farhat Naz
+89 Abhishek Sarkar
+90 Himanshu Kumar
+91 Anoop Jain
+92 Sudipta Bhattacharyya
+93 Amit Bhardwaj
+94 Shahab Ahmad
+95 Deepak Mishra
+96 Saakshi Dhanekar
+97 Amandeep Kaur
+98 Dibyendu Kumar Sasmal
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade I
+99 Nipun Arora
+100 Shobhana Singh
+101 Jaiveer Singh
+102 Jai Narayan Tripathi
+103 Sukhendu Ghosh
+104 Richa Singh
+105 Mayank Vatsa
+106 Indranil Banerjee
+107 Niladri Sekhar Tripathy
+108 Harshit Agarwal
+109 Debanjan Guha Roy
+110 Deepika Bhattu
+111 Raviraj Vankayala
+112 Deepak Arora
+113 Romi Banerjee
+114 Pradeep Kumar Dammala
+115 G.Venkat Ram Reddy
+116 Atul Kumar Sharma
+117 Yerasani Sinjana
+118 Srijan Sengupta
+119 Pallavi Jain
+120 Venkatesh Murthy R
+121 Angan Sengupta
+122 Amit Kumar Rathi
+123 Manish Aggarwal
+124 Ranju Mohan
+125 Anuj Pal Kapoor
+126 Amit Sharma
+127 Sauarbh Sanjay Nene
+128 Krishna Kumar Balaraman
+129 Sankalp Pratap
+130 Prasenjit Sarkar
+131 Ramesh Asapu
+132 Devi Prasad Das
+133 Vikky Anand
+134 Prashant Kumar Gupta
+135 Somitra Kumar Sanadhya
+136 Nirmalya Bachhar
+137 Dip Sankar Banerjee
+138 Suchetana Chakraborty
+139 Praveen Kumra Sappidi
+140 Alok Ranjan
+141 Suman Dhaka
+142 Ruhi Sonal
+143 Natasa Thoudam
+144 Bhupendra Singh
+145 Tekcham Gishan Singh
+146 Neeraj Jain
+147 Tuhina Mukherjee
+148 Patnayakuni Ravi Prakash
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade II
+Assistant Professor Grade I
+Assistant Professor Grade I
+Assistant Professor Grade II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+149 Jayant Kumar Mohanta
+150 Malyala Pavana Ravi Sai Kiran
+151 Ashish Pathak
+152 Ajay Agarwal
+153 Mitali Mukerji
+154 Angshuman Paul
+155 Binod Kumar
+156 Ravi Yadav
+157 Malvika Tyagi
+158 Sucharita Dey
+159 Dweepobotee Brahma
+160 Nishant Kumar
+161 Abhinba Lahiri
+162 Abhilasha Maheshwari
+163 Nitin Kumar Sharma
+164 MD. Abu Talhamainuddin Ansary
+165 Kunwar Aditya
+166 Dipanjan Roy
+167 Manoj Choudhary
+168 Shilpa Dang
+169 Sk MD Hasan
+170 Devendra Singh Negi
+171 Pranay Ranjan
+172 Saran Aadhar
+173 Amitava Banerjee
+174 Trishikhi Raychoudhury
+175 Sangeeta Sahney
+176 Mithu Rani Kuiti
+177 Sumit Kamal
+178 Tara Chand Kumawat
+179 Jitesh Mohnot
+180 Deepak Kumar Saxena
+181 Lawqueen Kanesh
+182 Amit Singh
+183 Monika Tanwar
+184 Akolekar Harshal Deepak
+185 Ayan Sadhukhan
+186 Aali Pant
+187 Mayank Suman
+188 Dinesh Kumar Ahirwar
+189 Tanmay Kundu
+190 Bhargab Chattopadhyay
+191 Pradip Sasmal
+192 Kshitij Gajjar
+193 S. Srivatsa Srinivas
+194 Ganesh Manjhi
+195 Bimal Mandal
+196 Tonisha Guin
+197 Rachel Philip
+198 Bhagwati P. Kashyap
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+Assistant Professor Grade-II
+Assistant Professor Grade-II
+199 C. Venkatesan
+200 Kamaljit Rangra
+201 Pradip Kumar Tewari
+202 Amitava Mitra
+203 Chhanda Chakraborti
+204 Siddharth Srivastav
+205 Bijnan Bandyopadhyay
+206 Nimish Vohra
+Visiting Professor in Department of HSS
+Professor of Practice
+Visiting Professor EE
+Professor of Practice

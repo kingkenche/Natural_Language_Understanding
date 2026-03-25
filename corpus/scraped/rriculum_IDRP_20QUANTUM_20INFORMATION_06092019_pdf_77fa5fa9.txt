@@ -1,0 +1,126 @@
+Indian Institute of Technology
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+Quantum Information and Computation (QIC)
+Inter Disciplinary Research Platform
+Introduction to Quantum
+The Instructor will:
+1.  Provide fundamentals of quantum information and computation
+2.  Impart the knowledge of modeling efficiencies of a protocol in real experimental
+The students are expected to:
+1. Use the concepts taught in class to various aspects of quantum information,
+communication and cryptography
+2. Understand and appreciate the technological evolution at theoretical and experimental
+front in QIC
+QCL6XX1: Quantum entanglement and non-locality [1-0-0]
+Quantum  Entanglement,  correlations  and  Separability:  Review  of  linear  algebra  and
+basic laws of quantum mechanics, concept of  bits and qubits, quantum gates, quantum
+parallelism, quantum algorithms, density operators and its applications
+Classical  and  quantum  correlations,  separability  criterion,  separable  and  entangled
+states,  measures  of  two-qubit  and  multiqubit  entanglement,  Bell-type  inequalities,
+discord (14 Lectures)
+QCL6XX2: Noise and Applications of Entanglement [2-0-0]
+Quantum  Noise:  Classical  and  Markov  Processes,  Quantum  Operations,  Examples  of
+Quantum  Noise  and  Quantum  Operations,  Applications  of  Quantum  Operations,
+Limitations of the Quantum Operations Formalism (7 Lectures)
+Applications:  Cryptography,  quantum  teleportation,  dense  coding,  entanglement
+swapping, secret sharing, quantum games (14 Lectures))
+Effects of noise on quantum information and computation (7 Lectures)
+1.  Nielsen, M. A. and Chuang, I. L., (2000) Quantum Computation and Quantum
+Information, 10th edition, Cambridge University Press.
+2.  Vedral, V., (2006) Introduction to Quantum Information Science, 1st edition, Oxford
+1.  Griffiths, D. J., (2006) Introduction to Quantum Mechanics, 2nd edition, Pearson
+2.  Bouwmeester, D., Ekert, A. and Zeilinger, A., (2000) The Physics of Quantum
+Information, 2nd edition, Springer.
+3.  Bellac, M. L., (2006) A Short Introduction to Quantum Information and Quantum
+Computation, 1st edition, Cambridge University Press.
+Self Learning Material
+1.  Goswami, D., Quantum Computing, Mathematics for Chemistry, NPTEL Course Material,
+Department of Chemistry, Indian Institute of Technology Kanpur
+The Instructor will:
+1.  Impart mathematical framework of Quantum Computation to students familiar with
+basic concepts of quantum mechanics and quantum information
+2.  Discuss advanced topics and State-of-the-Art research in quantum information and
+The students are expected to:
+1. Use the concepts taught in class to various aspects of quantum information,
+communication and cryptography
+2. Understand and appreciate the technological evolution at theoretical and experimental
+front in QIC
+Mathematical  Preliminaries:  Quantum  Mechanics,  Matrix  representations  of  quantum
+states and operators, Cauchy-Schwartz and Triangle Inequalities, Classical and Quantum
+Correlations (6 Lectures)
+Notions of Quantum Information: Classical and Quantum state Registers, Pure and Mixed
+states, Reduction and Purification of states, Quantum Channels, Completely Positive and
+trace Preserving Maps (6 Lectures)
+Entropy:  Quantitative  bounds  on  Shannon  and  relative  Entropy,  Von-Neumann  and
+quantum  relative  entropy,  Klein’s  inequality,  Concavity  and  subadditivity  of  von
+Neumann  entropy,  Strong  subadditivity  of  von  Neumann  entropy,  Accessible
+Information, Holevo information (8 Lectures)
+Entanglement  and  Nonlocality:  Separability  Criteria,  Classical,  Separable  and  Entangled
+states,  Local  Operations  and  Classical  Communications,  Distillable  entanglement  and
+entanglement cost, Bound entanglement, Bell’s Inequality and Nonlocality, Nonlocality in
+multiqubit Systems, Entanglement Measures (12 Lectures)
+Quantum  Error  Correction:  Bit  flip  and  phase  flip  codes,  Quantum  Hamming  Bound,
+Calderbank-Shor-Steane  codes,  Gottesman-Knil
+theorem,  Fault-tolerant  quantum
+computation, quantum algorithms and cryptography (10 Lectures)
+1. Nielsen, M. A. and Chuang, I. L., Quantum Computation and Quantum Information,
+Cambridge University Press, 2000
+2. Vedral, V., Introduction to Quantum Information Science, Oxford University Press,
+1.  Griffiths, D. J., Introduction to Quantum Mechanics, Pearson Prentice Hall, 2006
+2.  Bouwmeester, D., Ekert, A. and Zeilinger, A., The Physics of Quantum Information,
+Self Learning Material
+1.Goswami, D., Quantum Computing, Mathematics for Chemistry, NPTEL Course
+Material, Department of Chemistry, Indian Institute of Technology Kanpur
+Facets  of Quantum Information  Number
+The Instructor will:
+1.   Provide an appreciation for the classical and quantum aspects of information theory.
+2.  Help  in  developing  an  understanding  of  the  exciting  world  of  quantum  computation
+The students are expected to have the ability to:
+1.   Understand the fundamental principles of quantum information.
+2.   Appreciate  some modern applications of quantum mechanics.
+Review of basics of quantum information and computation (4 Lectures)
+Entanglement  and  Separability  criterion,  Entanglement  measures,  Purification  and
+distillation,  multi  qubit  entanglement,  nonlocal  correlations,  multi  qubit  Bell-type
+inequalities (12 Lectures)
+Quantum  Computation:  Quantum  logic  gates;  quantum  Fourier  transform;  quantum
+algorithm; physical realization of quantum computers ( 8 Lectures)
+Classical Information and Communication: What is information and how can it be used?
+Concepts  of  communication  channels;  Shannon  entropy;  coding
+communication complexity. (8 Lectures)
+Quantum  Information:  What  is  information  theory  from  the  perspective  of  quantum
+mechanics? Quantum entropy; quantum mutual information; fidelity. (6 Lectures)
+Some  Unconventional  Models  of  Computing:  Brief  introduction  to  cellular  computation
+and communication; chaos based computing; DNA computing.  (4 Lectures)
+Nielsen Michael, A. and Chuang  Isaac ,  I., Quantum Computation and Quantum
+Information,   Cambridge University Press, 2010.
+1.Ghosh,  D.,  Quantum  Information  and  Computing,  Indian  Institute  of  Technology
+Quantum Cryptography and
+The Instructor will:
+1.  Introduce  the  students  to  the  fascinating  field  of  cryptography  and  coding,  with
+specific emphasis on the quantum aspects of it.
+2.  Highlight  a  number  of  facets  of  these  theories  having  some  parallel  with  the  more
+familiar classical world.
+The students are expected to have the ability to:
+1.Understand the fundamental principles of quantum cryptography and coding.
+2.Become familiar with the modern aspects of the theory, including its experimental
+What  is  cryptography?  Various  aspects  of  modern  cryptography;  number  theoretic
+Classical  Coding  Theory:  Concepts  of  entropy,  mutual  information  and  related  aspects;
+Shannon's coding theorem.  (10 Lectures)
+Basic  concepts  of  Quantum  Mechanics:  From  the  perspective  of  information  and
+cryptography:   Hilbert  space,  states,  operators:  Hermitian  and  Unitary,  simple
+measurements. (5 Lectures)
+Some basic no-go theorems: With implications to cryptography. (2 Lectures)
+Some  basic  applications  pertinent
+teleportation, dense coding. (6 Lectures)
+to  quantum  cryptography:  Entanglement,
+Various  Quantum  Cryptography  protocols:  Quantum  Key  Distribution  protocols:  BB84,
+B92,  Ekert  protocol,  Goldenberg-Vaidman,  counterfactual  quantum  cryptography;
+protocols of quantum dialogue; Quantum secret sharing protocol; Quantum cheating and
+cryptography;  Protecting  information  and  QKA  (quantum  key  agreement);  Shor's
+factoring  algorithm  and  modern  cryptography;  Experimental  progress  in  quantum
+cryptography. (15 Lectures)
+Quantum Coding: Quantum aspects of Shannon coding theorem. (4 Lectures)
+Information,   Cambridge University Press, 2010.
+Nielsen Michael, A. and Chuang  Isaac ,  I., Quantum Computation and Quantum
+1.MIT Open Course, 18.435J  “Quantum Computation”, by Shor. P.;  Fall 2003,

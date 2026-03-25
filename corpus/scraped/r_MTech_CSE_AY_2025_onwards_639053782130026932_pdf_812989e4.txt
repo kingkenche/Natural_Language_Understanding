@@ -1,0 +1,40 @@
+Department of Computer Science & Engineering
+Indian Institute of Technology Jodhpur
+N.H. 62, Nagaur Road, Karwar, Jodhpur-342030
+Course Number, Course Title
+Course Number, Course Title
+Software & Data
+Reduced Electives CS
+S.No.  Course Number  Course Title
+Emerging Network Technologies
+Distributed Database Systems
+Virtualization and Cloud Computing
+Mobile and Pervasive Computing
+Natural Language Understanding
+High Performance Computing Architectures
+Course Category Title
+Note: 1. The department should retain only the relevant courses as electives for the M.Tech. program. The courses that
+are either irrelevant or not attracting more than 10 students should be removed from the PG booklet.
+Course (Credit) Requirements for PhD students
+Minimum courses required
+or Social Science
+3.   Management, Design
+M.Tech., M.E. or M.Sc.
+(Engineering) in an Engineering
+M.Sc. degree  in a Science
+B.Tech., B.S., B.E. or B.Sc.
+(Engineering)  in an Engineering
+M.Sc., M.A. and M.Phil. degree in
+a Science, Humanities or Social
+As per approved norms after 2
+years of Masters degree in
+4 Compulsory (Same as M.Tech.
+Compulsory) + 4 Electives
+4 Compulsory (Same as M.Tech.
+Compulsory) + 4 Electives
+1.  Departments can design various sets of compulsory courses based on their research themes. These courses can
+either be existing ones or new courses introduced by the department.
+2.  The four compulsory courses account for a minimum of 12 credits as per the current regulations.
+3.  Direct Ph.D. students holding a B.Tech. degree can choose to pursue an additional M.Tech. degree by
+fulfilling the M.Tech. thesis requirements. The M.Tech. thesis work must be separate from the Ph.D. thesis.
+The additional degree will be awarded alongside the Ph.D. degree only upon the completion of the Ph.D.

@@ -1,0 +1,8 @@
+Mechatronics Lab | Mechanical Engineering | IIT Jodhpur
+Mechatronics and IoT lab at IIT Jodhpur is established to impart state of the Art interfacing of mechanical systems with sensors, actuators and microcontrollers. The projects include microcontroller and internet of things (IoT) based design of consumer appliances, healthcare and transportation and automotive domain. The UG laboratory equipment and projects include: Dissection and assembly of consumer appliances Creating the Internet of things based applications using microcontrollers Prototype solar tracker using microcontrollers Programmable logic controller (PLC) and Pneumatic circuits Programmable logic controller for material handling system (conveyor belt) Quanser CUBE servo control design with QUARC real-time interface Hardware in the loop (HIL) simulations and rapid prototyping with dSPACE Applications of computer vision and deep learning in mechatronics Sensors and Internet of things oftware packages such as MATLAB, OpenCV, ADAMS, ANSYS, SOLIDWORKS, Pro-E
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 18 Mar 2026 - 05:34 PM

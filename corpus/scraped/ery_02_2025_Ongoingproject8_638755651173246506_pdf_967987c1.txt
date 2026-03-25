@@ -1,0 +1,52 @@
+Project title: Magnetars with superfluid core
+Department of Science and Technology, SERB
+Total 36 Months, 12 months more
+Neutron stars are excellent candidates to probe the dense matter. In the conventional picture,
+extremely dense neutron star interior is mainly composed of neutrons, with a small amount of protons and
+electrons in beta equilibrium. It is also generally believed that the matter inside neutron stars is in
+superfluid phase owing to the Cooper pair formation by nucleons.
+It is theoretically conjectured that neutron stars are associated with very strong magnetic fields ranging
+from 108 to 1016 G. Neutron stars with ultra-strong magnetic field strength exceeding 1013 G are
+categorized as special group, popularly known as magnetar. Anomalous X-ray pulsars and soft gamma-
+ray repeaters are classes of candidates identified as magnetars.
+From the existing studies, it has been noticed that most of the researchers assume a priori that the
+magnetic field does not influence the superconductivity of protons, with the exception of several recent
+studies. However, if the fields are strong enough the cores of the flux tubes come into contact and the
+superconductivity is destroyed.
+In one of our
+recent studies the upper critical
+field for proton
+superconductivity inside neutron stars has been estimated within the Ginzburg-Landau theory including
+entrainment between proton and neutron condensates. Constructing models of neutron stars for realistic
+nucleonic equation of state, the volume occupied by the superconducting region has been derived from the
+microscopic calculations of proton pairing gap in dense matter. It has been observed that magnetars with
+surface field B ≥ 1015 G are either partially or completely non-superconducting, precise nature being
+dependent on the relation between the surface dipolar field and the field intensity at the crust-core
+The quenching of proton superconductivity demands extensive theoretical studies of the interior
+configuration and composition of neutron stars. The problem is very important since the presence
+(absence) of superfluid components has a strong impact on neutron star interior dynamics as well as many
+microscopic processes which might manifest in cooling, (anti-)glitch, postglitch relaxation, precession of
+the broad objective of
+to find the implications of quenched
+superconducting phase inside the magnetized neutron stars on its dynamical properties and their
+consequences on the observed magnetar properties.
+Compact objects – Neutron stars – Magnetars – Superconductivity – Cooling – Rotational Dynamics
+Objective in Bullets:
+ To study the neutrino cooling of magnetars with superfluid core
+ To study the rotational dynamics of magnetars with quenched proton superconductivity
+ To link the result with the observed properties of neutron stars: (anti)glitch, quasi periodic
+Outcome and Output:
+The composition and equation of state of dense matter inside the neutron star is yet an interesting subject
+in view of the recent observations, mainly the observed neutron stars with mass close to 2 Msun and rapid
+cooling of Cassiopea A. Such kind of matter cannot be obtained in our laboratory. So only way to study
+such highly dense matter is to relate the theoretical results with the observations of compact objects.
+Reach fields in this context are cooling, (anti)glitch of magnetar with/without superfluid matter inside
+compact objects. From this point of view the study mentioned in this project will enrich the theory of
+composition and interaction of highly dense matter which will be helpful to understand certain
+astrophysical observations. Briefly it will shed light on
+1. Composition and EoS of highly dense matter
+2. Presence or absence of superfluidity inside compact objects
+3. The nucleon paring interactions
+4. Effect of ultra-strong surface magnetic field on the interior of compact objects composition as well
+as other internal configuration such as rotational dynamics etc. from the comparison of
+theoretically obtained result with the current observations.

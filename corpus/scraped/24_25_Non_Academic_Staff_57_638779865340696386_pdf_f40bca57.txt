@@ -1,0 +1,175 @@
+Indian Institute of Technology Jodhpur
+Syllabus for the post of JUNIOR TECHNICAL SUPERINTENDENT (Computer Center)
+(WRITTEN TEST & SKILL TEST)
+use essential tools
+- Access a shell prompt and issue commands with correct syntax
+- Use input-output redirection (>, >>, |, 2>, etc.)
+- Use grep and regular expressions to analyze text
+- Access remote systems using SSH
+- Log in and switch users in multiuser targets
+- Archive, compress, unpack, and uncompress files using tar, star, gzip, and
+- Create and edit text files
+- Create, delete, copy, and move files and directories
+- Create hard and soft links
+- List, set, and change standard ugo/rwx permissions
+- Locate, read, and use system documentation including man, info, and files
+Create shell scripts  - Conditionally execute code (use of: if, test, [], etc.)
+- Use Looping constructs (for, etc.) to process file, command line input
+- Process script inputs ($1, $2, etc.)
+- Processing output of shell commands within a script
+- Processing shell command exit codes
+- Boot, reboot, and shut down a system normally
+- Boot systems into different targets manually
+- Interrupt the boot process in order to gain access to a system
+- Identify CPU/memory intensive processes and kill processes
+- Adjust process scheduling
+- Manage tuning profiles
+- Locate and interpret system log files and journals
+- Preserve system journals
+- Start, stop, and check the status of network services
+- Securely transfer files between systems
+- List, create, delete partitions on MBR and GPT disks
+- Create and remove physical volumes
+- Assign physical volumes to volume groups
+- Create and delete logical volumes
+- Configure systems to mount file systems at boot by universally unique ID
+(UUID) or label
+- Add new partitions and logical volumes, and swap to a system non-
+Manage users and
+- Create, mount, unmount, and use vfat, ext4, and xfs file systems
+- Mount and unmount network file systems using NFS
+- Extend existing logical volumes
+- Create and configure set-GID directories for collaboration
+- Configure disk compression
+- Manage layered storage
+- Diagnose and correct file permission problems
+- Schedule tasks using at and cron
+- Start and stop services and configure services to start automatically at boot
+- Configure systems to boot into a specific target automatically
+- Configure time service clients
+- Install and update software packages from Red Hat Network, a remote
+repository, or from the local file system
+- Work with package module streams
+- Modify the system bootloader
+- Configure IPv4 and IPv6 addresses
+- Configure hostname resolution
+- Configure network services to start automatically at boot
+- Restrict network access using firewall-cmd/firewall
+- Create, delete, and modify local user accounts
+- Change passwords and adjust password aging for local user accounts
+- Create, delete, and modify local groups and group memberships
+- Configure superuser access
+- Configure firewall settings using firewall-cmd/firewalld
+- Create and use file access control lists
+- Configure key-based authentication for SSH
+- Set enforcing and permissive modes for SELinux
+- List and identify SELinux file and process context
+- Restore default file contexts
+- Use boolean settings to modify system SELinux settings
+- Diagnose and address routine SELinux policy violations
+- Find and retrieve container images from a remote registry
+- Inspect container images
+- Perform container management using commands such as podman and
+- Perform basic container management such as running, starting, stopping,
+and listing running containers
+- Run a service inside a container
+- Configure a container to start automatically as a systemd service
+- Attach persistent storage to a container
+-  Job management
+-  Queue maintenance
+-  Kubernetes Basics
+Network and Hardware Administration:
+-  Introduction to the OSI Model
+-  Introduction to IPv4 (Internet Protocol)
+-  IPv4 Packet Header
+-  Address Resolution Protocol (ARP)
+-  Introduction to TCP and UDP
+-  TCP Header
+-  Introduction to ICMP
+-  Introduction to DNS
+-  User mode and Privileged mode
+-  VLANs Basic
+-  How to configure VLANs
+-  Introduction to Wireless Networks
+-  Introduction to Wireless LANs
+-  Wireless LAN 802.11 Service Sets
+-  Introduction to Wireless Security
+-  Wireless Authentication Methods
+-  Wireless Encryption and Integrity
+-  Wi-Fi Protected Access (WPA)
+-  WLC WPA2 PSK Authentication
+-  Introduction to Routers and Routing
+-  Router Basic Configuration
+-  Introduction to Wide Area Networks (WAN)
+-  Introduction to Subnetting
+-  Basics of Binary Numbers
+-  Subnetting in Binary, Decimal (Fast Method)
+-  Classless Inter-Domain Routing (CIDR)
+-  Variable Length Subnet Mask (VLSM)
+-  Route Summarization
+-  Hexadecimal to Binary and Decimal Conversion
+-  Create a Subnetting Cheat Sheet
+-  Introduction to IPv6
+-  Shortening IPv6 Addresses
+-  How to find IPv6 Prefix
+-  IPv6 Address Types
+-  IPv6 Address Assignment Example
+-  IPv6 Summarization
+-  Default Gateway
+-  Static Routing
+-  IPv6 Static Route
+-  IP Routing Explained
+-  Router on a Stick
+-  InterVLAN Routing
+(QoS) Quality of
+-  Introduction to OSPF
+-  OSPF Configuration
+-  OSPF Packets and Neighbor Discovery
+-  OSPF Reference Bandwidth
+-  OSPF Router ID
+-  Introduction to DHCP
+-  DHCP Server Configuration
+-  DHCP Relay Agent
+-  DHCP Client
+-  DHCP Server IPv6 Configuration
+-  Introduction to SNMP
+-  Introduction to NAT and PAT
+-  NAT Static & Dynamic
+-  Port Address Translation (PAT)
+-  Introduction to Quality of Service (QoS)
+-  IP Precedence and DSCP Values
+-  Device Programmability
+-  REST API
+-  Data Models and Structures
+-  Introduction to Software-Defined Networking (SDN)
+-  Spine and Leaf Architecture
+-  Virtual Machines and Containers
+-  Introduction to Cloud Computing
+-  Cloud Connectivity
+-  PC Components
+-  Network Switch and Routers
+-  Power supply
+-  Rack maintenance
+-  Knowledge of PHP, Asp.Net, JSP.
+-  Knowledge of Databases (My SQL, Postgresql, MongoDB), SQL
+-  Connectivity of frontend to backend.
+-  MS Office or Other Office suites
+-  Version Control Systems (Ex. Git)
+-  Collaborative Tools (Slack, Overleaf, Microsoft Teams, etc.)
+Support for online
+- Knowledge of online meeting software
+( e.g., Cisco WebEx, Microsoft Teams, Google Meet)
+- Troubleshoot issues related to audio, video, screen sharing, etc.
+-  Understanding and Creating UML/BPMN Documentation
+-  Creating Technical Diagrams: Vector Diagrams such as EPS, SVG
+-  Generate different charts from the data
+-  Creation of Technical Presentations
+Python & Shell Programming
+-  Variables and Data Types
+-  Control Flow
+-  Lists and Dictionaries
+-  File Handling
+-  Literal Characters
+-  Character Classes
+-  Anchors and Boundaries
+-  Groups and Capturing

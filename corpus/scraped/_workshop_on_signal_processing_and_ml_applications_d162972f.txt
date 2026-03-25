@@ -1,0 +1,16 @@
+MATLAB Workshop on Signal Processing and ML Applications | Center for Education Technology (CET) | IIT Jodhpur
+MATLAB Workshop on Signal Processing and ML Applications
+Mr. Pratyush Roy , Engineer, Education Team, Mathworks India, conducted a MATLAB Workshop on 27 July 2023 in hybrid mode for the students and faculty members of IIT Jodhpur. The workshop was organized by the CETE and was attended by about 135 members who joined the workshop in online (110) and offline modes (25).
+In this workshop, Pratyush walked us through various teaching-learning resources from MATLAB that can be directly used in classroom by instructors. He also conducted hands-on session on application of MATLAB in signal processing and machine learning. Through a comprehensive example using EEG signals, Pratyush showcased various tools for preprocessing, feature extraction, signal analysis and classification. The recording of the session is available here for the IITJ community ( Internal Link accessible via IITJ ID ).
+Title: MATLAB Workshop on Signal Processing and Machine Learning using MATLAB & Teaching–Learning Resources from MATLAB
+Date: 27 July 2023
+Time: 11:00 am - 12:15 pm
+Venue: LHB 110 / Google Meet
+About the Speaker
+Pratyush Roy works as part of Education Team, MathWorks India. In this role, he collaborates with students, researchers and faculty members from different institutes to accelerate the pace of teaching and research. He is passionate about technologies related to Data Science and Signal Processing. He has an interdisciplinary background with Bachelor’s Degree in Electrical Engineering from Jadavpur University followed by a Master’s Degree in Signal Processing from IIT Guwahati.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Feb 2026 - 09:46 AM

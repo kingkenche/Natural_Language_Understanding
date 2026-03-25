@@ -1,0 +1,36 @@
+Electronic Circuit Simulation and VLSI Systems Lab | Electrical Engineering | IIT Jodhpur
+Electronic Circuit Simulation and VLSI Systems Lab
+This lab was developed to support the fabless design activities. It hosts various design and simulation tools related to VLSI design and TCAD simulations with the aim of designing low power systems for future IoT applications. Following are the summary of resources. Many of the the VLSI Design tools are supported through SMDP-C2SD project from Ministry of Information Technology, Govt. of India, in addition to the tools supported by Institute.
+VLSI Design and Circuit Simulation: Various VLSI Design Tools and FPGA kits (with 5 Workstations) obtained under SMDP-C2SD project. 11 Workstations are hosted as a part of Electronic Circuits Simulations and Systems Laboratory
+Device Simulation: Synopsys ISE-TCAD tools for simulation of conventional as well as novel devices
+This lab is used for research as well as conducting lab experiments related to VLSI design to our M.Tech. students, specifically M.Tech. in Sensors and IoT.
+1. Shree Prakash Tiwari
+Research Interests: Microelectronics, Organic Electronics, Microfabrication, Device Physics and Characterization
+Office location: Room no. 210, Department of Electrical Engineering
+Phone: (91 291) 280 1356
+2. Jai Narayan Tripathi (PhD, SMIEEE)
+Designations: Assistant Professor, IIT Jodhpur; Adjunct Research Professor, Carleton University, Canada.
+Research Interests: VLSI Circuits and Systems, Signal Integrity, Power Integrity, Design of Experiments, Metaheuristic Optimization Techniques
+Phone: (+91 291) 280 1374
+3. Arpit Khandelwal
+Research Interests: Fiber Optics, Integrated III-V Optics, Optical Sensors
+Office location: Room no. 223 , Department of Electrical Engineering
+Phone: (91 291) 280 1363
+4. Amandeep Kaur
+Ph.D.: Indian Institute of Technology Delhi
+Research Interests: Analog and Mixed-Signal Circuit Design, Data Converters (ADC, DAC), High-speed circuits, CMOS image sensors, On-chip compression
+Office location: Room no. 220, First Floor, Department of Electrical Engineering
+Phone: (91 291) 280 1368
+Specialized lab: SMDP Lab - Link: http://ee.iitj.ac.in/smdp/
+5. Harshit Agarwal
+Office location: Department of Electrical Engineering, Room No. 322
+Research Interests:  Industry standard compact modeling, sub-5nm devices, steep-slope transistors, emerging memory technologies, high-voltage devices, analog/RF devices and circuits, neuromorphic computing
+Phone: (91 291) 280 1376
+Contact details Room no.: 212
+Please write to one of the following for more details:   amandeepkaur@iitj.ac.in ,  arpitkhandelwal@iitj.ac.in ,  sptiwari@iitj.ac.in
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

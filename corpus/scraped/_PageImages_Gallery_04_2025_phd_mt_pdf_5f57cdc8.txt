@@ -1,0 +1,20 @@
+Ph.D. (METALLURGICAL AND MATERIALS ENGINEERING)
+L-T-P  Credits Cat.  Course
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+* Electives 1 and 6 to be taken from M.Tech. elective courses only. No 5XX courses
+can be taken.
+L-T-P  Credits Course
+3  MT658  Electronic, Optical
+3  MT659  Thin Film
+3  MT714  Theory and Design
+3  MT660  Diffusion in Solids  3-0-0
+DISTRIBUTION OF CREDITS (Ph.D.)
+ELECTIVES   M. Tech., M.E., M.Sc. Degree in MT   4
+M. Tech., M.E., M.Sc. Degree in
+other Engineering disciplines
+M. Sc. Degree in Science disciplines  10

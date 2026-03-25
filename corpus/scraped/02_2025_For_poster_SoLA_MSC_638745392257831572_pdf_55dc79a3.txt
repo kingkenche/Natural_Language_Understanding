@@ -1,0 +1,21 @@
+School of Liberal Arts  ,  IIT Jodhpur
+Master's Program in
+Computational Social Science
+The Master's in Computational Social Science (MSc. CSS), which commenced in July 2022, is the flagship programme of the
+School of Liberal Arts (SoLA), Indian Institute of Technology (IIT) Jodhpur.
+The  program  seeks  to  develop  highly  skilled  graduates  equipped  with  theoretical,  technical,  and  application  oriented
+knowledge  that  will  enable  them  to  construct,  improve,  analyze,  and  apply  theoretically  informed  models  to  understand
+processes and phenomena.
+Introductory  papers  in  the  intersection  of  social  science  and
+computational  methods  (including  Statistics,  Programming  in  R,
+Machine  Learning,  Data  Visualization,  etc.)  aimed  at  preparing
+students for tasks in data analytics.
+SECOND YEAR SPECIALIZATION
+Mathematical and Computational Economics
+A  Guided  Curated  Option  for  those  who  would  like  to  opt  for
+courses from both streams
+The program envisions the development of students who will be professionals and global citizens who:
+Know how social science queries can be approached through data driven tools and approaches
+Have a good theoretical understanding of the intricacies of social systems and be proficient in handling social data for practical
+Have a competitive edge in knowing how data in the social sciences can be visualized and analyzed by computational methods
+Have research oriented thinking and will be able to explore social phenomena without traditional disciplinary or methodological

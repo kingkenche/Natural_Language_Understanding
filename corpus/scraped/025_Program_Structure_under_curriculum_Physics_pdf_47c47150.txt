@@ -1,0 +1,42 @@
+Program Structure – M.Sc. Physics
+Cat.  Course Number, Course Title
+PH5XX Mathematical Physics
+PH5XX Classical Mechanics
+PH5XX Quantum Mechanics-I
+PH5XX Statistical Physics
+Condensed Matter Physics Lab
+Cat.  Course Number, Course Title
+PH5XX Condensed Matter Physics
+PH5XXPhysics of Atoms & Molecules
+PH5XXNuclear & Particle Physics
+C  Atomic & Nuclear Physics Lab
+C  Optics & Lasers Lab
+Cat.  Course Number, Course Title
+E  Open Elective-1
+Computational Physics Lab
+Cat.  Course Number, Course Title
+E  Open Elective-2
+Multidisciplinary Science and Technology
+1.  Computational Physics
+2.  High Energy Physics and Space Science
+Introduction to Space Science
+  Particle Physics
+  Neutrino Telescope
+  X-ray Astronomy
+3.  Nanoscience & Nanotechnology
+4.  Advanced Condensed Matter Physics
+5.  Introduction to Materials Characterization
+6.  Introduction to Medical Physics (Optical, radiation based, image analysis, MRI) Fundamentals of
+Plasma & Fusion Science
+7.  Introduction to Quantum Technologies
+8.  Laser Technologies
+9.  Computational Materials Science
+10. Statistical methods for data analysis
+11. Nonlinear Dynamics and Chaos
+1.  Fibre Optics & Communication
+2.  Engineering Optics
+3.  Energy Harvesting Technologies
+4.  Solar Energy Technologies
+5.  Quantum Optics & Engineering
+6.  Cold Plasma Technologies
+7.  Nuclear Engineering

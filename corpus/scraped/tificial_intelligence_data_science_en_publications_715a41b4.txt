@@ -1,0 +1,143 @@
+Publications | School of Artificial Intelligence & Data Science | IIT Jodhpur
+University Library of Munich
+Implications of Banking Regulations on Online Payment Failures
+Authors: Aditi Chawla, Ganesh Manjhi, Gaurav Bhattacharya
+Twisted string actuation through a conduit: Undesirable behaviors and pre-twist effects
+Authors: B. Suthar and J. H. Ryu,
+The Journal of Behavioral Science
+Beyond exchange relationship: Exploring the link between organizational justice, job involvement, and citizenship behavior
+Authors: Abhishek Sharma and A. Sharma
+Royal College of Surgeons in Ireland
+Fetal gene variants associated with birth weight protection in a native high altitude Ladakhi population
+Authors: Sushil Bhandari, Padma Dolma, Mitali Mukerji, Bhavana Prasher, Hugh Montgomery, Dalvir Kular, Vandana Jain, Vatsla Dadhwal, David J Williams, Aniket Bhattacharyaa, Edmund Gilbert, Gianpiero Cavalleri, Sara L Hillman
+Biomedical Signal Processing and Control
+Automated detection of Hypertensive Retinopathy using few-shot learning
+Authors: S Suman, AK Tiwari, T Ingale, K Singh
+Current Psychiatry Research and Reviews
+Association between COVID-19 pandemic and serious mental illness: Systematic review within salutogenesis model for public health management.
+Authors: Kaman, S., Sharma, A., & Banerjee, R.
+International Journal of Online & Biomedical Engineering
+Neurofeedback training for social cognitive deficits: a systematic review
+Authors: M. Kumari and A. Sharma
+Applied Economics Letters
+Infant malnutrition, clean-water access and government interventions in India: a machine learning approach towards causal inference
+Authors: Dweepobotee Brahma, Debasri Mukherjee
+Optimal stopping in list-based decisions
+Authors: Saptarshi Mukherjee, Ruhi Sonal, Abhinaba Lahiri
+Can wisdom be fostered: Time to test the model of wisdom
+Authors: A. Sharma and R. L. Dewangan
+BRO Neuroscience Reports
+EFFECTIVENESS OF VIRTUAL REALITY BASED INTERVENTION ON SLEEP: A SYSTEMATIC REVIEW
+Authors: K Sharma, S Dhaka
+Journal of Higher Education Theory and Practice
+What Doesn’t Break You Makes You Wiser: An Experimental Validation of Personal Wisdom Development Through Regret Handling and Personality Dispositions
+Authors: Ankita Sharma,Abhishek Sharma
+Humanities & Social Sciences Reviews
+Decision making in the era of infobesity: A study on interaction of gender and psychological tendencies
+Authors: S. Maidullah and A. Sharma
+Biomedical Signal Processing and Control
+Barnes–Hut approximation based accelerating t-SNE for seizure detection
+Authors: S Rukhsar, AK Tiwari
+Research on Biomedical Engineering
+Automatic grading of non-proliferative diabetic retinopathy
+Authors: S. Suman, A. K. Tiwari, and K. Singh
+Early warning signs: targeting neonatal and infant mortality using machine learning
+Authors: Dweepobotee Brahma, Debasri Mukherjee
+IEEE Transactions on Fuzzy Systems
+A Decade of the Z-Numbers
+Authors: Banerjee, Romi, Sankar K. Pal, and Jayanta Kumar Pal.
+Resting-State functional networks of different topographic representations in the somatosensory cortex of macaque monkeys and humans
+Authors: John Thomas, Dixit Sharma, Sounak Mohanta, Neeraj Jain
+Biomarkers in Medicine
+Pharmacogenomic biomarkers in coronary artery disease: a narrative review
+Authors: Pamila Dua, Sandeep Seth, Bhavana Prasher, Mitali Mukerji, Subir Kumar Maulik, KH Reeta
+Computer Methods and Programs in Biomedicine
+Lightweight convolution transformer for cross-patient seizure detection in multi-channel EEG signals
+Authors: S. Rukhsar and A. K. Tiwari,
+Cerebral Cortex Communications
+Structural-and-dynamical similarity predicts compensatory brain areas driving the post-lesion functional recovery mechanism
+Authors: Priyanka Chakraborty, Suman Saha, Gustavo Deco, Arpan Banerjee, Dipanjan Roy
+Frontiers in Neuroinformatics
+Explainable deep-learning framework: decoding brain states and prediction of individual performance in false-belief task at early childhood stage
+Authors: Bhavna, Km, Azman Akhtar, Romi Banerjee, and Dipanjan Roy
+Annals of Operations Research
+Towards sharing economy 2.0 with autonomous vehicles? Modeling the impact of COVID-19 on the e-hailing taxi service industry
+Authors: S Srivatsa Srinivas, Rahul R Marathe
+Computer Methods and Programs in Biomedicine
+Computer-aided diagnostic system for hypertensive retinopathy: A review
+Authors: S. Suman, A. K. Tiwari, and K. Singh
+Biocybernetics and Biomedical Engineering
+Detection of eye closing/opening from EOG and its application in robotic arm control
+Authors: Kamal Sharma, Neeraj Jain, Prabir K Pal
+On the modelling of speed–concentration curves for multi-class traffic lacking lane discipline using area occupancy
+Authors: Ranju Mohan
+Journal of neurophysiology
+Chronic recordings reveal tactile stimuli can suppress spontaneous activity of neurons in somatosensory cortex of awake and anesthetized primates
+Authors: Hui-Xin Qi, Jamie L Reed, Joao G Franca, Neeraj Jain, Yoshinao Kajikawa, Jon H Kaas
+Neuromolecular interactions guiding homeostatic mechanisms underlying healthy ageing: A view from computational microscope
+Authors: Saha, S., Chakraborty, P., Naskar, A., Roy, D.† , & Banerjee, A
+Dynamic Games and Applications
+A Dynamic Analysis of Special Interest Politics and Electoral Competition
+Authors: Ganesh Manjhi, Meeta Keswani Mehra
+To increase or to decrease the price? Managing public transport queues during COVID-19 in the presence of strategic commuters
+Authors: S Srivatsa Srinivas
+Design of robotic finger using twisted string actuator with modular passive return rotational joints to achieve high grasping force: Application to wearable sixth finger
+Authors: Bhivraj Suthar, Mohammad I Awad, Lakmal Seneviratne, Yahya Zweiri, Irfan Hussain
+Propagation of transient explosive synchronization in a mesoscale mouse brain network model of epilepsy
+Authors: Avinash Ranjan, Saurabh R. Gandhi
+Characterization of the Temporal Stability of ToM and Pain Functional Brain Networks Carry Distinct Developmental Signatures during Naturalistic Viewing
+Authors: Km Bhavna, Niniva Ghosh, Romi Banerjee, Dipanjan Roy
+How pupil tracks cognitive processes underlying internally- and externally-directed attention tasks
+Authors: Shilpa Dang, Adarsh Palaskar
+Early warning signs: targeting neonatal and infant mortality using machine learning
+Authors: Dweepobotee Brahma, Debasri Mukherjee
+Implications of Banking Regulations on Online Payment Failures
+Authors: Aditi Chawla, Ganesh Manjhi, Gaurav Bhattacharya
+International Conference on Pattern Recognition and Machine Intelligence,
+Cortical Circuits of Context Adaptability: Understanding the Neurobehavioral Mechanisms Underlying Flexible Behavior
+Authors: S. Kaman, A. Sharma, and R. Banerjee
+MGlove-TS: A modular soft glove based on twisted string actuators and flexible structures
+Authors: M. Dragusanu, D. Troisi, B. Suthar, I. Hussain, D. Prattichizzo, and M. Malvezzi,
+Journal of Intelligent & Fuzzy Systems
+On intelligent Prakriti assessment in Ayurveda: a comparative study
+Authors: Saibal Majumder, Rintu Kutum, Debnarayan Khatua, Arif Ahmed Sekh, Samarjit Kar, Mitali Mukerji, Bhavana Prasher
+International Journal of Engineering Trends and Technology
+Examining Three Connected Concepts: Social Impairment and STEM; Broader Autism Phenotype; and Convergence Validity in Autistic Trait Screening Tools
+Authors: M. Kumari and A. Sharma
+Current opinion in neurobiology
+Transient oscillations as computations for cognition: Analysis, modeling and function
+Authors: Robert Schmidt, Jonas Rose, Vignesh Muralidharan
+Behavior research methods
+Failing to attend versus failing to stop: Single-trial decomposition of action-stopping in the stop signal task
+Authors: Ricci Hannah, Vignesh Muralidharan, Adam R Aron
+Altered global modular organization of intrinsic functional connectivity in autism arises from atypical node-level processing
+Authors: Priyanka Sigar, Lucina Q. Uddin, Dipanjan Roy
+Current Psychiatry Research and Reviews Formerly: Current Psychiatry Reviews
+Association Between COVID-19 Pandemic and Serious Mental Illness: Systematic Review within Salutogenesis Model for Public Health Management
+Authors: Kaman, Sweta, Ankita Sharma, and Romi Banerjee
+Social Choice and Welfare
+Stochastic same-sidedness in the random voting model
+Authors: Stochastic same-sidedness in the random voting model
+Altered expression of reorganized inputs as they ascend from the cuneate nucleus to cortical area 3b in monkeys with long-term spinal cord injuries
+Authors: Priyabrata Halder, Niranjan Kambi, Prem Chand, Neeraj Jain
+dentifying the impact of social isolation and loneliness on psychological well-being among the elderly in old-age homes of India: the mediating role of gender, marital status, and education
+Authors: Mishra, B., Pradhan, J. & Dhaka, S.
+IETE Technical Review
+Survey of Structural Analysis in Mathematical Expression Recognition
+Authors: A. K. Tiwari,Ridhi Aggarwal Shilpa Pandey and G. Harit,
+IBRO Neuroscience Reports
+DIFFERENTIAL EFFECT OF SLEEP AND SLEEP DEPRIVATION ON THE BEHAVIOURAL AND NEURAL PATTERNS OF RISKY DECISION-MAKING
+Authors: Dhaka, Suman, and Naveen Kashyap.
+Socio-Economic Planning Sciences
+Averting adverse selection: The Government of India’s scheme to distribute affordable medicines
+Authors: S Srivatsa Srinivas, Rahul R Marathe
+Influence of claustrum on cortex varies by area, layer, and cell type
+Authors: Ethan G McBride, Saurabh R Gandhi, Jacqulyn R Kuyat, Douglas R Ollerenshaw, Anton Arkhipov, Christof Koch, Shawn R Olsen
+Characterization of the Temporal Stability of ToM and Pain Functional Brain Networks Carry Distinct Developmental Signatures during Naturalistic Viewing
+Authors: Bhavna, Km, Niniva Ghosh, Romi Banerjee, and Dipanjan Roy
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 28 Jan 2026 - 08:18 PM

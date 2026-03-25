@@ -1,0 +1,85 @@
+Template for Course Proposal for Global Initiative of
+Academic Networks (GIAN)
+<Sample overview: In today’s highly competitive business environment, management of physical
+assets (their selection, maintenance, inspection and renewal) plays a key role in determining
+operational performance and profitability of any business unit, manufacturing plant or industry that
+operate assets as a part of their core business. Asset Management, being the art and science of
+making right decisions and optimizing these processes, attempts to minimize the total life cost of
+assets and directly or indirectly influences manufacturing/production/operation/service cost, processes
+and quality, and throughput or delivery time. There is particular interest in the application of asset
+management principles to the management of engineering systems in any industrial unit where the
+cost and performance of the assets are of major significance.
+Asset Management for any engineering system needs to focus on maintenance, renewal and
+enhancement activities, with an integrating mechanism, on delivering sustainable outputs valued by
+customers and fund-ing providers at the lowest whole-life cost emphasizing on creating knowledge of
+how assets degrade and fail to optimize maintenance and renewal interventions. It is essential that
+industries across India, many organizations of which being asset-intensive, promote a consistent asset
+management approach to their infrastructures and systems in overall manufacturing, production and
+supply chain domain to develop their own methods, standards and framework for achieving excellence
+in business performance.>
+The primary objectives of the course are as follows:
+<i) Exposing participants to the fundamentals of asset management practices,
+ii) Building in confidence and capability amongst the participants in the application of asset
+management tools and techniques and mapping the organizational activities and problems in terms of
+Asset Man-agement framework,
+iii) Providing exposure to practical problems and their solutions, through case studies and live projects
+in asset management,
+iv) Enhancing the capability of the participants to identify, control and remove asset
+management-related problems in engineering system.>
+3.0 Teaching Faculty with allotment of Lectures and Tutorials
+1. Prof. Robert Langer (RL) : 6 hrs lectures and 6hrs tutorials
+2. Prof.  <Host Faculty>(PKR) : 4 hrs lectures and 4hrs tutorials
+3. Prof. <other speakers>: ___hrs lectures and ___ hrs tutorials
+4.0 Course details
+4.1 Tentative Duration: June 23 – June 27, 2017 (5 days) : 10 hrs lectures and 10 hrs Tutorials
+4.2 Tentative Lecture Schedule
+Lecture 1: 1 hrs: RL
+Process Design Paradigm, Process Synthesis Approaches, Hierarchical Systematic Generation
+Task Coordination and Integration
+Lecture 2: 1 hrs : RL
+Residue Curve Theory, Separation Scheme Synthesis and Other Uses for Residue Curves,
+Opportunistic Separation Scheme Synthesis,
+Tutorial 1: 2 hrs: RL
+Problem solving session with examples: Heat Exchanger Networks, Heat-Integrated Distillation,
+Process Flowsheet Intensification
+Lecture 3 : 1 hrs: PKR
+Challenges for Means-Ends Analysis Approaches, Strategic Separation Scheme Synthesis for
+Lecture 4:1 hrs: RL
+Residue Curve Theory, Separation Scheme Synthesis and Other Uses for Residue Curves,
+Opportunistic Separation Scheme Synthesis,
+Tutorial 2: 2 hrs: PKR
+Problem solving session with examples: Heat Exchanger Networks, Heat-Integrated Distillation,
+Process Flowsheet Intensification
+Lecture 5 : 1 hrs: RL
+Process Design Paradigm, Process Synthesis Approaches, Hierarchical Systematic Generation
+Task Coordination and Integration
+Lecture 6: 1 hrs: PKR
+Residue Curve Theory, Separation Scheme Synthesis and Other Uses for Residue Curves,
+Opportunistic Separation Scheme Synthesis,
+Tutorial 3.: 2 hrs: RL
+Problem solving session with examples: Heat Exchanger Networks, Heat-Integrated Distillation,
+Process Flowsheet Intensification
+Lecture 7 : 1 hrs: RL
+Challenges for Means-Ends Analysis Approaches, Strategic Separation Scheme Synthesis for
+Lecture 8: 1 hrs: PKR
+Residue Curve Theory, Separation Scheme Synthesis and Other Uses for Residue Curves,
+Opportunistic Separation Scheme Synthesis,
+Tutorial 4: 2 hrs: RL
+Problem solving session with examples: Heat Exchanger Networks, Heat-Integrated Distillation,
+Process Flowsheet Intensification
+Lecture 9: 1 hrs: RL
+Nonlinear Optimization of distillation columns, Formulation of optimization problem, Solution
+Lecture 10: 1 hrs: PKR
+Nonlinear optimization of Heat Exchanger Networks
+Tutorial 5: 2 hrs: PKR
+Problem solving on nonlinear optimization of distillation column and heat exchanger networks
+Date of Examination: June 28, 2017
+5.0 Who can attend
+• Executives, engineers and researchers from manufacturing, service and government organi-zations
+including R&D laboratories.
+• Student students at all levels (BTech/MSc/MTech/PhD) or Faculty from reputed academic
+institutions and technical institutions.
+Professor < Name of Coordinator>
+Course Coordinator 1
+Department of Industrial Engineering and Management, IIT Kharagpur
+Kharagpur .721 302 West Bengal

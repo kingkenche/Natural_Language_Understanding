@@ -1,0 +1,7 @@
+Hosting personal home page
+1.  Download any ftp uploaded software (Ex: WinSCP, FireFTP, Filezila)
+2.  Enter Host Name : home.iitj.ac.in or 172.16.100.51    Port:  22
+3.  Enter User Name: user name (Ex: rinkesh)
+4.  Enter Password: LDAP Password
+5.  Then Login
+6.  Drag file in public_html

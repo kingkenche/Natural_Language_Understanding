@@ -1,0 +1,304 @@
+Admissions and Industry Patrner
+PG Diploma and
+ec  : in
+rti icia  nte  i  ence
+Indian Institute of Technology, Jodhpur
+AV 2025 - 26  I  Cohort 4
+*Conditions Apply (Admission to M.Tech delivered in executive mode is subject to IIT  Jodhpur•s approval)
+The information provided in the brochure is official and final and supersedes all other information either exchanged or perceived.
+Table of Contents
+01  Message from the Director  -----------
+02  Context of the Program
+03  About the Program  ---------------
+04  Who is this Program for?
+05  Program Highlights
+06  Program Outcomes
+07  Expected Graduate Attributes  -----------�
+08  Student Journey
+09  Transition to M.Tech Degree
+10  Career Opportunities
+pg no.  03
+pg no.  04
+pg no.  06
+pg no.  07
+pg no.  08
+pg no.  09
+pg no.  10
+pg no.  11
+pg no.  12
+pg no.  13
+Futurense Bridge Courses  ------------��
+pg no.  15
+13  Campus Immersion
+14  Program Directors
+15  Futurense Leadership Council
+16  Program Details
+17  Admission Process
+18  Cohort Demographics & Profile
+19  About IIT Jodhpur
+20  About Futurense
+pg no.  16
+pg no.  19
+pg no.  20
+pg no.  21
+pg no.  23
+pg no.  24
+pg no.  25
+pg no.  26
+pg no.  27
+Message from  -
+"Our  present  age  requires  creative  solutions  to
+pressing  problems  of  Energy,  Environment,
+Sustainable  Development  and  Global  well  being.
+This  means  thinking  out  of  the  box  and  moving
+away  from  traditional  model  of  education,  which
+rewards  rote  learning  and kills  the  innate  creativity
+of  students.  Therefore,  our  vision  is  to  equip
+the  PGD  &  M.Tech
+Intelligence  course  with  the  necessary  modern
+skills  and  competencies  to  participate  in  a  rapidly
+transforming  global  knowledge  ecosystem  that  is
+being  shaped  drastically  by  technologies  such  as
+Prof. Avinash Kumar Agarwal is currently the Director at IIT Jodhpur. Prior to joining IIT  Jodhpur, he served as
+an  SBI  Endowed  Chair  Professor  and  J  C  Bose  National  Fellow  at
+the  Department  of  Mechanical
+Engineering,  IIT  Kanpur.  His  research  interests  include  IC  engines,  combustion,  alternative  fuels,  optical
+diagnostics, particulate and emission control  etc.
+Prof. Agarwal has published over 540+  peer-reviewed international journal and  conference  papers, 70+
+edited books, 125+ book chapters attracting more than 17500+  Scopus and more than 26000+ Google
+scholar  citations.  He  is  the  associate  principal  editor  of  prestigious  "Fuel"  Journal.  For  his  outstanding
+contributions, Prof. Agarwal has been  conferred upon several prominent recognitions and awards such as J
+C  Bose  National  Fellowship  (2019)  by  SERB,  the  Clarivate  Analytics  India  Citation  Award  (2017)  in
+Engineering  and  Technology  and  prestigious  Shanti  Swarup  Bhatnagar  Prize  (2016)  in  Engineering
+He is an elected Fellow of the Society of Automotive Engineers  International  (USA), American Society of
+Mechanical  Engineers,  Indian  National  Academy  of  Engineering,  Royal  Society  of  Chemistry,  National
+Academy  of  Science Allahabad,  American  Association for  Advancement  in Science  (USA),  Combustion
+Institute (USA), and  T he World Academy of Sciences.
+_,  ARE YOU READY TO TAKE THESE OPPORTUNITIES
+TO ACCELERATE YOUR CAREER?
+The demand for skilled professionals in this space is skyrocketing .
+.,_...  The global Al market is now projected to reach a staggering US$1.8 trillion by 2030,  representing an immense
+and sustained period of growth.
+India's demand for Al professionals is projected to hit 1 million skilled individuals by 2026, highlighting the coun­
+try's position as a global Al talent hub .
+...__...  The Indian Al market is expected to witness explosive and sustained growth, with some reports forecasting a
+market size of $17 billion by 2027 and a broader digital economy contribution of up to $500 billion by 2026.
+(Boston Consulting Group, NASSCOM, 2025).
+The demand for skilled Al professionals has not just skyrocketed; it has become one of the  defining forces of the modern
+job market. With the rapid integration of Al and Generative Al across every sector, from finance and healthcare to manufac­
+turing and marketing, the need for experts who can design, develop, and deploy intelligent systems is at an all-time high.
+This program is designed to equip you with the advanced skills required to lead this transformation.
+MORE REASONS TO BE A PART OF Al REVOLUTION:
+- - - -
+I  1  I
+- - - -
+- - - -
+I  2 I
+- - - ..
+- - - -
+I  3  I
+..  - - ..
+- - - ...
+1_  - - _I
+One of the most fascinating and quickly-growing topics in modern times is artificial intelligence. It is at
+the  forefront  of  technological development, and a  wide range of  industries, including  manufacturing,
+transportation, healthcare, and entertainment, can use it. There are many job prospects as a result of the
+ongoing increase in demand for Al professionals.
+High Demand and Competitive Salaries
+There is a lack of qualified Al practitioners as a result of the demand for Al professionals surpassing the
+talent  pool.  For  individuals  who  choose  to  enter  the  area,  the  lack  of  Al  competence  translates  into
+competitive pay and alluring compensation packages. Al experts frequently have above-average pay
+and fantastic opportunities for professional advancement.
+Global Significance and Effect
+Artificial  Intelligence is a global phenomenon,  and its  developments  and uses are  being investigated
+globally. Working on foreign projects and collaborating with individuals from other nations and cultures
+can be two of the many chances that a career in artificial intelligence can provide.
+Continuous Career Growth
+Al  is  still  in  its  early  stages,  and  the  potential  for  career  growth  and  professional  development  is
+immense. As you gain experience and expertise in Al, you can progress to more specialized roles, lead
+teams, engage in research, or even contribute to shaping the future of Al through academia or industry
+PG Diploma and M.Tech in Al
+This M.Tech in Al at IIT Jodhpur will offer students with deep knowledge of both fundamental Al technologies, as
+well as application-oriented Al. A student completing this program will be capable to undertake careers in industry
+as well as academia. He/She will have the option to explore a variety of domains including Manufacturing, Fintech,
+Healthcare, Agriculture/Food Processing, Education, Retail/Customer Engagement, Human and Robot interaction/
+intelligent automation, Smart City, Aid for Differently Abled/Accessibility Technology.
+IIT  Jodhpur's  MTech.  Program  features  an  industry-integrated  curriculum  that  focuses  on
+emerging technologies, data analytics, and technology applications. The curriculum is regularly
+updated to keep pace with industry trends.
+Industry Relevant Electives
+The program offers a diverse array of  electives under the MTech. Program track. From Social
+Network  Analysis,  Principles  of  Biological  Vision,  Cyber  Security,  GPU  programming,  and
+Introduction  to  Blockchain,  students  can  tailor  their  specializations  to  match  their  career
+aspirations in the dynamic field of technology.
+Learn  from  distinguished  faculty  comprising  renowned IIT  Jodhpur  Faculty, who  bring in the
+best academic experiences into the classroom, nurturing as well as challenging students at the
+rigorous  program  with  Multiple  Assessments,  Assignments  and
+Examinations ensures a solid learning outcome.
+Application Focused Learning from Top Industry Leaders
+l!!J�  Gain insights on industry challenges, tech opportunities, and practical examples shared by key
+leaders while networking extensively within the industry.
+Experimental and lmmersive Learning
+The program integrates industry use cases, mini-projects, assignments, and capstone projects.
+This hands-on approach ensures that students are well-prepared to apply their knowledge in
+T he program is tailored for Tech Professionals or aspirants who want to build a career in Al, Al and ML Engineering,
+data analytics, ML, and similar evolving technologies.
+ltis also a perfect program for candidates seeking roles as Data scientist, ML Engineer,  Al  Research Scientist, AL
+Solutions Architect, Big Data Engineer, Al Consultant, and more.
+Eligibility*  For students who want to only pursue PGD  in Artificial Intelligence
+..,__...  Minimum 50% marks in Under-graduation, or Post-graduation:
+BSc./ BCA+ MSc./MCA/Master's degree in science/or in a STEM field
+...__...  Minimum of 1 Years of Work Experience is mandatory (after qualifying degree) at the time of registration to
+the program.  (T he applicant must qualify the pre-screen test to be eligible for the program)
+Eligibility**  For students who want to transition to M.Tech  after PGD in Artificial Intelligence
+..,__...  Minimum 60% marks in Graduation from a 4 Year Degree Program:
+BSc./ BCA+ MSc./Master's degree in science
+BSc./ BCA + MCA, or in a STEM field
+1---11  First division in Under-graduation/ Post-graduation
+...__...  Minimum of 2 Years of Work Experience is mandatory (after qualifying degree)  at the time of registration to
+the program.  (T he applicant must qualify the pre-screen test to be eligible for the program)
+*If students whose eligibility criteria do not pass the M.Tech threshold, they will not be allowed for M.Tech.
+**Admission to M.Tech program delivered in executive mode is based on the discretion of the Program Director.
+NEXT - GEN CURRICULUM FOR A FUTURE-PROOF CAREER: DEEP INDUSTRY AND GLOBAL
+.,__ ..  Cutting-edge Project-centric Curriculum built by Industry Experts and IIT Jodhpur Faculty after the
+emergence of Generative Al
+Application-oriented approach along with Case Studies & Project work
+Transfer your credits towards M.Tech Program by IIT Jodhpur*
+THE Ill DREAM
+t---11-:  Attain PGD by IIT Jodhpur
+.,__ .. - Achieve IIT Jodhpur Alumni Status
+.,__ .. - Become a part of IIT Jodhpur Alumni network
+...__ ... =  Network with experts from Data & Analytics industry
+.,..._...  Live Sessions Every Week
+.,__ ..  Live Online Masterclasses by Top Industry Experts
+...__..  There is will be 1 mandatory campus immersion of 5 to 7 days in every academic year**
+INDUSTRY-TETHER WITH FUTURENSE
+.,..._...  Fully Sponsored Futurense Bridge Course covering the Foundations of the Program
+...__...  Futurense Career Support
+*Based  on  the  PD1s  discretion  and  the  graduating requirements,  you  can  transition  to  the  M.Tech  Program  delivered  in
+**T he policies and requirements regarding campus immersion, including the number of immersions a student must attend,
+are subject to review and final approval by IIT Jodhpur.
+Submit your Application
+Appear for the Pre-screening Test
+Pay the Application Processing Fee
+Receive your Offer Letter
+from IIT Jodhpur and Complete your Full Payment
+Strengthen your Foundations through
+Futurense Bridge Courses
+Begin your IIT Jodhpur PG Diploma Degree
+Become an IIT Jodhpur
+PG Diploma Graduate
+Transfer your credits towards IIT
+Jodhpur M.Tech Program!*
+*Based on PD
+s discretion and the graduating requirements, you can transition to M.Tech Program delivered in Executive Mode.
+Post IIT Jodhpur -
+Complete M.Tech Degree in Executive mode in 1 year!
+Enhance  your  professional  growth  by  leveraging  your
+from  the  PG  Diploma  Program
+and  transfer  to  IIT  Jodhpur's  M.Tech  program  in
+executive mode to unlock new career opportunities.*
+Eligibility  Criteria: Based  on  the  PD's  discretion
+and the graduating requirements.
+Program Fee: INR 2,40,000**
+For More Information: office_eep@iitj.ac.in
+Students  have  preferred  opting  for  M.Tech
+degree  after  PG  Diploma
+Intelligence to enhance their career growth in
+Deepens expertise for tackling complex
+Intelligence  challenges  with
+Enhances job market competitiveness,
+favoring  candidates  with  advanced
+**For PGD candidates who want to upgrade to M.Tech
+Prepare for your IIT Jodhpur PG Diploma in Artificial Intelligence with the Futurense Bridge Cour se.
+This foundational program, offered at  No  Extra Cost, equips you for success. It includes Live Online Training with
+Industry  Experts.  These  interactive  sessions  provide  valuable  insights  and knowledge.  Beyond  the  live  training,
+access  30+  Hours of Self-guided  Learning  Materials to  master  core  concepts.  The  course  concludes  with  an
+assessment  to validate your  knowledge. With the  Futurense  Bridge  Course, get  ready  to excel in  your  academic
+As students of Futurense executive education programs, you get exclusive access to our proprietary bridge courses.
+These have been carefully curated in partnership with IIT, industry veterans and our Futurense Leadership Council.
+These courses offer a unique guided self-learning roadmap to get up to speed with the prerequisites of the courses
+and program you will be embarking upon.
+Weekly 1 hours of live online training and 30+ hours of self guided learning
+01 � MATHS REFRESHER
+02 � PROGRAMMING FOUNDATIONS
+03� DATABASES WITH MYSQL
+04 � MACHINE LEARNING ESSENTIALS
+05 � GEN AI,
+AGENTIC AI AND
+- ------------------------ �------- -
+Advanced Artificial Intelligence/Autonomous
+- -------------------------------- -
+Program Elective 2
+_ __ __ ____ _ ____ ____ __ _____ i _ ____ __ _
+Program Elective 3
+- ------------------------ ➔------- -
+Ethics and Professional Life
+- ------------------------ �------- -
+Year 2 (Two Semesters)
+Upgrade to M.Tech degree after PG Diploma in Artificial Intelligence
+- ------------------------+------- -
+MTech Project 1
+- -------------------------------- -
+Program Elective 4
+- -------------------------------- -
+Program Elective 5
+_ ________________________ i _______ _
+System Engineering and Project Management
+- ------------------------� ------- -
+- ------------------------ ,------- -
+- -------------------------------- -
+MTech Project 2
+Open Elective 1
+- ------------------------ �------- -
+*Curriculum under revision by IIT Jodhpur.  Final updates will be shared soon.
+Note: The electives list above is indicative. IIT Jodhpur is an institution of eminence in areas of emerging technologies and
+launches new courses  dynamically every trimester. Therefore, the compulsory electives are updated on a regular basis and
+will be made available as per discretion of the  faculty and Program Directors.
+EXPERIENCE BEING AN IITIAN WITH CAMPUS IMMERSIONS
+Campus immersion will be an essential element of the program experience, during which learners are required
+to  attend  campus  activities  and  sessions  at  the  IIT  Jodhpur  campus. There  will  be  one  immersion  per
+academic year and will be conducted for 5 to 7 days. Attending one immersion is mandatory for students.
+Learners will get a live classroom experience, with the opportunity to meet and learn in person from the es­
+teemed faculty at IIT Jodhpur and engage in peer learning or presentations and project work. The immersion
+timetable will be set by IIT Jodhpur, and will be communicated to students in advance post onset of the pro­
+The policies and requirements regarding campus immersion, including the number of immersions a student
+must attend, are subject to review and final approval by IIT Jodhpur. While it is currently planned that students
+must attend at least one immersion program per academic year, these policies may be revised based on re­
+source availability at IIT Jodhpur. Any changes will be communicated accordingly. The institution reserves the
+right to modify, update, or amend the immersion attendance requirements based on academic, administrative,
+or regulatory considerations.
+- - ---- 1
+- - - - -
+r  .....  - __.
+I - -
+............. - EB DURATION
+r --------- ,
+12 Months  I  330 Hours
+L --------- .J
+.,_..= � PROGRAMME COMMENCEMENT
+r- ----------- ,
+January 2026 (Tentative)
+L ----------- .J
+.,_..= � PROGRAMME FEE
+r --------- ----------------------- ,
+Course Fee: �3,35,000
+(Including �10,000 Application
+(The  Application  Processing  Fee  is  included  in  and  adjusted  with  the  course  fees,  which  must  be  paid  at  the  time  of
+completing  the  application.  If  the  application  is  not  accepted  by  IIT  Jodhpur  or  Futurense,  this  amount  will  be  fully  refunded.
+However,  if  the  student  withdraws  or  drops  out  for  any  reason  after  the  application  is  accepted,  this  amount  is  strictly
+Administrative Fee: �20,000 (This includes lodging, meals excluded and is separate from course fees.)
+*No refunds post the last date of registration.  Fees are subject to change based on the institute's current policy.
+L ---------------------------------  .J
+---------= * TOTAL CREDITS
+r- - ,
+L - .J
+---------- � LEARNING MODE
+Live Online Sessions
+Once per academic year for 5-7 days
+............. =  R� PROGRAM SCHEDULE
+r ----------- ------------- ,
+Friday, Saturday and Sunday
+The class schedule will be determined by IIT Jodhpur and is scheduled to take place on Fridays
+(late evenings),  Saturdays, and Sundays, subject to the availability of the faculty.
+L ------------------------- J

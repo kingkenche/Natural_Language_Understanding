@@ -1,0 +1,49 @@
+Projects | School of Artificial Intelligence & Data Science | IIT Jodhpur
+Sponsored by: TIH iHub Drishti, IIT Jodhpur
+Computer Vision for Plant Phenomics and Smart Agriculture
+PI: Rabi N. Sahoo (IARI), Bikash Santra
+Start-End Date: 9/29/2022 - 9/28/2025
+Amount: 57.77 lakh
+Description: Computer Vision for Plant Phenomics and Smart Agriculture
+Website/Document | Join Us
+Sponsored by: IIT Jodhpur
+Investigating Inhibitory Control of Actions using TMS-EEG: A Potential Clinical Tool to Identify Neural Markers of Cognitive Deficits in Impulse Control Disorders
+PI: Vignesh Muralidharan
+Start-End Date: 08/02/2024 - 08/01/2025
+Amount: 25 lakh
+Description: Research Initiation Grant to setup a TMS-EEG modality to investigate inhibitory control of actions in humans. Inhibitory control is a cognitive function that helps us override unwanted actions, thoughts and emotions. TMS-EEG will provide a new window into the brain processes involved in such a form of control through simultaneous stimulation and brain activity measurements.
+Website/Document | Join Us
+Sponsored by: IIT Jodhpur
+Multi-modal Learning for Genetic Characterization of Tumors
+PI: Bikash Santra
+Start-End Date: 08/02/2024 - 08/01/2025
+Amount: 24.99 lakh
+Description: Research initiation grant for creating the research facilities at the institute.
+Website/Document | Join Us
+Sponsored by: IIT Jodhpur
+MRI Image Quality Enhancement
+PI: Angshuman Paul, Bikash Santra, Rajendra Nagar, Neeraj Jain
+Start-End Date: 06/01/2024 - 05/31/2026
+Amount: 50 lakh
+Description: Designing deep learning models that can remove noise and various artifacts from the MRI images captured through the MRI scanners developed by SAMEER, Mumbai.
+Website/Document | Join Us
+DBT/Wellcome Trust India Alliance
+Slot machines in our pockets: Elucidating the neural effects of smartphone overuse on reward anticipation and reward processing
+PI: Saurabh Gandhi
+Start-End Date: 01/02/2024 - 31/01/2029
+Amount: 1.09 Cr
+Description: We study the impact of smartphone use on the brain, focusing on the relationship between smartphone use and gambling. Does smartphone addiction have any similarity with gambling addiction? Secondly we also explore the possibility of using smartphones to study cognition in a more naturalistic way compared to traditional lab experiments.
+Website/Document | Join Us
+Science and Engineering Research Board
+Development of an oscillator network model of the brain that will enable hypothesis-driven perturbation-response experiments for early detection of neurodegenerative disorders
+PI: Saurabh Gandhi
+Start-End Date: 18/12/2023 - 17/12/2025
+Amount: 33 lakh
+Description: We will develop a network model of the healthy and diseased human brain. This model will be used to simulate brain stimulation paradigms for early detection of neurodegenerative disorders. As internal connectivity of the brain changes, its response (in terms of EEG) to external stimuli (such as TMS) also changes. Can we detect changes in internal connectivity based on the observed changes in EEG? What is the best way to do that? We will answer these questions in this project.
+Website/Document | Join Us
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 28 Jan 2026 - 08:18 PM

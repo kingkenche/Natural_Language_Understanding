@@ -1,0 +1,34 @@
+M Tech in Bioscience & Bioengineering
+Microbiology & Biochemistry
+Cell & Molecular Biology
+Open Elective 1
+Plant Physiology & Pathology
+Statistics & Data Analysis
+Cat.  Course Title
+OE  Open Elective 2
+PE  Program Elective
+PE  Program Elective
+PE  Program elective
+PE  Program Elective
+Program elective set 1- Bioimaging
+Imaging Instrumentation & Acquisition
+Signal processing & Analysis
+Image processing & analysis
+Program elective set 2 Multi-omics
+Data preprocessing & Storage
+Program elective set 3- Biosensors
+Sensor types & technologies
+Sensor fabrication & microfluidics
+Sensor signal analysis & statistics
+Signal amplification, read out electronics & Data interpretation
+Program elective set 4-Systems Biology
+Mathematical Modeling & Simulations
+Thermodynamics & Enzyme kinetics
+Graph theory & Networks
+Genetic & Metabolic Engineering
+Program elective set 5-Bio-materials Engineering
+Computational modeling in material design
+Medical devices and Implants
+Program Elective set 6- Artificial Intelligence in Bioengineering
+Pre-processing of Data
+Applications in Multi Omics data, Imaging, Sensors

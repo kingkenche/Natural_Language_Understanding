@@ -1,0 +1,414 @@
+Hkkjrh; çkS|ksfxdh laLFkku tks/kiqj
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+BOARD OF GOVERNORS
+11th February 2022 (Friday)
+Board Room/Webex, IIT Jodhpur
+This page is left blank, intentionally
+Indian Institute of Technology Jodhpur
+Board of Governors
+Minutes of 28th Meeting
+11th February 2022 (Friday), 11:00 A.M.
+Board Room/ Webex, IIT Jodhpur
+The following Members were present/ attended through Webex/issued comments:
+Dr. R. Chidambaram, Former PSA to Govt. of India
+Prof. Santanu Chaudhury, Director, IIT Jodhpur
+Prof. N. S. Shekhawat, Former Professor, JNVU, Jodhpur
+Prof. Akhil R. Garg, Professor, JNVU, Jodhpur
+Prof. Surajit Ghosh, Deptt. of Bioscience & Bioengineering
+Prof. Mitali Mukerji, Deptt. of Bioscience & Bioengineering
+Sh.  P.C.  Makwana,  Director,  Directorate  of  Technical  Education,
+Jodhpur, GoR, Nominee of Govt. of Rajasthan representative
+Sh. Rakesh Ranjan, Additional Secretary (TE), Ministry of Education,   Member*
+Prof. Sampat Raj Vadera, Deputy Director, IIT Jodhpur
+Sh. P.G. Basak, Advisor (Admin.) & Offg. Registrar
+*The Ministry of Education had issued the Comments on the Agenda vide letter No. F.No.12-9/2018-TS.1
+dated 08.02.2022, and the same was considered in the Meeting.
+Sh. Anil Bhavarlal Jain, Member, BoG, was granted leave of absence as he had intimated his inability to
+attend the meeting due to pre-occupancy.
+The following are the decisions of the BoG on the items of the Agenda:
+28.1  WELCOME BY THE CHAIRMAN
+The  Chairman,  BoG,  welcomed  all  the  members  of  the  Board  of  Governors,
+especially  Prof.  Mitali  Mukerji,  Professor  and  Head,  Department  of  Bioscience  &
+Bioengineering,  IIT  Jodhpur,  who  was  attending  the  meeting  as  a  Member  for  the
+first time in the capacity of Senate Nominee on the BoG.
+Then,  the  Chairman,  BoG,  placed  on  record  the  appreciation  for  the  valuable
+contribution  by  Prof.  S.R.  Vadera,  whose  tenure  as  Senate  nominee  on  the  BoG,
+IIT  Jodhpur  was  ended  on  31.12.2021.  The  Chairman,  BoG  recalled  that  he  met
+Prof.  Vadera  for  the  first  time  during  his  visit  to  the  Defence  Laboratory  Jodhpur
+(DLJ) when Prof. Vadera was the Director of DLJ, and at that time, various engaging
+research activities were undergoing at DLJ.
+The Director stated that Prof. Vadera would continue to be Special Invitee on BoG in
+the Capacity of the Deputy Director of the Institute.
+Later, the Chairman, BoG called the meeting in order.
+28.1.1  To Confirm the Minutes :
+1.  To  Confirm  the  Minutes  of  11th  Special  meeting  of  the  Board  of
+Governors held on 18 December 2021 at Board Room, IIT Jodhpur.
+2.  To  Confirm  the  Minutes  of  27th  Meeting  of  the  Board  of  Governors
+held on  8 October 2021 at Board Room, IIT Jodhpur
+The  Board  confirmed  the  Minutes  of  the  11th  Special  and  27th  BoG  meetings,  as
+28.1.2  Presentation  by  the  two  faculty  members  on  their  research  work
+/accomplishments before the BoG.
+As  per  the  decision  of  the  BoG  taken  in  its  24th  Meeting  held  on  5.12.2020,  the
+following  two  Faculty  Members  of  the  Institute  made  presentation  before  the  BoG
+about their research work:
+1.  Dr. Gaurav Bhatnagar
+Dr. Gaurav Bhatnagar, Associate Professor, Department of  Mathematics, presented
+his research work and apprised the BoG that with the substantial proliferation in the
+internet-connected  devices,  the  data  is  captured,  stored,  and  processed  in  large
+volume  fetching  newer  critical  issues  in  the  context  of  security  of  the  data.  These
+issues can be solved after understanding underlying aspects in detail. Dr. Bhatnagar
+presented that the research work is an attempt to uncover different aspects of data
+security. It essentially starts by defining different types of data that can be captured
+and commonly used security threats.
+Subsequently,  Dr.  Bhatnagar  presented  different  methodologies  of  data  security,
+namely (1) Data Encryption, (2) Digital Watermarking, and (3) Data Fingerprinting,
+which  are  the  optimal  solutions  to  ensure  security.The  Chairman,  BoG,  and
+Members  requested  Dr.  Bhatnagar  to  explain  these  methodologies,  mainly  Digital
+watermarking, Dr. Bhatnagar briefed the Board about the same.
+Prof. Mitali Mukerji and Prof. Surajit Ghosh, Members, BoG requested Dr. Bhatnagar
+to  explore  to  solve  the  problem  of  image  fudging  because  presently  there  is  no
+technology available to effectively address this issue.
+Later,  Dr.  Bhatnagar  and  BoG  discussed  an  encryption  approach  based  on  the
+fractional transform along with the data security application in the IoT environment,
+industrial surveillance, and privacy-preserving AI models.
+The BoG appreciated the research work presented by Dr. Bhatnagar
+2.  Dr. Prasenjit Sarkar
+Dr. Prasenjit  Sarkar,  Assistant  Professor,  Department  of  Chemical  Engineering,
+presented his research work to make Kidney tissues in the Lab to save the lives of
+end-stage  kidney  patients.  Dr.  Sarkar  apprised  the  members'  that  Kidneys  are
+composed  of  approximately  one  million  subunits  known  as  nephrons.  The  major
+function  of  the  nephrons  is  to  filter  the  blood  and  make  urine.  End-stage  kidney
+disease  affects  151-232  people  per  million  population  in  India  annually.  These
+patients  require  either  dialysis  or  kidney  transplantation,  of  which,  life  expectancy
+on  kidney  transplantation  is  much  higher.  However,  there  is  a  severe  shortage  of
+kidney donors for carrying out kidney transplantation. Therefore, there is a need to
+make  kidney  tissue  in  the  lab.  Kidney  tissue  has  been  generated  in  the  lab  by
+various  researchers.  However,  these  are  shown  to  be  not  suitable  for  therapeutic
+purposes,  as  demonstrated  after  implantation  into  mice  kidneys.  To  address  this
+challenge, we propose a new hypothesis for the process of nephron formation. The
+new  hypothesis  entails  the  induction  of  one  pool  of  nephron  progenitor  cells  with
+Wnt signaling, and a separate pool of nephron progenitor cells with Notch signaling.
+These two pools of cells are hypothesized to interact and give rise to the nephron.
+The  proposed  underlying  network  of  biochemical  reactions  was  presented.  It  was
+noted  that  the  study  of  such  a  network  of  reactions  has  not  been  conducted
+previously  for  this  system.  Further,  the  network  of  reactions  was  modeled  using
+ordinary differential equations and stochastic  simulations were conducted using the
+software  COPASI.  Results  of  the  simulation  were  presented.  To  validate  these
+results,  experiments  need  to  be  conducted  on  nephron  progenitor  cells.  It  was
+discussed  that  nephron  progenitor  cells  may  be  obtained  from  rat  embryos  to
+conduct such experiments. The experimental design was briefly presented. The goal
+of  the  experiments  will  be  to  validate  the  model  of  nephron  formation,  to  validate
+the biochemical reaction network proposed, and to evaluate the kinetic parameters
+in the biochemical reaction network.
+The  Board  of  Governors  suggested  that  the  experiments  may  also  be  carried  out
+using  human  cells  since  there  are  differences  in  gene  regulation  between  human
+cells and rat cells.
+The  Chairman,  BoG,  and  Members  appreciated  the  presentations  made  by
+Dr. Bhatnagar and Dr. Sarkar
+28.2  INSTITUTE REPORT BY THE DIRECTOR
+The Director presented the Institute Report before the Board of Governors as below:
+The Board of Governors was apprised that the number of Academic Programs of IIT
+Jodhpur  reached  66  (+1  proposed)  from  21  Academic  Programs  in  AY  2018-19.
+The Program-wise Student strength in AY 2021-22 of 3329.
+The Board was also briefed that the faculty strength reached 213 compared to 129
+in March 2020, including Professor, Associate Professor, Assistant Professor, Visiting
+Professor,  Professor  of  Practice,  Professor  on  deputation,  Young  Faculty  Associates
+The  progress  of  R&D  Projects  was  also  apprised,  and  the  Director  briefed  the  FC
+that the new R&D Projects and Grant is currently lower, but Institute will likely  get
+more projects and grants during the end of this Financial Year.
+The fund Analysis was also presented to the Board. The Director presented  existing
+fund position under all three object heads viz. OH-31, OH-35 and OH-36.
+New initiatives /activities at IIT Jodhpur
+The Director briefed the BoG about new initiatives /activities as below:
+1. Johari Digital Health Care Limited has set up and operationalized a lab on Digital
+Med-Tech at Technology Park, IIT Jodhpur;
+2. Rajasthan  Solar  Association  have  set  up  a  Center  of  Excellence  (CoE)  on
+Renewable Energy Research; and
+3. Rajasthan  Govt.  has  approved  the  investment  of  70  Crores  in  a  Section-8
+Company as Joint Venture with JCKIF in the area of AIOT with IITJ as knowledge
+and facility provider.
+New initiatives Planned
+The Director also briefed the BoG about new initiatives planned as below :
+1.  4  Year  BS  Programmes  in  Physics  and  Chemistry  with  Engineering  oriented
+specializations (integrated component)
+  Option for BS-M.Tech. Dual Degree in 5 Years
+2.  As per the National Education Policy (NEP), an initiative for a School of Liberal Arts
+with  focus  on  multi-disciplinary  technology-enabled  academic  and  research
+initiatives in human-centric disciplines
+3.  Setting up a Center on Engineering Education focused on
+  Pedagogy for Engineering Education
+  Faculty training
+The  Chairman  and  members  appreciated  the  Institute  Report  presented  by  the
+28.2.1  Action Taken Report on previous decisions of the Board of Governors.
+The Board of  Governors noted the Action Taken Report (ATR) on  various decisions
+taken  by  the  Board  of  Governors  in  its  previous  meetings,  11th  Special  and  27th
+Meeting held on 18 December 2021 & 8 October 2021 respectively. The BoG made
+observations on the following:
+24.3.11: To undertake scientific analysis of the bibliographic data of the
+Institute on different parameters to improve the performance.
+The Director apprised the BoG that the service provider has set up the Institutional
+Repository platform. Profiles of Faculty Members of the Institute have already been
+created in the Institutional Repository for its analysis. The Director also apprised the
+Board that IIT Jodhpur has achieved a significant increase in H-Index from 33 to 50.
+The  Director  also  apprised  that  the  detailed  report  on  scientific  analysis  of  the
+bibliographic data of the Institute on different parameters will be placed before the
+BoG in its next meeting.
+The BoG noted the detailed action taken report.
+28.3  DISCUSSION ITEMS
+28.3.1  To  consider  and  approve  the  recommendations  of  the  24th  Meeting  of  the
+Finance Committee held on 10 February 2022 at IIT Jodhpur.
+The  Director  briefed  the  Board  of  Governors  that  the  24th  meeting  of  the  Finance
+Committee  was  held  on  10  February  2022  in  the  IIT  Jodhpur  and  then  presented
+the recommendations of the Finance Committee before the BoG. The BoG approved
+the  recommendations  of  the  24th  Meeting  of  the  Finance  Committee,  made
+observations on the following items, and approved as under:
+24.1.2: Proposal to revise Fee structure
+The  Board  of  Governors  noted  the  following  recommendations  of  the  Finance
+“The Director apprised the Finance Committee that it is very difficult for the Institute
+to meet the essential recurring cost owing to increased strength of Students, Faculty,
+Staff  and  Institute  Infrastructure.  The  Director  expressed  his  deep  concern  over
+shortfall arising due to reduction of recurring grant released by the MoE and to meet
+essential recurring Cost.
+The Director stated that  Institute has to take steps to reduce the shortfall arises due
+to insufficient release of Grant-in-Aid by the MoE. He briefed the FC that the Institute
+had reduced the Hostel and other fees by 25%  due to COVID-19. Now, the Institute
+has to review its fee structure at par with other IITs to meet its essential requirement.
+The  Director  further  requested  the  Finance  Committee  to  accord  its  in-principle
+approval to increase the fees considering mainly following points:
+1.  Power consumption charges for Hostel Rooms
+2.  Dining Hall
+3.  Additional Medical Expenditures to handle pandemic
+4.  Expense for Student Activities
+5.  Meeting changes in price index
+After  detailed  deliberations,  the  Finance  Committee  noted  the  need  of  the  Institute
+and accord its in-principle approval to revise /increase its fee structure and suggested
+to come back with detailed proposal in the Finance Committee in its next meeting.”
+The Board approved the above recommendation of the Finance Committee.
+24.1.4 Payment of HRA as per “Y” Class city to the employees.
+The  BoG  noted  the  following  deliberations  of  the  24th  Finance  Committee  held  on
+“The Finance Committee noted the present position of the matter and expressed that
+the matter should be resolved by the Ministry of Education in light of recent gazette
+notification by the Govt.  of  Rajasthan declaring the area  where IIT Jodhpur situated
+under the Urban Agglomeration (UA) and other nearby Institutions are paying HRA as
+per  “Y”  Class  city.  The  Finance  Committee  suggested  the  Institute  to  again  request
+the MoE to resolve the matter.”
+The Board noted the same and expressed that the MoE should consider the matter
+in the light of Govt. of  Rajasthan’s Gazette Notification clearly stating the name  of
+IIT  Jodhpur  under  Jodhpur  (UA).  The  BoG  suggested  requesting  the  MoE  again  to
+resolve the matter.
+24.1.4. Recruitment and Promotion Rules for non-faculty positions 2021
+The  BoG  noted  and  approved  the  following  recommendations  of  the  Finance
+“The FC noted  that the recommendation of the Finance Committee was placed before
+the Board of Governors in its 27th meeting held on 08 October 2021 for consideration
+and  approval.  Further,  as  suggested  by  the  Ministry  of  Education,  the  Institute  had
+sent  the  Recruitment  and  Promotion  Rules  2021  separately  to  the  Ministry  of
+Education for approval. In response, the MoE had sought certain clarifications and the
+para-wise  reply  has  been  sent  to  the  MoE  vide  letter  No.IITJ/O(E-II)/2021-22/522
+dated 02.02.2022 for consideration.
+After  discussion,  the  Finance  Committee  recommended  that  after  concurrence  of  the
+Ministry  of  Education,  the  Institute  should  implement  Recruitment  and  Promotion
+Rules. The Same was recommended to BoG for approval.”
+24.2.2: To consider and approve:
+(i)  Recommendations  of  the  26th  meeting  of  the  Building  &  Works  Committee
+(B&WC) held on 25th  January 2022 at IIT Jodhpur.
+(ii)  To  consider  the  recommendations  of  the  Special  meeting  of  the  Building  &
+Works Committee (B&WC) held on 15 November 2021 at IIT Jodhpur.
+The  BoG  noted  and  approved  the  following  recommendations  of  the  Finance
+“The Finance Committee endorsed the recommendations of 26th meeting of the Building
+&  Works  Committee  (B&WC)  held  on  25th  January  2022  at  IIT  Jodhpur  and  Special
+meeting of the Building & Works Committee (B&WC) held on 15 November 2021 at IIT
+Jodhpur to the BOG for its approval.”
+24.2.5 Payment of HRA to the CPWD
+The  BoG  noted  and  approved  the  following  recommendations  of  the  Finance
+“The  Finance  Committee  recommended  to  make  the  payment  to  CPWD.  It  is  also
+advised to send a communication to CPWD stating that this is the full and final payment
+towards  outstanding  HRA.  Further,  a  acknowledgment  from  the  CPWD  has  to  be
+obtained towards this payment.”
+24.2.6 Adoption of Audited Annual Accounts for the financial year 2020-
+The  BoG  noted  and  approved  the  following  recommendations  of  the  Finance
+“The Finance Committee recommended adoption of SAR and Audited Annual Accounts
+for financial year 2020-21 to BOG  for its approval.”
+24.2.7:  Government  of  Rajasthan  Extraordinary  Notification  dated
+18.02.2021  towards  notifying  Jodhpur  Urban  Area  (U1)  under  Master
+Development Plan (2013-2031) of Jodhpur.
+The BoG noted the following recommendations of the Finance Committee:
+“The Finance Committee noted the information and recommended to the BOG for
+The  Board  noted  the  recommendations  of  the  Finance  Committee  but  suggested
+requesting the MoE again to resolve the matter of HRA pending for very long.
+24.3.3: Implementation of Vidhyalaxmi Scheme
+The  BoG  noted  and  approved  the  following  recommendations  of  the  Finance
+“The Finance Committee noted the implementation of Vidhyalaxmi Scheme in the
+28.3.2  To  consider  the  Finalization  of  Project  Completion  Report  (PCR)  for
+Development of Permanent Campus of IIT Jodhpur.
+The  Board  of  Governors  noted  the  following  recommendations  of  the  Finance
+Committee  on  the  Finalization  of  Project  Completion  Report  (PCR)  of  Development
+of Permanent Campus of IIT Jodhpur:
+“The Director presented the item before the Finance Committee and apprised
+that The Institute had sent proposal for sanction of additional funds of Rs.34.9
+Crores  for  financial  closure  of  the  Project.  In  response,  the  Ministry  of
+Education  vide  letter  F.No.12-13/2020-TS-I  dated  19.01.2022  directed  the
+Institute to send the proposal duly scrutinized & recommended by the B&WC,
+Finance  Committee  and  BoG  of  the  Institute  alongwith  “Project  Completion
+Report” in the format shared by the MoE.
+As per the direction of the MoE, the Project Completion report was presented
+before the Building & Works Committee in its 26th meeting held on 25.01.2022
+and  after  detailed  scrutiny,    the  B&WC  recommended  to  the  FC  and  BoG  as
+“The  B&WC  was  apprised  that  the  Institute  had  sent  proposal  for
+sanction  of  additional  funds  of  Rs.34.9  Crores  for  financial  closure  of
+the Project. In response, the Ministry of Education vide letter F.No.12-
+13/2020-TS-I  dated  19.01.2022  directed  the  Institute  to  send  the
+proposal  duly  scrutinized  &  recommended  by  the  B&WC,  Finance
+Committee  and  BoG  of  the  Institute  alongwith  format  for  “Project
+Completion Report”.The B&WC was also apprised that setting up of IIT
+Jodhpur has been accomplished as per revised DPR. Both, financial and
+physical  targets,  as  mentioned  in  DPR,  have  already  been  achieved
+with a total expense of 1155.88 crores (against 1121 crores) and built-
+up  area  of  2,32,328  sqm.  (against  2,21,000  sqm.,  as  mentioned  in
+DPR) respectively.  The  Institute thus requires  an additional amount of
+Rs.34.9 Crores which is approximately 3% of total project cost to meet
+the  additional  expenses.  As  per  the  direction  of  the  Ministry,  the
+detailed  Project  Completion  Report  (PCR)  was  presented  before  the
+B&WC Annexure-A. The B&WC scrutinized the final Project Completion
+Report  (PCR)  for  “Development  of  Permanent  Campus  of  IIT  Jodhpur”
+with detailed expenditure & area-wise asset generation statement, and
+need  of  additional  amount  of  Rs.34.9  Crores  to  meet  the  additional
+expenses.  After  scrutiny,  the  B&WC  recommended  the  proposal
+to the Finance Committee and BoG for approval.”
+It  was  also  briefed  to  the  FC  that  Institute  has  incurred  Rs.227.41  crore  on
+equipment  and  Rs.  1155.34  crore  on  Construction.  The  Institute  is  not
+demanding  any  additional  fund  under  equipment  head  but  additional  fund  of
+Rs.  34.90  crore    is  essentially  required  for  formal  financial  closure  of  the
+After detailed deliberation, the Finance  Committee  recommended that Project
+Completion  Report  and  need  of  additional  amount  of  Rs.34.9  Crores  to  meet
+the additional expenses to the BoG for its approval.”
+The Board deliberated on the recommendations of the B&WC & Finance Committee.
+The BoG noted that additional Rs.34.9 Crores required is approximately 3% of total
+project cost and the variation within 10% of approved estimate. The BoG approved
+the Project Completion Report and recommendations of the Finance Committee.
+To consider and approve:
+(i)  Recommendations  of  the  26th  meeting  of  the  Building  &  Works
+Committee (B&WC) held on 25 January 2022 at IIT Jodhpur.
+(ii)  To  consider  the  recommendations  of  the  Special  meeting  of  the
+Building  &  Works  Committee  (B&WC)  held  on  15  November  2021  at
+The  BoG  noted  and  approved  the  following  recommendations  of  the  Finance
+“The Finance Committee endorsed the recommendations of 26th meeting of the Building &
+Works Committee (B&WC) held on 25th January 2022 at IIT Jodhpur and Special meeting
+of the Building & Works Committee (B&WC) held on 15 November 2021 at IIT Jodhpur to
+the BOG for its approval.”
+To  consider  and  approve  the  proposal  of  additional  HEFA  loan  of  Rs.75
+Crore for equipment.
+The  Director  apprised  to  BoG  that  the  proposal  of  additional  HEFA  Loan  of  Rs.75
+Crore  was  placed  before  the  Finance    Committee  in  its  24th  meeting  held  on
+10.02.2022 and the FC recommended the following:
+“The  Director  briefed  the  Finance  Committee  about  the  critical  requirement  of  the
+Equipment  for  the  Institute  and  also  apprised  the  FC  that  the  Institute  has  sufficient
+repaying  capacity to pay the Institute’s obligation of Rs. 1.875 crore (25% of 75 crore
+repayable in 10  years) for the  proposed HEFA Loan of Rs.75 Crores after meeting its
+present HEFA Loan obligation of Rs. 6.30 crores and for the HEFA Loan of Rs. 252 Crore
+and  also  considering  the  future  obligation  of  Rs.  8.75  crore  for  the  HEFA  Loan  of
+Rs.350 Crores for Phase-3A (Construction) already submitted to the MoE for approval.
+The Finance Committee recommended the proposal of additional HEFA loan of Rs. 75
+Crore for equipment to the BOG for its approval.”
+After detailed deliberations, the Board approved the above recommendations of the
+Finance Committee considering the need of the Institute.
+28.3.5  To  consider  and  approve  the  recommendations  of  the  28th meeting  of  the
+Senate held on 17 December 2021 at IIT Jodhpur.
+The  Board  of  Governors  noted  the  recommendations  of  the  Senate  and  approved
+28.3.6  To  consider  and  approve  (i)  Adoption  of  Separate  Audit  Report  (SAR)  on
+Annual  Accounts  of  the  Institute  for  the  Financial  Year  2020-21  and
+(ii) Annual Report of the Institute for the FY 2020-21.
+(i) Adoption of Separate Audit Report (SAR) on Annual Accounts of the
+Institute for the Financial Year 2020-21
+The  Board  noted  the  following  recommendation  of  the  Finance  Committee  on  the
+adoption  of  SAR  on  Annual  Accounts  of  the  Institute  for  the  FY  2020-21  and  also
+receipt of Hindi version of SAR and approved the same.
+“The Finance Committee recommended adoption of SAR and Audited Annual Accounts
+for financial year 2020-21 to BOG  for its approval.”
+(ii) Annual Report of the Institute for the FY 2020-21.
+The  Annual  Report  for  the  year  2020-21  (English  and  Hindi)  was  presented  before
+the  Board  of  Governors  and  after  careful  review  of  the  Annual  Report;  the  BoG
+approved the Annual Report and directed the Institute to send the Annual Accounts
+and Annual Report for the FY 2020-21 to the Ministry of Education for laying on the
+Table of the Parliament.
+28.4  REPORTING, ADOPTING AND NOTING ITEMS
+28.4.1  Report on the implementation of the National Education Policy 2020.
+The Board noted the report on the implementation of the National Education Policy
+2020 as presented in the Agenda.
+The Director also apprised the BoG that as per the National Education Policy (NEP),
+an  initiative  to  establish  a  School  of  Liberal  Arts  with  a  focus  on  multi-disciplinary
+technology-enabled  academic  and  research  initiatives  in  human-centric  disciplines
+has been initiated.
+The  Chairman,  BoG  requested  the  Director  to  impart  training/mentorship  to  the
+nearby Engineering Colleges as per the mandate of the NEP and decision of the  IIT
+The Director briefed the BoG that the Institute has already taken such initiatives.
+The  Chairman,  BoG,  suggested  forming  informal  groups  of  experts  and  Faculty
+Members  to  have  discussions  with  the  regional  engineering  colleges  to  impart
+training/mentorship  to  the  nearby  Engineering  Colleges  as  per  the  mandate  of  the
+NEP  and  the  decision  of  the  IIT  Council.  The  Chairman,  BoG,  also  requested
+Prof.  Akhil  Ranjan  Garg  and  Prof.  N.S.  Shekhawat,  Members,  BoG  to  guide  the
+Prof.  Shekhawat  and  Prof.  Garg  agreed  to  guide  the  groups  towards  linkages  with
+regional engineering colleges.
+The  BoG  appreciated  the
+implementation of NEP and expressed their satisfaction.
+initiatives  taken  by  the  Institute  towards  the
+28.4.2  Report on the status of filling up of backlog vacancies.
+The status of the filling-up of backlog vacancies was presented before the BoG as
+The current faculty strength is:
+The BoG was also apprised that the Institute had floated Special Recruitment Drive
+for SC /ST/OBC in Faculty Positions and extended offer as under:
+Faculty Positions Offered:- 07 (SC:03 & OBC: 04)
+Faculty Members Joined:- SC:01, ST:01 (under regular recruitment drive) & OBC:03
+The BoG was also apprised that the Special Recruitment Drive for the following
+departments are under process and the roster for faculty positions is under process:
+2.  Electrical Engineering
+3.  Humanities & Social Sciences
+4.  Metallurgical & Materials Engineering
+7.  Mechanical Engineering
+No. of backlog vacancies
+The BoG noted the same.
+28.4.3  Report on Faculty Members and Staff Members joining and resigning from
+The Board noted the report on the Faculty Members and Staff Members joining and
+resigning from the Institute.
+28.4.4  Adoption of Circulars of MoE and Government of India
+The Board approved the adoption of OM circulated by the MoE.
+28.4.5  Report of R&D Projects sanctioned to the Faculty Members of the Institute
+from last Meeting of the BoG.
+The Board noted the report on the R&D Projects sanctioned to the Faculty members
+of the Institute and appreciated the efforts made by the Faculty Members.
+Institutions/organizations/companies by the Institute.
+The Board noted the report of the MoUs/Agreement(s) signed by the  Institute with
+different Institutions/organizations/companies and appreciated the Institute.
+28.5  RATIFICATION ITEMS
+28.5.1  Approvals accorded by Chairman, Board of Governors/Director.
+Reports of Selection Committees of Faculty Members
+The Board ratified the approval accorded by the Chairman, BoG for Selection of 24
+Faculty Members, as presented in the Agenda.
+(b)  Report of Standing Committee
+The  Board  ratified  the  approval  accorded  by  the  Chairman,  BoG,  on  the
+appointment of 1 Visiting Professor and 1 Professor of Practice.
+(C)  Approval  accorded  by  the  Chairman,  BoG  through  U.O.  Note  on
+appointment /extension of appointment through Standing Committee
+The Board ratified the approval accorded by the Chairman, BoG, as presented in the
+(d)  Reports of Selection Committees of Staff Members
+The Board ratified the approval accorded by the Chairman, BoG, as presented in the
+(e)  Reports of Selection Committees of Staff Members (LDE 2021)
+The Board ratified approval as presented in the Agenda.
+Reports of Standing Committees
+The Board ratified approval as presented in the Agenda.
+(g)  Reports of Review Committee of Staff Members
+The Board noted and approved the same.
+Various approvals accorded by the Chairman, BoG through U.O. Note.
+The Board ratified various approvals accorded by the Chairman, BoG, through U.O.
+Notes on behalf of the BoG, as presented in the Agenda.
+28.6  Any other item with the prior permission of the Chairman
+28.6.1  To  consider  and  approve  the  panel  of  experts  for  the  Center  for  Emerging
+Technologies for Sustainable Development (CETSD)
+The Director apprised the Board that there is a need to appoint Faculty Members in
+the  Center  for  Emerging  Technologies  for  Sustainable  Development  (CETSD)  to
+scale  up  its  Academic  and  Research  activities  and  presented  a  proposed  panel  for
+appointment of Faculty Members in the CETSD.
+After detailed deliberations, the Board of Governors approved the panel of experts
+The Meeting ended with thanks to the Chair and all Members of the Board of Governors.
+Offg. Registrar & Secretary, BoG
+Director, IIT Jodhpur
+Chairman, Board of Governors, IIT Jodhpur

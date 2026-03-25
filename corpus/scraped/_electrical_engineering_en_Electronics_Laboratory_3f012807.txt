@@ -1,0 +1,22 @@
+Electronics Laboratory | Electrical Engineering | IIT Jodhpur
+The Electronics Lab is based on hands-on experimentation, and exposes students to the basic building blocks of electronic circuitry and measurement procedures. The lab includes experiments on PN diodes, zener regulators, transistor switches and amplifiers, digital logic design using gate level ICs, and microcontroller-based design. The lab allows the students to engage in creative design thinking and implement small projects such as rectifiers, audio amplifiers, automatic light controller, digital counters and finite state machines. In the process, the students also learn the use of Function Generator, Power Supply and Digital Storage Oscilloscope available in the lab. The Electronics Lab is used for academic activities for the following courses along with B.Tech. Projects across the Institute:
+Introduction to Electrical Engineering
+Digital Logic & Design
+Facilities Arbitrary Function Generator (Tektronics (AFG3021B - 25MHz) Digital storage oscilloscope (Agilent & DSO1022A - 200MHz) Digital Multimetre 61/2 Digit (Agilent 34410A) Programmable DC Power Supply (Scientific PSD9005 -30V/1A, 5V/5A) Universal IC Tester (VPL-UICT) Soldering Iron Station (Xytronics LF-2000) Arduino Uno Microcontroller and Sensors
+Lab Video Resources
+People Faculty Members
+Dr. Rajlaxmi Chouhan (rajlaxmichouhan@iitj.ac.in) Dr. Nitin Bhatia (nitin@iitj.ac.in) Dr. Anil Kumar Tiwari (akt@iitj.ac.in) Dr. Mahesh Kumar (mkumar@iitj.ac.in) Dr. Arpit Khandelwal (arpitkhandelwal@iitj.ac.in) Dr. Harshit Agarwal (agarwalh@iitj.ac.in)
+Staff Members Mr. Gajraj Sharma (gajrajsharma@iitj.ac.in) Mr. Kailash Chander (kchander@iitj.ac.in) Mr. Naveen Kumar (naveenkumar@iitj.ac.in)
+Contact Details Room 301, Second Floor, Basic Lab Building For issue requests, please write to:  rajlaxmichouhan@iitj.ac.in .
+Demonstration on familiarization with lab equipment
+Viewing Fast Fourier Transform on the DSO
+Typical Apparatus for Circuit Analysis
+Arbitrary Function Generator
+Digital Storage Oscilloscope
+DC Power Supply
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

@@ -1,0 +1,365 @@
+Monthly Gross Salary_Faculty Members_September 2022
+Sr. No.   Name of Employee
+1   V V M Sarma Chandramouli
+2   B. Ravindra
+3   Vivek Vijay
+Assistant Professor Grade I
+4   Rakesh Kumar Sharma
+5   Anil Kumar Tiwari
+6   Gaurav Harit
+7   Subhasish Banerjee
+8   Amit Kumar Mishra
+9   Sandeep Kumar Yadav
+10   Harinarayanan V.
+11   K.J. George
+12   Deepak M. Fulwani
+13   Shree Prakash Tiwari
+14   Monika Sinha
+Assistant Professor Grade I
+15   Barun Pratiher
+16   Ambesh Dixit
+17   Meenu Chhabra
+18   Ashutosh Kumar Alok
+19   Rahul Chhibber
+20   V. Narayanan
+Assistant Professor Grade I
+21   Anand K Plappally
+22   Atul Kumar
+23   Sushmita Jha
+24   Vidya Sarveswaran
+25   Puneet Sharma
+26   Kirankumar R. Hiremath
+27   Samanwita Pal
+28   Satyajit Sahu
+Assistant Professor Grade I
+29   Manikandan Paranjothy
+30   Ankita Sharma
+31   Mahesh Kumar
+32   Ananya Debnath
+33   Arun Kumar Singh
+34   Shaik Abdul Gafoor
+35   Gaurav Bhatnagar
+36   Prodyut Ranjan Chakraborty
+37   Kaushalkumar Desai
+38   Suril Vijaykumar Shah
+39   Ritu Gupta
+Assistant Professor Grade I
+40   Rajlaxmi Chouhan
+Assistant Professor Grade I
+41   Sushmita Paul
+Assistant Professor Grade I
+42   Ramesh K. Metre
+43   Somnath Ghosh
+Assistant Professor Grade I
+44   Sudipto Mukhopadhyay
+Assistant Professor Grade I
+45   Soumava Mukherjee
+Assistant Professor Grade II
+46   Priyanka Singh
+Assistant Professor Grade I
+47   Sandip Murarka
+48   Nirmal Kumar Rana
+Assistant Professor Grade I
+49   Appala Naidu Gandi
+Assistant Professor Grade I
+50   Shankar Manoharan
+Assistant Professor Grade I
+51   Aashish Mathur
+Assistant Professor Grade II
+52   Arpit Arvind Khandelwal
+Assistant Professor Grade II
+53   Kothadia Hardikkumar Bhupendra
+Assistant Professor Grade II
+54   Durgamadhab Mishra
+Assistant Professor Grade I
+55   Sampat Raj Vadera
+56   Sumit Kalra
+Assistant Professor Grade II
+57   Abir Bhattacharyya
+Assistant Professor Grade I
+58   Ravi K. R.
+59   Professor Santanu Chaudhury
+60   Arani Ali Khan
+Assistant Professor Grade II
+61   Yashaswi Verma
+Assistant Professor Grade II
+62   Chandan Pandey
+Assistant Professor Grade II
+63   Prasenjeet Tribhuvan
+Assistant Professor Grade II
+64   Shrutidhara Sarma
+Assistant Professor Grade II
+65   Prabhat Kumar Jaiswal
+Assistant Professor Grade I
+66   Rohan Diliprao Erande
+Assistant Professor Grade I
+67   Santosh Mogurampelly
+Assistant Professor Grade I
+68   Nitin Bhatia
+Assistant Professor Grade II
+69   Neha Jain
+Assistant Professor Grade I
+70   B.M. Krishna Mariserla
+Assistant Professor Grade I
+71   Manish Narwaria
+Assistant Professor Grade I
+72   Debasis Das
+Assistant Professor Grade I
+73   Ram Prakash
+74   Reetanjali Moharana
+Assistant Professor Grade I
+75    Nil Kamal Hazra
+Assistant Professor Grade I
+76   Arun Kumar R.
+Assistant Professor Grade II
+77   Parichay Patra
+Assistant Professor Grade II
+78   Subrata Chakraborty
+Assistant Professor Grade I
+79   Ankur Gupta
+Assistant Professor Grade I
+80   Pankaj Yadav
+Assistant Professor Grade I
+81   Suman Kundu
+Assistant Professor Grade II
+82   Surajit Ghosh
+83   Amrita Puri
+Assistant Professor Grade II
+84   Moumita Mandal
+Assistant Professor Grade II
+85   Anand Mishra
+Assistant Professor Grade II
+86   Dilpreet Kaur
+Assistant Professor Grade I
+87   Rajendra Nagar
+Assistant Professor Grade II
+88   Farhat Naz
+89   Abhishek Sarkar
+Assistant Professor Grade I
+90   Himanshu Kumar
+Assistant Professor Grade II
+91   Anoop Jain
+Assistant Professor Grade II
+92   Sudipta Bhattacharyya
+Assistant Professor Grade I
+93   Amit Bhardwaj
+Assistant Professor Grade II
+94   Shahab Ahmad
+Assistant Professor Grade I
+95   Deepak Mishra
+Assistant Professor Grade II
+96   Saakshi Dhanekar
+Assistant Professor Grade I
+97   Amandeep Kaur
+Assistant Professor Grade II
+98   Dibyendu Kumar Sasmal
+Assistant Professor Grade I
+99   Nipun Arora
+Assistant Professor Grade II
+100   Shobhana Singh
+Assistant Professor Grade I
+101   Jaiveer Singh
+Assistant Professor Grade I
+102   Jai Narayan Tripathi
+Assistant Professor Grade I
+103   Sukhendu Ghosh
+Assistant Professor Grade I
+104   Richa Singh
+105   Mayank Vatsa
+106   Indranil Banerjee
+107   Niladri Sekhar Tripathy
+Assistant Professor Grade II
+108   Harshit Agarwal
+Assistant Professor Grade II
+109   Debanjan Guha Roy
+Assistant Professor Grade II
+110   Deepika Bhattu
+Assistant Professor Grade I
+111   Raviraj Vankayala
+Assistant Professor Grade I
+112   Deepak Arora
+113   Romi Banerjee
+Assistant Professor Grade II
+114   Pradeep Kumar Dammala
+Assistant Professor Grade II
+115   G.Venkat Ram Reddy
+Assistant Professor Grade I
+116   Atul Kumar Sharma
+Assistant Professor Grade II
+117   Yerasani Sinjana
+Assistant Professor Grade II
+118   Srijan Sengupta
+Assistant Professor Grade II
+119   Pallavi Jain
+Assistant Professor Grade II
+120   Venkatesh Murthy R
+Assistant Professor Grade I
+121   Angan Sengupta
+Assistant Professor Grade I
+122   Amit Kumar Rathi
+Assistant Professor Grade II
+123   Manish Aggarwal
+124   Ranju Mohan
+125   Anuj Pal Kapoor
+126   Amit Sharma
+127   Sauarbh Sanjay Nene
+128   Krishna Kumar Balaraman
+129   Sankalp Pratap
+130   Prasenjit Sarkar
+131   Ramesh Asapu
+132   Devi Prasad Das
+133   Vikky Anand
+134   Prashant Kumar Gupta
+135   Somitra Kumar Sanadhya
+136   Nirmalya Bachhar
+137   Dip Sankar Banerjee
+138   Suchetana Chakraborty
+139   Praveen Kumra Sappidi
+140   Alok Ranjan
+Assistant Professor Grade-II
+141   Suman Dhaka
+Assistant Professor Grade-II
+142   Ruhi Sonal
+Assistant Professor Grade-II
+143   Natasa Thoudam
+Assistant Professor Grade-II
+144   Bhupendra Singh
+Assistant Professor Grade-II
+145   Tekcham Gishan Singh
+Assistant Professor Grade-II
+146   Neeraj Jain
+147   Tuhina Mukherjee
+Assistant Professor Grade-II
+148   Patnayakuni Ravi Prakash
+Assistant Professor Grade-II
+149   Jayant Kumar Mohanta
+Assistant Professor Grade-II
+150   Malyala Pavana Ravi Sai Kiran
+Assistant Professor Grade-II
+151   Ashish Pathak
+Assistant Professor Grade-I
+152   Ajay Agarwal
+153   Mitali Mukerji
+154   Angshuman Paul
+Assistant Professor Grade-II
+155   Binod Kumar
+Assistant Professor Grade-II
+156   Ravi Yadav
+Assistant Professor Grade-II
+157   Malvika Tyagi
+Assistant Professor Grade-II
+158   Sucharita Dey
+Assistant Professor Grade-I
+159   Dweepobotee Brahma
+Assistant Professor Grade-II
+160   Nishant Kumar
+Assistant Professor Grade-II
+161   Abhinba Lahiri
+Assistant Professor Grade-I
+162   Abhilasha Maheshwari
+Assistant Professor Grade-II
+163   Nitin Kumar Sharma
+Assistant Professor Grade-I
+164   MD. Abu Talhamainuddin Ansary
+Assistant Professor Grade-II
+165   Kunwar Aditya
+Assistant Professor Grade-I
+166   Dipanjan Roy
+167   Manoj Choudhary
+168   Shilpa Dang
+Assistant Professor Grade-II
+169   Sk MD Hasan
+Assistant Professor Grade-II
+170   Devendra Singh Negi
+Assistant Professor Grade-I
+171   Pranay Ranjan
+Assistant Professor Grade-II
+172   Saran Aadhar
+Assistant Professor Grade-II
+173   Amitava Banerjee
+Assistant Professor Grade-I
+174   Trishikhi Raychoudhury
+175   Sangeeta Sahney
+176   Mithu Rani Kuiti
+Assistant Professor Grade-II
+177   Sumit Kamal
+Assistant Professor Grade-II
+178   Tara Chand Kumawat
+Assistant Professor Grade-I
+179   Jitesh Mohnot
+Assistant Professor Grade-II
+180   Deepak Kumar Saxena
+Assistant Professor Grade-I
+181   Lawqueen Kanesh
+Assistant Professor Grade-II
+182   Amit Singh
+Assistant Professor Grade-II
+183   Monika Tanwar
+Assistant Professor Grade-I
+184   Akolekar Harshal Deepak
+Assistant Professor Grade-II
+185   Ayan Sadhukhan
+Assistant Professor Grade-II
+186   Aali Pant
+Assistant Professor Grade-II
+187   Mayank Suman
+Assistant Professor Grade-II
+188   Dinesh Kumar Ahirwar
+Assistant Professor Grade-I
+189   Tanmay Kundu
+Assistant Professor Grade-II
+190   Bhargab Chattopadhyay
+191   Pradip Sasmal
+Assistant Professor Grade-I
+192   Kshitij Gajjar
+Assistant Professor Grade-II
+193   S. Srivatsa Srinivas
+Assistant Professor Grade-II
+194   Ganesh Manjhi
+Assistant Professor Grade-II
+195   Bimal Mandal
+Assistant Professor Grade-I
+196   Tonisha Guin
+Assistant Professor Grade-II
+197   Mriganka Mandal
+Assistant Professor Grade-II
+198   Rachel Philip
+199   Gurujegan M
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+200   Akanksha Choudhary
+Assistant Professor Grade-II
+201   Pratik Mazumder
+Assistant Professor Grade-II
+202   Gopakumar K U
+Assistant Professor Grade-I
+203   Subhash Bhagat
+Assistant Professor Grade-I
+204   Sreedevi D
+Assistant Professor Grade-I
+205   Riby Abraham Boby
+Assistant Professor Grade-I
+206   Palash Das
+Assistant Professor Grade-II
+207   Vimal Raj Sharma
+Assistant Professor Grade-II
+Assistant Professor Grade-I
+209   Bhagwati P. Kashyap
+210   C. Venkatesan
+211   Kamaljit Rangra
+212   Pradip Kumar Tewari
+213   Amitava Mitra
+214   Ravi Bhandari
+Young Faculty Associate
+215   Chhanda Chakraborti
+Visiting Professor in Department of HSS
+216   Ashok Joshi
+Visiting Professor ME
+217   Siddharth Srivastav
+Professor of Practice
+218   Bijnan Bandyopadhyay
+Visiting Professor EE
+219   Nimish Vohra
+Professor of Practice
+220   Kanak Yadav
+Young Faculty Associate

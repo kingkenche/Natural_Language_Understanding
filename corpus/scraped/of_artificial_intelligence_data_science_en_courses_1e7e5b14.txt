@@ -1,0 +1,50 @@
+Courses | School of Artificial Intelligence & Data Science | IIT Jodhpur
+List of Open Electives
+01. Sensation and Perception
+02. Principles of Neural Design
+03. Introduction to Cognitive Science
+04. Cognitive Semantics
+05. Theories of Intelligence
+06. Advanced Cognitive Processes
+07. Cognitive Architectures
+09. Basics of Computational Neuroscience
+10. Computational Cognitive Neuroscience
+Neuroscience Methods, Tools & Techniques:
+11. Methods and Tools of Science of Intelligence
+13. EEG Signal Analysis
+14. Introduction to Brain Computer Interface
+15. Fundamentals of Economics
+16. Games and Economic Behaviour
+17. Mathematics for Economics
+18. Political Economy
+19. Microeconomics 1
+20. Microeconomics 2
+21. Individual and Strategic Decision Making: theory and applications
+22. Social Choice Theory
+23. Introduction to Mechanism Design
+24. Computational Game Theory
+25. Industrial Organization
+26. Market Design
+27. Social and Economic Networks
+28. Behavioural Economics and Decision Theory
+29. Theoretical Foundations of Econometrics
+30. Advanced Econometrics
+31. Causal Econometrics
+32. Econometrics Lab
+33. Analysis of Economic Data
+34. Machine Learning for Economists
+Operations Research and Computation:
+35. Decision Sciences Applications
+36. Operations Research for Economics
+37. Foundations of Operations Analytics
+38. Computational Intelligence
+39. Modern Macroeconomics
+40. Advanced Macroeconomics
+41. Computational Macroeconomics
+42. Modern Growth Economics
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 28 Jan 2026 - 08:18 PM

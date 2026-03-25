@@ -1,0 +1,34 @@
+2nd year B.Tech Computer Science & Engineering
+For AY 2020-21
+LTP  CH  N
+IS  Chemistry Lab
+IS  Mathematics I
+IS  Mathematics II
+-  NE  Engineering
+-  NH  Communication
+NH  Social Connect
+NH  Performing Arts I
+-  NH  Social Connect
+-  NH  Performing Arts
+IE  Materials Science
+IE  MSE -
+PC  Maths for
+PC  Data Structures
+LS  Foundations of
+PC  Digital Design
+IH  Humanities I
+PC  Cyber Security
+PC  Design and
+PC  Digital Systems
+PC  Principles of
+PC  CS Core
+PC  Database Systems
+IH  Humanities II
+-  NH  Professional
+PP  B. Tech. Project
+PC  CS Core Bouquet-
+IH  Humanities IV
+Total of Graded Credits
+Total of  Non-Graded Credits
+Non-Graded Design Credits
+Note: ES are proposed Engineering Science compulsory courses

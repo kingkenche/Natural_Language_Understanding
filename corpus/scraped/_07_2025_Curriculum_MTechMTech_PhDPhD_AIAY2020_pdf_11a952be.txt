@@ -1,0 +1,41 @@
+Indian Institute of Technology Jodhpur
+Dual degree M.Tech. (AI) + PhD
+offered by the
+Department of Computer Science and Engineering
+M.Tech in Artificial Intelligence (AI)
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines to act with higher
+levels of intelligence and emulate the human capabilities of sense, comprehend and act. The core problems of
+artificial intelligence include programming computers for certain traits such as Knowledge, Reasoning,
+Problem-solving, Perception, Learning and Planning. AI technology development and applications are
+evolving rapidly with major implications for economies and societies. As the demand for such applications
+increases, there is also an increasing need for building the future workforce for AI. For developing the AI
+ecosystem, this program will be executed in synergy with other M.Tech programs running in IIT Jodhpur,
+such as Sensors & IoT, Cyber-Physical Systems, and Advanced Manufacturing and Design.
+This M.Tech in AI programme will offer students with deep knowledge of both fundamental AI technologies,
+as well as application-oriented AI. A student completing this program will be capable to undertake careers in
+industry as well as academia. He/She will have the option to explore a variety of domains including
+Manufacturing, Fintech, Healthcare, Agriculture/Food Processing, Education, Retail/Customer Engagement,
+Human and Robot interaction/intelligent automation, Smart City , Aid for Differently Abled/Accessibility
+Expected Graduate Attributes:
+After completing this programme, a student will be able to develop an ability to:
+1.  Comprehend fundamental concepts and hands-on knowledge of the state-of-the-art AI methodologies.
+2.  Design and Build real-world AI systems for complex planning, decision making and learning, solving
+application-specific problems, and to reason about them.
+3.  Conceive, Design and Develop Intelligent multi-modal multi-sensory Man-Machine interfaces.
+4.  Design, Develop and Deploy machine learning based applications using structured and unstructured
+data (e.g., speech, text, images/videos).
+5.  Understand and Assess reliability, dependability and trust-worthiness of AI-based systems.
+6.  Design and develop AI applications for resource constrained environments.
+7.  Adhere to evolving ethics and privacy laws across various domains and territories.
+8.  Plan and manage technical projects.
+1.  Understand the fundamentals of Artificial Intelligence, Machine Learning, Inference Engines, Speech,
+Vision, Natural Language Understanding, Robotics, and Human Computer Interaction.
+2.  Unify the knowledge of human cognition, AI, Machine Learning and data engineering for
+3.  Demonstrate hands-on knowledge of state-of-the-art AI tools for real-world problem-solving.
+4.  Ability to develop real-time and robust AI-based systems with specific software, hardware and data
+5.  Build solutions to explore fully immersive computer-generated worlds (in VR), and overlay computer
+graphics onto our view of our immediate environment (AR) along with smart, cognitive functionality.
+6.  Demonstrate advanced skills to comprehend and communicate effectively.
+7.  Carry out projects using intelligent cognitive solutions provided by AI algorithms to get more insights
+in stakeholder management, risk modeling, intelligent resource scheduling and managing project
+constraints with intelligent use of data models.

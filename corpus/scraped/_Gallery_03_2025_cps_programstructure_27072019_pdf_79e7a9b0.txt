@@ -1,0 +1,50 @@
+M. Tech. And Dual Degree (M.Tech. and Ph.D.)
+in Cyber Physical Systems
+Proposed Program’s Structure Overall Structure
+Category  Program Core
+Total Graded +
+Semester wise distribution of credits
+Cat.  Course Title
+Cat.  Course Title
+Introduction to Cyber Physical
+MC  Cyber Physical System Modelling
+and Simulation Laboratory
+Introduction to Modelling (Fractal
+offered by Dept. Of Mathematics)
+MC  Simulation of Dynamical
+ME  Program Elective-1
+ME  Program Elective-2
+MO  Open Elective-1
+NG  Professional Ethics
+MC  Security in  CPS
+MC  Data Communication and
+MC  Advanced Control System
+MC  Embedded System Design
+ME  Program Elective-3
+MC  Embedded System Design
+NG  Technical Communication
+ME  Program Elective-4
+ME  Program Elective-5
+ME  Program Elective-6
+NG  Systems  Engineering  and  Project
+MO  Open Elective- 2
+NG  IP Management and Exploitation
+List of Program Electives
+Advanced Digital Signal Processing
+Vehicular Ad-Hoc Networks(VANETs)
+Edge & Fog Computing
+Robotics : Fractal 1 Robot Modelling
+Robotics : Fractal 2 Control
+Robotics : Fractal 3  Motion Planning and
+Machine Learning I
+Digital and Systems-on-Chips Design
+Introduction to Virtual Reality
+Adaptive Signal processing
+Machine Leaning II
+Artificial Intelligence I
+Credits  Department offers the course
+Artificial Intelligence II
+Resource Constrained AI
+Real Time Communications
+Industry 4.0 Applications in  Manufacturing
+The department may add new electives from time to time.

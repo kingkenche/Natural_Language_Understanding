@@ -1,0 +1,242 @@
+Vanguard Lectures | Lecture Series | IIT Jodhpur
+The Vanguard Lecture Series is an integral part of Blended B.Tech. Program. It enables the Students to listen to inspirational talks given by experts from Industry and Academia, and to get a big picture of the technological advances and emerging trends in different fields.
+So far, seven series of Vanguard Lectures have been organised since July 2014, namely:
+(A) Series 1: July - September 2014
+(1) Aravind Bharadwaj
+Head-Technology, Automotive & Farm Equipment Sectors
+Mahindra & Mahindra Limited, Chennai
+“M & M Perspective on Emerging Automotive Technology Trends”
+23 July 2014
+(3) Barun Chakrabarti
+General Manager and Head (R&D)
+Larsen & Toubro Limited, Mumbai
+“Engineering – From Classroom to Real World: The L & T Perspective”
+25 July 2014
+(5) Ashok Joshi
+Head - Vehicle Attributes & Tech Services
+Tata Motors Limited, Pune
+30 July 2014
+(7) Professor M. Jagadesh Kumar
+NXP (Philips) Chair Professor, Department of Electrical Engineering
+Indian Institute of Technology Delhi, New Delhi
+“Semi-Conductors: Driving our Future”
+30 July 2014
+(9) Professor S. G. Dani
+Department of Mathematics
+Indian Institute of Technology Bombay, Mumbai
+“Sequences of Numbers, Distribution, Randomness and Applications”
+19 August 2014
+(11) Professor K. Thyagarajan
+Department of Physics
+Indian Institute of Technology Delhi, New Delhi
+“Electromagnetism and Optics”
+15 September 2014
+(2) Siddhartha SenGupta
+Tata Consultancy Services, New Delhi
+“The Future of Information and Communication Technology”
+24 July 2014
+(4) Vineet Kshirsagar
+Senior Director and Group Head (Government Business)
+Oracle India, Bangalore
+29 July 2014
+(6) S. Sekar
+Executive Director, Corporate (R&D)
+Bharat Heavy Electricals Limited, Hyderabad
+“Challenges in Power Industry and BHEL’s Technology Developments”
+30 July 2014
+(8) N. Kumar
+Defence Laboratory, DRDO, Jodhpur
+“Nano-materials in Service of Humankind”
+30 July 2014
+(10) Professor Mohan Ramanan
+Department of English
+Hyderabad Central University, Hyderabad
+“Some Aspects of English”
+25 August 2014
+(B) Series 2: January - March 2015
+(1) S. Dharmaraja
+Indian Institute of Technology Delhi, New Delhi
+“Probability, Statistics and Stochastic Processes with Application ”
+14 January 2015
+(3) Raghuvir Tomar
+LNM Institute of Information Technology, Jaipur
+“Computational Electromagnetics and Its Real World Application in Electronics and Communication Engineering ”
+26 January 2015
+(5) P. V. Madhusudan Rao
+Indian Institute of Technology Delhi, New Delhi
+“Journey of an Idea from Classroom to Market ”
+29 January 2015
+(7) Gopala Krishna Srinivasan
+Indian Institute of Technology Bombay, Mumbai “Celestial Mechanics ”
+13 February 2015
+(2) Raghuraman N. Govardhan
+Indian Institute of Science, Bangalore
+“Types of Turbomachines and Various Fluid Phenomena around us ”
+19 January 2015
+(4) L. V. Subramaniyam
+Senior Technical Staff Member
+IBM Research (India), Bangalore
+“Artificial Intelligence: Real World Applications ”
+27 January 2015
+(6) Timothy A. Gonsalves
+Director,   Indian Institute of Technology Mandi, Mandi
+“OS Networks ”
+2 February 2015
+(8) Asok K. Mallik
+Indian Institute of Engineering Science and Technology, Shibpur
+“Design of Rigid and Compliant Planar Linkages – Theory to Practice ”
+26 February 2015
+(C) Series 3: July - September 2015
+(1) N. Jayaram
+Vice President, Research and Development
+TVS Motor Company Limited, Hosur
+“New Product Development (Simulation Way)”
+27 July 2015
+(3) M. Paranjpe
+Chief, Hydro & Renewable Operations and Safety
+Tata Power Company Limited, Khopoli
+“Hydropower Plant Challenges ”
+03 August 2015
+(5) Pranab Ghosh
+Head, Planning, Tata Motors Limited, Jamshedpur
+“Automotive Manufacturing ”
+05 August 2015
+(7) Professor S. Natarajan
+Professor, Indian Institute of Science, Bangalore
+“Permanent Color and Chemistry ”
+04 September 2015
+(2) Arunkumar M. Sampath
+General Manager, Product Development, Auto Division
+Mahindra & Mahindra Limited, Chennai
+“Innovation and Product Development in the Automotive Sector ”
+31 July 2015
+(4) Sachin P. Lodha
+Principal Scientist, TCS’s Innovation Labs
+Tata Consultancy Services, Pune
+“Applied Algorithms ”
+04 August 2015
+(6) Barun Chakrabarti
+General Manager, Research & Development
+Larsen & Toubro Hydrocarbon Engineering Limited, Mumbai
+“Engineering – From Class Room to Real World: The L&T Perspective ”
+07 August 2015
+(D) Series 4: January - May 2016
+(1) Professor Navneet Arora
+Indian Institute of Technology Roorkee
+“Excellence in Engineering and Expectations from an Engineer ”
+07 January 2016
+(3) Professor Amitabha Ghosh
+Platinum Jubilee Senior Scientist
+The National Academy of Sciences, India
+Former Director,   Indian Institute of Technology Kharagpur
+“Conceptual Evolution of Newtonian Mechanics & The Little Known Story of F=ma ”
+04 February 2016
+(2) Anil Bhansali
+MD, Microsoft India (R&D) Private Limited, and General Manager, Cloud & Enterprise
+Microsoft India Development Center
+Mr. Prashant Gupta
+Director in Microsoft Cloud & Enterprise Division
+Microsoft India Development Center
+“Advanced Analytics and Machine Learning on Cloud – Creating impact for Education, Healthcare, and other domains ”
+25 January 2016
+(4) Professor Raghunath K. Shevgaonkar
+Professor,   Indian Institute of Technology Bombay
+Former Director,   Indian Institute of Technology Delhi
+“Electromagnetic Theory ”
+22 February 2016
+(E) Series 5: July - August 2016
+(1) S. Devarajan
+Senior Vice President
+“ Future of Manufacturing Technologies”
+28 July 2016
+(3) A. K. Jindal
+Head of Engineering Commercial Vehicles
+Tata Motors India
+“ Automotive Technologies”
+01 August 2016
+(5) Lipika Dey
+Tata Consultancy Services
+“ Real Time Contextual Intelligence for Enterprises”
+08 August 2016
+(2) Arun T. Ramchandani
+Larsen & Toubro Limited, Mumbai
+“ Defence Technologies and Products”
+29 July 2016
+(4) Prakash Rao Malathkar
+Associate Chief Engineer
+Mahindra & Mahindra Limited
+“ Global Technological Advancement Trends of Automotive Passenger Car Powertrains”
+05 August 2016
+(6) Ashok Kumar Panda
+Head, Core Technology
+Tata Power Company Limited
+“ Overview of Challenges in Thermal Power & The Role of C&I in Power Industry”
+09 August 2016
+(F) Series 6: January 2017
+(1) Shankar Iyer
+“ Distributed Computing + Databases = Distributed Databases”
+10 January 2017
+(3) Professor Subir Kumar Saha
+Professor and Head, Department of Mechanical Engineering, IIT Delhi
+“ R 2: Robotics to Rural”
+01 February 2017
+(2) Professor N. Ramakrishnan
+“ Innovation, Design & Product Development”
+20 January 2017
+(4) Professor S. Lanceros-Méndez
+Ikerbasque Research Professor
+BCMaterials Derio “The key role of smart and functional materials in the development of modern technology”
+20 February 2017
+(G) Series 7: August 2017
+(1) S. Jabez Dhinagar
+Vice President, Advanced Engineering Group
+TVS Motor Company Limited
+29 August 2017
+(3) Professor Naveen Garg
+Professor, Department of Computer Science and Engineering
+Indian Institute of Technology Delhi
+11 September 2017
+(5) Akhilesh Jain
+Head, Solid State RF Amplifier Section
+Department of Atomic Energy
+“High Power Solid-State RF Transmitter”
+13 October 2017
+(7) Professor Lalit Mohan Kukreja
+AvH Fellow, Founder-President
+“Emerging Technologies of Laser Materials Processing”
+01 November 2017
+(9) Dr. Ashok Kumar Yadav
+Scientist G, Associate Director
+Defence Laboratory, Jodhpur
+“Detection of Nuclear Radiation”
+06 April 2018
+(2) R. G. Rajhans and Rajesh Deshpande
+R. G. Rajhans: Head Light Defence Vehicles (ERC)  Rajesh Deshpande: Chief Coordinator - Supplier Relationship Transformation (SRT) Project VSME & Head- Launch Management of SCV Products
+Tata Motors Limited
+“Welcome to VUCA World”
+4 September 2017
+(4) Professor Kota Murali
+Group Executive Vice President, Technology and Innovation
+The Manipal Group
+“Nanotechnology: Enabling the Future of Electronics and Computing”
+09 October 2017
+(6) Professor C. Venkatesan
+Emeritus Fellow, Department of Aerospace Engineering
+Indian Institute of Technology Kanpur
+“Autonomous Mini Helicopter Development at IIT-Kanpur: My Journey & Learning”
+27 October 2017
+(8) Dr. Biswadip Shome
+Director, Simulation-Based Design, Global Technology and Engineering Center
+“Simulation-Based Design and Its Application in Various Industry Sectors”
+12 March 2018
+(10) S. Bhattacharya
+Chief Designer, Rotary Wing Research & Design Center (RWRDC)
+Hindustan Aeronautics Limited, Bangalore
+“Development Challenges of Modern Transmission Systems”
+28 September 2018
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 12 Sep 2025 - 02:49 PM

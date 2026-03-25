@@ -1,0 +1,579 @@
+M.Tech and PhD
+Program Course Curriculum
+Department of Chemical Engineering
+Indian Institute of Technology Jodhpur
+M.Tech. in Department of Chemical Engineering
+Course Structure: Semester wise distribution of credits
+Cat.  Course Number, Course Title
+Cat.  Course Number, Course Title
+C  CHL7XX0  Advanced
+C  CHL7XX0  Advanced
+Methods  in  Chemical
+C  CHL7XX0  Advanced Reaction
+C  CHL7XX0  Advanced Transport
+E  CHL7XX0  Elective-2
+E  CHL7XX0  Elective-3
+NG1 HSN7XX0  Non-Graded I
+E  CHL7XX0  Elective-4
+NG2 HSN7XX0  Non-Graded II
+List of Electives
+Course Number  Course Title
+Advanced Wastewater Treatment
+Computational Fluid Dynamics
+Heterogeneous Catalysis and Catalytic Reactors
+Modeling of atoms, molecules and surfaces
+Nanocomposite Membrane Technology
+Novel separation processes
+Principles of Electrochemical Engineering
+Process Safety & Hazards
+Structure & Property for Polymers
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+S.No. Category Course Category Title
+Total Courses  Total Credits
+Ph.D. program in the Department of Chemical Engineering
+Course (Credit) Requirements for PhD students
+M.Tech.,  M.E.  or  M.Sc.  (Engineering)
+in an Engineering discipline
+M.Sc. degree  in a Science discipline
+in  an  Engineering
+Doctoral compulsory (DC)
+●  Advanced Mathematical Methods in Chemical Engineering
+●  Advanced Thermodynamics
+●  Advanced Reaction Engineering
+●  Advanced Transport Phenomena
+4 Compulsory (Same as
+M.Tech. Compulsory) +
+4 Compulsory (Same as
+M.Tech. Compulsory) +
+PG elective list
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Detailed Course Contents
+Advanced  Mathematical  Methods  in  Chemical
+Structure (L-T-P [C])
+To familiarize the students with techniques of solving mathematical equations relevant to process engineering
+operations, and equip them with the underlying theoretical foundations of mathematical methods.
+The students will be able to
+solve linear and nonlinear algebraic equations, ordinary differential equations and partial differential
+equations using analytical and numerical techniques.
+analyse and comment on the solvability of single and system of simultaneous equations.
+identify mathematical models in process operations, and map them to appropriate solution techniques for
+solving and analyzing them.
+Linear algebra and numerical analysis
+-  Concept of linearity and operator algebra (2 lectures)
+Linear vector spaces: Linear independence, basis, dimension, span, simultaneous algebraic equations, null
+and range space (8 lectures)
+Inner product spaces, norm and metric spaces, adjoint operators, orthonormalization (4 lectures)
+-  Background and need for numerical analysis; review of numerical solutions of simultaneous linear and
+non-linear algebraic equations (2 lectures)
+-  Numerical solution of ODE-IVP’s including simultaneous equations, analysis of stability and convergence
+-  Concept of discretization, numerical solution of ODE-BVP’s and PDE’s (2 lectures)
+Solution of simultaneous autonomous linear equations, bifurcation and linear stability analysis (3 lectures)
+Solution of non-autonomous equations (3 lectures)
+Sturm-Liouville theory; Frobenius solution of equations with variable coefficients (3 lectures)
+-  Classification of PDE’s; solution of PDE’s using separation of variables (4 lectures)
+Techniques for solution of PDE’s with non-homogeneous boundary conditions (6 lectures)
+1.  Pushpavanam S., Mathematical Methods in Chemical Engineering (1st Ed.), PHI Learning, New Delhi
+2.  Logan D.J., Applied Partial Differential Equations (3rd Ed.), Springer International Publishing Switzerland
+3.  Gupta S.K., Numerical Methods for Engineers (1st Ed.), New Age International (P) Ltd., New Delhi 1995.
+1.  Davis M.E., Numerical Methods and Modeling for Chemical Engineers (1st Ed.), John Wiley and Sons,
+New York 1984.
+2.  Rice R.G., Do DD., Applied Mathematics and Modeling for Chemical Engineers (1st Ed.), John Wiley
+and Sons, New York 1995.
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Structure (L-T-P [C])
+To provide the students with knowledge and tools of classical and molecular thermodynamics with
+applications to chemical systems, and develop the importance and appreciation of the two approaches to
+the study of thermodynamics.
+The students will be able to
+carry out thermodynamic analysis of chemical systems to develop structure-property relationships.
+establish correspondence between bulk and molecular properties of materials.
+carry out thermodynamic calculations for multiphase and multicomponent systems.
+-  Review of classical thermodynamics, laws of thermodynamics, ideality in gases, non-ideal gas laws (2
+-  Multicomponent thermodynamics, chemical potential, Maxwell’s relations for multicomponent
+systems (3 lectures)
+-  Non-ideal gas and liquid mixtures, fugacity and activity, UNIFAC and UNIQUAC models for activity
+coefficient (6 lectures)
+-  Multiphase systems, analysis of stability of phases, two-phase and three-phase diagrams, multiphase-
+multicomponent systems, critical phenomena (6 lectures)
+Molecular and statistical thermodynamics
+Fundamentals of statistical mechanics, statistical origins of second law of thermodynamics, Boltzmann
+entropy equation, ensembles, partition function, thermodynamic relations in different ensembles (6
+Time-dependent and time-independent Schroedinger equation, solution of time-independent
+Schroedinger equation under various external potentials (4 lectures)
+-  Molecular partition function, determination of molecular energies with different degrees of freedom,
+correspondence with classical properties, reaction equilibrium and mixture properties (6 lectures)
+Kinetic theory of gases, mean free path, average speed calculation, random walk and diffusion,
+calculation of transport properties and introduction to non-equilibrium thermodynamics; molecular
+simulation techniques  (6 lectures)
+Sandler S., Chemical, Biochemical, and Engineering Thermodynamics (5th Ed.), Wiely and Sons, New
+2.  McQuarrie D.A., Statistical Mechanics (1st Ed.), Viva Books Pvt. Ltd.
+1.  Tester J.W., Modell M., Thermodynamics and Its Applications (3rd Ed.), Prentice Hall PTR, New
+2.  Callen H., Thermodynamics and an Introduction to Thermostatistics (2nd Ed.), John Wiely and Sons,
+New York 1991.
+3.  Denbigh K.G., The principles of chemical equilibrium: With Applications in Chemistry and Chemical
+Engineering (4th Ed.) Cambridge University Press, 1981
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Advanced Reaction Engineering
+M.Tech., Ph.D. in Chemical Engineering
+Structure (L-T-P [C])
+The Instructor will:
+Impart knowledge of hydrodynamics and transport effects in multiphase reactors, to learn lower order
+models for prediction of their performance.
+Introduce industrial reactors,
+Provide methodology to design multiphase reactors for a few specific applications.
+The students are expected to have the ability to
+In-depth understanding of hydrodynamics and transport effects in multiphase Reactors.
+-  Design multiphase reactors.
+Reaction kinetics and ideal reactors: Review of reaction kinetics and ideal reactors, catalytic reactions, non-catalytic
+reactions (3 lectures)
+Non-ideal  reactors:  Principles  of  non-ideal  flow,  central  volume  principle  and  RTD  theorems,  data  analysis  and
+interpretation; Models for non-ideal flow patterns, tanks in-series (8 lectures)
+Non-isothermal reactor design: Energy balance for non-isothermal reactor, design of adiabatic reactors, impact on
+equilibrium  conversion,  design  of  tubular  reactor  with  heat  exchanger,  mixed  flow  reactor  with  heat  effect,
+multiple steady state (4 lectures)
+Reaction  Stability  Analysis:  Application  of  conformal mapping  for  identification of  unique  steady  state  and  the
+criteria for the same; linear stability analysis. (3 lectures)
+Fluid-Solid Non-Catalytic Reactions: Progressive conversion model, Shrinking core model, Gas film diffusion control,
+Ash layer diffusion control, Surface reaction control (3 Lectures)
+Fluid-Solid Catalytic Reactions: Introduction to the basics of solid catalysts, Steps in catalytic reactions, Derivation
+of rate law for heterogeneous reaction, External mass transport limitations, Thiele Modulus, Effectiveness factor,
+Falsified Kinetics (6 Lectures)
+Advanced Reactor Analysis:
+Packed  Bed  Reactor:  Classification  of  reactor  models,  Graphical  design  of  non-isothermal  reactor,  pseudo
+homogenous models for reactor design (3 lectures)
+Fluidized Bed Reactor: Introduction, Regimes of fluidized bed reactor, parameters for reactor design, models for
+reactor design, Kuni Levenspiel Model (4 lectures)
+Slurry Bed and Trickle Bed Reactor: Different regimes of fluid flow, mass transfer coefficient, slurry bed models,
+trickle bed models (3 lectures)
+Membrane Reactors: Types, transport mechanism, case study for H2 production (2 lectures)
+2.  Doraiswamy, L. K. and D. Uner, 2013, Chemical Reaction Engineering: Beyond the Fundamentals, CRC
+Froment, G. F., K. B. Bischoff, 1990, Chemical Reactor Analysis and Design, John Wiley.
+3.  J.M. Smith: 1981, Chemical Engineering Kinetics, McGraw Hill, Third Edition.
+1.  Carberry, J. J., Varma, A., 1986, Chemical Reaction and Reactor Engineering,
+Online Course Material
+1.  Shankar, H.S., Advanced Chemical Reaction Engineering, NPTEL Course Material,
+Department of Chemical Engineering, IIT Bombay, https://nptel.ac.in/courses/103/101/103101001/
+Viswanathan, G.A., Chemical Reaction Engineering II, NPTEL Course Material
+Department of Chemical Engineering, IIT, Bombay, https://nptel.ac.in/courses/103/101/103101008/
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Advanced Transport Phenomena
+The instructor will:
+Structure (L-T-P [C])
+Provide in-depth understanding of processes involving mass, energy, and momentum transport.
+The students are expected to have the ability to:
+-  Understand the fundamental aspects of transport phenomena at advanced level.
+-  Develop an understanding and pursue graduate research in this area
+Introduction: Review of fluid kinematics, Control Volumes, Reynolds transport (4 lectures)
+Conservation Principles and constitutive laws: Mass, Momentum, Energy, Entropy; Phase interface conditions,
+Solutions methods for equations of change, steady and unsteady fluid flow, Creeping flow, Lubrication
+approximation, Boundary layer theorem (12 lectures)
+Coupled transport processes: Steady and Unsteady states phenomena, Forced convection heat and mass
+transport in confined/unconfined laminar flows, low Peclet and high Peclet approximations, buoyancy driven
+flows, Multi-component energy and mass Transport. (12 lectures)
+Turbulence modelling: Characteristics of turbulent flows, length and time scales, energy cascade, Reynolds
+averaged transport equations, Phenomenological models, Kolmogorov hypotheses, universality and turbulence
+spectra (10 lectures)
+Transport phenomena in large-scale and small-scale systems: chemical reactors, micro-fluidic devices (4 lectures)
+1.  Deen W. M., 1998, Analysis of Transport Phenomena, Oxford University Press, New York.
+2.  Bird. R. B., Stewart, W. E. and Lightfoot, E. N., 2006, Transport Phenomena, 2nd edition, John Wiley &
+1.  Slattery J.C., 1999, Advanced Transport Phenomena, Cambridge University Press.
+2.  Leal  L. G., 2010.  Advanced  Transport  Phenomena:  Fluid  mechanics  and  convective  transport  processes,
+Cambrige University Pres.
+3.  Pope S. B., 2000, Turbulent Flows, Cambridge University Press.
+4.  Belfore, L. A., 2003, Transport Phenomena for Chemical Reactor Design, John Wiley & Sons.
+5.  Ramachandran, P. A. 2014. "Advanced Transport Phenomena", Cambridge University Press.
+Online Course Material
+1.  R. Nagarajan, Advanced Transport Phenomena, NPTEL Course Material, Chemical Engineering, IIT Madras,
+2.  V. Kumaran, Fundamentals of Transport Processes, NPTEL Course Material, Department of Chemical
+Engineering, IIsc Bangalore, https://nptel.ac.in/courses/103/108/103108099/
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Advanced Wastewater Treatment
+B. Tech., M.Tech., Ph.D.
+The instructor will:
+Structure (L-T-P [C])
+Impart comprehensive knowledge of industrial and municipal wastewater.
+Discuss mechanism and methodologies for wastewater treatment.
+Discuss case studies
+The students are expected to have the:
+-  Comprehensive knowledge of the wastewater treatment.
+Knowledge of advanced methodologies such as wastewater management, recycle and reuse.
+Introduction: Wastewater engineering: an overview, characterisation of wastewater and monitoring of industrial
+and municipal wastewater, emerging contaminants, environmental impacts of wastewater constituents. (4 lectures)
+Conventional Water/ Wastewater Treatment: Existing unit operations and processes, basic philosophy of water and
+wastewater  treatment  plants;  physio-chemical  treatment  methods:  (i)  Screening,  (ii)  conventional  filtration,  (iii)
+coagulation, (iv) flocculation, (v) floatation, (vi) Clari-flocculation (vii) sedimentation, (viii) sand filtration, etc. (10
+Aerobic  and  Anaerobic  Suspended  and  Attached  Growth  Wastewater  Treatment  Processes:  Aerated  lagoon,
+activated  sludge  systems,  trickling  filter,  sequential  batch  reactor,  fluidized  bed  bioreactors,  Up-flow  Anaerobic
+Sludge Blanket (UASB) and hybrid Up-flow Anaerobic Sludge Blanket (UASB) reactors. (8 lectures)
+Advanced  Treatment  Processes:  Membrane  Filtration,  microfiltration,  ultrafiltration,  nanofiltration,  reverse
+osmosis, and electrodialysis; wet air oxidation, adsorption, and ion exchange; wet-land and root-zone treatment of
+industrial and municipal wastes; design of sludge drying beds, thermal and biological processes for sludge and land
+fillings. Membrane reactors, new technologies for wastewater disinfection. (10 lectures)
+Water  Recycling  and  Reuse:  Different  unit  operations  for  water  recycling  depending  on  end  use,  energy
+considerations, recovery of valuables from wastewater, zero liquid discharge (ZLD). (7 lectures).
+Burton  F.L.,  Tchobanoglous  G.,  Stensel  H.D.,  2017, Waste  Water Engineering Treatment  and  Reuse,  4th
+2.  Arceivala S.J. and Asolekar S.R., 2007, Wastewater Treatment for Pollution Control and Reuse, 3rd Ed., Tata
+1.  Henze M., van-Loosdrecht M.C.M., Ekama G.A. and Brdjanovic D., 2008, Biological Wastewater Treatment:
+Principles, Modelling and Design, IWA publishing.
+2.  Sincero A.P. and Sincero G.A., 1996, Environmental Engineering – A Design Approach, Prentice-Hall.
+3.  Tewari P.K., 2020, Advanced Water Treatment, CRC Press, Taylor and Francis Group (USA)
+Online Course Material
+1.  Tiwari M K, Wastewater treatment and recycling, NPTEL course material, Department of Civil Engineering,
+IIT Kharagpur, https://nptel.ac.in/courses/105105178/
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+B. Tech., M.Tech., Ph.D.
+basics of chemical engineering
+Structure (L-T-P [C])
+The instructor will:
+Impart knowledge of modern methods of analyzing chemical data.
+The students are expected to have the:
+-  Comprehensive knowledge of the modern methods of reducing and analyzing chemical data.
+Prelude to chemometrics: Introduction and history of Chemometrics, factorial analysis; reverse, surface and mixture
+design; correlograms and time series analysis; sequential methods, Pattern recognition. (6 lectures)
+Calibration:  introduction  to  multivariable  calibration,  selectivity  problems,  statistical  problems  in  calibration,
+Univariate calibration, multiple linear and principal components regression, model validation, outlier detection. (6
+Evolutionary signals and process analysis in chemical plants: exploratory data analysis and processing, determining
+composition, resolution pre-processing, composition of sequential data, screening. (6 lectures)
+Derivatives  in  Spectroscopy:  Theoretical  and  computed  derivatives,  derivative  approximation,  calibrating  with
+derivatives,  spectroscopic  monitoring  of  reactions,  kinetics  and  multivariable  model,  online  spectroscopy.  (6
+General Data Analysis: simple analysis of variance and experimental design (one-way, two-way with and without
+replicates, randomized and blocked designs). (6 lectures)
+Computational methods: control structures for selection and iteration, functions, array data structure, numerical
+methods for data analysis. (6 lectures)
+Machine  learning  in  Chemical  plants:  Introduction,  basics  of  decision  trees,  combining  multiple  learner,
+reinforcement learning, experimental design and analysis. (6 lectures)
+1.  Richard G. Brereton, 2003, Chemometrics: Data Analysis for the Laboratory and Chemical Plant, Wiley
+1.  Harald Martens, Tormod Næs, 1989, Multivariate Calibration, John Wiley & Sons.
+2.  Howard Mark, Jerry Workman, Jr, 2018, Chemometrics in Spectroscopy, Elsevier Academic Press.
+3.  Richard G. Brereton, 2007, Applied Chemometrics for Scientists, John Wiley & Sons.
+4.  Ethem Alpaydin, 2004, Introduction to Machine Learning, MIT Press.
+5.  Vandeginste,  B.G.M.,  Massart,  D.L.,  Buydens,  L.M.C.,  Jong,  de  D.,  Lewi,  P.J.,  Smeyers-  Verbeke,  J.,  1998,
+Handbook of Chemometrics and Qualimetrics: Part B, Elsevier.
+6.  Kreyszig, Erwin, 2014, Advanced Engineering Mathematics, John Wiley and Sons, 10th Edition.
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Computational Fluid Dynamics
+B. Tech., M.Tech., Ph.D.
+Structure (L-T-P [C])
+The Instructor will:
+Impart knowledge about various computational methods of fluid flow and heat transfer.
+Provide insight to design and simulate the hydrodynamics and multi-physics systems.
+The students are expected to have the ability to
+In-depth understanding of numerical methods for solution of partial differential equations of fluid flow and
+-  Acquire knowledge of grid generation, processing and applications of CFD.
+Introduction:  Fundamental  principles  of  conservation,  Reynolds  transport  theorem,  conservation  of  mass,
+conservation of linear momentum: Navier-Stokes equations, conservation of energy, Mathematical classification of
+partial differential equations, physical, boundary conditions. (8  lectures)
+Finite  Difference  Method  (FDM):  Discretization  of  ODE  and  PDE,  approximation  for  first,  second  and  mixed
+derivatives, implementation of boundary conditions, discretization errors, grid generation, uniform vs non-uniform
+grids, Discretization of unsteady diffusion problems: Explicit, Implicit and Crank-Nicolson’s algorithm; stability of
+solutions, stream function - vorticity approach, Poisson equation (12 lectures)
+Finite Volume Method (FVM): Discretization methods, approximations of surface integrals and volume integrals,
+Modelling of Convection- Diffusion Problems: One dimensional convection-diffusion problem: Central difference
+scheme; Discretization  based on  analytical  approach (exponential scheme);  Hybrid  and  power  law  discretization
+techniques; Higher order schemes (QUICK algorithm) (10  lectures)
+Flow modeling: Discretization of incompressible flow equations; Pressure based algorithm: SIMPLE, SIMPLER etc;
+Unstructured grids; Introduction to turbulence modeling; Large Eddy Simulation (LES); Direct Numerical Simulation
+(DNS) (9 lectures)
+1.  Anderson J.D., 1995, Computational Fluid Dynamics, McGraw Hill.
+3.  Patankar, S. . Numerical Heat Transfer and Fluid Flow. Mcgraw Hill, 2017
+Ghoshdastidar P.S., 1998, Computer Simulation of Flow and Heat Transfer, Tata McGraw Hill.
+1.  Fletcher  C.A.J.,  1998,  Computational  Techniques  for  Fluid  Dynamics,  Vol.  1:  Fundamental  and  General
+2.  Fletcher C.A.J., Computational Techniques for Fluid Dynamics, 1998, Vol. 2: Specific Techniques for Different
+Flow Categories, Springer-Verlag.
+Ferziger J.H. and Peric M., 2002, Computational Methods for Fluid Dynamics, 3rd Ed., Springer
+Online Course Material
+1.  Jayanti, S., Computational Fluid Dynamics, NPTEL Course Material, Department of Chemical Engineering, IIT
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+The Instructor will:
+Heterogeneous Catalysis and Catalytic Reactors
+B. Tech., M.Tech., Ph.D.
+Basic knowledge of Chemical Kinetics
+Structure (L-T-P [C])
+Impart knowledge about the basic concepts, detailed structures, preparation methods and reactivities of
+solid catalysts, its properties and relationship between the structures and reactivities.
+The students are expected to have the ability to:
+-  Understand and gain knowledge of the detailed structures, preparation methods and reactivities of solid
+catalysts, its properties and relationship between the structures and reactivities.
+Introduction to basic concepts (2 lectures)
+Catalysis: Acid-base catalysis, application of catalyst functionality concepts for control of reaction selectivity and
+kinetic models, Properties of catalysts, reaction selectivity and kinetic models (10 lectures)
+Steps  in  catalytic  reaction:  Adsorption,  Kinetic  models,  intraparticle  transport  process,  Selection  and  design  of
+catalysts, Preparation and characterization of catalysts, Catalyst deactivation, various deactivation models, Optimal
+distribution of catalyst in a pellet (14 lectures)
+Zeolites: Preparation and characterization of various Zeolite catalysts and their application (4 lectures)
+Commercial  Reactors  and  catalysts:  Adiabatic,  fluidized  bed,  trickle  bed,  slurry;  industrially  important  catalysts,
+Environmental catalysis (8 lectures)
+Design of Catalytic Reactors for gas and two phase systems, Design of polymeric reactors. (4 lectures)
+1.  Sharma M.M. and Doraiswamy, Heterogeneous Reactions, Vol 1 and Vol II
+2.  Thomas, J.M., Thomas W.J., Principles and practice of heterogeneous Catalysis.
+I. Chorkendorff, J.W Niemantsverdriet., Concept of Modern Catalysis and Kinetics, 3rd Edition, Wiley VCH
+Bruce Gates , Catalytic Chemistry.
+Morbidelli and Verma , Optimal distribution of catalyst in a pellet.
+3.  Ford M.E. and Marcel Dekker, Catalysis of Organic reactions.
+Online Course Material
+Pant,  K.K.,  Heterogeneous  Catalysis  and  Catalytic  Processes,  NPTEL  Course  Material,  Department  of
+Chemical Engineering, IIT Delhi, https://nptel.ac.in/courses/103/102/103102012/
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+The Instructor will:
+Modelling of Atoms, Molecules and Surfaces
+B. Tech., M.Tech., Ph.D.
+Basic knowledge of Chemical Kinetics
+Structure (L-T-P [C])
+Provide background on various forms of Intermolecular and Molecule-Surface interactions.
+The students are expected to:
+-  Gain fundamental understanding on the molecular nature of systems and surfaces.
+Learn about the importance of intermolecular forces in molecular modeling and simulations in chemical
+and allied engineering.
+Introduction: Four Forces of Nature, Early Scientific Period (1 Lecture), First Phenomenological Theories, Modern
+View of origin of Intermolecular Forces (2 Lectures).
+Forces  Between  Atoms  and  Molecules,  Principle  and  Concepts: Some Thermodynamic  Aspects  of  Intermolecular
+Forces (3 Lectures), Covalent and Coulomb Interactions (3 Lectures),
+Interactions Involving Polar Molecules, Interactions Involving Polarisation of Molecules (5 Lectures), van der Waals
+Forces  (3  Lectures),  Repulsive  Forces,  Total  Pair  Potentials  (3  Lectures),  Hydrogen  Bonding,  Hydrophobic  and
+Hydrophilic Interactions (2 Lectures).
+Forces Between Particles and Surfaces: Concepts of Intermolecular and Interparticle Forces (2 Lectures), Contrast
+Between Intermolecular, Interparticle and Intersurface Forces (3 Lectures), van der Waals Forces Between Surfaces
+(2 Lectures), Electrostatic Forces Between Surfaces in Liquids (5 Lectures), Solvation, Structural and Hydration Forces
+(3 Lectures), Steric and Fluctuation Forces (3 Lectures), Adhesion (2 Lectures).
+J. N. Israelachvili, 2003, Intermolecular and Surface Forces, 2nd Edition, Academic Press.
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+B. Tech., M.Tech., Ph.D.
+Structure (L-T-P [C])
+To impart theoretical understanding and working solutions for modelling and simulation of molecular systems,
+and to be able to relate molecular structure and properties to bulk observables.
+The students will be able to
+-  model molecular systems with appropriate details needed for relevant simulation techniques.
+-  make appropriate choices of simulation techniques to suit the molecular system and the properties to be
+-  develop theoretical understanding and carry out elementary simulations based on molecular dynamics
+simulations, Monte-Carlo simulations and density functional theory calculations.
+-  Description of molecular systems, technique-appropriate system description of molecular systems (1
+-  Overview of statistical mechanics, partition function and property estimation in different ensembles (2
+Molecular dynamic simulations
+Force-field description of molecular systems, coarse grain modelling, reactive force-fields (2 lectures)
+-  Algorithms for dynamical evolution of molecular systems, thermo- and barostats (4 lectures)
+-  Approaches to calculation of equilibrium and non-equilibrium transport properties, chemical potential
+and time-correlation and radial distribution functions (3 lectures)
+-  Analysis of data from molecular dynamics simulations with examples and case studies, including but not
+limited to, separation processes, adsorption, gas-gas separation, molecular sieves and membrane
+separation, protein simulations (3 lectures)
+Elementary statistical thermodynamics, bulk property estimation from partition function (3 lectures)
+-  Generation of microstates and identification of Monte-Carlo moves for different molecular systems,
+averaging of properties in different ensembles, Metropolis algorithm, enhanced sampling techniques (4
+-  Average techniques, convergence and estimation of error with sampling (2 lectures)
+-  Analysis of data from Monte-Carlo simulations with examples and case studies, including but not limited
+to, nanotechnology, nanocrystals, defects, condensed matter simulations, applications to the analysis of
+novel materials (3 lectures)
+Density functional theory calculations
+Introductory quantum mechanics and Schroedinger equation, description and solution of electronic
+structure of hydrogen (3 lectures)
+-  Motivation for techniques for many-body molecular problems, elementary theory of ab initio methods,
+Hohenberg-Kohn theorems, Kohn-Sham formulation, self-consistent field calculation, structural
+optimization (6 lectures)
+-   Analysis of data from DFT calculations with examples and case studies, including but not limited
+to, catalysis, surface process and adsorption, materials design (3 lectures)
+Assignments will include small scripting and projects involving python or other suitable tools for
+1.  Leach A.R., Molecular Modelling: Principles and Applications (2nd Ed.), Prentice Hall, New York
+1.  Jensen F., An Introduction to Computational Chemistry (2nd Ed.) John Wiely and Sons, West Sussex
+2.  Frenkel D., Smit B., Understanding Molecular Simulation: From Algorithms and Applications (1st Ed.),
+Academic Press, London 2002.
+3.  Landau D.P., Binder K., A Guide to Monte Carlo Simulations in Statistical Physics (3rd Ed.), Cambridge
+University Press, Cambridge 2009.
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Nanocomposite Membrane Technology
+B. Tech., M.Tech., Ph.D.
+Basic knowledge of Engineering and Chemistry
+Structure (L-T-P [C])
+The instructor will provide:
+Fundamentals, synthesis and characterisation of nanocomposite membrane,
+-  Different applications of nanocomposite membrane technology.
+The students are expected to have:
+Comprehensive  knowledge  of  fundamentals,  synthesis  and  characterisation  of  nanocomposite  membrane
+Its applications in different fields such as water treatment, gas separation etc.
+Challenges and opportunities.
+Introduction  to  nanocomposite  membrane  technology:  Membrane  types,  membrane  processes,  transport  theories.  (8
+Synthesis  of  nanocomposite  membranes:  Preparation  techniques,  homogeneous  membranes,  composite  membranes,  raw
+materials, processing methods. (6 Lectures)
+Characterisation  of  nanocomposite  membranes:  Pore  size,  micrographic  methods,  spectroscopic  methods,  strength
+measurements. (6 Lectures)
+Nanocomposite  membranes  in  water  treatment:  Conventional  nanocomposites,  thin  film  nanocomposites,  TFC  with
+nanocomposite substrate. (7 Lectures)
+Nanocomposite membranes in gas separation. (5 Lectures)
+Challenges in processing of nanocomposite membranes. (5 Lectures)
+Environment and safety issues. (5 Lectures)
+1.  Tewari, P.K., (2016), Nanocomposite Membrane  Technology: Fundamentals and Applications, CRC Press, Taylor  &
+Baker, R.W., (2004), Membrane Technology and Applications, 2nd Edition, Membrane
+Technology and Research Inc., Menlo Park, CA.
+Online Course Material
+1.  Mohanty,  K.,  Membrane  Technology,  NPTEL  Course  Material,  Department  of  Chemical  Engineering,  IIT  Guwahati,
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Novel separation processes
+B. Tech., M.Tech., Ph.D.
+The Instructor will:
+Structure (L-T-P [C])
+Provide  in-depth  knowledge  about  the  multi-component  separation  processes  that  are  relevant  to
+The students are expected to gain:
+-  Understanding of multicomponent separation processes with relevant industry examples and case studies.
+-  Gaining knowledge about the design of separation processes.
+Fundamentals  &  Identification  of  separation  process:  Mass  Diffusion,  Fick's  law,  Separation  factor,  chemical
+potential,  use  of  Navier-Stokes  equation  in  mass  transfer,  Types  of  existing  processes,  equilibrium  governed
+processes, rate governed processes (6 lectures)
+Membrane-based  separation  processes:  Fundamentals:  Membrane  casting,  barrier  types,  Types  of  motion  of
+molecules  through  the  barrier,  Categorization  of  membrane  processes,  osmotic  pressure,  observed  vs  real
+retention, estimation of retention and permeability, modules, Driving forces in membrane separation processes,
+Transports in Reverse Osmosis (RO), solution-diffusion model, concentration polarization and membrane fouling
+Membrane-based separation processes: Design and applications: Design of Membrane modules,   Dialysis, Gas
+Separation by membranes , Electric field enhanced membrane filtration; (5) Electrophoretic Separation Processes
+Surfactant-based  separation  processes:  Cloud  point,  mechanism  of  phase  separation,  ionic  &  non-ionic
+surfactants,  volume  reduction  factor,  partition  coefficient,  fractional  coacervate  volume,  micellar  enhanced
+ultrafiltration, liquid membranes (7 lectures)
+Chromatographic separation processes: Chromatographic separation & ion exchange fundamentals, purpose of
+column,  gas-liquid  chromatography,  liquid-liquid  chromatography,  involved  processes,  solute  movement,  ion
+exchange resin, ion movement theory (3 lectures)
+Supercritical  fluid  extraction:  critical  condition,  different  supercritical  fluids.  Modifiers,  methodology  of  SCF,
+solubility diagrams, Mollier diagrams (4 lectures)
+Miscellaneous separation processes: Pervaporation, Membrane Distillation, etc. (2 lectures)
+1.  Seader, Henley and Ropar (2011) Separation Process Principles, 3rd Edition Wiley.
+2.  W.S.W Ho and K. K. Sirkar, Membrane Handbook", Vol 1 and Vol 2;1992; Springer,
+1.  Humphrey, J. L. and Keller, G. E., 1997, Separation Process Technology, McGraw- Hill, NY
+2.  Kister, H. Z., 1992, Distillation Design, McGraw-Hill.
+3.  Ross Taylor, R. Krishna, (1993) Multicomponent Mass Transfer, John Wiley & Sons.
+Online Course Material
+1.  Dr. Sirshendu De Professor, Department of Chemical Engineering, IIT Kharagpur, NPTEL: Novel Separation
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Principles of Electrochemical Engineering
+B. Tech., M.Tech., Ph.D.
+Basic knowledge of Thermodynamics
+Structure (L-T-P [C])
+The Instructor will:
+Provide the student with the  essential knowledge  needed to understand electrochemical engineering
+Illustrate the basic principles of electrochemistry, electrokinetic phenomena required for modelling and
+design of electrochemical processes and devices.
+The students are expected to have the ability to:
+Understand the principles of electrochemistry processes and electro-analytical methods.
+-  Correlate the principles of electrochemistry to electrochemical processes and suggest design solutions to
+Basic Principles: Introduction to electrochemistry and fundamentals, Nernst equation, Electrode kinetics, Volta
+and Galvani potentials, electrochemical potential, electrochemical equilibrium, Enthalpy and Gibbs free energy
+calculation, solvation energy, ionic equilibrium. (6 lectures)
+Cell  potential:  Electrochemical  cell,  standard  electrode  potential,  Butler-Volmer  formulation,  Tafel  equation,
+Pourbaix  diagram,  Activity  Coefficients,  Donnan  potential,  reversible  electrode,  Born  model  for  ion-solvation
+energy, Batteries and Cell Chemistries. (7 lectures)
+Ion-ion  interactions  and  ionic  transport:  Debye-Huckel  theory,  activity  coefficient  of  ionic  solution,  ion  pair,
+Bjerrum theory and Fuoss theory, migration, extended Nernst-Planck equation, electrochemical mobility and its
+relation  with  diffusivity,  Stokes-Einstein  equation,  ionic  conductivity,  transport  number,  Kohlrausch  law.  (12
+Charged interface: surface excess quantity, Lippmann equation, Gouy-Chapman model, Stern layer, internal and
+external Helmholtz layer, zeta potential, electric double layer. (8 lectures)
+Electrochemical Kinetics: Nonequilibrium formulation, diffusion potential, junction potential, Planck-Henderson
+equation,  pH  electrode,  electro-osmosis,  electrophoresis,  streaming  potential,  sedimentation  potential.  (7
+Application: Electro-chemical Processes, Fuel Cells. (2 lectures)
+Prentice ,G., 1991, Electrochemical Engineering Principles, Prentice Hall.
+2.  Girault, H., 2004, Analytical and Physical Electrochemistry, EPFL Press, 1st Edition.
+1.  Allen J. Bard, Larry R. Faulkner, 2005, Electrochemical Methods: Fundamentals and Applications, John
+Wiley & Sons; 2nd Edition.
+2.  Fuller,T.F., Harb, J. N., 2018, Electrochemical Engineering, Wiley.
+Online Course Material
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+B. Tech., M.Tech., Ph.D.
+The instructor will:
+Structure (L-T-P [C])
+Provide  in-depth  knowledge  of  various  techniques  of  optimization  and  their  application  to  chemical
+The students are expected to:
+Have fair knowledge of various techniques of optimization and their application to chemical processes.
+Introduction: Optimization and calculus based classical optimization Techniques (4 lectures)
+One  Dimensional  Minimization  Methods:  Elimination  methods-  equally  spaced  points  method,  Fibonacci
+method  and  golden  section  method;  Interpolation  methods-  quadratic  interpolation  and  cubic  interpolation,
+Newton and quasi-Newton methods, Linear Programming (10 lectures)
+Multivariable  Non-Linear  Programming:  Unconstrained-  Different  methods  for  non-linear  programming;
+Constrained-  complex  method,  feasible  directions  method,  GRG  method,  penalty  function  methods  and
+augmented Lagrange multiplier method. (9 lectures)
+Dynamic Programming: Multistage processes- acyclic and cyclic, sub-optimization, principle of optimality and
+applications. (6 lectures)
+Geometric  Programming  (GP):  Differential  calculus  and  Arithmetic-Geometric
+inequality  approach  to
+unconstrained GP; Constrained GP minimization; GP with mixed inequality constraints and Complementary GP,
+Emerging  Optimization  Techniques:  Genetic  algorithm,  simulated  annealing,  particle  swarm  and  ant  colony
+optimization. (10 lectures)
+1. Edgar T.F., Himmelblau D.M. and Lasdon L.S., 2001, Optimization of Chemical Processes, 2nd Ed., McGraw Hill.
+1. Beveridge G.S.G. and Schechter R.S., 1970, Optimization: Theory and Practice, McGraw Hill.
+2. Rao S.S.,2009, Engineering Optimization Theory and Practice, 4th Ed., Wiley
+Online Course Material
+1. Sarkar, D., Optimization in Chemical Engineering, NPTEL Course Material, Chemical Engineering, IIT Kharagpur,
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+The Instructor will:
+Process Safety & Hazards
+B. Tech., M.Tech., Ph.D.
+Basic Knowledge of Chemical Engineering
+Structure (L-T-P [C])
+Provide comprehensive knowledge of safety regulations and their practices, chemical plant hazards and
+their control, risk assessment and management principles and techniques and accident analysis.
+The students are expected to have the ability to:
+Identify  and  distinguish  typical  sources  of  risk  and  hazard  in  a  process  plant,  undertake  hazard  and
+operability (HAZOP) study.
+Safety  in  Industries:  Concepts  and  definition,  storage  of  dangerous  materials,  Plant  layout  Safety  systems,
+Occupational Safety and Health Administration (OSHA) incidence rate, Fatal accident rate (FAR), Measures to take
+during accidents, Toxicology (10 lectures)
+Industrial  Hygiene:  Government  regulations,  Industrial  hygiene  and  safety  aspects  related  to  toxicity,  noise,
+pressure,  temperature,  vibrations,  radiation  etc,  Evaluation  Methods,  Evaluating  workers  Exposures  to  dusts,
+noise. (8 lectures)
+Selection Mechanism: Technology  and  process  selection,  Scale  of  disaster,  Fire triangle  Ignition,  Confined and
+unconfined explosion, Vapors cloud explosions, Boiling liquid expanding vapor explosion (BLEVE), Dust explosion,
+shock  wave,  Flammability  characteristics  of  liquids  and  vapors,  Minimum  oxygen  concentration  (MOC)  and
+Inerting. (8 lectures)
+Handling  Chemicals  and  toxicity:  Control  of  toxic  chemicals,  Storage  and  handling  of  flammable  and  toxic
+chemical, Runway reactions, Relief system risk and hazards management, Design to prevent Fires and Explosions,
+Miscellaneous Design for preventing Fires and Explosion. (8 lectures)
+Hazards  Identification:  checklists,  Surveys,  Hazard  and  Operability  Studies  (HAZOP),  Safety  reviews.  Risk
+Assessment, Hazard models and risk data. Tackling disasters, plan for emergency. Risk management routines,
+Emergency shutdown systems, Role of computers in safety, Prevention of hazard human element, Technology and
+process selection. (8 lectures)
+1.  Daniel A. Crowl and Joseph F. Louvar, 1990, Chemical Process Safety: Fundamentals with applications,
+Prentice Hall, Inc.
+Lee, F.P., 1983, Loss prevention in the process Industries, Volume 1 and 2 Butterworth.
+3.  Hoboken, N. J., 2000, Guidelines for Chemical Process Quantitative Risk Analysis, Wiley-Interscience.
+R. W. King and J. Magid, Industrial Hazards and Safety Handbook, Butterworth, 1982.
+G. L. Wells, Safety in Process Plant Design, John Wiley and Sons Inc., 1980.
+Fawcett,  H.H.  and  W.S.  Wood,  Safety  and  Accident  Prevention  in  Chemical  Operations,  2nd  Edition,
+Wiley-Interscience, New York, 1982.
+Online Course Material
+1.  Sinha,  S.,  Chemical  Process  Safety,  NPTEL  Course  Material,  Department  of  Chemical  Engineering  IIT
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+URL :- https://www.iitj.ac.in/chemical-engineering/en/curriculum
+Structure & Property for Polymers
+B. Tech., M.Tech., Ph.D.
+An introductory course on polymers for B.Tech, None for M.Tech
+The Instructor will:
+1. Provide knowledge about various structures in polymers and it’s relation with the mechanical and thermal
+Structure (L-T-P [C])
+The students are expected to gain:
+1. Understanding of structure-property for various polymeric systems
+2. Understanding of thermal transition and deformation mechanisms in polymers
+Introduction: Outline of the course, review of basics of polymers, polymerization reactions and classification (2
+Amorphous and Semicrystalline Polymers: Glass transition, free-volume theory, factors affecting glass transition
+temperature,  solution  grown  single  crystals  and  chain-folding  mechanism,  melt  crystallization,  spherulites,
+degree  of  crystallinity,  Bragg’s  law,  crystal  thickness  and  chain  extension,  flow-induced  crystallization,
+dimensionless  numbers  in  crystallization,  factors  affecting  melting,  relationship  between  melting  and  glass
+transition (11 lectures)
+Multicomponent  Polymeric  Systems:  Polymer  blends,  block  copolymers,  thermoplastic  elastomers,  examples,
+phase diagram, glass transition, compatibilization, morphology diagram (6 lectures)
+Deformation  in  Polymers:  Elastic  deformation,  stress-strain  relationship,  polymer  chain  deformation,  crystal
+moduli,  elastic  deformation  in  semicrystalline  polymers,  yield  and  crazing  –  necking  and  it’s  mathematical
+treatment, yield criteria, mechanisms, plastic deformation (9 lectures)
+Viscoelasticity:  Introduction,  examples,  Mechanical  models,  Boltzmann  superposition  principle,  dynamic
+mechanical testing, transitions and polymer structure, t-T superposition, entanglements (9 lectures)
+Polymer  Composites:  Matrix  and  fillers,  composition,  elastic  deformation,  fracture,  packing,  experiments,
+nanocomposites (5 lectures)
+1. Young R.J. and Lovell P.A. (2011) Introduction to Polymers, 3rd Edition, CRC Press
+1. Chanda M. (2006) Introduction to Polymer Science & Chemistry, CRC Press
+Online Course Material
+1. Adhikari B, Science & Technology of Polymers, NPTEL Course Material, Department of Metallurgy & Material
+Science, Indian Institute of Technology Kharagpur, https://nptel.ac.in/courses/113105028/

@@ -1,0 +1,103 @@
+S.No. Name of Employee
+1 Gaurav Nigam
+2 Sandeep Singh Chandel
+3 Swati Kushwaha
+4 Dhani Ram
+5 Vinay Kumar
+6 Amardeep Sharma
+7 Kshema Prakash
+8 Sharad Srivastava
+9 Vivek Verma
+Salary of Staff Members for the Month of September 2021
+Assistant Engineer (Electrical)
+Assistant Library Information Officer
+Sr. Technical Supdt.
+Sr. Technical Supdt.
+Assistant Library Information Officer
+Sr. Technical Assistant
+Junior Technical Assistant
+Physical Training Instructor
+Junior Engineer (Civil)
+Junior Technical Assistant
+Junior Technical Assistant
+Junior Technical Assistant
+Junior Technical Assistant
+10 Rinkesh Kumar Mangal
+11 Amit Kumar Soni
+12 Bharat Pareek
+13 Rimpesh Katiyar
+14 Narendra Kumar Singh
+15 Sharabh Pradhan
+16 Dheerendra Kumar Yadav
+17 Ashish Kachhawaha
+18 Naresh Chouhan
+19 Poonam Chand Sankhla
+20 Praveen Suthar
+21 Ganpat Choudhary
+22 Gurpreet Kaur Virdi
+23 Darsh Kumar Khatwani
+24 Gajraj Sharma
+25 Kamleshkumar Jagdishbhai Patel
+26 Ram Singh Ratnu
+27 Shubham Pandey
+28 Rakesh Kumar
+29 Rashmi Dhyani
+30 Kailash Chander
+31 Trilotama Singh
+32 Shashank Choudhary
+33 Dheeraj Upadhyay
+34 Neeraj Kumar
+35 Suresh Chandra Phulara
+36 Ramniwas Dhayal
+37 Sapna Sankhla
+38 Narayan Dadhich
+40 Arjun Das
+41 Shakti Ranjan Patra
+42 Ashish Kumar
+43 Laxman Singh
+44 Tirunvarangam Madhavi Lata
+45 Naveen Kumar
+46 Dhavalbhai Mansukhbhai Raiyani
+47 Ravi Jangid
+48 Sampatlal Narayanlal Suthar
+49 Shyam Sunder Singh
+50 Ishmeet Singh
+51 Ganesh Kumawat
+52 Mahesh Kumar Meena
+53 Anand Padegaonkar
+54 Amit Kumar
+55 Jayita Sarkar
+56 Himmat Singh
+57 Shankar Singh
+58 Lalit Mohan
+59 Arjun Singh
+60 Gaurav Bhansali
+61 Robin Singh Kaintura
+63 Hanuman Singh
+64 Sunil Kumar
+65 Deepika Sharma
+66 Mahendra Singh Meena
+67 Kalpana Deep
+68 Naresh Joshi
+69 Ashok Gehlot
+70 Baikuntha Nath Sahu
+71 Prashant Bhardwaj
+72 Ashok Kumar Khanduri
+73 Malati T
+74 Bonagiri Umamaheshwara Rao
+1 Subash Chandra Bose
+2 Pran Gobinda Basak
+3 Shiv Dayal Jatav
+4 Kirity Kumar Roy
+6 Bhagya Rajeswari S.
+7 Mohit Mathur
+9 Captain Iman
+10 Nivedita Verma
+12 Gottipati Kiran Arya
+Assistant Executive Engineer (Civil)
+Junior Engineer (Electrical)
+Assistant Executive Engineer
+Junior Technical Assistant
+Advisor (Industry - Academia Interface)
+English Language Instructor
+English Language Instructor (ELI)

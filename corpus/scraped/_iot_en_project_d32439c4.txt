@@ -1,0 +1,81 @@
+Project | Center for AIoT and Applications | IIT Jodhpur
+Laurels and Achievements
+Project Details (on-going/approved/ submitted with dates)
+Status (Approved) Starting Date & Duration
+Status (Submitted) Submission Date
+Total No. of Publications
+Point of use and inline coliform sensors for Smart Water management
+Meenu Chhabra, Saakshi Dhanekar, Arpit Khandelwal, Raviraj Vankayala, Kamaljit Rangra, Ravi Bhandari
+One provisional patent filed One research paper submitted
+Experimental study of flow mixing in RPV Plena
+Hardik Kothadia, Arun Kumar R, Kamlajit Rangra, Saakshi Dhanekar
+Ministry of Defence
+Approved 13 Jan 2023 (3 Years)
+Comprehensive Risk Assessment Data for Heritage Sites and Development of Smart Heritage Management Systems
+Ajay Agarwal, Suchetana Chakraborty, Deepak Mishra (IIT Jodhpur), in collaboration with CEERI and NEERI
+Science and Heritage Research Initiative (SHRI)
+Sensepod: An AIoT based testbed to promote Sensing as a Service for ambient living
+IIT Jodhpur Seed Grant
+1 Prasad, S., Kumar, D., Kalra, S., Chiang, C. H., & Khandelwal, A. An improved feature-based initial guess estimation technique for DIC. In Nondestructive Characterization and Monitoring of Advanced Materials, Aerospace, Civil Infrastructure, and Transportation XVI . SPIE. SPIE, Accepted
+2 Prasad, S., Kumar, D., Kalra, S., Chiang, C. H., & Khandelwal, A. A Feature-based Incremental DIC Approach to Measure Large Deformations of Soft Materials. In Michael Sutton International Student Paper Competition, SEM. SEM, Accepted
+3 Kumar, Amritesh, Lokendra Vishwakarma, and Debasis Das. "LandChain: A MultiChain Based Novel Secure Land Record Transfer System." IEEE Transactions on Reliability (2024) 13th April 2024
+4 Gupta, Shristy, Amritesh Kumar, Lokendra Vishwakarma, and Debasis Das. "Enhancing blockchain scalability and security: the early fraud detection (EFD) framework for optimistic rollups." Cluster Computing (2024): 1-22. 13th May 2024
+5 Vishwakarma, Lokendra, Amritesh Kumar, Jeevan Madugunda, and Debasis Das. "FinBlock: Secure and Fast Transaction Confirmation with High Throughput for FinTech Application." In 2024 IEEE Wireless Communications and Networking Conference (WCNC), pp. 01-06. IEEE, 2024. [Core Ranking: B] 03rd July 2024
+6 Lokendra Vishwakarma, Amritesh Kumar and Debasis Das, CrossLedger: A Pioneer Cross-chain Asset Transfer Protocol, The 23rd IEEE/ACM international Symposium on Cluster, Cloud and Internet Computing (CCGrid 2023): [ Core Ranking: Core A][ https://ccgrid2023.iisc.ac.in/] 10th July 2023
+7 Kumar, Amritesh, Lokendra Vishwakarma, and Debasis Das. "R-PBFT: A secure and intelligent consensus algorithm for Internet of vehicles." Vehicular Communications 41 (2023): 100609. June 2023
+8 Amritesh Kumar, Monu Nagar, Lokendra Vishwakarma and Debasis Das, HN-mPBFT: A Healthy Node based Modified Secure and Fast Consensus Mechanisms for Internet of Vehicles, The International Wireless Communications & Mobile Computing Conference (IWCMC 2023) [Core Ranking B] 21st July 2023
+9 Koustav Kumar Mondal and Debasis Das, "FlameNet: A Real-Time, Lightweight Fire & Smoke Detection Solution for Internet of Vehicles," 2023 International Wireless Communications and Mobile Computing (IWCMC), Marrakesh, Morocco, 2023, pp. 539-544, doi: 10.1109/IWCMC58020.2023.10182847. 21 July 2023
+10 Mondal, Koustav Kumar, Divya Mahendia, Debasis Das, and Sumit Kalra. "Edge-Centric Security Framework for Electric Vehicle Connectivity: A Deep Learning Approach." In 2023 28th Asia Pacific Conference on Communications (APCC), pp. 448-453. IEEE, 2023 19th Nov. 2023
+11 Nahar, Ankur, Koustav Kumar Mondal, Debasis Das, and Rajkumar Buyya. "Clouds on the Road: A Software-Defined Fog Computing Framework for Intelligent Resource Management in Vehicular Ad-hoc Networks." IEEE Transactions on Mobile Computing (2024) 6th July 2024
+12 Prasad, S., Chiang, C. H., Kumar, D., Kalra, S., & Khandelwal, A. (2023). Robust and efficient feature-based method for structural health monitoring of large structures. Journal of Civil Structural Health Monitoring, 1-22. Springer 01-04-2023
+13 Prasad, S.,Kumar, D., Kalra, S., & Khandelwal, A. A novel feature-based incremental digital image correlation method to measure large deformation of soft materials. International Conference on Advances in Experimental Mechanics, British Society for Strain Measurement. (Accepted) Accepted May 2023
+14 A. Mathur, Performance Analysis of VLC Systems under Pulse Jamming and Random User Location, 2024 IEEE 99th Vehicular Technology Conference (VTC2024-Spring), Singapore. Accepted
+15 C. L. Lalani, H. Meena, L. Goyal, A. Mathur and N. Bhatia, Experimental Demonstration of Text and Audio Transmission over Single Channel and Relay Assisted VLC Systems, 2024 14th International Symposium on Communication Systems, Networks and Digital Signal Processing (CSNDSP). Accepted
+Title and Team
+Date of filing
+Electrochemical potentiometric device.
+Indian Patent application No: 202311016263 filed on 11 March 2023 Inventors: Arti Sharma, Akanksha Mishra, Meenu Chhabra
+Laurels and Achievements
+Participants / Team Members
+iS3:iDeathon on Sustainable Smart Systems, In collaboration with ACM IIT Jodhpur, AVL India.
+Smart Data Center for Compensating Chassis Vibration with Fog-Cloud Computing,iS3:iDeathon
+Winner (First Prize)
+Sneha Prasad, Dr. Sumit Kalra, Dr. Arpit Khandelwal, Dr. Amit Goyal, Dr. Abhinav Dixit, Dr. Nithin Prakashan, Virendra Singh
+Tech4Seva Virtual International Summit-2022 by the Unnat Bharat Abhiyan RCI, IIT Jodhpur
+Talking Gloves: A language Independent Speech Generation Wearable Device
+Winner (First Prize)
+Sneha Prasad, Ajay B, Dr. Sumit Kalra, Dr. Arpit Khandelwal, Dr. Amit Goyal, Dr. Abhinav Dixit, Dr. Nithin Prakashan, Virendra Singh
+Global Indian Young Scientist Research and Innovation Conference- 2023 by Global Indian Scientist and Technocrats
+Talking Gloves: A language Independent Speech Generation Wearable Device
+Young Rural Innovator Award Top Innovator all over India
+To attend conference
+Student Conference Grant
+Student Research Symposium 2022 (SRS'22), jointly organized by ACM Student Chapter & TIH-iHub Drishti in association with the Department of CSE IIT Jodhpur
+IntelligentChain: Blockchain and Machine Learning based Intelligent Security Application for Internet of Vehicles (IoV)
+Winner, First Prize
+TreeChain: A High Throughput and Efficient Search based Secure Application for Internet of Vehicles
+Student Travel Grant
+CrossLedger: A Pioneer Cross-chain Asset Transfer Protocol
+Student Travel Grant
+Lsit of PhD Students
+Name of the Student
+Year of Joining
+1 Manpreet Singh Sakshi Dhanekar Sinjana Yerasani 2019
+2 Sneha Prasad Sumit Kalra Arpit Khandelwal 2019
+3 Preeti Jain Debasis Das 2019
+4 Amritesh Kumar Debasis Das Nitin Bhatia 2020
+5 Chetali Yadav Bhupendra Singh Reniwal 2020
+6 Koustav Kumar Mondal Debasis Das Arpit Khandelwal 2021
+7 Shubham Sharma Ashish Mathur Ravi Bhandari 2021
+8 Nishi Mishra Shree Prakash Tiwari Ankur Gupta 2022
+9 Arpit Mahajan Sumit Kalra Mitali Mukherjee 2022
+10 Astha Gautam Hardik Kothadia Kamaljit Rangra 2022
+11 Madhuram Mishra Harshit Agarwal Devender Negi 2023
+12 Pooja Kumari Mahesh Kumar Kirti Sankhla 2023
+13 Ayanabha Ghosh Debasis Das 2023
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 28 Jan 2026 - 11:23 AM

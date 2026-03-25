@@ -1,0 +1,732 @@
+r t i
+Indian Institute of Technology Jodhpur
+12th October, 2023 (Thursday)
+Senate Room, IIT Jodhpur
+This page is left blank, intentionally
+Indian Institute of Technology Jodhpur
+Minutes of 35th Meeting
+12 October 2023 (Thursday) at 3:00 pm
+Senate Room, IIT Jodhpur
+The following members were present:
+Prof. Santanu Chaudhury, Director, IIT Jodhpur
+Prof. S.R. Vadera, Deputy Director, IIT Jodhpur
+Deputy Director, Ex-officio
+Dr. Sanjeev Misra, Vice Chancellor,
+Atal Bihari Vajpayee Medical University, Lucknow
+(U.P.) and Former Director, AIIMS Jodhpur
+Prof. H.P. Khincha, Chairman,
+Karnataka State Innovation Council, Bangalore
+Three  persons,  not  being  employees
+of the Institute, to be nominated by
+the  Chairman  in  consultation  with
+educationists  of  repute,  one  each
+Prof. Purnima Singh,
+Department  of    Humanities  &  Social  Sciences
+engineering and humanities; and
+Prof. Neeraj Jain, Deptt. Of BB
+Prof. Mitali Mukerji, Deptt. Of BB
+Prof. Ajay Agarwal, Deptt. of EE
+Prof. Somitra K. Sanadhya, CS&E
+Prof. Sangeeta Sahney, SME
+Prof. Anil Kumar Tiwari, EE
+Prof. Ananya Debnath, Chemistry
+Prof. Samanwita Pal, Chemistry
+Prof. Atul Kumar, Chemistry
+Prof. Kaushal A. Desai, ME
+Prof. Rahul Chibber, ME
+Prof. Suril Shah, ME
+Prof. Ram Prakash, Physics
+Prof. Subhashish Banerjee, Physics
+Prof. Ambesh Dixit, Physics
+Prof. Ashutosh Kumar Alok, Physics
+Prof. Gaurav Harit, CS&E
+Prof. Amit Mishra, BSBE
+Prof. Sushmita Jha, BSBE
+Prof. Meenu Chhabra, BSBE
+Prof. Ankita Sharma, SoLA
+recognized  as  such  by  the  Institute
+instruction in the Institute.
+the  purpose  of
+Prof. Samanwita Pal, Dean (R&D)
+Surajit  Ghosh,  Dean  (International
+Relations,  Alumni  Relations  and  Corporate
+Prof.  Somitra  K.  Sanadhya,  Dean  (Digital
+Prof. Atul Kumar, Dean (Academics)
+Prof. Ankita Sharma, Dean (Student Affairs)
+Prof. Ram Prakash,Dean (Infrastructure)
+Prof. Kaushal Desai, Dean (PRG, IITJ Connect &
+Prof.  Mitali  Mukerji,  Department  of  Bioscience
+Prof.  P.K.  Tewari,  Department  of  Chemical
+Dr. Ramesh K. Metre, Department of Chemistry
+Prof.  Gaurav  Harit,  Department  of  Computer
+Science & Engineering
+Prof.  Ajay  Agarwal,  Department  of  Electrical
+Dr.  V.V.  M.S.  Chandramouli,  Department  of
+Prof.  Suril  V.  Shah,  Department  of  Mechanical
+Dr.  K.R.  Ravi,  Department  of  Metallurgical  &
+Prof.  Ashutosh  Kumar  Alok,  Department  of
+Prof.  Subhasish  Dey,  Department  of  Civil  &
+Prof.  Sangeeta  Sahney,  School  of  Management
+& Entrepreneurship (SME)
+Heads of the Departments or Schools
+as  may  be  established  by  the
+Intelligence & Data Science (AIDE)
+School  of  Artificial
+Prof.  Meenu  Chhabra,  Centre  for  Emerging
+Technologies for Sustainable Development
+Dr. Krishna K Balaraman, Centre for Technology
+Foresight & Policy
+Dr.  S.C.  Bose,
+Prof.  Amitava  Mitra,  Center  for  Research  &
+Development of Scientific Instruments
+Prof.  Prodyut  R.  Chakraborty,  Rishabh  Center
+for Research and Innovation in Clean Energy
+Indranil  Banerjee,  AD  (Hostel  Affairs)
+Department of Bioscience and Bioengineering
+Dr.  Angan  Sengupta,  Associate,  Professor
+Department of Chemical Engineering
+Dr.  Dibyendu  Kumar  Sasmal,  Department  of
+Dr. Debanjan Guha Roy, AD (PRG), Department
+of Civil & Infrastructure Engg.
+Dr.  Abhishek  Sarkar,  AD  (Student  Affairs)
+Department of Mathematics
+Suchetana  Chakraborty,  AD
+Department of Computer Science & Engineering
+Dr.  Abir  Bhattacharyya,  Associate  Professor,
+Department  of  Metallurgical  &  Materials
+Dr.  S.C.  Bose,  Head  (IDRP),  Chairperson,
+Dr.  Venkatesha  Murthy  R,  Associate  Professor,
+School of Management & Entrepreneurship
+Dr. Dipanjan Roy, Associate Professor, School of
+Artificial Intelligence & Data Science
+Prof.  Ankita  Sharma,  Dean  (Student  Affairs),
+School of Liberal Arts
+Prof. C. Venketesan, Professor-in-charge
+One  or  more  members of  academics
+from  each  of  the  Departments  and
+Schools, nominated by the Chairman
+of  the  Senate,  for  a  period  of  one
+year,  subject  to  a  maximum  of  two
+persons  from  any  Department  or
+Dr. Somnath Ghosh
+Faculty-in-charge (Curriculum Implementation)
+Dr. Manish Narwaria
+Associate Dean (Academics)
+Sh. P.G. Basak, Advisor (Administration)
+General Secretary, ACAC
+General Secretary, Student Senate
+Upto  five  student  representatives
+nominated  by  the  Chairman  of  the
+Senate,  as  special  invitees,  for  a
+participation  shall  be  for  the  non-
+evaluation items of the Senate.
+Vice President, Board of Academic Interaction
+Dr. Somnath Ghosh, Offg. Registrar
+Secretary to the  Senate
+The following members and special invitees could not attend the Meeting
+Prof. Surajit Ghosh, Deptt. of BB, Dean (IR, AR and CR)
+Prof. Mayank Vatsa, Deptt. of CS&E
+Prof. Richa Singh, Deptt. of CS&E
+Prof. Bharat Singh Rajpurohit, EE
+Prof. Mahesh Kumar, EE
+Prof. Manikandan Paranjothy, Chemistry
+Prof. Rakesh Kumar Sharma, Chemistry
+Prof. Anand Krishnan Plappally, ME
+Prof. Prodyut Ranjan Chakraborty, ME
+Prof. Deepakkumar M. Fulwani, EE, AD (Faculty Affairs)
+Prof. Shree Prakash Tiwari, EE
+Dr. Manish Gupta, Director Google Research India
+Dr. Souvik Bhattacharyya, Former Vice Chancellor BITS, Pilani
+Dr. Farhat Naz, School of Liberal Arts
+Dr. Ankur Gupta, AD (IRO)
+Dr. Satyajit Sahu, Associate Professor
+Prof. Bijnan Bandyopadhyay, Head, Center for Education and Technology for Education
+The following are the recommendations of the Senate:
+Welcome by the Chairman, Senate
+The  Chairman,  Senate  welcomed  all  the  members  to  the  35th  Meeting  of  the  Senate
+and called the meeting in order. He introduced the new members to the Senate as per
+the  recent  notification  IITJ/REG/2023-24/100.    Further  he  thanked  all  outgoing
+members for their contributions to the Senate.
+The  Chairman,  Senate  further  shared  with  the  members  that  the  term  of  Dr.  R.
+Chidambaram as the Chairman, Board of Governance,  IIT Jodhpur completed and Shri
+A.  S.  Kiran  Kumar,  the  former  Chairman,  ISRO  has  been  appointed  as  the  new
+Chairman,  Board  of  Governance,    IIT  Jodhpur.  He  further  informed  the  Senate  that
+Shri  A.  S.  Kiran  Kumar  recently  visited  the  institute  and  interacted  with  students,
+faculty  members  and  staff  members  of  the  Institute.  The  new  Chairman  during  his
+stay has  also visited selected research laboratories of the Institute.
+During his visit, Shri A. S. Kiran Kumar suggested preparing a report on the Institute's
+progress  in  the  direction  of  signal  processing,  AI  and  Machine  Learning;  he  also
+suggested  scope  for  further  collaborations  for  further  progress  and  augment  the
+present research  activities.  Another  area  of  importance  that  he  has  emphasized  was
+environmental  science  and  engineering for  climate  change  prediction  and  to  explore
+opportunities  of  collaboration  with  Industry  in  this  regard.  The  Chairman,  BoG  also
+requested  the  photonics  laboratory  to  design  a  simple  quantum  entanglement
+experiment  kit  for  the  demonstration  to  school/college  students.  The  Chairman
+Senate apprised the members that the next BoG meeting is scheduled on 31 Oct 2023.
+The  Chairman,  Senate  informed  and  congratulated  the  Senate  members  on  the
+dedication  of  the  permanent  campus  of  IIT  Jodhpur  to  the  Nation  by  Hon'ble  Prime
+Minister on 5 October 2023.
+The  Chairman  also  briefed  the  Senate  that  based  on  state  legislative  assembly
+election dates and the availability of the Chief Guest, it is decided to organize the 9th
+Convocation  ceremony  on  Tuesday  (evening),  21  November  2023.  The  Chairman
+formally  invited  all  the  Senate  Members  to  attend  the  9th  Convocation  in  person  at
+the  Institute.  He  further  suggested  planning  the  Alumni  Induction  Programme  and
+The  Chairman  shared  with  the  Senate  that  major  IT  companies  are  predicting
+recession in jobs related to IT support services which may lead to retrenchment. It is
+evident  that  students  are opting  jobs  in  the  IT support  services  in place  of  the  core
+engineering  disciplines  due  to  high  demand.  The  Chairman  also  apprised  that  the
+nature of coding/programming related jobs will see a major change with the advent
+of  AI  tools  like  ChatGPT.  It  will  also  impact  M.Tech.  admissions  across  IITs  as  many
+engineering  colleges  have  closed  down  core  engineering  branches  such  as  Civil  or
+Chemical engineering. Further, he expressed that the Institute should be prepared for
+such  a  placement  scenario  and  re-design  the  academic  programs  with  emphasis  on
+core  engineering  concepts  to  make  them  attractive  and  more  job  oriented.  He
+suggested departmental societies to orient the students as per the trend.
+The Chairman also advised the HoDs and Senate members to carefully deal with these
+placement  and  PG  Admissions  issues  at  the  departmental  level.  He  suggested
+encouraging  /  attracting  scientists  working  in  National  laboratories  /Industries  for
+joining  Ph.D.  programmes  at  the  Institute.  MoUs  with  such  laboratories  can  also  be
+initiated  for  a  joint  Ph.D.  supervision  with  IITJ  faculty  members.  If  required,  a
+flexible  (Online  and  Offline)  academic  regulation  for  such  scientists  joining  the
+Institute  for  Ph.D.  programme  may  be  designed.    Such  scientists  having  laboratory
+facilities  at  their  parent  organization,  the  minimum  residency  period  of  six  months
+can be spread across the duration of the Ph.D. programme for such candidates.
+The Chairman, Senate further advised to submit a report on the Minor in Management
+and  Entrepreneurship  in  line  with  the  implementation  of  Students’  Innovation  and
+Finally, the Chairman apprised Senate members that the Institute is preparing a HEFA
+loan proposal of  Rs. 720 crore for major infrastructure development and procurement
+of  laboratory  equipment  based  on  the  institute’s  present  repaying  capacity    for
+submission to the Ministry of Education.
+Confirmation  of  Minutes  of  the  34th  Meeting  of  the  Senate  held  on  24th  June,
+The Senate confirmed the Minutes of the 34th Meeting of the Senate, as circulated on
+14 March 2023.
+Report on Action Taken on decisions of the 34th Meeting of the Senate held on
+24th June, 2023
+The Senate noted the Action Taken Report (ATR) on decisions of the 34th Meeting of
+the Senate held on 20 December 2022 and recommended the following:
+Proposal  of  a  new  certificate
+cum  postgraduate  diploma  in
+Technologies  and  Applications,
+from  Department of  Bioscience
+Proposal  for  New  M.  Tech.
+Course  curriculum  for  Master
+program in XR Design
+conferment  of  Honoris  Causa
+Implemented;  Development  of  detailed
+course  content  is  under  process  and  will
+be presents in next Senate meeting
+curriculum  will  be  placed  in  the  ensuing
+The  proposal  was  placed  before  BoG  in
+its  33rd  meeting  held  on  28  June  2023
+and  after  approval  the  proposal  for
+conferment  of  Honoris  Causa  Doctorate
+Degree  to  Eminent  Personalities  with
+suggested  names  was  forwarded  to MoE,
+GoI  for  obtaining  approval of  the  Visitor
+(Hon’ble President of India). In response,
+the  MoE  vide  letter  dated  05  October
+2023  had  conveyed  the  approval  of  the
+Proposal for M. Tech., Post Graduate Diploma and Certifications in Data
+Engineering, from the School of Artificial Intelligence and Data Science.
+The  School  of  Artificial  Intelligence  and  Data  Science  proposed  M.  Tech.  in  Data
+Engineering offered from Semester I, AY 2023-24. The proposal was discussed in an all
+faculty  workshop  held  on  14th  July  2023.  It  was  also  discussed  in  the  Academic
+Committee and ECS in its meetings held on 28th  July 2023 and 17th, 25th August 2023
+respectively. The Academic Committee reviewed the proposal and recommended the
+Dr. Dip Sankar Banerjee, School of Artificial Intelligence and Data Science, presented
+the  proposal  for  M.  Tech.,  Post  Graduate  Diploma  and  Certifications  in  Data
+Engineering  before  the  Senate  placed  as  Annexure-I.  The  Senate  after  detailed
+discussion  recommended  and  approved  the  proposal  for  M.  Tech.,  Post  Graduate
+Diploma  and  Certifications  in  Data Engineering with  a  maximum  of  10%  relaxation  in
+the eligibility criteria for students opting only for PGD and not willing to transition to
+the M.Tech. programme.
+The  Senate  further  suggested  aligning  the  program  to  the  Institute’s  Academic
+calendar.  The  Chairman,  Senate  advised  to  create  a  provision  for  the  approved
+courses for such programmes to also be available for regular students of the Institute.
+The  Dean  (DT)  was  requested  to  create  provisions  in  the  ERP  to  distinguish  the
+programme duration and courses for both the types of students.
+Action: Head (AIDE)
+Dean (Digital Transformation)
+Annexure AP    35-4  Recommendation
+Goals,  Offered  as
+elective of 700 lfor
+MSc,  M.  Tech,
+PhD,  Structure  L-
+T-P [C] 3-0-0 (3)
+The  4  courses  of  the  Center
+for  Emerging  Technologies  for
+Sustainable development were
+The  Senate  advised  the  major
+in  the  course  as
+(a)  Linking of CSR and SDG is
+(b)  A  connection  between
+business  and  CSR  to  be
+(c)  There  are  a
+redundancy  in  the  course
+offered as elective
+of  700  level  for  B.
+Tech  (Final),  MSc,
+M.  Tech,  PhD,
+Structure L-T-P [C]
+Senate  advised  the  major
+changed  on  the  Appropriate
+(a) Modules  2  and  3  can  have
+more number of lectures to
+technology can be added in
+In  the  course  Water  Basics,
+the Senate advised that
+(a) Course  must  have
+should  not  be  a  social
+content  must  be
+departments  of  Chemistry,
+and Chemical Engineering;
+(c)  Title  of  the  course  to  be
+(d) Water filtration technology
+to be included.
+Public  Health  and  Climate
+Change-  (a)  Too  many  topics
+in the course content; and
+(b)  Sustainability  aspects  to
+modified  courses  be  placed  in
+the  ensuing  Senate  meeting
+offered as elective
+of  700  level  for
+B.Tech, M.Sc., MS,
+Structure L-T-P [C]
+4. Public  Health  and
+offered as elective
+B.Tech, M.Sc., MS,
+Structure L-T-P [C]
+Head,  CTFP  presented  the
+new  courses  proposed  by  the
+center before the Senate.
+The  Senate  after  detailed
+discussion  recommended  the
+reviewing  the  course  Smart
+Contracts  for  Logistics  with
+the  Department  of  Computer
+Science  &  Engineering  and
+Centre  for  Mathematical  and
+and  present  the  course  in  the
+ensuing Senate Meeting.
+The  Senate  further  suggested
+adding    a  module  on  Digital
+public  infrastructure  in  the
+Governance.  The  credits  can
+be  redistributed  accordingly
+for  the  consideration  of  the
+Senate in its next meeting.
+presented  the  new  course  on
+Design Lab before the Senate.
+After a detailed discussion the
+Senate approved the proposal.
+Head  Department  of  CSE,
+presented all the new courses
+before the senate.
+The  Senate  after  detailed
+discussion  recommended  and
+as elective of 700
+level Structure L-
+T-P [C] 2-0-0 [2]
+2.  Smart  Contracts
+elective  of  700
+level Structure L-
+T-P [C] 2-0-0 [2]
+3.  Socio  Technical
+elective  of  700
+level Structure L-
+T-P [C] 2-0-0 [2]
+offered  as  700
+[C] 0-0-2 [2] with
+of structure L-T-P
+[C] 3–1–0 [4]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Elective / Core
+and Analysis of
+for Computing (or
+The  Senate  after  detailed
+discussion  recommended  and
+and Engineering of
+Structure (L-T-P [C])
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Design and Analysis
+The  Senate  after  detailed
+discussion  recommended  and
+of  Structure (L-T-
+P [C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+of Structure (L-T-P
+[C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+and Analysis of
+Of Structure (L-T-P
+[C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+and Analysis of
+The  Senate  after  detailed
+discussion  recommended  and
+The  Senate  after  detailed
+discussion  recommended  and
+The Senate recommended and
+without  any  prerequisites  to
+that  the  course  Computer
+reviewed  and  placed  before
+the Senate for consideration.
+The  Senate  after  detailed
+discussion  recommended  and
+of Structure (L-T-P
+Offered for B. Tech,
+M.Tech, Ph.D. as
+of Structure (L-T-P
+[C]) 3–0–0 [3]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+and Analysis of
+of Structure (L-T-P
+[C]) 1–0–0 [1]
+Offered for B.Tech.,
+M.Tech., Ph.D. (CSE,
+AI), M.Sc. (Maths) as
+Head  Department  of  CSE,
+presented  the  New  B.Tech.
+Specialization  in  Theoretical
+Computer  Science  before  the
+The  Senate  after  detailed
+discussion  recommended  and
+approved the Specialization in
+1.  Fundamentals  of
+(with fractals) Of
+Prof.  Gaurav  Harit,  Head
+Department of CSE, presented
+contents  as  recommended  in
+the  Academic  Audit  before
+The  Senate  after  detailed
+the  updates  in  the  course
+content  except  the  course
+content  of  Fundamentals  of
+fractals).  The  content  must
+reflect  state-of-the-art  and
+should  be  useful  for  students.
+The revised course content for
+Learning  to  be  placed  before
+the next senate meeting.
+Masters  and  PhD
+Programs  as  700
+[C])  (3-0-0  [3])
+400 level core
+of  Structure  (L-T-P
+offered  for  B.Tech
+(CSE)  as  200  level
+of  Structure  (L-T-P
+[C]) 3–0–0 [3] offered
+M.Tech., Ph.D. (CSE,
+(CSE)  as  700  level
+Tech. CSE  as  300
+with the addition
+course  has  been
+the  credits  have
+from 3 to 4). This
+course  will  also
+courses  for  the
+Program  by  1
+Academic Audit of UG and PG Programs Annually/once in 2 years
+Dean  (Academics)  presented  the  reports  on  Academic  Audit  of  the  following
+Department/School/Center before the Senate:
+Action: Concerned Heads
+Office of Academics
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+School of Liberal Arts.
+The  School  proposed  that  the
+current  pattern  of  bouquet  courses
+in a discipline-specific style may be
+changed  to  accommodate  more
+in  view  of  the
+change in the profile of the School.
+The  School  proposed  to  add  more
+400  level  open  elective  courses  in
+LA  bouquet  courses.  This  will  add
+diversity  in  terms  of course options
+for  the  students  to  take  from  each
+The  School  proposed  that  in  the
+M.Sc.  CSS  the  prerequisite
+Specialization  Elective  Economic
+Approach course can be waived off.
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+Department  of  Electrical
+Specialization  electives  and  PG
+courses to be offered as UG PE / PG
+Proposed  list  of  PE  for  UG  Students
+from Communication Stream:
+S. No.  Course name  L-T-P-C
+and  Analysis  of
+Proposed List of PE for UG Students
+from Power Stream:
+Plugin  Electric  Vehicles  3-0-
+Special  Drives  for  Electric
+Power System Reliability and
+Renewable  Energy  Systems
+Power Quality 3-0-0
+Distributed Generation 3-0-0
+Smart Grid 3-0-0
+Proposed List of PE for UG Students
+from VLSI Stream:
+1. ML in VLSI CAD (3-0-0)
+2. Formal Verification (2-0-0)
+3. Hardware Software Co-design (3-
+4.  Mixed  Signal  Circuit  Design  (2-0-
+5. Signal and Power Integrity (3-0-0)
+6.  VLSI  Broadband  Communication
+Power Systems Restructuring
+Introduction to Smart Grid 3-
+7. VLSI Testing (2-0-0)
+8. Digital VLSI Design (3-0-0)
+Proposed  List  of  PE  for  M.Tech.
+1.In-Memory Computing (2-0-0)
+3. Signal and Power Integrity (3-0-0)
+4.  Mixed  Signal  Circuit  Design  (2-0-
+5.  VLSI  Broadband  Communication
+Proposed  List  of  PE  for  M.Tech.
+No  changes  were  proposed  for  M.
+Tech. (DCS) program
+Modification  in  M.Sc.  (MA)  program
+by changing  the  credits  of  the  core
+Algorithms"  from  3  credits  to  2
+credits  and  increasing  1  credit  in
+the PE course in Semester 2.
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+Department  of    Computer
+with  the  modification  in  the
+Fundamentals  of  Machine
+Learning as stated in 35.2.2.
+No  changes  in  M.  Tech.  CSE
+and AI curriculum
+Fundamentals  of  Machine  Learning
+Theory of Computation CSL4XX
+Maths for Computing CSL2040
+Complexity Theory CSL7140
+(The existing name of this course is
+However, with the addition of a lab
+component, the name of the course
+has  been  revised  to  Computer
+Organization  and  Architecture  and
+the  credits  have  been  increased
+from 3 to 4).
+C. Updates to the B. Tech. (CSE)
+total  number  of  Program
+Compulsory  credits  have  increased
+by  1  with  the  increase  in  the
+number  of  credits  of  the  course
+D. Updates to the B.Tech. (AI)
+total  number  of  Program
+Compulsory  credits  have  increased
+by  1  with  the  increase  in  the
+number  of  credits  of  the  course
+Principles  of  Computer  Systems  –  1
+(PCS – 1)
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+School  of  Management  &
+recommended  as  per  the
+entrepreneurship  policy  a
+detailed  report  should  be
+presented  in  the  upcoming
+SME  proposed  minor  changes  in
+in  24  courses  and
+adding prerequisite in 10 courses)
+Leading High Performance
+Incentives and Performance
+People Analytics and
+Strategic Human Capital
+History and Business
+Technology and Future of
+Organizational Change and
+10  Strategic Leadership
+12  Persuasive Communication
+13  Managerial Judgment and
+14  Designing and Leading
+15  Digital Behavioral Dynamics
+16  Culture of Tech
+17  Communicating Digitally
+18  Selected Topics in HR
+19  Selected Topics in OB
+20  Selected Topics in Marketing
+21  Emerging Trends in
+22  Service Operations
+23  Project Management
+24  Advanced Operations
+Sales and Distribution
+Strategic Brand Management
+Digital Marketing Analytics &
+Social Media Analytics
+proposed  from  the  Department  of
+1. Institute-wide B. Tech Courses
+offered by Dept. of ME
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+Department  of  Mechanical
+“Engineering  Mechanics  MEL1010”
+by  removing  the  topic  on  Inertia
+Tensor  as  not  all  students  have
+done linear algebra.
+2. B. Tech. Mechanical Programme
+Core offered by Dept.
+Minor change in the course “Control
+of Mechanical Systems MEL3080” by
+including  State-space  modelling  in
+Part  II  since  it  is  used  in  lab
+Flow stability part should be
+3. M.Tech TFE Programme Core
+“Incompressible Fluid Flow MEL7040
+integral/control volume analysis
+One  credit  tutorial  may  be
+added  without  any  change  in  the
+total credit structure by decreasing
+one credit in program electives
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+Department  of  Bioscience
+The Following Changes are proposed
+from the Department of BB:
+Changes in UG curriculum
+Computational  methods  for
+changed  to  Computational  methods
+for multi-omics  (level 7) [2-0-2]
+Introduction of New course -
+Agricultural Biotechnology [3-0-0]
+Changes in PG curriculum
+A  minor  change  was  suggested  for
+the  compulsory  M.Tech.  course  on
+Introduction  to  OMICS  Technology
+for  changing  L-T-P  structure  from
+[2-0-0]  to  [3-0-0]  without  changing
+the  course  content-  the  overall
+credit  structure  remains  intact  in
+line with the regulations.
+The  Senate  after  detailed
+discussion recommended the
+changes  suggested  by  the
+Department of Chemistry.
+Restructuring  of  CYP6060-
+Laboratory  from  0-0-3  [1.5  credits]
+[3  Credits]  without
+changing  total  credit  requirements
+for  graduation  by  dropping  the
+Credits].  The proposed  changes  are
+consistent  with  the  M.Sc.  programs
+in Physics and Mathematics.
+Laboratory  from  Sem  III  to    Sem-II
+and  CYP6050 Hands on-II from Sem
+II to Sem-III
+Further, the Dean (Academics) also apprised the concerns of academic audit meetings
+on  first  year  students  receiving  a  large  number  of  C  (-)  grades  and  related  stress
+factor among students.
+The  Chairman,  Senate    instructed  all  HoDs  to  appoint  one  Faculty  Advisor  with  the
+multiple  small  groups  of  students  considering  the  number  of  students  getting  C  (-)
+grade and below grades in the First years courses. The Chairman also advised HoDs to
+identify such students for monitoring and regular counseling. He particularly stressed
+upon careful monitoring of stress factors and facilitating the well-being of students.
+Also,  the  Senate  recommended  creating  course  materials  in  Hindi  for  all  1st    year
+Courses after due verification by the Hindi Cell. The course material thus created is to
+be  shared  with  the  students.  Moreover,  a  detailed  report  on  Entrepreneurship
+projects,  number  of  students  in  minors  in  Management  and  Entrepreneurship,
+implementation of Innovation and Entrepreneurship policy must also be submitted to
+the  Senate  in  its  next  meeting.  The  Senate  also  deliberated  on  the  communication
+and writing skills of PG students in addition to UG students and advised departments
+medal  to  honor  the  UG  female  student  having  the  best  academic  performance  from
+the Department of Computer Science & Engineering in the graduating batch. It is also
+proposed  to  put  a corpus of  Rs.  2,50,000 (Rs.  Two  lakh  and  fifty  thousand)  to  begin
+with, and intent to keep replenishing it regularly so that the award may continue for
+many more years. Detailed Proposal and Guidelines are placed at Annexure-IV.
+The Senate after a detailed discussion recommended for implementation.
+Action: Dean (Academics)
+Degree  format  for  Honoris  Causa  Doctorate  to  Eminent  Personalities  on  their
+Dean  (Academics)  presented  the  Degree  format  for  Honoris  Causa  Doctorate  to
+Eminent Personalities on their exceptional contributions before the Senate placed as
+Annexure-V. The Senate after a detailed discussion approved the same.
+The  Senate  suggested  announcement  of  conferment  of  the  degree  during  the
+Convocation  and  in  case  of  the  absence  of  the  recipient,  Degree  will  be  physically
+conferred on a later date when the recipient visit the Institute.
+Action: Dean (Academics)
+Recommendations  to  confer  the  Award  of  B.Tech.,  M.Sc.,  M.Tech.,  MBA,  MBA-
+Technology,  Masters  in  Medical  Technologies,  M.Sc.-M.Tech.,  and  Ph.D.  Degrees,
+PG  Diploma/Certificate  to  students  to  students,  who  meet  the  various  academic
+Proposal for conferment of award of B.Tech., M.Sc., M.Tech., MBA, MBA-Technology,
+in  Medical  Technologies,  M.Sc.-M.Tech.,  and  Ph.D.  Degrees,  PG
+Diploma/Certificate to students to students was presented by the Dean (Academic).
+The  following  students  met  all  academic  requirements  for  the  award  of  the  said
+a)  314  students  registered  in  the  B.Tech.(CSE),  B.Tech.(ME),  B.Tech.(EE),  and
+b)  92  students  registered  in  the  M.Sc.(CY),  M.Sc.(DH),  M.Sc.(MA)  and  M.Sc.(PH)
+c)  04  students registered in the M.Sc.-M.Tech. Program
+d)  282  students
+in  the  M.Tech.(BB),  M.Tech.(CH),  M.Tech.(AI),
+M.Tech.(CS),  M.Tech.(CI-ENV),  M.Tech.(CI-EN),  M.Tech.(CPS),  M.Tech.(SIoT),
+M.Tech.(DCS), M.Tech. (AMD), M.Tech.(TFE) and M.Tech.(MT) Programs;
+e)  77 students registered in the MBA and MBA-Technology Programs.
+f)  06 students registered in the Masters in Medical Technologies Programs;
+g)  14 students registered in the Ph.D. Program.
+h)  20 students registered in the PG Diploma/Certificate.
+Further  the  following  B.Tech.  students  have  met  the  requirements  of  the  award  of
+1.  17  students  (included  in  the  list  of  B.Tech)  registered  for  Minor/Specialization  in
+Entrepreneurship,  Management,  Visual  Computing,  Artificial  Intelligence  and
+The complete list of the said 809 students is placed as Annexure VI.
+The Senate authorized the Chairman Senate for approval of degrees to B.Tech., M.Sc.,
+M.Tech., MBA, MBA-Technology, Masters in Medical Technologies, M.Sc.-M.Tech., and
+Ph.D.  students,  and  Diploma/Certificate  to  students  in  respective  disciplines  after
+detailed  verification  of  names  and  various  academic  requirements  by  respective
+For graduating students in Master’s in Medical Technologies registered under the joint
+Degree  programme of  IIT  Jodhpur  and  AIIMS  Jodhpur,  the  Senate  recommended  that
+the Institute can invite these students on the 9th Convocation. In the proceedings of
+the Convocation, the HoD will read their names and announce that the Degree will be
+awarded during the convocation at AIIMS Jodhpur; students will rise from their seats.
+The  Senate  Authorized  the  Convocation  Committee  to  decide  the  modalities  of  the
+upcoming 9th Convocation Ceremony. The Senate further recommended that names of
+graduates  of  Diploma/Certificate  will  be  announced  in  Convocation  and  these
+students  will  get  Diploma(s)  /  Certificate(s)
+departments/units  separately.  The  diploma  students  may  be  allowed  to  sit  in  the
+convocation Hall to participate in the Oath taking ceremony.
+Action: Dean (Academics)
+Academic Calendar for AY 2023-24 Sem II
+Dean (Academics) presented the Academic Calendar for AY 2023-24 Sem II. The Senate
+after  detailed  discussion  approved  the  Academic  Calendar  (placed  at  Annexure-VII)
+for AY 2023-24 Semester II.
+Action: Dean (Academics)
+Reporting, Adopting and Noting Items
+Academic recommendations of 29th ECS Meeting held on 17 and 25 August, 2023
+The Senate accepted the academic recommendation of the 29th ECS meeting held on 17
+and 25 August, 2023.
+Action: All Heads/Concerned
+35.5.1  Approvals accorded by the Chairman, Senate
+The  Senate  ratified  the  approvals  accorded  by  the  Chairman,  Senate  on  behalf  of  the
+Senate, as presented in the Agenda.
+Any other Item with the prior permission of the Chairman
+Suggestions  on  report  proposing  transformative  reforms  to  strengthen  the  periodic
+assessment  and  accreditation  of  all  Higher  Educational  Institutions  (HEIs)  of  India
+submitted by the overarching committee constitute by the MoE
+The Chairman Senate presented the report proposing transformative reforms for
+strengthening the periodic assessment and accreditation of all HEIs of India submitted by
+the overarching committee constituted by the MoE before the Senate. The Senate after
+detailed discussion recommended that all the Members of the Senate submit the inputs to
+the Registrar and based on the inputs received, the comments will be shared with the

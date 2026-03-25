@@ -1,0 +1,34 @@
+Dynamic Light Scattering (DLS) | Central Research Facility (CRF) | IIT Jodhpur
+Dynamic Light Scattering (DLS)
+Dynamic Light Scattering(DLS)
+MAKE: Malvern PANalytical
+MODEL: ZETASIZER PRO
+Particle Size distribution-Range: 0.3 nm to 10 µm.
+Zeta Potential: No effective limitation for zeta potential range; Size range from 3.8 nm to 100 µm.
+Maximum sample conductivity is 260 mS/cm with accuracy ± 10 %.
+Source: He-Ne Gas Laser (wavelength 632.8 nm) having an output power of 4 mW.
+Detector: Avalanche Photodiode with QE > 50%.
+Temperature Range: 70 degree C for Polystyrene Cuvettes.
+120 degree C for Glass Cuvette.
+Nanoparticle Size Analysis: Measures particle size distribution and zeta potential of nanoparticles to ensure stability and efficacy.
+DLS helps monitor protein aggregation, which is essential for drug development, biopharmaceutical manufacturing, and quality control.
+DLS is widely used to characterize colloids and emulsions, which are common in paints, pigments, food products, and cosmetics.
+Measures molecular weight, size, and aggregation behavior of proteins and polymers in biotechnology and biomedical research.
+Assesses nanoparticles in water samples, helping detect contaminants or pollutants and study colloidal behavior in environmental systems.
+Assess the polydispersity index of the colloidal suspensions, which is important for all biological or biomedical applications.
+Samples Requirement: 1-2 ml.
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone: 0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone: 0291 280 1347
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone: 0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

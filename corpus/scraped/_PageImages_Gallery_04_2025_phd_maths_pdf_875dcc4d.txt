@@ -1,0 +1,14 @@
+Indian Institute of Technology Jodhpur
+Cat.  Course Number: Course Title
+Cat.  Course Number: Course Title
+H  MA799 Ph.D. Thesis
+H  MA799 Ph.D. Thesis
+H  MA799 Ph.D. Thesis
+H  MA799 Ph.D. Thesis
+H  MA799 Ph.D. Thesis
+H  MA799 Ph.D. Thesis
+MA754  Algorithmic Graph Theory
+3  MA757  Numerical Partial Differential
+MA755  Chaos Theory and its Applications
+MA756  Functional Analysis
+3  MA759  Stochastic Processes

@@ -1,0 +1,38 @@
+Computational Chemistry | Chemistry | IIT Jodhpur
+This laboratory is focused on studying the structure and dynamics associated with important chemical processes. Modern computational techniques including electronic structure theory and molecular dynamics simulations are used to understand complex chemical phenomena. Computing facilities are available in the Computer Centre to perform these calculations. Gas Phase Reaction Dynamics: This work is about studying complex organic reactions in the gas phase to investigate mechanisms and energy flow pathways using state-of-the-art direct dynamics techniques wherein classical Newton's equations are integrated on-the-fly using quantum mechanical potential energies and gradients. For further details, contact: Dr. Manikandan Paranjothy, email: pmanikandan@iitj.ac.in Dr. Manikandan Paranjothy’s research group is interested in looking into the dynamics of chemical reactions using the principles of classical and quantum mechanics. Understanding a chemical reaction from a static picture – the potential energy surface – is insufficient in completely describing the process. One needs to look at the dynamics i.e., the time-dependent nuclear motion at the atomic level. Classical trajectory simulations with potentials and gradients computed on-the-fly using electronic structure theory packages, a methodology known as direct dynamics, is used in most of our simulations. The group is interested in studying organic reaction mechanisms and pathways, modelling gas phase experiments and studying the associated dynamics. Research work is going on to understand mechanisms of covalent adduct formation between DNA base pairs with few select carcinogens and chemistry of negatively charged arenes.
+Computational Molecular Biophysics: The research aims at understanding principles of complex biophysical processes using principles of Statistical Mechanics and Quantum Chemistry. High end supercomputers located at computer centres are used to simulate the systems. For further details, contact : Dr. Ananya Debnath, email:  ananya@iitj.ac.in Dr. Ananya Debnath’s research group broadly envisage on understanding principles of soft condensed matter using multi-scale modeling. Dynamical processes involving soft matter have a broad range of coupled time-scales where small changes in molecular level weak interactions lead to large effect on system's macroscopic properties. Using multi-scale modeling the research group is exploring the structure function relationships at different time and length scales important for different biological and non-biological soft matter systems. In particular, the group focuses on water dynamics at the hydration layers, self assembly of surfactants, protein-membrane-water systems, their interactions with other bio-molecules and polymer dynamics related to chemical and activated processes. The group develops and uses modeling tools ranging from molecular simulations to study the structure and dynamics of proteins, lipids, water at the micro and meso-scale as well as the analytical theory at the macro-scale to investigate different processes involving biological chain and macromolecules.
+Quantum Information and Computation:  The group is interested in foundations of quantum mechanics and quantum information processing. The research aims at analysing and characterizing multiqubit entanglement and nonlocality in pure as well as mixed states. In addition, the group is also interested in communication protocols, quantum cryptography and quantum games. For further details, contact: Dr. Atul Kumar, email:  atulk@iitj.ac.in
+Erum Gull Naz
+Ph.D (M. Paranjothy)
+(Dec. 2014 – Present)
+Theoretical Studies of Select Bimolecular Chemical Reactions in Gas Phase: Mechanisms and Energetics
+Ph.D (M. Paranjothy)
+Unimolecular Reaction Dynamics: Mechanisms and Pathways via Chemical Dynamics Simulations
+Ph.D (M. Paranjothy)
+Theoretical Studies of Dissociation Chemistry of Formamide and Formyl Halides
+Ph.D  (M. Paranjothy)
+Mechanistic Studies of DNA covalent adduct formation with carcinogens
+Ph.D (A. Debnath)
+(Dec. 2014-Feb. 2020)
+Slow relaxations of hydration water near lipid membranes: a molecular dynamics study
+Ph.D (A. Debnath)
+(Aug. 2015- Present)
+Structural and thermodynamical investigations of soft matter: a molecular dynamics study
+Ph.D (A. Debnath)
+Influence of phase transition on hydration water dynamics near lipid membranes: a molecular dynamics study
+Ph.D  (A. Debnath)
+Dynamics of protein ligand interactions
+M.Sc. (A. Debnath)
+(Aug. 2019 -Present)
+Free energy simulations of peptide based dimmers
+(Aug. 2019- Present)
+Structure of  bilayers at different temperatures
+M.Sc. (M. Paranjothy) (Aug. 2019-Present)
+Chemical Dynamics Simulations of Protonated Interstellar Diazines
+NOTE: We are actively looking for highly motivated PhD students, MSc research assistants for our interdisciplinary projects. Applicants with a background in chemistry, physics or computer science are encouraged to visit our research group websites and contact Dr. A Debnath ( ananya@iitj.ac.in ) or Dr. P Manikandan ( manikandan@iitj.ac.in ) or Dr. Atul Kumar ( atul@iitj.ac.in ) with CV.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 12 Mar 2026 - 03:42 PM

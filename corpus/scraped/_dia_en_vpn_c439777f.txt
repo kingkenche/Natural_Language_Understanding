@@ -1,0 +1,10 @@
+VPN | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+The IITJ VPN (Virtual private Network) with SSL client is a software application that is installed on a remote computer. The client makes a secure connection from the remote computer to your protected network through an unsecured network, such as the Internet. The VPN client uses SSL (Secure Sockets Layer) to secure the connection. User can see instructions and settings for connecting to IITJ VPN facility via below links.
+Download FortiClient VPN-only
+FortiClient VPN (Intranet)
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

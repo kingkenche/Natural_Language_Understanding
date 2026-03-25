@@ -1,0 +1,410 @@
+Hkkjrh; çkS|ksfxdh laLFkku tks/kiqj
+INDIAN INSTITUTE OF TECHNOLOGY JODHPUR
+BOARD OF GOVERNORS
+MINUTES OF 36th MEETING
+28th March, 2024 (Thursday)
+Board Room, IIT Jodhpur
+This page is left blank, intentionally
+Indian Institute of Technology Jodhpur
+Board of Governors
+Minutes of 36th Meeting
+28th March, 2024 (Thursday), 11:30 A.M.
+Board Room , IIT Jodhpur
+The following Members were present in the 36th Meeting of the Board of Governors:
+1.    Sh. A.S. Kiran Kumar, Former Chairman, ISRO
+2.    Prof. Santanu Chaudhury, Director, IIT Jodhpur
+3.    Prof. Narpat S. Shekhawat, Formerly JNVU, Jodhpur
+4.    Prof. Akhil R. Garg, Professor, MBM University, Jodhpur
+5.    Prof. Richa Singh, Deptt. of CS&E, IITJ
+6.    Prof. Neeraj Jain, Deptt. of Bioscience & Bioengg., IITJ
+7.    Dr.  H.S.  Mewara,  Joint  Secretary,  Technical  Education,  Govt.
+of Rajasthan (Nominee of Govt. of Rajasthan)
+8.    Prof. Sampat Raj Vadera, Deputy Director, IIT Jodhpur
+9.    Sh. P.G. Basak, Advisor (Administration), IIT Jodhpur
+10.   Dr. Hari Om Yadav, Registrar
+Sh. Govind Jaiswal, IAS, Joint Secretary (TEL), Ministry of Education, Govt. of India could not attend the
+Meeting  due  to  prior  engagement.  Sh.  Anil  Bhavarlal  Jain,  Member  of  the  BoG  did  not  attend  the
+The following are the decisions of the BoG on the Agenda items:
+36.1  WELCOME BY THE CHAIRMAN, BOARD OF GOVERNORS (BoG)
+The  Chairman,  BoG  welcomed  all  the  Members  and  Special  Invitees  to  the
+36th Meeting and called the meeting in order.
+36.1.1  To Confirm the Minutes of:
+(i)  35th  Meeting  of  the  Board  of  Governors  held  on  2nd  December,  2023  in  the
+Senate Room, IIT Jodhpur
+(ii) 13th Special Meeting of  the Board  of Governors held  on 25th February, 2024
+in the Board Room, IIT Jodhpur
+The Board of Governors confirmed the Minutes of 35th Meeting and the 13th Special
+Meeting of the Board of Governors, as circulated.
+36.1.2  Presentation  by  the  2  Faculty  Members  on  their  research  work
+/accomplishments before the BoG.
+As  per  the  decision  of  the  BoG  taken  in  its  24th  Meeting  held  on  5.12.2020,  the
+following 2 Faculty Members  of the Institute  made presentations before the BoG
+about their research work:
+1.  Prof.  Shree  Prakash  Tiwari,  Department  of  Electrical  Engineering,  IIT
+Jodhpur,  presented the  summary  of  his  research  work  carried  out  on  the
+flexible and sustainable electronics by Flexible Large Area Microelectronics
+(FLAME) led by him during the last 13 years at IIT Jodhpur.  He  informed
+how E-waste is becoming a challenge for mankind and how R&D activities
+on  biodegradable  electronics  can  help  in  reducing  its  negative  impact  on
+the  environment.  An  approach  to  design  useful  eco-friendly  flexible
+electronic systems was presented with individual devices being developed
+with natural material ingredients.  He  opined  on  how multi-functionality of
+electronic  devices  can  help  in  inducing  smartness  at  lower  costs.  It  was
+highlighted that use of synaptic behaviour of fabricated transistors can be
+utilized  to  mimic  a  human  synapse,  which  can  eventually  be  helpful  for
+ultra-low  power  computing  in  the  future.  Heterogeneous  integration  of
+flexible  and  rigid  technologies  was  suggested  as  the  best  way  for  system
+development  in  the  areas  of  real  time  health  /  environment  monitoring
+The  BoG  lauded  the  efforts  of  Prof.  Tiwari  towards  development  of
+technologies  for  biodegradable  electronics  and  for  publishing  a  good
+number of research papers in high impact journals. The BoG suggested to
+protect  the  outcomes  of  the  work  through  IPs  at  various  stages  for  a
+quantitative  analysis  of  biodegradability  and  other  aspects  of  developed
+technologies  to  highlight  the  impacts  for  industry  adaptation.  Upcoming
+facility for flexible electronics, especially an advanced material printer was
+also discussed. Finally, Prof. Tiwari’s immense efforts in outreach activities
+on  semiconductor  technology  and  edible  /  ingestible  electronics  across
+were appreciated by all the members.
+2.  Dr.  Angshuman  Paul, Assistant  Professor,  Department  of  Computer
+Science  &  Engineering,  IIT  Jodhpur presented the  work  about  the  recent
+research  collaboration  with  Society  for  Applied  Microwave  Electronics
+Engineering  &  Research  (SAMEER),  Mumbai  [Ministry  of  Electronics  &
+Information  Technology  (MeitY),  GoI]  on  MRI.  He  mentioned  that  a  team
+of  researchers  from  IITJ  and  SAMEER  has  recently  submitted  a
+research proposal  to  MeitY  on  the  translation  of  low field  strength  MRI
+images to high field strength MRI images.
+The Chairman, BoG appreciated the effort and suggested that IITJ should
+also  focus  on  collaborating  to  improve  various  other  aspects  of  MRI
+scanner  of  SAMEER  and  be  a  part  of  the  effort  to  build  high  quality
+indigenous  MRI  Scanners with  SAMEER.  The  Director  suggested  that
+improving the various aspects of MRI should be added as a major research
+area  in  the  Med.-Tech.  Program  of  IITJ.  This  suggestion  was  appreciated
+by the Chairman BoG.
+The  Chairman,  BoG,  and  Members  appreciated  the  presentations  made  by  both
+the Faculty Members.
+36.2  INSTITUTE REPORT BY THE DIRECTOR
+The  Director  presented  the  Institute  Report  on  various  activities  and  new
+initiatives  that  happened  after  the  last  meeting  of  the  Board  of  Governors  as
+1.  Presently,  the  Institute
+A.Y.  2023-24.  The  Director  apprised  BoG  on  the  following  New  Academic
+is  offering  91  Academic  Programmes
+Increase  in  the  total  intake  in  B.Tech.  Programs  from  490  to  540
+(an increase of 50 Seats);
+•  Starting  B.Sc.-B.Ed.  Integrated  Teachers  Education  Program  (ITEP)
+Program  from  A.Y.  2024-25  in  line  with  NEP-2020  initially  with  50
+•  Establishing  a  Joint  Center  of  Law  and  Technology  with  National  Law
+University  Jodhpur  (NLUJ)  for  Joint  Masters  Program  in  Law  and
+Technology  of  minimum  duration  of  2-Years  from  Semester-I,  A.Y.
+2024-25  in  Regular,  Part-time,  and  Hybrid  Modes  with  a  maximum  of
+10 seats initially;
+•  Starting  a  M.S.(Res.)  and  M.S.(Res.)-Ph.D.  Program  in  Astronomy  and
+Astrophysics  in  collaboration  with  Aryabhatta  Research  Institute  of
+Observational Sciences (ARIES), Nainital;
+•  Starting an unique stackable Program in Applied AI and Data Science in
+collaboration with an External Partner; and
+•  Ph.D. Program in Design through recently established School of Design
+at IIT Jodhpur.
+2.  The  Director  informed  about  the  current  student  strength  of  IIT  Jodhpur
+which has reached 4758, and out of which 820 are the Ph.D. Students - a
+good sign for Research Ecosystem of the Institute. The Institute is aiming to
+have 1000 Ph.D. Scholars in coming years. The Director further added that
+the Institute is trying to maintain a ratio of 60:40 for UG and PG Students.
+The Institute is also aiming to reach the student strength to 7000 in the next
+4~5 Years and thereafter to 10000 in the next 10 years.
+3. The current Faculty and Non-Faculty Strengths are 267 (excluding PDFs and
+offered  positions)  and  228  respectively.  The  Director  informed  that  during
+the  Finance  Committee  meeting  held  on  27th  March,  2024,  it  was
+recommended  that  the  Institute  should  work  out  to  build  Post
+Doctoral Fellows (PDFs) Cadre.
+The  Members  appreciated  the  suggestion  of  the  Finance  Committee
+and requested the Director to work in that direction.
+2.  The present Fund position, Status of HEFA Loans, other Financial parameters
+and expected deficit were discussed in the Finance Committee in its Meeting
+held on 27th March, 2024.
+The  Board  of  Governors  requested  the  Director  to  brief  about  the
+position of Internal Resources of the Institute to meet out the deficit
+due to shrinking Grant-in-Aid support from the Ministry of Education
+(GoI) in comparison of actual expenditure. The Director briefed that
+the  Institute  has  already  requested  the  MoE  to  provide  /sanction
+additional  grant.  In  case  the  additional  grant  is  not  sanctioned
+during  the  current  FY,  then  the  Institute  may  have  to  pay  from  the
+The  Board  noted  the  same  and  asked  the  Institute  to  request  the
+Ministry  of  Education  to  sanction  additional  Grant-in-Aid  as  per  the
+requirement  of  the  Institute,  especially
+3.  While  presenting  the  progress  of  securing  Research  &  Development  (R&D)
+projects and funds, it was informed that 157 Projects and grant of ₹44.34
+Crores have already been sanctioned / received as on 18th March, 2024. IITJ
+is expecting further increase in this before / by 31.3.2024 itself.
+4.  The Placement Statistics were also presented to the BoG as under:
+•  Over  220+  organizations  (Private  &  Govt.  Sector)  rolled  out  close  to
+359 offers to IIT Jodhpur Students; and
+Thereafter, the BoG was informed about the New Research Initiatives as under:
+Joint Centres with Collaborating Institutes:
+➢  AIIMS Jodhpur - IIT Jodhpur: Joint Med.-Tech. Centre
+➢  National Law University (NLU), Jodhpur - IIT Jodhpur: Joint Centre on Law
+➢  ARIES, Nainital - IIT Jodhpur: Joint Centre on Astronomy and Astrophysics
+In  these  Centres,  Joint  Research  /  Innovation  Programmes  in  Interdisciplinary
+areas  would  be  taken  up  by  Affiliate  Faculty  from  both  the  Institutes  in
+collaboarating mode through different Departments of IITJ. Faculty appointments
+in these Centres would be made in future as part of the growth of the academic
+activities of the Centres.
+The  Director  informed  that  these  Centres  will  be  part  of  the  Inter-Disciplinary
+Research Division (IDRD), IIT Jodhpur.
+The  Chairman,  BoG  asked  the  Director  about  the  response  of  AIIMSJ-IITJ
+Academic  Programs  on  which  the  Director  responded  that  the  Doctors  of  AIIMS
+Jodhpur have also enrolled for Ph.D. Program.
+One  of  the  Members  requested  IIT  Jodhpur  to  explore  the  possibility  of
+R&D work in the area of Agriculture / Protected Agriculture. The Director
+informed  that  the  Institute  has  already  discussed  the  possibility  of
+collaboration  with  CAZRI,  Jodhpur  and  Agriculture  University  Jodhpur
+and is open for collaborations. At this point, the Chairman opined that the
+initiative should also be taken from the other side.
+The  BoG  requested  the  Director  try  to  move  forward  for  possible
+collaborations in Protected Agriculture Research area.
+The Director further briefed the BoG about the new Research Initiatives as under:
+➢  5  Projects  have  already  been  approved  by  Governing  Council  (GC)  of
+DRDO Industry-Academia – Center of Excellence with a financial outlay of
+~ ₹30 Crores.
+Initial selection for a Pilot Project with Financial Outlay of ₹2.00 Crores on
+the AI-CoE on Sustainable City is completed.
+➢  Joint  Project  submitted  with  SAMEER,  Mumbai  on  enhancement  of  MRI
+images  (transforming  field  strength)  of  the  SAMEER  developed  MRI
+System using Generative AI.
+The Board of Governors noted the Institute Report with appreciation.
+36.2.1  Action Taken Report on previous decisions of the Board of Governors
+The  Director  briefed  the  Action  Taken  on  the  following  items  to  the  Board  of
+34.4.2:  Review  the  Prof.  Meghnad  Saha  Fellowship  to  provide  an  option
+to young Ph.D.’s (belonging to SC / ST / NCL-OBC / EWS categories)
+As per the direction of the BoG  in its 34th Meeting held on 31st October, 2023 to
+revise  the  guidelines  of  the  Meghnad  Saha  Post-Doctoral  Fellowship  (PDF),  the
+Director  informed  the  BoG  that  the  Institute  has  revised  the  guidelines  which
+were presented to the Finance Committee.
+The  Finance  Committee  recommended  the  revised  guidelines  to  the  Board  of
+Governors for its approval.
+SP.12.3.1: Review the guidelines of the award of Best Thesis Work
+As  per  the  direction  of  the  BoG  in  its  Pre-Convocation  12th Special  Meeting  held
+on  21st  November,  2023  to  review  the  guidelines  of  Award  of  Best  Ph.D.  Thesis
+Work, the Institute has revised the  existing guidelines and the  same  was placed
+before the Senate in its 37th Meeting held on 20th March, 2024.
+The Director  apprised the BoG that the Senate discussed the guidelines in detail
+and opined that the proposed guidelines  should be shared with all the Academic
+Units  first  for  their  suggestions.  Thereafter,  it  will  be  discussed  in  the  next
+meeting  of  the  Senate  before  recommending  the  revised  guidelines  for  the
+consideration of the BoG.
+The Board of Governors noted the Action Taken Report (ATR) with satisfaction.
+36.3  DISCUSSION ITEMS
+36.3.1  To  consider  &  approve  the  recommendations  of  31st  Meeting  of  the
+Finance Committee held on 27th March, 2024 at IIT Jodhpur
+The recommendations of the Finance Committee made in its 31st Meeting held on
+27th March, 2024 were presented before the Board of Governors.
+The  BoG  approved  the  recommendations  of  the  31st  Meeting  of  the  Finance
+Committee as under:
+31.2.1: Statement of Expenditure as on 15th March, 2024
+On  the  recommendation  of  the  Finance  Committee,  the  Board  of  Governors
+considered and approved the following:
+“The  Statement  of  Fund  received  from  the  Ministry  of  Education  and
+Expenditure  incurred  by  the  Institute  under  Object  Head-31  (Recurring),
+Object  Head-36  (Salary)  and  Object  Head-35  (Non-Recurring)  were
+presented to the Finance Committee.
+It was briefed to the Finance Committee that the expected shortfall would
+be ₹20 Crores in Recurring (OH-31), ₹8.00 Crores in Salary (OH-36) and
+₹4.21  Crores  in  Non-Recurring  (OH-35).  It  was  also  briefed  that  the
+Institute  requested  to  the  Ministry  of  Education  to  allocate  Additional
+Budget  of  ₹35.00  Crores  (₹10.00  Crores  under  OH-36,  ₹20.00  Crores
+under  OH-31  and  ₹5.00  Crores  under  OH-35)  to  the  Institute  for  the
+ongoing FY 2023-24.
+The  Finance  Committee  was  further  briefed  that  if  the  Ministry  of
+Education,  Govt.  of  India  would  not  release  the  Grant-in-Aid  as
+demanded, the shortfall may increase further.
+The  Finance  Committee  noted  the  status  of  Funds  and  recommended  to
+the  Board  of  Governors  that  the  shortfall  due  to  excess  of  expenditure
+over  the  Grant-in-Aid  received  from  the  MoE  be  met  out  from  IRG,  if
+additional Grant-in-Aid is not sanctioned by the MoE.”
+31.2.3:  To  consider  and  recommend  the  Revised  Manual  for  Processes
+and Procedures of Internal Audit-2024
+The Board of Governors noted that the Finance Committee provisionally accepted
+the  Revised  Manual  and  authorized  the  Director  to  make  amendments  as
+required.  The  Finance  Committee  recommended  to  have  discussion  with  its
+Member(s) and  stakeholders. The analysis of financial activities and the updated
+Manual may be revised further and be presented in six months.
+31.2.4:  To  consider  and  recommend  the  revision  of  the  Sitting  Fee
+payable  to  the  Members  of  the  Statutory  Bodies  such  as,  the
+Board  of  Governors,  Finance  Committee,  B&WC,  Senate  and  the
+external experts of the Selection Committees, etc.
+On  the    recommendation  of  the  Finance  Committee,  the  Board  of  Governors
+approved  the  revision  in  the  Sitting  Fee  from  ₹5,000  to  ₹7,500  per  meeting
+payable to the Members of the Statutory Bodies such as, the Board of Governors,
+Finance  Committee,  B&WC,  Senate  and  the  external  experts  of  the  Selection
+Committees / eminent experts invited for talks / lectures.
+31.2.7:  To  consider  and  recommend  the  revised  guidelines  of  Meghnad
+Saha Post-Doctoral Fellowship (PDF)
+The BoG went through the revised guidelines of the Meghnad Saha Post-Doctoral
+Fellowship (PDF) and after detailed deliberations, approved the same.
+The Board of Governors also resolved that the revised guidelines shall be
+made  applicable  for  existing  Post  Doctoral  Fellows  and  will  be  effective
+from 1st May, 2024.
+31.4.1: To consider and recommend the Fee Structure for new B.Sc.-B.Ed.
+The BoG noted that IIT Jodhpur is starting a four-year (8 Semesters) B.Sc.-B.Ed.
+Integrated  Teachers  Education  Program  (ITEP)  Program  from  Semester  I,  A.Y.
+2024-25 with an intake of 50 Students. Subsequently, the Institute proposed the
+Fee  Structure  for  the  B.Sc.-B.Ed.  (ITEP)  Program.  The  Fee  Structue  was  placed
+before  the  Finance  Committee  and  it  recommended  the  Fee  Structure  for  the
+B.Sc.-B.Ed. (ITEP) Program to the BoG for approval.
+The BoG approved Fee Structure for the B.Sc.-B.Ed. (ITEP) Program.
+36.3.2  To consider and approve the recommendations of the 37th Meeting of the
+Senate held on 20th March, 2024 at IIT Jodhpur
+The Board of Governors noted and approved the recommendations of the Senate
+made in its 37th Meeting held on 20th March, 2024.
+The Board of Governors suggested the following to the Institute:
+1.  The  Board  of  Governors  appreciated  and  approved  the  Proposal  of  the
+Institute  to  start  stackable  B.Sc./BS  Program  in  Applied  AI  and  Data
+Science.  The  Board  of  Governors  suggested  to  have  a  review  of  the
+programme after 2 Years of its initiation for further action; and
+2.  The BoG appreciated the Proposal to start B.Sc.-B.Ed. (ITEP) Program and
+suggested that the Institute may also explore to include the Life Sciences
+subjects in the Program.
+The  Director  welcomed  the  suggestions  and  stated  that  the  Institute  would  take
+36.3.3  To consider and approve the recommendations of the 32nd Meeting of the
+Builiding & Works Committee held on 19th March, 2024 at IIT Jodhpur
+The  BoG  was  briefed  that  the  recommendations  of  the  Building  &  Works
+Committee  (B&WC)  made  in  its  32nd  Meeting  held  on  19th  March,  2024  were
+placed before the Finance Committee in its 31st Meeting held on 27th March, 2024.
+The Finance Committee recommended the same to the BoG for its approval.
+The  BoG  discussed  the  recommendations  of  the  B&WC  and  appreciated  that  the
+Institute is taking initiative for Solid Waste Management in the Campus. The BoG
+suggested to the Director that the Institute should also explore the possibility to
+work in the area of Electronic Waste Management.
+The Director welcomed the suggestions and stated that the Institute would  work
+After  detailed  deliberations  and  on  the  recommendation  of  the  Finance
+Committee, the Board of Governors approved the recommendations of the B&WC
+made in its 32nd Meeting held on 19th March, 2024.
+36.3.4  To  consider  and  approve  the  proposal  to  provide  10  additional  Special
+Casual  Leave  to  Visiting  Professors  /  Distinguished  Professors  /  Advisor
+The  Director  apprised  the  BoG  that  at  present  the  Visiting  Professors  /
+Distinguished  Professors  are  entitled  to  30  Days  of  Annual  Leave  and  8  Days  of
+Casual  Leave.  The  Institute  is  receiving  requests  from  Visiting  Professors  /
+Distinguished Professors for grant of Special Casual Leave or Duty Leave for which
+they are not entitled as per existing BoG guidelines.
+Subsequently,  the  matter  was  discussed  in  the  Executive  Committee  of  Senate
+(ECS), IIT Jodhpur in its 31st Meeting held on 13th February, 2024 and the ECS was
+of  the  view  that  the  Visiting  Professors  /  Distinguished  Professors  /  Advisor
+(Academics)  are  very  senior  faculty  /  scientist(s)  and  they  get  invitations  for  the
+Selection  Committees  /  Project  Review  Committees,  Invitations  as  Speakers  at
+Conferences, and to be Members / Chairpersons of various National / Industry-level
+Committees.  Considering  the  same,  the  ECS  recommended  to  provide  additional
+(maximum  of  10  days)  Leave  as  a  Special  Casual  Leave  in  a  year  to  Visiting
+Professors  /  Distinguished  Professors  /  Advisor  (Academics)  and  to  place  the
+proposal before the Board of Governors for its approval.
+After  detailed  deliberation,  the  Board  of  Governors  approved  to  provide  15
+additional Special Casual Leave to Visiting Professors / Distinguished  Professors /
+Advisor (Academics) considering their rich experience and seniority.
+To  consider  and  approve  the  minor  revision  in  the  guidelines  for
+enrolment in Part-time Ph.D. for the Staff Members of the Institute
+The  Director  briefed  the  Board  of  Governors  that  the  Staff  Members  of  the
+Institute  have  been  requesting  to  amend  the  existing  guidelines  related  to  the
+criteria  of  5  years’  service  in  the  Institute  for  enrolment  in  the  Part-time  Ph.D.
+Therefore,  the  Institute
+consideration of the Board of Governors:
+is  proposing  the
+should  have  worked  at
+the Institute for at least
+Group-A Officers  will be eligible  for enrolment in  the
+Part-time  Ph.D.  Program  of  IIT  Jodhpur  after  their
+confirmation  of  services  and  minimum  of  1  Year
+Group-B  and  Group-C  Staff  Members  will  be  eligible
+for  enrolment  in  the  Part-time  Ph.D.  Program  of  IIT
+Jodhpur  after  their  confirmation  of  services  and
+minimum of 2 Years continuous service.
+After  detailed  deliberations,  the  Board  of  Governors  approved  the  above
+amendment  in  the  existing  guidelines  to  provide  better  opportunities  to  the  Staff
+Members  of the Institute. The other guidelines  mentioned in the Office Order No.
+IITJ/Admin/2020-21/131 dated 15th July, 2020 shall remain unchanged.
+To consider  and  approve the expert panel for the  appointment of Faculty
+positions in the Centre for Education & Technology for Education (CETE)
+The  Board  of  Governors  approved  the  panel  of  experts  for  the  appointment  of
+Faculty positions in the Centre for Education & Technology for Education (CETE).
+To consider and approve the adoption of the rules pertaining to “Scheme
+for  Compassionate  Appointment  under  Central  Government”  at  IIT
+After detailed deliberations, the Board of Governors approved the adoption of the
+rules  pertaining  to  “Scheme  for  Compassionate  Appointment  under  Central
+Government” at IIT Jodhpur.
+To  consider  and  approve  the  eligibility  criteria  for  the  post  of  Hindi
+The  Board  of  Governors  approved  the  revised  eligibility  criteria  and  the
+Recruitment Rules for the sanctioned post of Hindi Officer.
+To consider and approve addition of experts in the existing panel for the
+selection of Non-Faculty positions
+The Board of Governors approved the addition of experts in the existing panel for
+the selection of Non-Faculty positions.
+36.4  REPORTING, ADOPTING AND NOTING ITEMS
+36.4.1  Report on the implementation of the National Education Policy-2020
+The  Board  of  Governors  noted  the  report  on  the  implementation  of  the  National
+Education Policy - 2020 as presented in the Agenda.
+36.4.2  Report on the status of filling-up of Backlog vacancies
+The Board of Governors noted the report on the status of the filling-up of Backlog
+vacancies as presented in the Agenda.
+36.4.3  Report  on  the  joining  and  resigning  of  the  Faculty  Members  and  Staff
+Members from the Institute
+The  Board  of  Governors  noted  the  report  on  the  joining  and  resigning  of  the
+Faculty Members and Staff Members from the Institute.
+36.4.4  Adoption  of  Circulars/  Orders/  O.Ms.  of  the  Ministry  of  Education,
+Government of India
+The Board approved the adoption of the O.Ms. as presented in the Agenda.
+36.4.5  Report  of  R&D  Projects  sanctioned  to  the  Faculty  Members  of  the
+Institute since the last meeting of the BoG
+The Board noted the Report of R&D Projects sanctioned to the Faculty Members of
+the Institute since the last meeting of the BoG.
+The  Chairman,  BoG  suggested  that  the  Institute  may  consider  to  put  in  place  a
+mechanism  for  effective  monitoring  of  the  ongoing  Projects  and  their  targeted
+delivery because their performance is linked with the credibility of the Institute.
+The  Director  apprised  the  BoG  that  the  matter  was  discussed  in  the  R&D
+Management  Committee  of  the  Institute  and  the  Institute  will  undertake
+performance analysis on the different parameters and submit the outcome before
+the Board of Governors in its ensuing Meeting.
+36.4.6  Report  of  MoUs/Agreement(s)  signed  with  different  Institutions  /
+organizations / companies by the Institute
+The  Board  noted  the  Report  of  MoUs/Agreement(s)  signed  with  different
+Institutions / Organizations / Companies by the Institute.
+36.4.7  Report  approval  accorded  by  the  Director,  IIT  Jodhpur  for  the
+registration  of  the  IIT  Jodhpur  Employees  Thrift  Society  in  line  with  the
+The Board of Governors noted and ratified the approval accorded by the Director,
+IIT  Jodhpur  for  registration  of  the  IIT  Jodhpur  Employees  Thrift  Society  in  line
+with other IITs.
+36.4.8  Report on the status of the Court Cases of the Institute
+The Board of Governors noted the same.
+36.5  RATIFICATION ITEMS
+36.5.1  Approvals accorded by Chairman, Board of Governors/Director.
+Reports of Selection Committees of Post-Doctoral Fellowships
+The Board noted the Selection Committee reports of appointment of  5 PDFs and
+ratified the approval accorded by the Chairman, BoG as presented in the Agenda.
+Approval accorded by the Chairman, BoG through U.O. Note on extension
+/ appointment through Standing Committees
+The Board ratified the approval accorded by the Chairman, BoG, as presented in
+36.6  Any other item with the prior permission of the Chairman
+36.6.1  To  consider  and  approve  publishing  of  Advertisement  for  Non-Teaching
+positions (Direct & Limited Departmental Examination)
+The  Director  briefed  to  the  BoG  that  the  total  sanctioned  strength  of  Non-
+teaching Positions is 447 and out of which only 229 Staff Members are in-position
+which  are  not  catering  to  the  current  requirement  of  the  Institute.  Considering
+the present student strength of 4758 and to support the administrative as well as
+technical  functions  of  the  Institute,  it  is  submitted  to  the  BoG  that  the  Institute
+Departmental Examination (LDE)) to support the functions of the Institute.
+the  non-teaching  positions
+Further,  the  Board  of  Governors  also  discussed  that  the  Election  Commission  of
+India  has  announced  the  schedule  of  General  Elections  2024  and  as  per  Model
+Code  of  Conduct  issued  by  the  ECI  “Regular  recruitment  /  appointment  or
+promotion  through  the  UPSC,  State  Public  Service  Commissions  or  the  Staff
+Selection  Commission  or  any  other  Statutory  Authority  can  continue.
+Recruitments  through  non-statutory  bodies,  will  require  prior  clearance  of  the
+The  Chairman,  Board  of  Governors  suggested  that  the  Institute  should  continue
+the Recruitment process for Faculty and Non-Faculty Positions and set targets to
+fill-up  maximum  vacancies  in  order  to  maintain  the  pace  of  growth  of  the
+The  members  of  the  Board  of  Governors  also  seconded  the  suggestion  of  the
+The  Chairman,  BoG  highly  appreciated  the  commendable  work  done  in  the  last  5+  years  and
+new  initiatives  taken  by  the  Director  for  excellent  and  visible  growth  of  the  Institute.  The
+Institute is also taking good steps in line with the Viksit Bharat-2047 Initiative of Govt.  of
+India. All the members of the BoG agreed and appreciated able and visionary leadership.
+After  the  conclusion  of  the  Meeting  of  the  BoG,  the  Registrar  &  Secretary,  BoG  thanked  the
+Chairman, BoG, the Director and the Members for their invaluable time and critical inputs.
+Registrar & Secretary, BoG
+Director, IIT Jodhpur
+Chairman, Board of Governors, IIT Jodhpur

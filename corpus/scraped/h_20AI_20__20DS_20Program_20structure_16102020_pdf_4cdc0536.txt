@@ -1,0 +1,31 @@
+2nd year B.Tech AI & Data Science
+For AY 2020-21
+CH  NC  GC
+IS  Mathematics I
+NH  Social Connect
+IS  Chemistry Lab
+IS  Physics Lab
+IS  Mathematics II
+NH  Social Connect
+CH  NC  GC
+NH  Performing Arts
+I/ Sports I
+NH  Performing Arts
+II/ Sports II
+IE  Materials Science
+PC  Data Structures
+PC  Maths for
+IE  Signals and
+LS  Quantum Info
+NE  Intro. To
+IH  Humanities I
+IH  Humanities II
+AI+X / DS+ X
+Regulations in AI
+IH  Humanities IV
+PP  B. Tech. Project
+AI+X / DS+ X
+IH  Humanities III
+Note: ES are proposed Engineering Science compulsory courses
+Total of graded and Non-Graded Credit   9
+Non-Graded Design Credits  6

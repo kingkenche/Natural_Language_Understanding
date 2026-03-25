@@ -1,0 +1,13 @@
+Above screen will appears. Use your internet access credentials for login with SSL-VPN
+Portal. After successful login you have two different options to go further.
+1.  Launch FortiClient - If you have already installed the FortiClient then you may launch
+2.  Download FortiClient - Download and install the FortiClient tool as per your
+convenience – iOS, Android, Windows and Mac
+SSL-VPN connection procedure of FortiClient Application
+Following is the first view of FortiClient after installing the tool as per your system’s
+Open the tool and Click on Configure VPN under Remote Access Tab. Select SSL-VPN and
+enter the required information as follows.
+Save the VPN connection setting and provide your internet access credentials on next
+It will pop up a security alert box, click on Yes and wait for the connection to complete.
+After successful VPN connection following window will appear. Now you can use intranet
+services of the IIT Jodhpur.

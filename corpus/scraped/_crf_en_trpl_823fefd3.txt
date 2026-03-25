@@ -1,0 +1,38 @@
+Time Resolved Photoluminescence(TRPL) | Central Research Facility (CRF) | IIT Jodhpur
+Time Resolved Photoluminescence(TRPL)
+Time Resolved Photoluminescence(TRPL)
+Make: Edinburgh Instruments
+450 W Xenon lamp with integrated power supply for Steady-State PL measurements
+400nm, 100 mW CW Laser (Class 3B) for Steady State PL measurements
+405nm Picosecond Diode Laser (Class 3R)
+280nm Picosecond Pulsed LED (Class 3B)
+Working Excitation Range for PL with Xenon Lamp: ~240 nm- 900 nm
+PMT-900 Detector in cooled housing with response time of ~600 picoseconds
+High-Speed PMT with a response time of ~180 picoseconds
+Working Emission Range ~250-850nm (PMT-900 & Fast PMT)
+Liquid and Solid sample holder
+Color filters of wavelengths 330 nm, 395 nm, 455 nm, 495 nm, 550 nm, 590nm & 645nm
+Measurable Lifetime with present Configuration:80 picoseconds-5 microseconds (source and detector dependent)
+TRPL measures carrier lifetimes, helping evaluate material quality and defects.
+It assesses photo charge carrier recombination rates to understand the decay mechanisms and improve the PL efficiencies.
+TRPL helps optimize light-emitting materials by studying exciton dynamics.
+TRPL assists in fluorescence lifetime to distinguish molecular environments
+Content will be updated soon.
+750/hr(Max 2 samples)
+1500/hr(Max 2 samples)
+Content will be updated soon..
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone:0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone:0291 280 1347
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone:0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

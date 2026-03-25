@@ -1,0 +1,245 @@
+Department of Metallurgical and Materials Engineering
+(Download this document and edit)
+i) Details of approved Specialization and dual degree programmes in the following Table:
+Table 1: Summary of Specialization and Dual degree leading to Specialization offered by Dept/School/IDRP
+MT, ME, CI
+MT, ME, EE,
+MT, ME, CS,
+AI, EE, CH,
+Name of Dual
+B.Tech Specialization 1: Structural Materials
+Table 2: List of Specialization Core and Electives as per Senate approved document
+List of core courses [8 Credits]
+List of Elective courses [12 Credits]
+1  MTL 4XXX: Failure of Materials and
+2  MTL7XXX: Plastic Deformation and
+Microstructure Evolution [3-0-0]
+MTL 4XXX: Creep and Superplastic
+Deformation in Materials [3-0-0]
+MTL 4XXX: Heat-Treatment of Metals and
+3  MTL7XXX: Imperfections in Solids [1-
+MTL 7XXX: Material Aspects in Additive
+4  MTP7XXX: Structural Materials
+MTL 7XXX: Thermo Mechanical Processing [3-
+MTL 7XXX: Light Metals and Alloys [3-0-0]
+MTL 7XXX: Processing of Polymer Matrix
+MTL 4XXX: Fundamentals of Transmission
+Electron Microscopy [3-0-0]
+MEL4XXX: Principle of Biomechanics [3-0-0]
+CI4XX0: Introduction to Structural Health
+10  MEP7XX0 Smart Manufacturing [1-0-2]
+CHL7XX0: Structure & Property for Polymers
+12  MTD 7XXX: Project [0-0-6] /[0-0-8]/[0-0-12]
+Table 3: Proposed Semester-wise Structure of 20 Graded Credits and positioning of core courses for Structural
+One 400 level 3 credit course
+may be placed in this semester
+Imperfections in Solids
+SC  Failure of Materials and
+Overload this semester 3-4 credits
+SC  Structural Materials Laboratory
+SE  Specialization Elective
+SE  Specialization Elective
+Plastic Deformation and
+Overload this semester 4-3 credits
+Note: Students will also be required to complete any non-graded credits associated with a minor programme.
+Overload this semester 3 credits
+Dual Degree in Materials Engineering, Transition through Specialization 1 (Structural Materials)
+Table 4: Credit requirements for dual degree
+Total (As per
+31 (Compulsory + Elective)
+Table 5: List of Dual Degree Programme Core (Excluding courses of Preparatory nature)
+List of core courses [Credits]
+Industry 4.0: Applications in Metallurgical and Materials Engineering [2-0-0] (MC)
+Note: List of Specialization Core up to VIII Semester will be as per B.Tech. (Specialization) curriculum
+List of Specialization Electives up to VIII Semester will be as per B.Tech. (Specialization) curriculum
+List of Specialization Electives in IX th Semester will be as per Structural Materials Course Bouquet of
+M.Tech.Materials Engineering Curriclum
+List of Program Electives in IX Semester will be as per M.Tech. Functional Materials and Computational Materials
+Engineering Course Bouquet
+Table 6a: Proposed Semester-wise Structure of 54-56 Graded and 4 Non-Graded Credits and positioning of core
+courses for the specialization leading to dual degree [B.Tech.+M.Tech.]
+One 400 level 3 credit
+course may be placed in
+this semester for
+Imperfections in Solids
+Failure of Materials and
+Overload this semester 4 credits
+SC  Structural Materials
+SE   Specialization Elective
+Overload this semester 3 credits
+MO  Open Elective
+MP  M.Tech. Project
+Overload this semester 3 credits
+Non-graded PG courses
+Non-graded PG courses
+●  The total of semester VI+VII+VIII should be 20 graded credits and IX+X would be graded 34 credits
+●  Graded credit requirements for M.Tech. is 54, whereas 2 Non-graded requirements.
+●  Courses out of 11-12 Credits of Specialization done in Semester VI and Semester VII if not part of M.Tech.
+Programme will be counted towards M.Tech. PE.
+●  Students will be required to complete all MTech. Core courses except for preparatory courses. Students will be
+required to take additional credit of Programme Elective against preparatory courses.
+●  Clearly state courses of M.Tech. core/electives UG students cannot take due to significant overlap
+with Minor/Specialization core/elective
+Imperfections in Solids
+Metallurgical and Materials Engineering
+B.Tech. Specialization, B.Tech.-M.Tech.
+1. To introduce types of defects in materials and their roles in determining material properties
+1. To be able to relate how imperfections in materials govern properties and material response
+Introduction: Structural defects based on dimension, electronic defects, properties influenced
+by defects (2 lecture)
+Point  and  electronic  defects:  Intrinsic  and  extrinsic  defects,  point  defect  notations,  Brouwer
+diagram, measurement of point defect concentration (5 lectures)
+Extended  Defects:  misfit  dislocations,  interfaces,  coincident  site  lattice,  tilt  and  twist
+boundaries, grain boundary dislocations,  vacancy diffusion along GBs, domain boundaries (7
+1. Cai, W, Nix, W., (2016), Imperfections in Crystalline Solids, 1st Ed., Cambridge University
+2. Hull, D, Bacon, D.J., (2011), Introduction to Dislocation, 5th Ed., Butterworth-Heinemann
+1. Tilley, R., (2008), Defects in Solids, Wiley
+2. Sutton, A.P, Balluffi, R.W., (2007), Interfaces in Crystalline Materials, Reprint edition, Oxford
+Online Course Material
+1.  Prof.  S.  Shekhar,  Defects  in  Crystalline  Solids  (Part-I),  NPTEL  Course  Material,  Indian
+Institute of Technology Kanpur, https://nptel.ac.in/courses/113104081
+2.  Prof.  S.  Shekhar,  Defects  in  Crystalline  Solids  (Part-II),  NPTEL  Course  Material,  Indian
+Institute of Technology Kanpur, https://archive.nptel.ac.in/courses/113/104/113104085/
+Failure of Materials and Prevention
+Metallurgical and Materials Engineering
+1.  To  introduce  methods  for  defining  and  evaluating  failure  of  structural  materials  and
+components subjected to steady and time dependent multi-axial (3D) stresses/strains.
+2.  To introduce materials selection strategies to prevent failure in design.
+3.  To  be  able  to  apply  failure  theories  to  predict  failure  of  structural  materials  and
+components subjected to various loading conditions.
+4.  To be able to select materials to prevent failure of components.
+Introduction: Review of processing-structure-property relation in materials, types of failure [2
+The Design Process and Materials Data: Design tools and Materials data, Processes of obtaining
+materials data, Materials databases [2 lectures]
+Failure  Prediction:  Failure  Theories,  Yield  surface  and  normality,  Plastic  Stress-Strain
+Relationships,  Griffith’s  crack  theory,  Strain  energy  release  rate,  Failure  modes  in  polymers
+and  ceramics,  Fracture  toughness  of  engineering  materials,  Use  of  Fracture  Mechanics
+Principles in Design [8 lectures]
+Failure  Detection  via  NDT:  Visual  inspection,  Dye-penetration  technique,  surface  and
+subsurface  crack  detection  through  eddy  current,  internal  crack  detection  via  ultrasonic
+technique [4 lectures]
+Application  of  Failure  Theories  under  Cyclic  Loading:  S-N  Diagram,  Cumulative  Fatigue
+Damage, Spectrum Loading, Rainflow counting techniques, Local Strain Life Approach, Damage
+tolerance and fatigue crack growth in design [6 Lectures]
+Application  of  Failure  Theories  under  High  Temperature:  Creep  Mechanism  Maps,  High
+Temperature  Fracture  modes,  Presentation  of  Engineering  Creep  data,  Stress-rupture  data,
+Larson-Miller parameter, Design for Creep [6 lectures]
+Material  Selection  for  Failure  Prevention:  Selection  criteria  for  materials,  Material  Property
+Charts, property limits and material indices, Materials indices which include shape, Applications
+of  Failure  theories  under  combined  loading  and  application  of  Granta  Edupack  for  Material
+Selection, Case studies on applications to life analysis and design [14 lectures]
+1.  Collins,  J.A.,  (1993),  Failure  of  Materials  in  Mechanical  Design,  2nd  Edition,  Wiley-
+2.  Hertzberg, R.W., (2013), Deformation and Fracture Mechanics of Engineering Materials,
+5th Edition, Wiley
+3.  Ashby, M.F., (2016), Materials Selection in Mechanical Design, 5th Edition, Butterworth-
+1.  Courtney, T. H., (2005), Mechanical Behaviour of Materials, 2nd Edition, Waveland
+2.  Jones,  D.R.H.,  and  Ashby,M.F.,  (2011),  Engineering  Materials  1:  An  Introduction  to
+Properties, Application and Design, 4th Edition, Butterworth-Heinemann
+3.  Jones,  D.R.H.,  and  Ashby,M.F.,  (2012),  Engineering  Materials  2:  An  Introduction  to
+Microstructure and Processing, 4th Edition, Butterworth-Heinemann
+4.  Shigley, J. E., Mischke, C., Nisbett, K., and Richard, B., (2008), Mechanical Engineering
+Design, McGraw Hill Education
+5.  William T. Becker; Roch J. Shipley, Failure Analysis and Prevention, Volume 11, ASM
+Online Course Material
+1.  Bhattacharya, B., Materials Selection and Design, NPTEL Course Material, Department
+of Mechanical Engineering, Indian Institute of Technology Kanpur,
+2.  Sen, I., Fracture, Fatigue and Failure of Materials, NPTEL Course Material, Department
+of Metallurgical and Materials Engineering, Indian Institute of Technology Kharagpur,
+Creep and Superplastic Deformation
+Metallurgical and Materials Engineering
+To provide the knowledge in deformation response of materials at elevated temperature
+To study creep as a failure mode in materials
+To introduce superplasticity phenomenon in materials
+To understand high temperature deformation of materials and evaluate the constitutive
+To understand the microstructural engineering required for attaining creep resistance in
+To comprehend the mechanistic understanding of superplastic phenomenon
+Deformation of materials at elevated temperature: stress-strain behavior, effect of strain rate,
+effect  of  temperature,  constitutive  relationship,  strain  rate  sensitivity,  grain  size  and  stress
+exponent, thermally activated deformation (15 lectures)
+Creep in materials: Phenomenology of creep, the creep curve, microstructural aspects for creep
+in metals and ceramics, mechanisms of creep, deformation mechanism map, power law break
+down, cavitation during creep, Stress rupture and Creep testing methodology, Design against
+creep (15 lectures)
+Superplasticity in metals and ceramics: introduction to superplasticity, flow stress vs strain rate
+sensitivity considerations and mechanism of superplasticity, activation energy for superplastic
+deformation,  microstructural  aspects
+in  superplasticity,  Failure  during  superplastic
+deformation, superplastic forming (12 lectures)
+1. Dieter G.E.,( 1986), Mechanical Metallurgy, 3rd Edition, McGraw Hill Book Company
+2. Nieh, T.G., Wadsworth, J., Sherby, O.D., (1997) Superplasticity in Metals and Ceramics,
+Cambridge University Press, Cambridge
+3. Polreer J.P., (1984) Creep of crystals, Cambridge University Press, Cambridge,
+1.  Courtney,  T.  H.,  (2005),  Mechanical  Behaviour  of  Materials,  2nd  Edition,  Waveland  Press
+2.  Kashyap, B.P., Arieli, A., Mukherjee, A.K., Microstructural aspects of superplasticity, (1985)
+J. Mater. Sci., 20: 2661-2686.
+3.  Langdon, T.G., (1991) Creep: Concise Encyclopaedia of Advanced Ceramic Materials, New
+York, Pergamon Press
+Online Course Material:
+1. Gollapudi S., Creep deformation of Materials, NPTEL Course Material, School of Minerals,
+Metallurgical & Materials Engineering, Indian Institute of Technology Bhubaneshwar,
+Heat Treatment of Metals and Alloys   Number
+Metallurgical and Materials Engineering
+Physical Metallurgy (MTL2015)
+To understand the foundation of heat treatment processes affecting the microstructures.
+To learn different types of furnaces used in heat treatments and heating mechanisms.
+Heat transfer mechanisms in heat treatment processes and associated microstructures.
+Concept behind the microstructure under  equilibrium and non-equilibrium cooling. To
+acquaint with TTT and CCT diagrams and associated microstructure under different industrial
+Significant  roles  of  microstructural  features  on  mechanical  properties  of  metals  and
+Heat treatment process variables; Heating and cooling of steels for heat treatment; Formation
+of austenite, Transformation of austenite to pearlite, bainite and martensite; Characteristics of
+transformation products; Homogeneity of austenite; Austenite grain size, Determination and
+importance of austenitic grain size [08 Lectures]
+T-T-T-and  C-C-T  diagrams:  Factors  affecting  T-T-T  curves;  Prediction  of  T-T-T-and  C-C-T
+diagrams; Heat treatment processes: different types of annealing, spheroidizing, normalzing,
+tempering,  patenting,  austempering,  martempering,  sub-zero
+Application of Thermo-Calc and DICTRA [11 Lectures]
+Thermo-mechanical treatment of steels: Ausforming, Isoforming, Cryoforming; Heat removal
+mechanisms;  Hardenability  of  steels;  Heat  treatment  defects,  Residual  stress  upon  heat
+treatment, Industrial heat treatment practices [06 Lectures]
+Surface heat treatments - Carburizing, Nitriding, Cyniding and Carbonitriding, Flame hardening,
+Induction hardening, Laser hardening [04 Lectures]
+Heat  treatment  of  some  steels:  IF  steel,  DP  steel,  TRIP  steel,  high  speed  steels,  maraging
+steels, spring steels.  [04 Lectures]
+Age  Hardening;  Heat  treatment  of  non-ferrous  metals  and  alloys  -  Aluminium  alloys,
+Magnesium alloys, Copper alloys, Titanium alloys and Nickel alloys. [07 Lectures]
+Practical considerations in heat treatment: Industrial Heat Treatment Processes, Types of
+furnaces and furnace atmospheres, Cooling media [02 Lectures]
+Rajan  TV,  Sharma,  CP  and  Sharma,  A.  (2011),  Heat  Treatment:  Principles  and
+Krauss G. (1990), Steels - Heat Treatment and Processing Principles, ASM International,
+Bhadeshia,H.K.D.H, Honycombe,R.W.K, (2017), Steels: Microstructures and Properties,
+Techniques, 2nd edition, Prentice Hall India.
+Materials Park, Ohio.
+4th Edition, Butterworth-Heinemann
+Thelning KE (1984), Steel and its Heat treatment, 2nd edition, Butterworth, London.
+ASM, Metals Hand Book: Heat Treating (1990), Vol. 4, 9th Ed., Metals Parks, Ohio.
+Fundamental of Transmission
+Metallurgical and Materials Engineering
+To introduce the fundamentals of Transmission Electron Microscopy (TEM).
+Introduce computational techniques of TEM image analysis.
+Simulate the electron diffraction and TEM micrographs.
+Understand digital micrograph scripting for post-processing the electron micrograph.
+The students will be able to:
+Introduction  of  basics  of  TEM:  Basics  of  TEM  from  instrumental  and  theoretical  perspective,
+Overview of electron matter interaction in TEM, Wave interference in TEM. (7 lectures)
+Introduction of  various  imaging method in TEM: Basics of image formation in TEM, Contrast
+transfer function, High-resolution TEM imaging (HRTEM) (7 lectures)
+Scanning  transmission  electron  microscopy  imaging  (STEM),  Bright  field  imaging,  Dark  field
+imaging, spectrum imaging (7 lectures)
+Introduction  of  electron  diffraction  in  TEM:  Reciprocal  lattice,  Basics  theory  of  electron
+diffraction  formation  in  TEM,  selected  area  electron  diffraction  (SAEDP),  Convergent  beam
+electron diffraction (CBED), Electron diffraction analysis methods. (7 lectures)
+Introduction  of  spectroscopic  method  in  TEM:  Basics  of  electron  energy  loss  spectroscopy
+(EELS), Basics EELS analysis for material science (7 lectures)
+Energy dispersive x-ray in TEM, basics of quantitative chemical analysis by EDS. (5 lectures)
+TEM alignment: Basics HRTEM alignment, TEM sample preparation methods. (2 lectures)
+1. Kirkland, E. J., Advanced computing in electron microscopy, Springer, 2020.
+2. Landup, D., Data visualization in python with pandas and matplotlib, 2020.
+3.  Pennycook  S.J.,  Nellist,  P.D.,  Scanning  Transmission  Electron  Microscopy:  Imaging  and
+Analysis, Springer, New York, 2011.
+Online Course Material
+1. nanoHUB.org - Courses: Transmission Electron Microscopy
+1.  Beazley, D., Jones, B.K., Python Cookbook: Recipes for Mastering Python 3 (English
+Edition), O’Reilly media, 2013.
+2. Williams, D.B., Carter, C.B, Transmission Electron Microscopy: A Textbook for Materials
+Science, Springer, 2016.

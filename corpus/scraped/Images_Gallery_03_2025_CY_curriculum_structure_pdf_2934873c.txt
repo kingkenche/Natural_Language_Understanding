@@ -1,0 +1,23 @@
+Cat.  Course  Number,  Course
+Cat.  Course  Number,  Course
+C  Org-1: Organic Reactions
+C  Org-3: Organic Synthesis
+C  Org-2: Physical Organic
+Inorg-3: Solid State and
+and Chemical Kinetics
+Phys-3: Theory and
+Applications of spectroscopic
+Inorg-2: Main Group
+Lab-1:Organic Laboratory  0-0-3-0
+Lab-3: Physical Laboratory
+C  Hands on -1
+C  Hands on-2
+E  Open elective-1
+E  Program Elective-5
+E  Program Elective-2
+E  Program Elective-6
+E  Program Elective-3
+E  Open Elective -2
+E   Program Elective-4
+C  Lab-4:  Computational
+* Open Elective Courses can be taken in the third semester as well.

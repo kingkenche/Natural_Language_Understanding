@@ -1,0 +1,32 @@
+Geological Engineering | Civil and Infrastructure Engineering | IIT Jodhpur
+The Geological Engineering lab is developing new energy geo-technologies for hydrocarbon production, studying emergent geo-energy solutions and storage, and devising the application of geological materials in cross-disciplinary engineering applications.
+We apply fundamental concepts in geomechanics and mechanics of porous media, engineering geology principles, lab-based experiments, and advanced numerical simulations to understand the underlying processes of various in geomaterials.
+Types of equipment available for teaching:
+Rock Drilling Machine
+Rock Cutting and Grinding Apparatus
+Brazilian Tensile Strength Measurement Apparatus
+Point Load Index Tester
+Hand-operated Rock Shear Strength Measurement Apparatus
+Rock Permeability Measurement Apparatus
+Cerchar Index Measurement Apparatus
+Slake Durability Index Tester
+Apart from them, we also use the following types of equipment from other laboratories for teaching:
+Universal/Compressive Testing Machine
+Ultrasonic Velocity Measurement Apparatus
+Fully Automatic Rock Triaxial Apparatus
+Fully Automatic Rock Triaxial Apparatus
+Overview and Working Principle
+The fully automatic rock triaxial apparatus is an advanced laboratory instrument used to evaluate the mechanical behavior of rocks under simulated in-situ stress conditions. It is essential for various applications in rock mechanics, geotechnical engineering, tunneling, mining, and petroleum reservoir studies. This apparatus helps determine critical rock properties such as compressive strength, cohesion, internal friction angle, Young’s modulus, and Poisson’s ratio with high accuracy. The system comprises several key components. At its core is the triaxial cell, a high-pressure chamber that houses the cylindrical rock specimen and applies uniform confining pressure using hydraulic oil or gas. The axial load frame features a servo-controlled actuator that delivers vertical stress to the specimen. The pressure controller regulates cell pressure. The automatic data acquisition system captures real-time measurements of load, displacement, pressure, and strain with high precision. For accurate deformation measurement, the sample is equipped with sensors such as strain gauges and LVDTs (Linear Variable Differential Transformers).
+The test begins with sample preparation, where a cylindrical rock core—typically 38–54 mm in diameter with a height-to-diameter ratio of approximately 2:1—is encased in a rubber jacket and placed inside the triaxial cell. Confining pressure is then applied to simulate the rock's natural environment, similar to conditions found deep underground. After this, axial stress is applied at a controlled rate by the actuator, either under constant confining pressure (conventional triaxial test) or with varying pressures (true triaxial test). The system monitors the specimen continuously, recording parameters such as stress, strain, and pore pressure until the rock fails. Finally, the recorded data is analyzed to generate results like the Mohr-Coulomb failure envelope, elastic constants, and strength criteria of the rock. The fully automatic system offers several benefits, including high precision and repeatability, minimal human error, time efficiency, and real-time data logging, making it a preferred choice for modern rock testing laboratories.
+Core Cutting and Grinding Machine
+Brazilian Index Tester and Point Load Index Tester
+Hand-operated Rock Shear Strength Measurement Apparatus
+Slake Durability Index Tester
+Core Drilling Machine
+Rock Permeability Measurement Device
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Mar 2026 - 09:58 AM

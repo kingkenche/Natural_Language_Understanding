@@ -1,0 +1,11 @@
+Computing Facilities | Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+The Computer Center provides computing facilities for Faculty, Staff members, and Students to access internal resources, use application software. User may ask for the following available facilities by sending email to support_cc@iitj.ac.in.
+Two lab with capacity of 100 and 60 computer terminals running on Windows and GNU/Linux operating systems.
+Access to IIT Jodhpur licensed software like Microsoft 365, Matlab, Mathematica, Cadence, Mentor-Graphics, Ansys, PSCAD, Solidworks, and orCad for its academic and research purposes.
+High Performance Computing (HPC) cluster for scientific research.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 10 Mar 2026 - 03:16 PM

@@ -1,0 +1,13 @@
+Advanced Manufacturing | Mechanical Engineering | IIT Jodhpur
+The advanced manufacturing laboratory houses CNC Machine Tools, 3-D Printers and manufacturing simulation software to support academic and research activities in the domain of CNC Machine Tools, CAD/CAM, New product development and Smart Manufacturing. The laboratory supports the academic activities of the department in the above-mentioned areas. The research groups associated with the laboratory has developed physics-based process models for machining operations using computational tools and validated the same using experimental facilities available in-house. The laboratory also facilitates the development of prototypes for various applications ranging from mechanical, automotive, aerospace and healthcare industries using 3-D printing technology. Considering recent impetus to Industry 4.0, the laboratory is expanding to develop indigenous technological solutions to implement smart manufacturing for various processes. The Advanced Manufacturing Laboratory is equipped with the following facilities: CNC Machine Tools and Smart Manufacturing
+3-axis CNC Vertical Machining Center On-Machine Probing System Table mounted Dynamometer
+Polyjet 3-D Printer Fused Deposition Modeling 3-D Printer (2 Nos.)
+Computer-Aided Designing and Analysis
+ANSYS DEFORM - 3D SolidWorks Creo AutoCAST
+Advanced Manufacturing Laboratory
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 18 Mar 2026 - 05:34 PM

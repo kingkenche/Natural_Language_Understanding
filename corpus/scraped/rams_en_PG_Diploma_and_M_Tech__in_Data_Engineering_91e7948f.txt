@@ -1,0 +1,94 @@
+PG Diploma and M.Tech* in Data Engineering | Executive Programs | IIT Jodhpur
+PG Diploma and M.Tech* in Data Engineering
+Apply Now Download Brochure Introduction
+As businesses and organizations increasingly rely on data-driven decision-making, the demand for skilled data professionals has skyrocketed. According to a report by IBM, the demand for data scientists will grow by 28% by 2023, creating a need for approximately 700,000 new professionals in this field.
+However, just data science expertise is not enough. Modern organizations want to be more data-driven than ever before. In order to squeeze every ounce of value out of their data, the trend has been to move from just experimentation or MVP test cases to actually deploying and commercializing the data solutions at scale.
+In such a scenario, organizations are looking at leaders who cannot just build data-driven solutions but can also architect, implement and deploy these solutions at scale so that businesses can reap the best benefit of this and actually productize data solutions.
+In such tech-evolving world, the skills of both data engineering and science would be the best possible competencies to accelerate one’s career in the data field. Hence this is the first program of its kind, which not just converges the skills of data engineering and science into one single course but also integrates with a lot of real-world industry use cases, workflows and hands-on experiences from actual data science and engineering practice leaders to bring in the best possible learning experience.
+The first of its kind highly industry oriented PGD program is designed by the top faculty at IIT Jodhpur along with inputs from various global schools of Data Science and Engineering and industry experts including top CXOs and Leaders of Data Science and Engineering Practice.
+This program takes into account the rapidly evolving landscape of data science, engineering and AI driven technology stacks as well as the future of data-focused job-role competencies. IIT Jodhpur is well known for its excellence in academics, research, and creative accomplishments as well as its multidisciplinary approach as well as industry relevance, and the same expertise is brought into this program design.
+This 12-month intensive program weaves together academic and conceptual learnings from top faculty from IIT Jodhpur, augmented by hands-on practical sessions conducted on the most recent tools and platforms led by Industry Experts, and integrates industry use cases, mini-projects, assignments, and capstone projects to provide a highly experiential learning outcome. The program provides learners with the opportunity to work on real-world projects, enabling them to apply their learning in practical scenarios.
+Last date of application: 29th July 2024
+Batch Start Date: 2nd August 2024
+Duration: 12 Months
+PG Diploma by IIT Jodhpur
+35 academic credits post successful completion of the program
+IIT Jodhpur Alumni Status post successful completion of the program
+Visit IIT Jodhpur campus for 10 Days, every trimester for Immersion sessions and examinations. Immersion attendance is mandatory for earning the program certificate
+Live online sessions by IIT Jodhpur faculty, and industry experts
+300+ Hours of Overall Learning Experience
+Multiple hours of online lab exercises and project work
+Masterclasses by Industry Experts & top tech leaders discussing real-world problems and approaches
+Be able to use state-of-the-art programming environments as well as latest tools such as ChatGPT and Assistive AI for building data engineering solutions.
+Design and work with modern databases, data models and ETL workflows, write applications to manipulate data thereof.
+Work with the latest big data technologies, ecosystems, and architect end-to-end data systems and infrastructures.
+Design and implement appropriate storage and processing techniques for every type of big data across domains.
+Deploy data mining techniques to discover insights from big data, design and deploy scalable dashboards and insights infrastructures.
+Create cloud data-based warehouses, build data lakes and use cloud infrastructure for data wrangling and transformation.
+Leverage cloud AI and ML services and design a deployment strategy for a big data application and implement it successfully. Work on a cloud environment to deploy models and utilize cloud-based infrastructure.
+Use supervised and unsupervised learning techniques to derive insights from big data.
+The provided list of electives serves as a general reference. IIT Jodhpur, a distinguished institution in the realm of emerging technologies, consistently introduces new courses each trimester. Consequently, program electives undergo regular updates, and their availability is determined at the discretion of the faculty and Program Directors.
+Trimester I - 15 credits:
+Applied Mathematics and Statistics
+Python Programming for Data Engineering
+Database Design and Modelling
+Electives (Any 2)
+Fundamentals of Business and Data Analytics
+Fundamentals of Data Science
+Data Visualization and Dashboards
+Decision Science for Operations Management
+Data Mining and Warehousing
+Trimester II - 10 credits: Cor e
+Web & Social Network Analysis
+Distributed Systems and Platforms
+Electives (Any 1)
+Optimization for Data Science
+Digital Marketing Analytics
+Trimester III - 10 credits:
+Big Data: Storage, Processing and Management
+Advanced Data Engineering with Cloud
+Electives (Any 1)
+Stream Processing and Analytics
+Deploying Data Solutions - MLOps
+Campus immersion will be an essential element of the program, in which learners must attend the campus activities and sessions during that immersion period. Campus immersion attendance is mandatory to earn the diploma. Learners will get a classroom experience, with the opportunity to meet and discuss with the esteemed faculty at IIT Jodhpur. However, it will be subject to cancellation/postponement based on future emergency circumstances/covid-19 advisory as issued by the government of India. Learners must come for 9-10 days at the end of each trimester, if and only if the situation is conducive to covid-19 regulations/advisory.
+• Campus immersion agenda will be provided before the immersion sessions.
+• Learner accommodation will be subject to the availability of hostel space. Nominal charges may apply for accommodation.
+• The immersion fee and program fee do not include food charges
+• The Information related to the learner Identity card will be provided before the immersion.
+Criteria of Eligibility
+The eligibility criteria prescribed below are the absolute minimum with no possible exceptions:
+Eligibility (for students who want to ONLY pursue PGD in Data Engineering) *:
+Minimum 50% marks in undergraduate, or post-graduation: B. Tech Degree , B.Sc/ BCA+ M. Sc/MCA/Master's degree in science/or in a related field
+Minimum of one years of work experience is mandatory (after qualifying degree) at the time of registration to the program.
+(The applicant must qualify the pre-screen test to be eligible for the program)
+Eligibility (for students who want to upgrade to M.Tech after PGD
+in Data Engineering) *:
+Graduation from a 4 Year Degree Program: B. Tech Degree, B.Sc/ BCA+ M. Sc/Master’s degree in science, B.Sc/ BCA + MCA, or in a related field.
+First division in under-graduation / post-graduation
+Minimum of two years of work experience is mandatory (after qualifying degree) at the time of registration to the program.
+(The applicant must qualify the pre-screen test to be eligible for the program)
+The applicant must qualify for the written test of the program. The program’s selection and nomination will be based on the pre-assessment test and submission of required documents.
+Upon passing the exam IIT Jodhpur Admission team will review the application, documents, and exam score to ascertain the selection followed by an offer letter.
+Application Processing Fee: INR 10,000* (Non-Refundable)
+Course Fee: INR 3,00,000
+Administrative Fee: INR 15,000 (Includes lodging. Meals excluded)
+Application Submission: The program advisor evaluates your profile, then lets you know if you are the right candidate to apply for the program. Once the profile matches the eligibility criteria required for the program, the candidate is required to fill the Futurense Application Form.
+Document Verification: Post submission of the form and verification of all required documents, the program counsellor schedules your pre-screening assessment.
+IIT-J Application Form: Once the test is cleared, candidates will be emailed with a provisional offer letter with IIT-J application form & payment link in offer letter. Post IIT-J Application Form, the candidate needs to deposit the fee online on IIT Jodhpur portal to complete the admission process.
+List of Documents :
+a. Application Form
+b. ID proof – Aadhaar Card/ Passport/ PAN Card
+c. Class 10th and 12th Marksheet & Certificate
+d. Final year mark sheet and degree certificates for graduation and PG
+e. Work experience certificates (the documents should clearly indicate the date of joining and years of experience) - Salary Slip / Relieving Letter / Experience Letter
+f. Appointment letter for the current organization (optional)
+g. Last 3 months salary slips
+h. 2 passport size photographs
+i. Signed NOC for campus immersions
+j. Additional requirements can be specified after document review
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 25 Apr 2025 - 10:26 AM

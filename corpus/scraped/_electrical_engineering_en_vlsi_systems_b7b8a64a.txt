@@ -1,0 +1,8 @@
+VLSI Systems | Electrical Engineering | IIT Jodhpur
+In the current era of Internet-of-Things (IoT), Artificial Intelligence (AI) and 5G Circuits, there are multiple prototypes being proposed and demonstrated these days for smart and real-time applications. To support this, high-speed circuits/systems are required which should be able to handle high bandwidth requirements of these applications. Over the decades, Very Large Scale Integration (VLSI) technologies have been a robust way to implement the required functionality through digital systems implementation and make it very easy for the designers at different abstraction levels to transfer the intellectual properties. For meeting timing and power requirements in these systems, various aspects of application-specific integrated implementation of digital and analog circuits/systems is required. This program aims to provide the students an exposure by making them understand the functioning, designing and testing of VLSI Circuits and System as well as their performance assessment criteria. The program includes a variety of detailed courses on Analog Circuits, Digital Circuits, Mixed-Signal Circuits, Synthesis, Verification and Testing. These courses address state-of-the art design methodologies as well as current trends in the industry such as high-speed design issues and techniques.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

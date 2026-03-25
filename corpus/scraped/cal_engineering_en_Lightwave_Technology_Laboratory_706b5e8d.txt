@@ -1,0 +1,21 @@
+Lightwave Technology Laboratory | Electrical Engineering | IIT Jodhpur
+Lightwave Technology Laboratory
+The Lightwave Technology Lab (LTL) is focussed on experiments involving optical wireless communication and guided wave optical communication. The current research work includes novel optical communication paradigms targeting 5G and beyond communications such as passive optical networks links, radio over fiber (RoF), radio over free space optics (RoFSO) with orbital angular momentum (OAM) generation, modulation, transmission and detection. Moreover, the lab is also being used for modelling waveguide based passive structures for their applications in passive optical networks. The research work in the lab will also be expanded to include experiments to study nonlinear effects in optical fibers, particularly targeting the issues in high-speed optical communications.
+List of equipments/facilities
+Optical Table with Vibration isolation Laser Sources (1)655 nm LD  (2)1550 nm DFB source  (3)1064 nm DPSS Optical Detector
+Optical Power Meter
+Fusion Splicing Machine
+Bit error rate tester (BERT)
+Precision Optics such as mirrors, objective lens, filters, etc.
+Single and Multimode Optical Fiber Spool
+Room 303, 304, Second Floor, EE Building
+For more information: Visit Website
+Dr. Nitin Bhatia
+Dr. Aashish Mathur
+Dr. Arpit Khandelwal
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 13 Mar 2026 - 03:28 PM

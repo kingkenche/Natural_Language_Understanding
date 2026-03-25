@@ -1,0 +1,248 @@
+All Security Alerts (Archive) | Cyber Security | IIT Jodhpur
+All Security Alerts (Archive)
+Vulnerability / Advisory
+Multiple vulnerabilities in Microsoft Edge (Chromium-based) ( CIVN-2025-0371 )
+Multiple vulnerabilities have been reported in Microsoft Edge (Chromium-based) that could allow an attacker to execute arbitrary code within the browser, access sensitive information, or cause a denial-of-service (DoS) condition on the targeted system.
+Microsoft Edge (Chromium-based) versions before 143.0.3650.80
+Apply appropriate updates as mentioned in:
+Multiple Vulnerabilities in Apple Products ( CIAD-2025-0054 )
+Multiple vulnerabilities have been reported in Apple products, which could allow an attacker to execute arbitrary code, gain elevated privileges, disclose sensitive information, bypass security restrictions, or cause a denial-of-service condition on the targeted system.
+Apple iOS and iPadOS versions before 26.2
+Apple iOS and iPadOS version before 18.7.3
+Apple macOS Tahoe version before 26.2
+Apple macOS Sequoia version before 15.7.3
+Apple macOS Sonoma version before 14.8.3
+Apple TVOS version before 26.2
+Apple watchOS version before 26.2
+Apple visionOS version before 26.2
+Apple Safari version before 26.2
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Adobe Products ( CIAD-2025-0053 )
+Multiple Vulnerabilities have been reported in Adobe products, which could be exploited by an attacker to gain elevated privileges, bypass security restrictions, execute arbitrary code, obtain sensitive information, or cause a denial of service (DoS) condition on the targeted system.
+Acrobat DC 25.001.20982 and earlier versions for Windows & macOS
+Acrobat Reader DC 25.001.20982 and earlier versions for Windows & macOS
+Acrobat Reader 2020 Mac - 20.005.30803 and earlier versions for Windows & macOS
+Acrobat Reader 2020 Win - 20.005.30793 and earlier versions for Windows & macOS
+Acrobat 2020 Mac - 20.005.30803 and earlier versions for Windows & macOS
+Acrobat 2020 Win - 20.005.30793 and earlier versions for Windows & macOS
+Acrobat 2024 Mac - 24.001.30273 and earlier versions for Windows & macOS
+Acrobat 2024 Win - 24.001.30264 and earlier versions for Windows & macOS
+Apply appropriate updates as mentioned in the Adobe Security Bulletin:
+Multiple vulnerabilities in Google Chrome for Desktop ( CIVN-2025-0361 )
+Multiple vulnerabilities have been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Google Chrome versions before 143.0.7499.109/.110 for Windows/Mac
+Google Chrome versions before 143.0.7499.109 for Linux
+Apply appropriate updates as mentioned below:
+Multiple vulnerabilities in Zoom ( CIVN-2025-0358 )
+Multiple vulnerabilities have been reported in Zoom products that could be exploited by an attacker to elevate privileges and disclose sensitive information on the targeted system.
+Zoom Rooms for Windows before version 6.6.0
+Zoom Rooms for macOS before version 6.6.0
+Apply appropriate updates as mentioned below:
+Multiple vulnerabilities in Google Chrome for Desktop ( CIVN-2025-0355 )
+Multiple vulnerabilities have been reported in Google Chrome for Desktop, which could be exploited by a remote attacker to execute arbitrary code, obtain sensitive information, gain elevated privileges, spoofing, and bypass security restrictions on the targeted system.
+Google Chrome versions before 143.0.7499.40/41 for Windows
+Google Chrome versions before 143.0.7499.40/41 for Mac
+Google Chrome versions before 143.0.7499.40 for Linux
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Microsoft Edge ( CIVN-2025-0354 )
+Multiple vulnerabilities have been reported in Microsoft Edge (Chromium-based), which could allow a remote attacker to execute arbitrary code, bypass security restrictions, perform spoofing attacks, gain elevated privileges, cause a denial of service condition, or access sensitive information on the targeted system.
+Microsoft Edge Stable Channel (Chromium-based) versions before 143.0.3650.66
+Apply appropriate updates as mentioned below:
+Multiple vulnerabilities in Google Android ( CIVN-2025-0347 )
+Multiple vulnerabilities have been reported in Google Android, which could allow a remote attacker to gain elevated privileges, obtain sensitive information, or cause denial of service (DoS) on the targeted system.
+Google Android versions 13, 14, 15, 16
+Apply any available updates from the respective OEMs.
+Vulnerability/ Advisory Details: Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2025-0330 )
+Multiple vulnerabilities have been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Google Chrome versions before 142.0.7444.175/.176 for Windows
+Google Chrome versions before 142.0.7444.176 for Mac
+Google Chrome versions before 142.0.7444.175 for Linux
+Apply appropriate updates as mentioned below:
+Remote Code Execution Vulnerability in Apple Product ( CIVN-2025-0329 )
+A vulnerability has been reported in Apple Compressor, which could be exploited by an attacker to execute arbitrary code on the targeted system.
+Apple Compressor versions before 4.11.1 (for macOS Sequoia 15.6 and later)
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Microsoft Edge ( CIVN-2025-0328 )
+Multiple vulnerabilities have been reported in Microsoft Edge (Chromium-based), which could allow a remote attacker to execute arbitrary code on the targeted system.
+Microsoft Edge Stable Channel (Chromium-based) versions before 142.0.3595.90
+Apply the appropriate security updates released by Microsoft:
+Security Restriction Bypass Vulnerability in WhatsApp ( CIVN-2025-0327 )
+A vulnerability has been reported in WhatsApp, which could allow an attacker to bypass security restrictions on the targeted device.
+WhatsApp for iOS version before 2.25.23.73
+WhatsApp Business for iOS version 2.25.23.82
+WhatsApp for Mac version 2.25.23.83 Apply appropriate updates as mentioned below:
+Remote Code Execution Vulnerability in Microsoft Graphics Component ( CIVN-2025-0320 )
+A remote code execution vulnerability has been reported in Microsoft Graphics Components (GDI+), which could allow an attacker to execute arbitrary code or information disclosure on the targeted system.
+Windows Server 2016 & 2025
+Windows Server 2012,2012 R2, 2016,2019, 2022 & 2025
+Windows 10 Version 1607 for x64-based & 32-bit Systems
+Windows 10 Version 22H2 for 32-bit & ARM64-based Systems
+Windows 11 Version 23H2 for x64-based & ARM64-based Systems
+Windows 11 Version 24H2 for x64-based & ARM64-based Systems
+Windows 11 Version 25H2 for x64-based & ARM64-based Systems
+Windows Server 2012,2012 R2,2016,2019,2022,23H2 Edition & 2025(Server Core installation)
+Windows Server 2008 R2 for x64-based Systems SP1 (Server Core installation)
+Windows Server 2008 R2 for x64-based Systems SP1 & SP2
+Windows Server 2008 for x64-based Systems SP2 (Server Core installation)
+Windows Server 2008 for 32-bit Systems SP2 (Server Core installation)
+Windows Server 2008 for 32-bit Systems SP2
+Windows 10 Version 22H2 for x64-based Systems
+Windows 10 Version 21H2 for x64-based,ARM64-based & 32-bit Systems
+Windows 10 Version 1809 for x64-based & 32-bit Systems
+Microsoft Office LTSC for Mac 2021 & 2024
+Microsoft Office for Android Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Zoom Products ( CIVN-2025-0319 )
+Multiple vulnerabilities have been reported in Zoom products, which could be exploited by an attacker to trigger elevation of privilege, conduct cross-site scripting attacks, and disclose sensitive information on the targeted system.
+Zoom Workplace for macOS before version 6.5.10
+Zoom Workplace (various clients) before version 6.5.10
+Zoom Workplace VDI Client for Windows before version 6.5.10
+Zoom Workplace VDI Plugin for macOS (Universal Installer) before versions 6.3.14, 6.4.14, and 6.5.10
+Zoom Workplace for Android before version 6.5.10
+Zoom Clients / Meeting SDK / Workplace SDK
+Apply appropriate updates as mentioned below:
+Remote Code Execution Vulnerability in Microsoft Edge (Chromium-based) ( CIVN-2025-0318 )
+Microsoft Edge (Chromium-based) is a web browser developed by Microsoft using the Chromium engine, offering fast performance, enhanced security, and compatibility with modern web standards while integrating with Microsoft services.
+Microsoft Edge (Chromium-based) version before 142.0.3595.80
+Apply appropriate updates as mentioned below:
+Remote Code Execution Vulnerability in Google Chrome for Desktop ( CIVN-2025-0310 )
+Google Chrome is a popular web browser used for accessing information on the World Wide Web. It is designed for use on desktop computers, such as those running on Windows, macOS, or Linux operating systems.
+Google Chrome versions before 142.0.7444.162/.163 for Windows
+Google Chrome versions before 142.0.7444.162 for Linux and Mac
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Apple Products ( CIAD-2025-0041 )
+Multiple vulnerabilities have been reported in Apple Products, which could allow an attacker to execute arbitrary code, gain elevated privileges, disclose sensitive information, bypass security restrictions, or cause a denial of service condition on the targeted system.
+Apple iOS and iPadOS versions before 26.1
+Apple iOS and iPadOS versions before 18.7.2
+Apple macOS Tahoe versions before 26.1
+Apple macOS Sequoia versions before 15.7.2
+Apple macOS Sonoma versions before 14.8.2
+Apple TVOS versions before 26.1
+Apple watchOS versions before 26.1
+Apple visionOS versions before 26.1
+Apple Safari versions before 26.1
+Apple Xcode versions before 26.1
+Apply appropriate security updates as mentioned in the Apple Security Updates.
+Multiple vulnerabilities in Google Chrome for Desktop ( CIVN-2025-0300 )
+Multiple vulnerabilities have been reported in Google Chrome for Desktop, which could be exploited by a remote attacker to execute arbitrary code and bypass security restrictions on the targeted system.
+Google Chrome versions before 142.0.7444.134/.135 for Windows
+Google Chrome versions before 142.0.7444.135 for Mac
+Google Chrome versions before 142.0.7444.134 for Linux
+Apply appropriate updates as mentioned by the vendor
+Multiple Vulnerabilities in Microsoft Edge Stable ( Chromium-based )[CIVN-2025-0299]
+Multiple vulnerabilities have been reported in Microsoft Edge Stable (Chromium-based), which could allow a remote attacker to execute arbitrary code or manipulate data on the targeted system.
+Microsoft Edge Stable Channel (Chromium-based) versions before 142.0.3595.65
+Apply appropriate updates as mentioned below.
+Multiple vulnerabilities in Google Android ( CIVN-2025-0293 )
+Multiple vulnerabilities have been reported in Google Android, which could be exploited by an attacker to gain elevated privileges or execute arbitrary code on the targeted system.
+Google Android versions 13, 14, 15, 16.
+Apply appropriate updates when made available by respective OEMs: https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-secu
+Multiple Vulnerabilities in Microsoft Edge Stable (Chromium-based) ( CIVN-2025-0289 )
+Multiple vulnerabilities have been reported in Microsoft Edge Stable (Chromium-based), which could allow a remote attacker to execute arbitrary code, bypass security, perform a spoofing attack, or disclose sensitive information on the targeted system.
+Microsoft Edge Stable Channel (Chromium-based) versions before 141.0.3537.71
+Apply appropriate security updates as mentioned in: https://learn.microsoft.com/en-us/DeployEdge/microsoft-edge-relnotes-security#october-31-2025
+Multiple Vulnerabilities in Google Chrome for Desktop (Chromium-based) ( CIVN-2025-0289 )
+Multiple vulnerabilities have been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code, bypass security restrictions, perform a Spoofing attack, or disclose sensitive information on the targeted system.
+Google Chrome versions before 142.0.7444.59 for Linux
+Google Chrome versions before 142.0.7444.59/60 for Windows and Mac
+Google Chrome versions before 142.0.7444.60 for Mac
+Apply appropriate security updates as mentioned in: https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop_28.html
+Use-after-free Vulnerability in Mozilla Firefox ( CVE-2025-12380 )
+A vulnerability has been reported in Mozilla Firefox, which could allow a remote attacker to execute arbitrary code on a targeted system.
+Mozilla Firefox version before 144.0.2
+Apply appropriate security updates as mentioned in: https://www.mozilla.org/en-US/security/advisories/mfsa2025-86/
+Remote Code Execution Vulnerability in Microsoft Edge (Chromium-based) ( CVE-2025-11756 )
+A vulnerability has been reported in Microsoft Edge (Chromium-based), which could allow a remote attacker to execute arbitrary code on a targeted system.
+Microsoft Edge (Chromium-based) version before 141.0.3537.85
+Apply appropriate security updates as mentioned in: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#october-17-2025
+Multiple Vulnerabilities in Microsoft Products ( CIAD-2025-0037 )
+Multiple vulnerabilities have been reported in Microsoft Products, which could allow an attacker to gain elevated privileges,
+obtain Information Disclosure, Bypass Security restrictions, conduct remote code execution attacks, perform spoofing
+attacks, cause a denial of service condition, or tamper with system settings.
+Open Source Software
+Apply appropriate security updates as mentioned in: https://msrc.microsoft.com/update-guide/releaseNote/2025-Oct
+Multiple Vulnerabilities in Apple Products ( CIAD-2025-0031 )
+Multiple vulnerabilities have been reported in Apple Products, which could allow an attacker to execute arbitrary code, gain
+elevated privileges, disclose sensitive information, bypass security restrictions, or cause a denial of service condition on
+the targeted system.
+Apple iOS and iPadOS versions before 26, 18.7, 16.7.12, 15.8.5
+Apple macOS Tahoe versions before 26
+Apple macOS Sequoia versions before 15.7
+Apple macOS Sonoma versions before 14.8
+Apple TVOS versions before 26
+Apple watchOS versions before 26
+Apple visionOS versions before 26
+Apple Satani versions before 26
+Apple Xcode versions before 26
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Microsoft Products ( CIAD-2025-0030 )
+Multiple vulnerabilities have been reported in Microsoft products, which could allow an attacker to bypass security
+restrictions, gain elevated privileges, obtain sensitive information, and conduct remote code execution, spoofing attacks, or cause a Denial of Service (DoS) condition on the targeted system.
+Microsoft Auto Update for Mac
+Microsoft 365 Apps
+Microsoft Edge (Chromium-based)
+Apply appropriate updates as mentioned in: https://msrc.microsoft.com/update-guide/releaseNote/2025-Sep
+Remote Code Execution Vulnerability in Google Chrome for Desktop ( CIVN-2025-0245 )
+Multiple vulnerabilities were reported in Google Chrome for Desktop, allowing remote attackers to execute arbitrary code or disclose sensitive information.
+Google Chrome versions before 141.0.7390.107/.108 for Windows and Mac
+Google Chrome versions before 141.0.7390.107 for Linux
+Apply appropriate updates as mentioned below: https://chromereleases.googleblog.com/2025/10/stable-channel-update-for-desktop_14.html
+Multiple vulnerabilities in Mozilla Products ( CIVN-2025-0237 )
+Multiple vulnerabilities were reported in Mozilla products, allowing remote code execution or disclosure of sensitive information.
+Mozilla Firefox for iOS versions before 143.1
+Mozilla Firefox versions before 143.0.3
+Apply appropriate updates as mentioned below: MFSA 2025-79MFSA 2025-80
+Multiple vulnerabilities in Microsoft Edge (Chromium-based) ( CIVN-2025-0241 )
+Multiple vulnerabilities in Microsoft Edge (Chromium-based) could allow remote attackers to obtain sensitive information and execute arbitrary code.
+Microsoft Edge (Chromium-based) versions before 140.0.7339.208
+Apply appropriate updates as mentioned below: Microsoft Edge Security Release Notes (Sep 25, 2025)
+Multiple vulnerabilities in Google Chrome for Desktop ( CIVN-2025-0235 )
+Multiple vulnerabilities could allow a remote attacker to execute arbitrary code, cause denial of service (DoS), or disclose information.
+Google Chrome versions  before  140.0.7339.207/.208 for Windows/Mac
+Google Chrome versions before 140.0.7339.207 for Linux
+Apply appropriate updates as mentioned below: https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_23.html
+Denial of Service Vulnerability in Apple Products ( CIVN-2025-0234 )
+A vulnerability has been reported in Apple products, which could be exploited by an attacker to cause denial of service conditions or corrupt process memory on the targeted system. Multiple affected releases are listed below.
+Apple iOS / iPadOS versions before 18.7.1
+Apple iOS / iPadOS versions before 26.0.1
+Apple macOS Tahoe versions before 26.0.1
+Apple macOS Sequoia versions before 15.7.1
+Apple macOS Sonoma versions before 14.8.1
+Apple visionOS versions before 26.0.1
+Apply appropriate updates as mentioned below:
+Multiple vulnerabilities in Google Chrome for Desktop ( CIVN-2025-0211 )
+Multiple vulnerabilities have been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Google Chrome versions before 140.0.7339.127/.128 for Windows
+Google Chrome versions before 140.0.7339.132/.133 for Mac
+Google Chrome versions before 140.0.7339.127 for Linux
+Apply appropriate updates as mentioned below: https://chromereleases.googleblog.com/2025/09/stable-channel-update-for-desktop_9.html
+Authorization Bypass vulnerability in WhatsApp for Apple Devices ( CVE-2025-55177 )
+A vulnerability has been reported in WhatsApp, which could allow an attacker to bypass authorization on the targeted device.
+WhatsApp for iOS version before 2.25.21.73
+WhatsApp Business for iOS version 2.25.21.78
+WhatsApp for Mac version 2.25.21.78
+Users are advised to update to the latest available versions of WhatsApp: https://www.whatsapp.com/security/advisories/2025/
+Multiple Vulnerabilities in Android, all OEMs, and users of Android ( CIVN-2025-0202 )
+Multiple vulnerabilities have been reported in Android versions 13, 14, 15, and 16. High risk of unauthorized access to data and system instability. Apply appropriate updates as mentioned in: https://source.android.com/docs/security/bulletin/2025-09-01
+Zero-Day Vulnerabilities in Apple Products ( CVE-2025-43300 )
+Apple has released security updates to address a security flaw impacting iOS, iPadOS, and macOS that it said has come under active exploitation. Kindly update to the latest version ASAP.
+Multiple Vulnerabilities in Adobe Products ( CIVN-2025-0138 )
+Software Affected: Adobe After Effects versions before 24.6.7 for Windows and MacOS, Adobe After Effects versions before 25.3 for Windows and MacOS. Kindly update to the latest version ASAP.
+WinRAR zero-day Under Active Exploitation ( CVE-2025-8088 )
+To safeguard against potential threats, update to the latest WinRAR version 7.13, released on July 31, 2025.
+Broad Credential Exposure Involving Multiple Online Services (CERT-In Advisory CIAD-2025-0024 )
+Recently, several media outlets reported the exposure of approximately 16 billion login credentials, including usernames, passwords, authentication tokens, and associated metadata, from platforms such as Apple, Google, Facebook, Telegram, GitHub, and various virtual private network (VPN) services.
+Recommendations to mitigate risks
+Update Passwords Immediately: Change passwords for all affected services, prioritizing email, banking, social media, and government portals. Create strong, unique passwords (minimum 12 characters, including letters, numbers, and symbols). Avoid reusing passwords across services to prevent credential stuffing attacks. Make it a habit to change your passwords regularly.
+Enable Multi-Factor Authentication (MFA): Activate MFA on all accounts that support it, using authenticator apps, hardware tokens, or SMS-based verification.
+Transition to Passkeys: Where supported (e.g., Apple, Google), enable passkeys for password-less, phishing-resistant authentication using biometrics or device PINs.
+Protect Against Malware: Run antivirus scans to detect and remove infostealer malware. Ensure operating systems, browsers, and applications are updated to address known vulnerabilities.
+Multiple Vulnerabilities in Mozilla Firefox ( CIVN-2025-0138 )
+Software Affected: Mozilla Firefox versions before 140. Please update to the latest version as soon as possible. A remote attacker could exploit these vulnerabilities by convincing a victim to trigger a specially crafted web request.
+The zero-day vulnerability in the Google Chrome Browser ( CVE-2025-6554 )
+To safeguard against potential threats, it's advised to update Chrome browser to versions 138.0.7204.96/.97 for Windows, 138.0.7204.92/.93 for macOS, and 138.0.7204.96 for Linux. If you're unsure whether your browser is up to date, go to Settings > Help > About Google Chrome — it should trigger the latest update automatically.
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 10:21 AM

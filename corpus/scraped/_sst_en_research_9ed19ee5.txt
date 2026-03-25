@@ -1,0 +1,13 @@
+Research | Space Technology | IIT Jodhpur
+(1) Satellite Formation Flying
+(2) Global Navigation System
+(3) Remote Sensing Applications
+(4) Satellite Propulsion Research
+(5) Multimodel Simulation
+Publications Singh, S. K., & R, Arun. K. (2021). A parametric study on the fluid dynamics and performance characteristic of Micronozzle flows. Journal of Fluids Engineering, ASME, 144(3). https://doi.org/10.1115/1.4052546 Nipun Sharma, Adarsh Nigam, Dimitry Lobanov, Ankur Gupta, Alexey Novikov, and Mahesh Kumar. " Mercury (II) Ion Detection using AgNWs MoS2 Nanocomposite on GaN HEMT for IoT Enabled Smart Water Quality Analysis”. IEEE Internet of Things https://doi.org/10.1109/JIOT.2021.3071382 Nipun Sharma, Adarsh Nigam, Ankur Gupta, Sudhiranjan Tripathy, and Mahesh Kumar. “1T and 2H Heterophase MoS2 for Enhanced Sensitivity of GaN transistor-based Mercury ions Sensor”. IOP Nanotechnology https://doi.org/10.1088/1361-6528/ac5cff Nipun Sharma, Sumit Kumar, Ankur Gupta, Surani Bin Dolmanan, Dharmraj Subhash Kotekar Patil, Swee Tiam Tan, Sudhiranjan Tripathy, and Mahesh Kumar “Influence of gas molecules on 2D electron gas of AlGaN/GaN transistor: Room temperature NO2 gas sensor”. Sensors and Actuators: A https://doi.org/10.1016/j.sna.2022.113647 Nipun Sharma, Vikas Pandey, Ankur Gupta, Swee Tiam Tan, Sudhiranjan Tripathy, and Mahesh Kumar. “Recent progress on Group III-nitride based Gas Sensors: A Review” https://doi.org/10.1039/D2TC02103J Nigam Adarsh, Nipun Sharma, Dmitry Lobanov, Alexey Novikov, and Mahesh "Ultrasensitive Detection of Mercury Ions Under UV Illumination of MoS2 Functionalized AlGaN/GaN Transistor." 67, no. 12 (2020): 5693- 5700. IEEE Transactions on Electron Devices https://doi.org/10.1109/TED.2020.3030000 Adarsh Nigam, Nipun Sharma, Sudhiranjan Tripathy and Mahesh Kumar "Development of Semiconductor Based Heavy Metal Ion Sensors for Water Analysis: A Review" Sensors and Actuators: A https://doi.org/10.1016/j.sna.2021.112879
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 15 Dec 2025 - 02:56 PM

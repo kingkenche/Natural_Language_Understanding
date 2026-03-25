@@ -1,0 +1,25 @@
+Physics Pedagogy Lab | Center for Education Technology (CET) | IIT Jodhpur
+Physics Pedagogy Lab
+The Physics Pedagogy Lab (situated in Room 220, Department of Physics) has been set up to drive the core pedagogical training in secondary stage Physics Education for our ITEP program. The lab contains several small-scale equipment created by Indian Association of Physics Teachers (IAPT). The lab includes thirty-seven hands-on experiments to demonstrate concepts of kinematics, mechanics, electricity, magnetism, waves and optics. Some of these are listed below.
+Consists of a bar pendulum with a magnet and another magnet mounted on stand, with arrangements for restoring force measurements and dial.
+Two filled container are connected through a 5-mm hole.
+Electromagnetic Induction and Faraday's Law
+A spring mass system oscillates up and down with a magnet, generates AC in a coil. Using a diode, this signal can be rectified.
+Conservation of Angular Momentum
+This setup uses bicycle wheel with handles and tubeless tire, and a rotating stand to demonstrate conservation of angular momentum.
+An electronic buzzer of 3 kHz is mounted on a strip oscillators.
+A vacuum chamber of 5" glass container having neon gas at low pressure. RF supply is provided to the plasma in the chamber.
+Hyperbolic surface is generated from a stretchable sheet fixed on a bicycle rim. Central point is pulled down as the rolling balls show a spiral motion.
+AC current flows through a bulb and copper coil with core made up of iron wires. The coil gets magnetized alternatingly at 50 Hz. An aluminum ring across the iron wire jumps out due to eddy currents.
+Two 1" aluminum channel are used for 1 Meyer length.
+Series of Pendulum
+A series of 6 rod pendulum are mounted on a long spring. Energy transfer in longitudinal and transverse modes is visible.
+Mechanical Transmission Line
+Twenty 12" scales are mounted on a 2-m steel tape hanging (wall-mounted)
+Dr. Durgamadhab Mishra , Assistant Professor, Department of Physics, Affiliate Member, CETE (durgamadhab@iitj.ac.in)
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 09 Feb 2026 - 09:46 AM

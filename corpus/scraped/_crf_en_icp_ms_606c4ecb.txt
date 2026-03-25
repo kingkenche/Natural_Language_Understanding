@@ -1,0 +1,39 @@
+Inductively Coupled Plasma-Mass Spectrometer (ICP-MS) | Central Research Facility (CRF) | IIT Jodhpur
+Inductively Coupled Plasma-Mass Spectrometer (ICP-MS)
+Inductively Coupled Plasma-mass Spectrometer (ICP-MS)
+Mass Range Up to 260 amu
+Interface Ni/Cu cones (standard), optional Pt cones for high matrix tolerance
+Detector: Dual-stage discrete dynode electron multiplier with 10⁹ dynamic range
+Sensitivity > 1,000,000 cps/ppm for ⁸⁹Y
+Background < 1 cps (with shield torch)
+Oxide Ratio (CeO⁺/Ce⁺) < < 0.5%
+Doubly Charged Ratio (Ba²⁺/Ba⁺) < 1.5%
+Isotope Ratio Precision < 0.1% RSD (typical)
+Dynamic Range Up to 10⁹
+Collision/Reaction Cell ORS4 (Octopole Reaction System) with helium collision mode
+Integrated Software Agilent ICP-MS MassHunter with IntelliQuant
+Environmental Analysis: Detection of trace metals in water, soil, and air samples
+Clinical and Biomedical Research: Measurement of essential and toxic elements in biological fluids
+Food and Beverage Testing: Analysis of contaminants like heavy metals in food products to ensure safety and regulatory compliance.
+Geological and Mining Exploration: Determination of elemental composition in rocks, minerals, and ores for resource identification and evaluation.
+Plant Science and Agriculture: Detection of metal accumulation in different parts of plants and agricultural products.
+The data will be updated soon once it is received from the CRF Center.
+1000/Sample (without digestion)
+2000/Sample(with digestion) Rs 250 for an additional group of elements
+2000/Sample(with digestion) Rs 250 for an additional group of elements
+The data will be updated soon once it is received from the CRF Center.
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone: 0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone: 0291 280 1347
+Name: Mr Lalit Mohan
+Designation: Junior Assistant
+Phone: 0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

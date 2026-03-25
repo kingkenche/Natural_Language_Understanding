@@ -1,0 +1,406 @@
+Indian Institute of Technology
+PG Course Booklet
+Indian Institute of Technology Jodhpur
+Inter Disciplinary Research Platform
+Indian Institute of Technology Jodhpur
+The  digital  revolution  of  the  20th  and  21st  centuries  has  created  new  knowledge  and
+spaces  for  humankind  to  evolve  culturally  with  the  construction  of  techniques  and
+technologies. As a corollary, a new field of organised research emerged at the beginning
+of the 2000s examining the use and application of digital technologies in the humanities,
+liberal arts, social science scholarship, computer sciences, and beyond. Popularly nested
+under  an  umbrella  term  “Digital  Humanities”,  this  area  of  scholarship  takes  a  critical
+stance to examine the role, use, application, and impact of digital tools in our everyday
+life,  our  societies,  economies,  cultures,  and  governments.  However,  while  the  use  of
+computational  tools  in  social  science  and  humanities  work  is  not  very  new,  the
+availability  of  a  large  body  of  cultural  artefacts  after  the  digital  turn,  as  well  as
+emergence  of  new  kinds  of  digital  objects  and  embodiments,  has  opened  up  several
+possibilities  for  social  science  and  humanities  research,  practice  and  pedagogy  using
+computational  approaches.  Very  soon,  the  question  of  whether  something  is,  or  is  not,
+„digital‟  will  be  increasingly  secondary  as  many  forms  of  culture  become  mediated,
+produced,  accessed,  distributed  or  consumed  through  digital  devices  and  technologies.
+to  grow  on
+In  other  words,
+interdisciplinaryrather than multidisciplinary principles. The research focus and pedagogy
+in  this  program  emphasize  many  of  the  emerging  epistemological  questions  on
+knowledge  production  about  generating  digital  data  from  material  objects,  and  on
+rethinking existing processes of knowledge production.
+field  of  Digital  Humanities
+Objective of the Program
+IIT  Jodhpur  is  one  of  the  pioneering  institutes  in  the  country  currently  offering  an
+interdisciplinary  doctoral  degree  in  Digital  Humanities.  This  doctoral  program  offers
+unique  opportunities  to  redraw  conventional  disciplinary  boundaries  among  the
+humanities,  the  social  sciences,  the  arts,  technology  and  engineering,  and  the  natural
+sciences. Primary objectives of the program include (but are not limited to):
+1.  Introducing  and  exploring  a  broad  spectrum  of  perspectives  on  the  Digital
+2.  Developing familiarity with a range of Digital Humanities projects, as well as the
+ability to evaluate the tools and methods involved in creating and analysing those
+3.  Critical  and  reflexive  use  of  digital  tools,  technologies,  and  spaces  by
+understanding  that  all  technologies  are  complex  and  socially  situated,  through
+which humans make meaning
+Doctoral students opting for this program are expected to contribute towards integrating
+disciplinary  approaches  of  the  humanities,  liberal  arts,  social  sciences,  and  computer
+technologies, with cross-disciplinary theorising and research that can be avant-garde to
+the field of Digital Humanities. Doctoral research in Digital Humanities shall be premised
+on project-oriented knowledge production, the practical application of methods, and shall
+interdisciplinary  collaboration  workflows.  To  enhance  such  collaborative
+workflows,  the  programme  will  actively  involve  academics  and  resource  people  from
+other institutes and universities across the country and internationally.
+Expected Graduate Attributes
+In depth understanding of the fundamental concepts of broad areas in Humanities, Social
+Sciences, and application areas of basic computational tools.
+1.  Ability  to  undertake  problems  in  multidisciplinary  domains  of  Humanities,  Social
+Sciences, Computer Sciences, Mathematics, and related disciplines.
+2.  Skills  to  demonstrate  basic  principles  of  Humanities  and  Social  Sciences  through
+various application areas and analytical processes.
+3.  Ability to make effective oral and written technical communication.
+4.  Appreciation and adherence to norms of professional ethics.
+1.  Appreciate  and  critically  discuss  Digital  Humanities  projects  in  light  of  current
+methods and theoretical approaches to the field
+2.  Explain  how  Digital  Humanities  methods  and  practices  are  applied  in  different
+3.  Skillset to plan, develop, and evaluate a Digital Humanities research project
+4.  Fundamental  understanding  of  research  tools  to  plan  for  and  evaluate  the
+effectiveness  of  Digital  Humanities  methods  including  a  multitude  of  platforms
+such as social media and web tools.
+5.  Understand what data mean in different contexts
+6.  Capture, collect, and analyse a variety of data types related to Digital Humanities
+Program Structure and Credit Structure:
+DH799 Ph.D. Thesis
+DH799 Ph.D. Thesis
+DH799 Ph.D. Thesis
+DH799 Ph.D. Thesis
+DH799 Ph.D. Thesis
+*The number of electives and credit structure are as per the Ph.D. norms of the
+Institute. Electives are to be chosen in consultation with the Coordinator, Digital
+Humanities. A maximum of one Self Study course may be included in the course
+List of recommended electives:
+Digital Humanities (IDRP)
+DHL7xx0 Fundamentals of Digital Humanities (3 credits)
+DHL7xx0 Digital Methods and Tools (3 credits)
+DHL7xx0 Selected Topics in Digital Humanities I (1 credit)
+DHL7xx0 Selected Topics in Digital Humanities II (2 credits)
+DHL7xx0 Selected Topics in Digital Humanities III (3 credits)
+DHD7xx0 DH Project (3 credits; L-T-P: 0-0-6)
+Department of Computer Science and Engineering
+CSL7xx0 Selected Topics in AI - I (1 credit)
+CSL7xx0 Selected Topics in AI – II (2 credits)
+CSL7xx0 Selected Topics in AI – III (3 credits)
+CSL7xx0 Natural Language Processing (3 credits)
+CSL7xx0 Introduction to Augmented Reality and Virtual Reality (3 credits)
+CSL7xx0 Data Visualization (3 credits)
+CSL7xx0 Machine Learning I (3 credits)
+CSL7xx0 Security and its applications (3 credits)
+CSL7xx0 Computational Linguistics (3 credits)
+CSL7xx0 Algorithms for Big Data (3 credits)
+CSL7xx0 Machine Learning with Big Data (3 credits)
+Department of Electrical Engineering
+EEL7xx0 Data Compression (3 credits)
+Department of Humanities and Social Sciences
+HSL7xx0 Sociology of Science and Technology (3 credits)
+HSL7xx0 Digital Society (3 credits)
+HSL7xx0 Cine-Politics under the National Emergency (3 credits)
+Department of Mathematics
+MAL7xx1 Statistics I (1 credit)
+MAL7xx0 Statistics II (2 credits)
+Fundamentals of Digital Humanities  Number
+B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0)
+1.  Introduce  and  explore  a  broad  spectrum  of  perspectives  on  the  Digital
+2.  Develop familiarity with a range of Digital Humanities projects, as well as
+the  ability  to  evaluate  the  tools  and  methods  involved  in  creating  and
+analysing those projects
+3.  Critical  and  reflexive  use  of  digital  tools,  technologies,  and  spaces  by
+understanding  that  all  technologies  are  complex  and  socially  situated,
+through which humans make meaning
+1.  Appreciate  and  critically  discuss  Digital  Humanities  projects  in  light  of
+current methods and theoretical approaches to the field
+2.  Explain  how  Digital  Humanities  methods  and  practices  are  applied  in
+3.  Skillset  to  plan,  develop,  and  evaluate  a  Digital  Humanities  research
+Fractal Course Contents
+Fractal 1: Digital Humanities: Emerging Contours (DHL7011)
+Introduction: What is Digital Humanities, Evolution of classical disciplines into
+Digital Cultural Heritage; Conceptualising DH projects; Interdisciplinary style of
+proposal writing [4 Lectures]
+Computational Humanities[3 Lectures]
+Digital Embodiment: Embodied Identities in Digital Society; Bias and Privilege –
+Marginalised Histories; Cyborgs, Gender, Space, and Place in Digital Societies [4
+Literature and Technology, Text Analysis, Data Visualisation [3 Lectures]
+1.  Identifying  DH  projects  from  traditional  projects:  Concrete  examples  and  a
+range of approaches to DH from the traditional disciplines.
+2.  Digital  Humanities  Project  Critiques:  Exploring  the  project  goals,  what  type
+of  data  it  used,  how  that  data  was  found  and/or  transformed,  what
+technologies were used, and why.
+1.  Gere,  C.,  (2008),  Digital  Culture,  2nd  Edition,  London:  Reaktion  Books
+2.  Bentkowska-Kafel,  A.,  Cashen,  T.,  and  Gardiner,  H.  (Eds.)  (2009),  Digital
+Visual Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+3.  Karaganis,  J.  (Ed.),  (2007),  Structures  of  Participation  in  Digital  Culture,
+Social Science Research Council, Columbia University Press
+Digital Humanities Seminar Video Archive of the Open University, UK,
+Fractal 2: Data and Knowledge representations (DHL7012)
+Introduction: Data Sources, Transcribing (Multimedia data), Conversation,
+Discourse Analysis [7 lectures]
+Knowledge Engineering: Ontological engineering, Representation of Ontologies,
+Common Logic, RDFS, Web Ontology Language (OWL), Topic Maps, Multimedia
+Web Ontology Language, Applications [ 7 Lectures]
+1.  Ethnographic data collection and analysis: A case study
+2.  Ontology formation from Multimedia Data: A case study
+1.  Christopher  Joseph  Jenks  (2011),  Transcribing  Talk  and  Interaction:  Issues
+in  the  Representation  of  Communication  Data,  John  Benjamins  Publishing
+2.  Russel,  S.  &  Norvig,  P.,  (2009),  Artificial  Intelligence:  A  Modern  Approach,
+3.  S.  Chaudhury,  A.  Mallik,  and  H.  Ghogh  (2016),  Multimedia  Ontology
+Representation and Applications, CRC Press.
+1.  Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7013)
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures]
+Exhibition, installation, audio-visual essays [4 lectures]
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+1.  Ernst,  W.,  (2013),  Digital  Memory  and  the  Archive,  Minneapolis:  University
+of Minnesota Press
+2.  Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on
+the  Move:  Changing  Cultural  Institutions  in  the  Digital  Era,  Berlin  and
+Boston: De Gruyter
+Digital Methods and Tools
+L-T-P [C]  3-0-0 [3]
+B.Tech. (Cr>=100); M.Sc. (Cr >=30);
+M.Tech. (Cr.>0); Ph.D. (Cr.>0)
+1.  Introduce  and  explore  avenues  of  new  and  emerging  societal  and  cultural
+entities and methodologies in Digital Humanities.
+2.  Provide  a  conceptual  foundation  that  will  allow  students  to  engage  critically
+with Digital Humanities research and methods.
+3.  Provide basic training digital and computational tools and techniques that can
+enhance students‟ own research.
+1.  Fundamental understanding of research tools that will help students plan for
+and  evaluate  the  effectiveness  of  Digital  Humanities  methods  including  a
+multitude of platforms such as social media and web tools.
+2.  Understand what data mean in different contexts
+3.  Capture,  collect,  and  analyse  a  variety  of  data  types  related  to  Digital
+Humanities research project
+Fractal Course Contents
+Fractal 1: Introduction to Data Science (DHL7XX1)
+Components  of  Fractal  1  from  Introduction  to  Data  Science  (M.Tech  DCS
+Data  preparation,  Data  pre-processing,  Data  Cleaning,  Data  Integration,  Data
+Transformation,  Data  Reduction,  Redundancy  Removal,  Data  storage,  Data
+Handling, Data Query, Data Representation and Exploration
+1.  Kotu,  V.  and  Deshpande,  B.  (2018)  Data  Science:  Concepts  and  Practice,
+2.  Saltz,  J.S.  and  Stanton,  J.M.  (2017)  An  Introduction  to  Data  Science,  SAGE
+3.  Kelleher, J. D., and Tierney, (2018) Data Science, MIT Press Reference Books
+1.  Moreira,  J.,  Carvalho,  A.  and  Horvath,  T.  (2018)  A  General  Introduction  to
+Data Analytics, John Wiley & Sons.
+2.  Mayer-Schonberger, V.  and Cukier, K., (2013) Big data: The essential guide
+to work, life and learning in the age of insight, John Murray Publications.
+Fractal 2: Qualitative and Quantitative Analyses (DHL7XX2)
+Introduction:  Research  Question,  Research  Design,  an  introduction  to  research
+methods in digital humanities and mapping the departure from traditional research
+methods [2 lectures]
+Overview  of  Research  Methods:  Quantitative  data  collection  and  analysis,  Survey
+design  and  analysis;  Interviews,  focus  groups  and  participant  observation;
+Discourse and Content Analysis [3 lectures]
+Research  Methods  in  Digital  Humanities:  Case  Studies  and  projects  in  Digital
+Humanities;  Research  method  as  discipline  -  how  digital  humanities  has  been
+expanding  through  deployment  of  digital  methods  to  study  society,  culture,
+philosophy and language [4 lectures]
+Techniques  of  data  collection  and  analysis:  Document  Image  Processing,  OCR
+Techniques  and  its  challenges,  NLP  Introduction,  and  its  applications,  Qualitative
+Analysis - Themes, Patterns, Coding using NVivo and MaxQDA [5 lectures]
+1.  Bryman,  Alan  (2014),  Social  Science  Research  Methods,  Oxford  University
+2.  Levenberg,  Nielsen,  Tai,  et.  al.  (2018),  Research  Methods  for  Digital
+Humanities, Palgrave Macmillan: New York.
+Fractal 3: Visualization Analysis and Design (DHL7XX3)
+Introduction: Design Effectiveness, Abstraction (Data and Task), Marks and
+Channels, Analysis and Validation [7 lectures]
+Interaction Design: Arranging data, Spatial data, Network and Trees, Map Color and
+Other Channels, Views, Applications, User Experience [ 7 Lectures]
+1.  Visualizing Quantitative and Qualitative Data.
+2.  Use case-based user experience design.
+1.  William  Lidwell,  Kritina  Holden,  Jill  Butler  (2010),  Universal  Principles  of
+Design, Rockport Publishers.
+2.  Tamara Munzner (2014), Visualization Analysis & Design, CRC Press.
+1.  Data  Science  and  Visualization,  Provided  by  Harvard  University  (HarvardX),
+2.  NPTEL Course, Data Visualization in R,
+Selected Topics in Digital Humanities - I
+L-T-P [C]  1–0–0 [1]
+Offered for  M.Tech. (Cr>=14)
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of Digital Humanities
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of  Digital
+The  topic  clouds  for  the  course  include  contemporary  topics  in  Digital  Humanities  and
+may be updated according to the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Selected Topics in Digital Humanities - II
+L-T-P [C]  2–0–0 [2]
+Offered for  M.Tech. (Cr>=14)
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of Digital Humanities
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of  Digital
+The topic clouds for the course include contemporary topics in Digital Humanities and
+may be updated according to the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Selected Topics in Digital Humanities - III
+Offered for  M.Tech. (Cr>=14)
+The Instructor will:
+L-T-P [C]  3–0–0 [3]
+1. Expose the students to the latest upcoming fields in the area of Digital Humanities
+The students are expected to have the ability to:
+1.  Apply  the  knowledge  of  recent  topics  to  specific  research  areas  in  the  field  of  Digital
+The topic clouds for the course include contemporary topics in Digital Humanities and may be
+updated according to the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Fundamentals of Digital Humanities  Number
+4.  Introduce  and  explore  a  broad  spectrum  of  perspectives  on  the  Digital
+5.  Develop  familiarity  with  a  range  of  Digital  Humanities  projects,  as  well  as  the
+ability  to  evaluate  the  tools  and  methods  involved  in  creating  and  analysing
+6.  Critical  and  reflexive  use  of  digital  tools,  technologies,  and  spaces  by
+understanding  that  all  technologies  are  complex  and  socially  situated,  through
+which humans make meaning
+7.  Appreciate  and  critically  discuss  Digital  Humanities  projects  in  light  of  current
+methods and theoretical approaches to the field
+8.  Explain  how  Digital  Humanities  methods  and  practices  are  applied  in  different
+9.  Skillset to plan, develop, and evaluate a Digital Humanities research project
+Fractal Course Contents
+Fractal 1: Digital Humanities: Emerging Contours (DHL7XX1) [1-0-0]
+Introduction: What is Digital Humanities, Evolution of classical disciplines into Digital
+Digital Cultural Heritage; Conceptualising DH projects; Interdisciplinary style of
+proposal writing [4 Lectures]
+Computational Humanities[3 Lectures]
+Digital Embodiment: Embodied Identities in Digital Society; Bias and Privilege –
+Marginalised Histories; Cyborgs, Gender, Space, and Place in Digital Societies [4
+Literature and Technology, Text Analysis, Data Visualisation [3 Lectures]
+3.  Identifying  DH  projects  from  traditional  projects:  Concrete  examples  and  a
+range of approaches to DH from the traditional disciplines.
+4.  Digital  Humanities  Project  Critiques:  Exploring  the  project  goals,  what  type  of
+data  it  used,  how  that  data  was  found  and/or  transformed,  what  technologies
+were used, and why.
+4.  Gere, C., (2008), Digital Culture, 2nd Edition, London: Reaktion Books Limited
+5.  Bentkowska-Kafel, A., Cashen, T., and Gardiner, H. (Eds.) (2009), Digital Visual
+Culture: Theory and Practice, Bristol and Chicago: Intellect Books
+6.  Karaganis, J. (Ed.), (2007), Structures of Participation in Digital Culture, Social
+Science Research Council, Columbia University Press
+Digital Humanities Seminar Video Archive of the Open University, UK,
+Fractal 2: Data and Knowledge representations (DHL7XX2) [1-0-0]
+Introduction: Data Sources, Transcribing (Multimedia data), Conversation, Discourse
+Analysis [7 lectures]
+Knowledge Engineering: Ontological engineering, Representation of Ontologies,
+Common Logic, RDFS, Web Ontology Language (OWL), Topic Maps, Multimedia Web
+Ontology Language, Applications [ 7 Lectures]
+3.  Ethnographic data collection and analysis: A case study
+4.  Ontology formation from Multimedia Data: A case study
+4.  Christopher  Joseph  Jenks  (2011),  Transcribing  Talk  and  Interaction:  Issues  in
+the  Representation  of  Communication  Data,  John  Benjamins  Publishing
+5.  Russel,  S.  &  Norvig,  P.,  (2009),  Artificial  Intelligence:  A  Modern  Approach,
+6.  S.  Chaudhury,  A.  Mallik,  and  H.  Ghogh  (2016),  Multimedia  Ontology
+Representation and Applications, CRC Press.
+2.  Knowledge Representation and Reasoning
+Fractal 3: Digital Archives (DHL7XX3) [1-0-0]
+Digital memory, Methods of archiving, Theorizing the archive, database [6 lectures]
+Exhibition, installation, audio-visual essays [4 lectures]
+Aesthetics of recreation/ Digital aesthetics, Digital Art [4 lectures]
+3.  Ernst,  W.,  (2013),  Digital  Memory  and  the  Archive,  Minneapolis:  University  of
+4.  Grau, O., Coones, W., and Ruhse, V. (Eds.) (2017), Museum and Archive on the
+Move:  Changing  Cultural  Institutions  in  the  Digital  Era,  Berlin  and  Boston:  De
+Digital Methods and Tools
+L-T-P [C]  3-0-0 [3]
+4.  Introduce  and  explore  avenues  of  new  and  emerging  societal  and  cultural
+entities and methodologies in Digital Humanities.
+5.  Provide  a  conceptual  foundation  that  will  allow  students  to  engage  critically
+with Digital Humanities research and methods.
+6.  Provide basic training digital and computational tools and techniques that can
+enhance students‟ own research.
+4.  Fundamental understanding of research tools that will help students plan for
+and  evaluate  the  effectiveness  of  Digital  Humanities  methods  including  a
+multitude of platforms such as social media and web tools.
+5.  Understand what data mean in different contexts
+6.  Capture,  collect,  and  analyse  a  variety  of  data  types  related  to  Digital
+Humanities research project
+Fractal Course Contents
+Fractal 1: Introduction to Data Science (DHL7XX1)
+Components  of  Fractal  1  from  Introduction  to  Data  Science  (M.Tech  DCS
+Data  preparation,  Data  pre-processing,  Data  Cleaning,  Data  Integration,  Data
+Transformation,  Data  Reduction,  Redundancy  Removal,  Data  storage,  Data
+Handling, Data Query, Data Representation and Exploration [14 lectures]
+4.  Kotu,  V.  and  Deshpande,  B.  (2018)  Data  Science:  Concepts  and  Practice,
+5.  Saltz,  J.S.  and  Stanton,  J.M.  (2017)  An  Introduction  to  Data  Science,  SAGE
+6.  Kelleher, J. D., and Tierney, (2018) Data Science, MIT Press Reference Books
+3.  Moreira,  J.,  Carvalho,  A.  and  Horvath,  T.  (2018)  A  General  Introduction  to
+Data Analytics, John Wiley & Sons.
+4.  Mayer-Schonberger, V.  and Cukier, K., (2013) Big data: The essential guide
+to work, life and learning in the age of insight, John Murray Publications.
+Fractal 2: Qualitative and Quantitative Analyses (DHL7XX2) [1-0-0]
+Introduction:  Research  Question,  Research  Design,  an  introduction  to  research
+methods in digital humanities and mapping the departure from traditional research
+methods [2 lectures]
+Overview  of  Research  Methods:  Quantitative  data  collection  and  analysis,  Survey
+design  and  analysis;  Interviews,  focus  groups  and  participant  observation;
+Discourse and Content Analysis [3 lectures]
+Research  Methods  in  Digital  Humanities:  Case  Studies  and  projects  in  Digital
+Humanities;  Research  method  as  discipline  -  how  digital  humanities  has  been
+expanding  through  deployment  of  digital  methods  to  study  society,  culture,
+philosophy and language [4 lectures]
+Techniques  of  data  collection  and  analysis:  Document  Image  Processing,  OCR
+Techniques  and  its  challenges,  NLP  Introduction,  and  its  applications,  Qualitative
+Analysis - Themes, Patterns, Coding using NVivo and MaxQDA [5 lectures]
+3.  Bryman,  Alan  (2014),  Social  Science  Research  Methods,  Oxford  University
+4.  Levenberg,  Nielsen,  Tai,  et.  al.  (2018),  Research  Methods  for  Digital
+Humanities, Palgrave Macmillan: New York.
+Fractal 3: Visualization Analysis and Design (DHL7XX3) [1-0-0]
+Introduction: Design Effectiveness, Abstraction (Data and Task), Marks and
+Channels, Analysis and Validation [7 lectures]
+Interaction Design: Arranging data, Spatial data, Network and Trees, Map Color and
+Other Channels, Views, Applications, User Experience [ 7 Lectures]
+3.  Visualizing Quantitative and Qualitative Data.
+4.  Use case-based user experience design.
+3.  William  Lidwell,  Kritina  Holden,  Jill  Butler  (2010),  Universal  Principles  of
+Design, Rockport Publishers.
+4.  Tamara Munzner (2014), Visualization Analysis & Design, CRC Press.
+3.  Data  Science  and  Visualization,  Provided  by  Harvard  University  (HarvardX),
+4.  NPTEL Course, Data Visualization in R,
+Selected Topics in Digital Humanities - I
+L-T-P [C]  1–0–0 [1]
+Prerequisite  DHL7XX0 Fundamentals of Digital Humanities
+DHL7XX0 Digital Methods and Tools
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of Digital Humanities
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of  Digital
+The  topic  clouds  for  the  course  include  contemporary  topics  in  Digital  Humanities  and
+may be updated according to the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Selected Topics in Digital Humanities - II
+L-T-P [C]  2–0–0 [2]
+Prerequisite  DHL7XX0 Fundamentals of Digital Humanities
+DHL7XX0 Digital Methods and Tools
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of Digital Humanities
+The students are expected to have the ability to:
+1. Apply the knowledge of recent topics to specific research areas in the field of  Digital
+The topic clouds for the course include contemporary topics in Digital Humanities and
+may be updated according to the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.
+Selected Topics in Digital Humanities - III  Number
+DHL7XX0 Fundamentals of Digital Humanities
+DHL7XX0 Digital Methods and Tools
+The Instructor will:
+1. Expose the students to the latest upcoming fields in the area of Digital Humanities
+The students are expected to have the ability to:
+1.  Apply  the  knowledge  of  recent  topics  to  specific  research  areas  in  the  field  of  Digital
+The topic clouds for the course include contemporary topics in Digital Humanities and may be
+updated according to the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Relevant Textbook and/or research papers to be announced by the instructor.
+Preparatory Course Material
+Relevant Textbook and/or research papers to be announced by the instructor.

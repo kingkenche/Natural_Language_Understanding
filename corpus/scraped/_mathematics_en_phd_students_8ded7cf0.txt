@@ -1,0 +1,75 @@
+PhD Students | Mathematics | IIT Jodhpur
+The details of Ph.D. and M.Tech.-Ph.D. students are :
+B.Sc., Gurukul Kangri Vishwavidyalaya, Haridwar, 2014
+M.Sc., Gurukul Kangri Vishwavidyalaya, Haridwar, 2016
+Dr. Gaurav Bhatnagar
+61. Vishnu Bharadwaj B.Tech, IIITDM Kancheepuram, 2018 Dr. Gaurav Bhatnagar & Dr. Chiranjoy Chattopadhyay Applications of Deep Learning
+60. Ratnesh Kumar Singh B.Sc. (H), University of Delhi M.Sc., IIT Ropar Fractional Poisson Process 59. Shubham Garg B.Sc., K.M. Govt. College M.Sc., IIT Ropar Dr. Kirankumar Hiremath Approximation Methods for Differential Equations 58. Sushmita Yadav B.Sc., University of Delhi M.Sc., IIT Jodhpur Dr. Puneet Sharma Topological Dynamical Systems 57. Ankit Chauhan B.Sc. (PCM), CCS University Meerut M.Sc. Mathematics, BHU Dr. Puneet Sharma & Dr. Manish Aggarwal Dynamical Systems & Fuzzy Set Theory 56. Deepak Kumar Mahanta B.Sc., North Odisha University M.Sc., NIT Jalandhar Dr. Abhishek Sarkar & Dr. Tuhina Mukherjee Partial Differential Equations 55. Deepanshu Dhawan B.Sc., Kurukshetra University M.Sc., SLIET Dr. Puneet Sharma Topological Dynamics 54. Lovelesh Sharma B.Sc., CCS University Meerut M.Sc., Central University of South Bihar Dr. Tuhina Mukharjee Analysis of PDEs 53. Nammi Venkata Apparao B.Sc., Andhra University M.Sc., Andhra University Categorical Data Analysis 52. Narendra Kumar B.Tech, Galgotias College M.Tech, IIT Patna Dr. Gaurav Bhatnagar Image Processing 51. Naveen Kumar B.A., NMPG Govt College Hansi M.Sc., Kurukshetra University Dr. Ambesh Dixit Statistical Properties of Entropy 50. Pankaj Kumar Integrated M.Sc., Pondicherry University M.Tech., IIT Jodhpur Risk Measures and Dependence Modeling 49. Bikram Adhikary B.Sc. (Hons), CBPBU M.Sc., CBPBU Dr. Md Abu Talhamainuddin Ansary Multi-objective Optimization 48. Gurubachan B.Sc. (H), University of Delhi M.Sc., IIT Delhi Dr. V.V.M.S. Chandramouli & Dr. Saurabh Verma Fractal Geometry & Dynamical Systems 47. Mrityunjoy Saha B.Sc. & M.Sc., CBPBU Dr. Sukhendu Ghosh Hydrodynamic Instability 46. Nishtha Tomar B.Sc. (Hons), University of Delhi M.Sc., JIIT Dr. Gaurav Bhatnagar Image Processing 45. Pankaj Yadav University of Delhi IIT Jodhpur Predictive Modeling for Disease Diagnosis 44. Himanshi Singh B.Sc. & M.Sc., AMU Aligarh Dr. Nil Kamal Hazra Information Theory 43. Saloni Gupta B.Sc., Rajasthan University M.Sc., IIT Gandhinagar Dr. Moumita Mandal Numerical Functional Analysis 42. Ajay Kumar BA, RKSD College/Kurukshetra University, 2018 M.Sc., University of Delhi, 2020 Dr. V.V.M.S. Chandramouli Dynamical Systems, Neural Networks, Mathematical Biology 41. Animesh Maiti B.Sc. (Hons) Mathematics, University of Calcutta M.Sc. Applied Mathematics, Vidyasagar University Dr. Subhash Bhagat Multi-robot Systems Coordination 40. Barsha Shaw University of Burdwan NIT Durgapur Dr. Md Abu T. Ansary Optimization
+39. Km Deepanshi Singh
+B.Sc., Maharana Pratap Govt. Degree College, Hardoi, 2018 M.Sc., IIT Patna, 2021
+Dr. Kirankumar R. Hiremath
+Applied Functional Analysis
+38. Nikita Srivastava B.Sc., St. Andrew's College M.Sc., MMMUT Gorakhpur Dr. Pradip Sasmal & Dr. Mriganka Mandal Quantum Cryptography 37. Ranit Dutta B.Sc. & M.Sc., Jadavpur University Dr. Bimal Mandal Cryptographic Boolean Functions 36. Shubham Kumar Jain B.Sc. & M.Sc., University College of Science, Udaipur Dr. Pradip Sasmal Compressive Sensing and Frame Theory 35. Ankit B.Sc. Mathematical Sciences, University of Delhi M.Sc. Mathematics, BHU Dr. Abhishek Sarkar Elliptic Partial Differential Equations
+IIT Madras, 2022
+Dr. Pradip Sasmal
+University of Delhi
+Dr. Pradip Sasmal, Dr. Santhosh Kumar
+Physics-informed neural network and application in systems engineering
+32. Geetanjli B.Sc., HP Univ. M.Sc., NIT Silchar Dr. Kirankumar R. Hiremath Numerical Solutions of Differential Equations 31. Harshit Jain B.Sc., University Maharaja College, Jaipur M.Sc., IIT Bhubaneswar Dr. Mandira Mondal & Dr. Nil Kamal Hazra Commutative Algebra, Algebraic Geometry 30. Nitish Kumar B.Sc., Kurukshetra University M.Sc., IIT Jodhpur Dr. Bimal Mandal Cryptographic Boolean Functions 29. Prakhar Shukla B.Sc. (Hons), University of Delhi M.Sc., MNNIT Allahabad Dr. Subhash Bhagat Distributed Computing for Swarm Robotics 28. Shivam B.Sc. (Hons), Punjabi University M.Sc. (Hons), Punjab University Dr. Nil Kamal Hazra & Dr. Bhargab Chattopadhyay Statistics 27. Simran University of Delhi HGC, Maharshi Dayanand University Dr. VVMS Chandramouli Dynamical Systems 26. Ashutosh Dixit B.Sc. & M.Sc., Dr. Hari Singh Gour University Dr. Tuhina Mukherjee Analysis of PDEs 25. Gaurav Kumar  Dyal Singh College, University of Delhi,2020 MSBU Bharatpur,2022 Dr. Dilpreet Kaur Algebra 24. Anjali Moyal B.Sc. (H), University of Delhi, 2020 M.Sc., University of Delhi, 2022 Dr. V.V.M.S. Chandramouli Dynamical System And Ordinary Differential Equations
+23. Shivam kumar Dyal Singh college, University of Delhi, 2021 J.C. Bose University of Science and Technology, YMCA, Faridabad, 2023 Dr. Subhash Bhagat  Distributed Computing 22. Amal Kumar Pramanick Burdwan Raj College, 2022 Ramakrishna Mission Vidyamandira, 2024 Dr. Sukhendu Ghosh Applied Differential Equations and Numerical Simulations 21. Bende Naresh  B.Sc(M.P.CS), Osmania University, 2021 M.Sc(Applied Mathematics), University of Hyderabad, 2023 Dr. Kiran Meena Geometry of Smooth Mappings 20. Radhika sharma Vanasthali Vidhyapith, 2019 Indian Institute of Technology Kanpur, 2022 Dr.  Kiran Meena  Some contributions in Riemannian Geometry.
+University of Kalyani,2021 University of Kalyani,2023
+Dr. Sukhendu Ghosh
+Lie symmetry analysis of differential equations
+University of Delhi, 2019 Delhi Technological University, 2021
+Dr. Moumita mondal
+Numerical functional Analysis
+Maharshi Dayanand University, Rohtak Central University Haryana
+Dr. Nil Kamal Hazra
+Generalized Entropies, Majorization
+Nammi Venkata Apparao
+B.Sc, D.V.N College, 2011 M.Sc, Andhra University, 2013
+Generalized Entropies, Majorization
+University's Maharaja's College, Jaipur, 2018 Hansraj College, University of Delhi, 2020
+Dr. Kuntal Som
+Optimization Theory and Quantum information science
+B.Sc., University of Allahabad, 2021 M.Sc., University of Allahabad, 2023
+Dr. Md Abu Talhamainuddin Ansary
+Midnapore College (Autonomous), 2023 NIT Calicut, 2025
+Dr. Subhash Bhagat
+Hemchandracharya North Gujarat University, 2022 The Maharaja Sayajirao University of Baroda, 2024
+Dr. Kuntal Som
+Burdwan University, 2022 Ramakrishna Mission Vidyamandira
+Dr. Bimal Mandal
+University of Rajasthan, Jaipur, 2021 Malaviya National Institute of Technology Jaipur (NIT Jaipur), 2023
+Dr. Subhash Bhagat
+B.Sc, Bajkul Milani Mahavidyalaya, 2022 M.Sc, Ramakrishna Mission Vidyamandira, 2024
+Dr. Nil Kamal Hazra
+University of Allahabad University of Allahabad
+Dr. Nil Kamal Hazra
+Robust Statistical Inference
+Rajasthan University, 2019 IIT Tirupati, 2022
+University of Rajasthan (2020) IIT Mandi (2024)
+Dr. Puneet Sharma
+Jagannath Kishore College, Purulia, 2022 IIT Madras, 2024
+Dr. Abhishek Sarkar
+Partial Differential Equations
+Vidyasagar University, 2021 National Institute of Technology Jamshedpur, 2023
+Dr. Gaurav Bhatnagar
+Image Reconstruction and Restoration
+B.Sc, Guru Jambheshwar University of Science and Technology, 2020 M.Sc, IIT Jodhpur, 2024
+Dr. Brahadeesh Sankarnarayanan
+Graph theory and combinatorics
+B.Sc., Midnapore College (Autonomous), 2021
+M.Sc., IISER Mohali, 2024
+Dr. Tuhina Mukherjee
+Analysis of PDE
+B.Sc., University of Calcutta
+M.Sc., IIT Mandi
+Dr. Sukhendu Ghosh
+Differential Equations: Theory and Numerical
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 12:36 PM

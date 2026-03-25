@@ -1,0 +1,78 @@
+List of Programme Compulsory Courses
+Table 4 Programme Compulsory Courses
+3  Data Structures and Algorithms
+Concepts and Dynamics: Molecular
+The Human Immune System:
+Mechanisms to detect, defend and
+Computational and Systems Biology
+The Human Machine for Engineers:
+Biophysics and Structural Biology
+10  Genetics and Gene manipulation
+14  Biomaterials Engineering
+15  Deep Learning
+Area-wise Programme Elective Courses
+Table 5 Stream-wise Programme Electives Courses
+-  Microbiomes and metagenomics (level 4)
+-  Computational methods for multi-omics
+-  Microarray data analysis (level 4)
+-  Cell-material interactions (level 3)
+-  Tissue engineering (level 4)
+-  Therapeutic delivery systems (level 4)
+-  Principles of biomechanics (level 4; from
+-  Additive manufacturing (level 7; from ME)
+-  Bio-transport phenomena (level 4)
+-  Mathematical biology (level 7; from MA)
+-  Algorithms in biology (level 6)
+-  Modelling of biological systems (level 3)
+-  Design of experiments (level 4; from MA)
+1 | P a g e
+-  Electron microscopy for biology (level 4/6;
+-  Special topics on biomedical imaging
+-  Digital Image processing (level 4; from CS)
+-  Bio-image computing (level 7; CS)
+-  Whole cell based biosensors (level 4)
+-  Special topics in biosensors (level 4)
+-  Microsystems fabrication technology (level
+7; from EE)
+-  Chemosensors (level 6; from CY)
+-  Microbial remediation and environmental
+biotechnology (level 4)
+-  Microbes in food and sustainable agriculture
+-  Bioenergy (level 4)
+-  Principles of drug discovery (level 4)
+-  Medicinal chemistry (level 4)
+-  Viral infection and antiviral drug
+development (level 4)
+Specialization to be offered by the department
+Table 6 Specialization and courses
+- Modern approaches of drug
+- Introduction to Precision
+- AI based drug discovery (2-0-
+- Engineering Microbes (3-0-0)
+- Bioprocess Engineering and
+- Mathematical modelling of
+2 | P a g e
+-  Principles of drug discovery
+-  Medicinal chemistry (3-0-0)
+-  Viral infection and antiviral
+drug development (3-0-0)
+-  Antimicrobial drugs and drug
+-  Anticancer drug discovery and
+-  Modern approaches for
+-  Novel Drug Delivery Systems
+-  Theranostic Systems (3-0-0)
+Industry collaborated project
+4 credit (0-0-6) x 1
+-  Microbial nanotechnology (3-
+-  Metabolic engineering for
+-  Microbial remediation and
+-  Microbes in food and
+-  Bioenergy (3-0-0)
+-  Soil microbiome & microbial
+-  Biofilms: Bacterial
+-  Gut microbiomes in health
+and diseases (3-0-0)
+-  Downstream processing
+Industry collaborated project
+4 credit (0-0-6) x 1
+3 | P a g e

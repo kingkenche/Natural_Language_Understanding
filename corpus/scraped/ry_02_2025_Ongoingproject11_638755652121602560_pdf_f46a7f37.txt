@@ -1,0 +1,42 @@
+Title: Possibilities and Device Applications of Degenerate Optical Microcavities
+Funding Agency: Science and Engineering Research Board (SERB)
+Completion date: 07.05.2021
+Project PI: Dr Somanth Ghosh
+In this project, exotic optical effects in the presence of exceptional points (EPs) are
+being explored in specialty gain-loss assisted optical microcavity and waveguide
+structures. The presence of multiple EPs and the interplay between them along an
+exclusively proposed exceptional line have been explored in a Fabry-Parot type
+microcavity, where the coupling phenomena between the resonances is entirely
+controlled by system topology. The specific chiral topological behavior of an EP will
+be explored in adiabatic-state-exchange mechanisms following a closed parametric
+encirclement around single or multiple EPs. In this context, the time or analogous
+length-scale dependent dynamical parametric encirclement will be studied in an
+optical waveguide; where owing to the contrast between the effect of EP and the
+adiabatic theorem, we will explore an exclusive route to achieve optical mode
+conversion, mode switching, optical isolation, etc. on-chip.
+FIG. 1: (a) Schematic of a gain-loss assisted optical microcavity. (b) Coalescence of
+state-1 and state-2 at EP(1), unaffecting state-3. (c) Unaffecting state-1, the
+coalescence of state-2 and state-3 at EP(2).
+FIG. 2: (a) Schematic of a dual-mode planar optical waveguide. (b) Coalescence of
+-values (propagation constants) of the supported modes at an EP. (c) Parametric
+encirclement scheme with a closed variation of gain-loss around the identified EP.
+(d) Associated length-dependent gain-loss distribution to encircle the identified EP
+(e) Chirality-driven asymmetric mode conversion following the
+dynamical EP-encirclement scheme;
+1. A. Laha, A. Biswas and S. Ghosh, “Nonadiabatic Modal Dynamics Around
+in an All-Lossy Dual-Mode Optical Waveguide: Toward
+Chirality-Driven Asymmetric Mode Conversion,” Physical Review Applied 10,
+2. A. Laha, A. Biswas and S. Ghosh, “Minimally asymmetric state conversion
+around exceptional singularities in a specialty optical microcavity,” Journal of Optics
+(IOP) 21, 025201 (2019).
+S. Bhattacherjee, H. K. Gandhi, A. Laha, and S. Ghosh, “Higher-order topological
+degeneracies and progress towards unique successive state switching in a four-level
+open system,” Physical Review A 100, 062124 (2019).
+4. H. K. Gandhi, A. Laha, S. Dey, and S. Ghosh, “Chirality breakdown in the
+presence of multiple exceptional points and specific mode excitation,” Optics
+Letters 45, 1439 (2020).
+5. A. Laha, S. Dey, H. K. Gandhi, A. Biswas, and S. Ghosh, “Exceptional point and
+toward mode-selective optical isolation,” ACS Photonics 7, 967-974 (2020)
+S. Dey, A. Laha, and S. Ghosh, “Nonlinearity induced anomalous mode
+collapsing and non-chiral asymmetric mode switching around multiple exceptional
+points,” Physical Review B 101, 125432 (2020).

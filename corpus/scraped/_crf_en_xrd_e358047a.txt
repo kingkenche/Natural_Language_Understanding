@@ -1,0 +1,31 @@
+XRD(Powder) | Central Research Facility (CRF) | IIT Jodhpur
+Make: Malnvern PANanalytical
+Water-cooled Ceramic Cu X-ray tube: Operating conditions: 45 kV and 40 mA
+Detectors: (1) PIXcel 1D Medipix3 Detector: All powder/bulk samples and (2) Proportional Counter:Used for thin film analysis
+Goniometer: 2θ angle range: 10° to 120°
+Beam Optics: Incident Beam Prefix Modules and Bragg – Brentano HD (BBHD)
+Diffracted Beam Prefix Modules: PIXcel 1D-Medipix3 FASS and
+Parallel Plate Collimator (PPC)
+High Score Plus – for analysis and interpretation
+COD Database – for phase identification using crystallographic data
+Determines crystalline phases in materials to identify compounds in minerals, ceramics, metals, and polymers.
+Estimates average crystallite size and lattice strain in nanomaterials and powders.
+Measures unit cell dimensions and detects structural changes due to doping, temperature, or pressure variations.
+Chemical composition, Phase identification & quantification, Crystallite size, Lattice strain, Lattice parameters
+Content will be updated soon.
+Content will be updated soon..
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone:0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone:0291 280 1347
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone:0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

@@ -1,0 +1,42 @@
+Electrical Characterization | Artificial Intelligence of Things (AIoT) Fab Facility | IIT Jodhpur
+Parameter Analyzer (4200A)
+Wafer Probe station
+Parameter Analyzer (4200A)
+NAME OF INSTRUMENT: PARAMETER ANALYSER
+COMPANY: M/S TEKTRONIX ASIA LTD
+MODEL: KEITHLEY 4200A-SCS
+APPLICATIONS: This instrument has I-V Source Measure Units (100 fA measure resolution), C-V Capacitance Measure Units (1 kHz – 10 MHz) and Pulsed I-V Ultra-fast Pulse Measure Units ( 200 MS/s, 5 ns sampling rate).
+Source Measure Units (SMUs)
+±200 μV / 1pA or ±200 V / 1 A
+Current Resolution: Measure/Source
+100 aA to 50 nA / 1.5 fA to 5 μA
+4-quadrant sourcing and measuring
+2-wire or 4-wire
+C-V Unit (CVU)
+0.1 pF – 1 μF
+1 kHz – 10 MHz
+DC Bias Range
+±30 V / 1 mV resolution
+Pulsed I-V Unit (PMU)
+40 V / (100 nA to 200 mA)
+Minimum Pulse Width
+Wafer Probe station
+NAME OF INSTRUMENT: PROBE STATION
+COMPANY: M/S FORMFACTOR INC. (GERMANY)
+MODEL: EPS 150 FA
+APPLICATIONS: It is equipped with DC probers and DC probes. We can perform current-voltage (IV), pulsed I-V and capacitance-voltage (CV) measurements on semiconductor devices like diodes, transistors, photodiodes and solar cells.
+EPS150FA Formfactor Probe Station
+Wafer Size Capacity
+Up to 150 mm (6 inches)
+Manual probing solution
+Vacuum Chuck, X-Y movement capability of 155 mm × 155 mm, Z movement adjustable up to 10 mm
+Mounted on microscope bridge with X-Y movement of 50 mm × 50 mm, Pneumatic Z tilt lift, Digital CMOS camera with at least 8 MP resolution
+Configurable for various measurement types (e.g., DC, RF)
+Integrated vibration isolation for stable measurements
+50 pA of current or better
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 29 Dec 2025 - 03:13 PM

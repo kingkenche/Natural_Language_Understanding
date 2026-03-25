@@ -1,0 +1,2120 @@
+BS in Physics with Specialization
+Department of Physics
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The vision of the Department of Physics is to become a globally renowned Academic Hub of Physics for Quality
+Education, excellence in Scientific Research and Technology Innovation with High Societal and Strategic Impact
+by excelling in fundamental knowledge and applications of Physics blended with Engineering through curricular
+and co-curricular activities. In line with this vision, the Department offers an undergraduate program in Physics
+to  attract  highly  motivated  students  interested  in  basic  science  and  cutting-edge  technologies  in  the  broad
+discipline of physics blended with engineering and wish for a flexible program to consider a variety of challenging
+career paths through capability-linked specializations in Energy, Photonics and Quantum Technologies.
+The  program  provides  strong  fundamentals  in  basic  sciences  and  mathematics  that  are  critical  in  developing
+analytical thinking and form the basis of the diverse tools used in fundamental and applied physics linked with
+engineering problems to innovate, design, and develop future technologies. The engineering design component is
+integrated  throughout  the  curriculum,  motivating  and  familiarizing  students  with  real-world  engineering
+challenges  and  equipping  them  with  the  essential  technical  skills  for  problem-solving.  Strong  theoretical
+foundations and hands-on exposure at the early stage of the BS Physics program are supplemented by a spectrum
+of  fundamental  and  applied  physics  concepts  ranging  from  statistical  physics  with  emphasis  on  data-driven
+analysis, modern physics including quantum technologies targeting future communication, computational physics
+with  a  focus  on  current  trends  in  machine  learning  and  artificial  intelligence,  condensed  matter  physics  with
+emphasis on next-generation materials and devices for future electronics, energy materials and devices, terahertz
+physics and photonics, fundamental and applied plasma for various applications. Further, the program’s design
+projects, and laboratory experiments develop additional problem-solving skills and practical experience.
+One of the key salient features of the BS Physics program at the IIT Jodhpur is that the curriculum offers enormous
+flexibility  to  students  for  pursuing  capability-linked  specializations  of  their  choice.  The  Department’s  core
+specializations are designed to enable students to lead future technological innovations addressing the emerging
+industrial  and  societal  challenges  in  various  domains  of  Energy,  Photonics  and  Quantum  Technologies.  The
+students  can  choose  any  of  the  specializations  mentioned  above  depending  on  their  interests.  The  in-depth
+understanding  of  the  concepts  and  technical  skills  acquired  through  these  program  specializations  will  enable
+graduates to play a vital role in advancing the technologies such as Flexible Electronics, Green Energy, Terahertz
+Technology/Communications, Quantum Communications, Smart Energy for smart cities/distributed applications
+in rural/remote areas, and Smart Healthcare, etc.
+Another distinct feature of the program is the provision for minors in Entrepreneurship. This unique feature will
+allow students to pursue diverse and challenging career options. The curriculum also offers numerous options that
+enable  students  to  gain  industrial  experience  through  collaborative  industrial  projects  at  industries  and
+entrepreneurship experience at the Institute's Incubation Center.
+2.  Objectives of the Program
+The program aims at imparting theoretical foundations and practical skills in fundamental and applied physics
+blended with engineering applications. It prepares graduates for the following potential career options:
+●  An academic path to enter the graduate program, conduct basic and application-oriented advanced
+scientific research with a broad range of applications, and eventually pursue research or academic
+●  An industrial path to take up the role of a technical leader through lifelong learning.
+●  An entrepreneurial path to apply the acquired knowledge to develop new products and initiate a Deep
+Tech Start-up Company.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+3.   Expected graduate attributes
+The Graduates of the UG program in Physics are expected to have the following attributes:
+Strong foundations of fundamental as well as applied concepts of physics enabling to excel in physics-
+●  Ability to acquire new knowledge of physics and integrate with engineering concepts to create new and
+innovative technologies for current and future applications.
+●  Ability to apply critical scientific thinking and engineering skills to identify, formulate, and solve complex
+problems encountered in applied areas blended with engineering practices.
+●  Ability  to  apply  principles  of  physics  in  the  domain  of  Energy  materials  and  devices  with  a  focus  on
+generation, storage, and management.
+●  Ability to engage and actively participate in the upcoming areas of Quantum Information and related
+research domains of Quantum Technologies.
+●  Preparedness  to  participate
+in  future  technological  developments
+in  photonics  and  optical
+communications beyond 5G including Terahertz technology.
+●  Ability  to  compete  effectively  in  a  world  of  rapid  technological  advancements  and  assume  leadership
+roles within academic, industrial, or entrepreneurial environments in the broad context of fundamental
+and applied physics blended with engineering skills.
+●  They will be aware of ethical issues, societal needs, and problems and conduct themselves as
+4.  Learning outcomes
+The Graduates of the UG program in Physics will be able:
+●  To  acquire  knowledge  of  fundamental  and  applied  physics  principles  along  with  the  required
+understanding of computing, mathematics, and engineering.
+●  To create, select, and apply appropriate techniques, resources, and fundamental physics tools to solve
+complex engineering problems with an understanding of the limitations through laboratory exercises and
+●  To  apply  the  concepts  of  mathematics,  physics  including  Quantum  technologies  and  advanced
+computing tools, to design complex engineering systems containing hardware and software (including
+Quantum algorithms) modules.
+●  To acquire knowledge of fundamental and advanced concepts of Photonics and Terahertz technologies
+for communications, devices towards medical applications, sensing, quantum technologies, spectroscopy,
+●  To  gain  an  in-depth  understanding  of  concepts  of  materials  and  devices  for  energy  generation  and
+storage, integration of energy sub-systems and next generation communications.
+●  To perform a critical literature review and patent landscaping for innovative research.
+●  To understand professional ethics and social responsibilities.
+●  To develop technical presentation skills and communicate effectively.
+●  To develop an attitude for product design and entrepreneurial activities.
+5.  New skill sets targeted
+Physics BS students explore subjects critical to advancement in today’s needs-from everyday common know-how
+to critical problems in different inter/multi-disciplinary domains using the fundamental and applied physics
+knowledge blended for present and future complex issues/challenges. The acquired knowledge will be helpful
+in future technologies, including:
+●  Quantum technologies for future Quantum communication and computation
+●  Terahertz optics, optical fiber communication, and photonics for 5G and beyond communications
+●  Next-generation energy materials and devices.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+6.  Proposed Specialization Areas
+1.  Advanced Energy Materials
+3.  Quantum Technologies
+7.  Program Structures
+Programme Core (P)
+Programme Compulsory (PC) + BS project
+Institute Core (I)
+Programme Linked (L)
+Engineering and Science
+Specialization Core (SC)
+Specialization Elective (SE)
+Design/Practical Experience (ND)
+Note: Students opting for specialization in Entrepreneurship will be required to earn 10 credits through relevant core/electives
+courses offered from one of the specializations offered from the department.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+8. Programme Core (PC) Courses
+Mechanics - I
+Mechanics - II
+Mathematical Methods for Physicists
+Basic Computational Lab
+Applied Computational Lab
+EM Waves and Fields
+Interaction of Radiation with Matter
+Fluids and Plasmas
+Applied Optics Lab
+Solid State Physics
+Semiconducting and Optoelectronic Devices
+Thin Film and Material Characterization Lab
+Physics of Atoms, Molecules and Nuclei
+Nuclear Radiation and Energy
+EM and Neutrino Astronomy
+Modern Physics Lab
+Radiation and Particle Detection Lab
+Entrepreneurship for Physicists
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+9. Topic clouds and their mapping with proposed courses
+Tensor operations, Simple harmonic,
+Damped, and Forced oscillations,
+Central force, Dynamics of rigid
+bodies, Law of gravitation,
+Constraints and their classification,
+Lagrange’s equations of motion,
+Hamilton’s equations of motion,
+Poisson brackets, Galilean
+transformations, Basic principles of
+Special Matrices, Eigenvalues and
+Eigenvectors, Dirac representation,
+Origin of quantum theory,
+Schrödinger’s equation, Application
+of Schrödinger’s equation, Theory of
+Angular Momentum, Consequence of
+Special Functions such as Dirac-Delta,
+Beta, Gamma, Legendre, Bessel and
+their Integral expressions,
+Classification of PDEs, Laplace and
+Poisson equations, Diffusion
+equation, Wave equation, Analytic
+conditions, Classification of
+singularities, Residue theorem,
+Contour integration, Taylor and
+Linux OS, Shell and Python scripting,
+MATLAB, Sci-lab, Mathematica, gnu-
+plot, xmgrace, MINUIT, Algorithms,
+Flowcharts, I/O statements,
+operations, Matrix multiplication,
+Matrix inverse, Control statements,
+Subroutines, LaTeX and Overleaf,
+LaTeX Commands and Environments
+Curve Fitting, Numerical integration,
+Minimization technique using CG or
+SD, Solving ODEs and PDEs, Systems
+of linear and nonlinear equations,
+Singular Value Decomposition,
+Thermodynamics and Statistical
+Physics, Monte Carlo integration,
+Importance Sampling, Metropolis
+algorithm, Detailed Balance, Markov
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+EM Waves and Fields
+process, Monte Carlo simulation of
+Area calculation, Random walk
+problem, Photon gas, Lennard-Jones
+Green’s Function in Electro and
+Wave Propagation in Media, Fresnel
+Coefficients, Geometry of
+Waveguides and Resonant Cavities,
+Retarded and Advanced Potentials,
+Radio Waves and Antennas.
+Geometrical Optics: Design of Beam
+Expanders, collimator, telescope, FSR
+& spacing of etalon. Electrodynamics
+(Software/VORPAL): circular and
+rectangular geometrical structures,
+rectangular waveguide, V number,
+Polar pattern & gain of waveguide
+antenna, Design & Characterization of
+parabolic dish antenna. (7-9
+Radioactive decays and related
+energy loss mechanisms, Geiger
+Muller Counter, Nuclear sensors and
+Radiation Safety, Free-electron Laser,
+Synchrotron Radiation, Cherenkov,
+Particle accelerator, Optical Transition
+and Bremsstrahlung Radiation
+Lab Component: Plateau region of
+GM tube, Radiation Counters:
+Gamma-Ray, Beta-Ray counts,
+Dosimeter calibration, Gamma-ray
+attenuation, Simulation with GEANT
+Corpuscular and Wave models of
+light, Wave particle duality,
+Diffraction and probabilistic
+interpretation, Fermat’s principle,
+Eikonal equation, Matrix method in
+paraxial optics, aberrations, origin of
+refractive index, interference by
+division of wave-fronts and
+amplitudes. Coherence, Fresnel and
+Fraunhofer Diffraction, spatial
+frequency filtering, Fourier
+transforming property of thin lens.
+Production and Analysis of polarized
+light, Phenomenon of double
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Fluids and Plasmas
+Applied Optics Lab
+refraction, Walston prism,EM wave
+propagation in anisotropic media,
+Faraday rotation, Semi-Classical and
+Quantum approaches for Optics.
+Saha equation, Plasma and relevant
+characteristic parameters, Plasma in
+nature, Continuity equations,
+Equations of state, Fluid
+hydrodynamics (MHD), Waves and
+Townsend discharge, Electrical
+breakdown conditions of gases,
+Discharge regimes, DC and RF
+Plasma, Cold plasma, Capacitive &
+Inductive plasmas, ECR plasma,
+Tokamak plasma, Laser produced
+plasma, Plasma deposition, Etching,
+Plasma applications in health, food,
+energy and agriculture.
+Lab component: Basics: Plasma
+Striations, Paschen Curve and Ion-
+Acoustic Waves Experiments. Plasma
+Diagnostics: Single Langmuir Probe,
+Double Langmuir Probe and Plasma
+Spectroscopy.  Applications: Thin film
+deposition using Magnetron
+Sputtering, Plasma nitriding for
+surface hardening, non-equilibrium
+cold plasma treatments.
+Two-beam interferometer (Michelson
+& Mach Zehnder), Fresnel Bi-prism,
+2D Diffraction experiments, D1 and
+D2 lines of Sodium light, Polarization
+study: Brewster Angle measurements,
+Malus law, Fiber Optics experiments:
+Numerical Aperture and loss
+measurements of optical fiber. Light
+amplification through fiber,
+Holography, Electro-optic effect.
+Kinetic theory of gasses, Einstein
+theory and Brownian motion, Specific
+heat capacity, Virial expansion,
+Thermodynamic laws and its
+thermodynamic relations, Gibbs and
+Helmholtz free energy, Phase
+transitions, Black body Radiation,
+Kirchhoff’s law, Statistical Physics:
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Solid State Physics
+Thin film and
+Concepts of Ensemble, Partition
+Function and Quantum Statistics
+Crystal structure, Reciprocal Lattice,
+Crystal Binding, Phonon dispersion,
+Electrons in metals, Free electron
+model, Bloch potential, Kronig-Penny
+model, Band structure, Metals,
+Semiconductors and Insulators,
+Magnetism and Superconductivity
+Laboratory: Phonon dispersion, M-H
+hysteresis, Magnetic susceptibility,
+Electron spin resonance, Two probe
+and Four probe resistivity, Dielectric
+Temperature dependent ionic
+Transistors, JFET and MOSFET,
+frequency analysis of FET, Differential
+and Operational amplifiers,
+Characteristics of Amplifier, Feedback
+loop, Voltage gain and operational
+modes of amplifier, Linear and
+Nonlinear Op Amp Circuits,
+Integration & differentiation
+Oscillator circuits, Digital logic gates,
+Data processing circuits, arithmetic
+circuits, clock and timer circuits, flip-
+Synthesis of thin films: spin-coating,
+dip coating, thermal evaporation
+Structural properties: XRD, electron
+microscopy, AFM and analysis
+Physical properties: (Electronic,
+magnetic, Thermal and Optical
+properties of materials) Temperature
+dependent Resistivity, Thermal
+properties, heat capacity (DSC), UV-
+Vis spectroscopy, Raman
+Mechanical properties: Stress-Strain
+and hardness (with ME and
+JFET biasing and amplifier circuit
+design, Input Output circuit based on
+Differential amplifier, Voltage-
+Current output of Op Amps,
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Mathematical operation using Op
+Amps, Design of negative feedback
+loop for signal modification, Low
+pass, high pass and band pass filter
+circuit design, Wien bridge and LC
+oscillator circuit, 555 timer for alarm
+circuit, Logic gate, Flip-flop circuit,
+TTL circuits, Use of shift register and
+binary ripple counter, Multiplexers
+and generation of Boolean functions,
+Decoder and D/A converter
+Optical Imaging techniques,
+Polarization microscopy, Fluorescence
+Microscopy, Confocal Microscopy,
+Overcoming Diffraction limit in
+microscopy, X-ray imaging and CT,
+Positron emission Tomography,
+Magnetic Resonance Imaging, Image
+analysis based on ML and AI
+techniques, Interaction of radiation
+with tissues, cells and organs,
+Thomson and Compton scattering,
+Plasma for Therapeutic and Nuclear
+Intrinsic and Extrinsic semiconductor,
+Excitons, Stokes’ shift, charge carrier
+mobility, diffusion length.
+Biasing across pn junction, generation
+recombination current, Metal
+Heterojunction, band alignment,
+MOSFET, Frequency response of
+MOSFET, High electron mobility
+transistors, Solar cells, Light emitting
+diodes, Materials and devices for
+Spintronics, Valleytronics and
+Plasmonics, Organic electronics.
+Laboratory: Band gap of
+dependent Hall effect, Temperature
+dependent electrical conductivity of
+doped semiconductor, Mobility of
+charge carrier, Capacitance-Voltage
+measurement, Characterization of
+solar cell, Quantum efficiency of solar
+cell, Output characteristic of LED, I-V
+characteristic of photodetector and
+phototransistors, Optical absorption
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Atomic & Subatomic
+Physics of Atoms,
+Molecules and Nuclei
+Modern Physics Lab
+EM and Neutrino
+Relativistic Energy correction in
+Hydrogen atom, Zeeman effect, Stark
+broadening, Hyperfine splitting,
+Helium Atom, Diatomic molecules,
+Molecular Orbital and Electronic
+configuration of Diatomic molecules:
+H2, C2, O2, NO and CN,
+Nuclear forces, Models-Liquid Drop
+model, Shell model, Collective model,
+Measurement of the Planck’s
+Constant, Stark Effect, Zeeman Effect,
+Dissociation of I2, Rydberg constant,
+Frank Hertz Expt, ESR Spectroscopy-
+Solids, Charge of Electron, E/M ratio,
+Measurement of the speed of light.
+Nuclear Transition, Multipole
+expansion of Nuclei, Nuclear Energy
+levels, Dosimetry, Image plate and
+Nuclear Calorimeter, MCP
+(Multichannel plates), Single Channel
+Analyzer (SCA) & Multi-channel
+analyzer (MCA), Radiocarbon dating
+in archaeology, Thorium cycles and
+Uranium Cycles, Nuclear reactor
+Kinematics of particle interactions,
+Conservation laws, Neutrinos,
+Hadrons, EM Weak and strong
+Classification of stars with Optical
+diagram, Stellar Evolution,
+Astrophysical objects with Radio
+emission, X-rays and Gamma-rays,
+Cosmic Rays, Sky-mapping with
+Gamma and Alpha Energy resolved
+measurement, Compton Scattering,
+Measurement of Dead-time in GM
+tube, Mass Spectrometric TOF,
+Detection of Atmospheric Muon with
+Scintillator detector, Measurement of
+Muon life-time, Measurement of half-
+life of radioactive source,
+Track Detectors (CR-39), Spark
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+S. No.  Specialization
+Energy materials encompasses all the aspects of energy harvesting materials
+and  their  corresponding  devices.  Here,  various  renewable  and  non-
+renewable energy sources and their corresponding devices will be studied.
+The principle behind their operation and how the efficiency of the devices
+can  be  optimized  to  achieve  maximum  output  from  the  devices  would  be
+discussed. This specialization will provide an in-depth understanding of the
+energy materials and their future applications.
+1.  Materials for Energy Technologies
+1.  Physics of Solar Cells
+2.  Advanced Electrochemistry and
+2.  Optics for Solar Energy
+3.  CHXXXX [3-0-0]
+4.  Fabrication and Characterization
+of Devices [0-0-2]
+5.  Electrical Energy Storage
+Materials and Devices [3-0-0]
+6.  Nanomaterials and Nanodevices
+7.  CHXXXXX [2-0-0]
+3.  PHL7520 [3-0-0]
+4.  Nanomaterials for Hydrogen
+Production and Storage
+5.  MTL7XXX [3-0-0]
+7.  BBL4110 [3-0-0]
+8.  Energy Harvesting
+10.  Nanoscience and Nanotechnology
+12.  Hydrogen Generation, Storage &
+13.  Solar Resource Assessment and Its
+14.  Project (6 credits)
+Photonics  is  the  branch  of  science  dealing  with  light  and  its  devices  to
+transmit,  transfer  and  store  information.  It  is  the  enabling  technology
+covering broad industrial applications from light harvesting to storage and
+light  modulation  to  delivery.  Photonics  specialization  enables  students  to
+understand principles & the design of optical, photonic and laser systems for
+various  applications,  including  Health  care,  communications,  defense,
+safety, security, and entertainment.
+1.  Fundamentals of Photonics
+1.  Optical fiber technology (PHL7XXX)
+2.  Laser Physics
+2.  Laser Technologies      (PHL7330)
+3.  Terahertz technology
+3.  Engineering Optics (PHL6310)
+4.  Photonic Devices
+4.  Optical Communication Systems
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+7.  Contemporary Optical
+8.  LED Technology
+9.  Selected topics on Photonics [1-0-0]
+10.  Selected topics on Photonics
+11.  Selected topics on Photonics [3-0-0]
+12.  Project (6 credits)
+Quantum  Mechanics  has  emerged  as  a  fundamental  ingredient  for
+understanding  various  facets  of  nature  such  as  atomic  and  sub-atomic
+physics, quantum optics and a plethora of phenomena in condensed matter
+physics.    The  amalgamation  of  quantum  physics  with  computing  and
+information  theory  could  be  historically  traced  from  the  works  of  EPR
+(Einstein,  Podolsky  and  Rosen),  followed  by  that  of  John  Bell  and
+culminating in efforts made by Charles Bennett. Quantum technologies are
+envisaged to provide unparalleled security, which would be a real booster in
+future to the country's defense and financial establishments. To provide an
+overview  of  the  importance  and  impact  of  an  emerging  technological
+domain, this specialization will enable the students to be well versed with
+the  various  challenges  on  different  aspects  of  quantum  technology.  This
+specialization is offered in collaboration with IDRP-QIC.
+1.  Quantum     Communications
+2.  Quantum Computing
+Quantum Optics and Quantum
+1.  Quantum Cryptography and
+Coding (QCL7XXX) [3-0-0]
+2.  Non-classical states for Quantum
+Information and Computation
+3.  Quantum Computational Finance
+4.  Quantum Communication
+4.  Quantum Machine Learning
+5.  Quantum Optics and
+5.  Hilbert Space Techniques for
+Engineering (PHL7500)           [3-
+6.  Seminal Features of Quantum
+7.  Open Quantum Systems
+8.  Nonlinear Optics and Nonclassical
+Light Detection Techniques
+9.  Quantum Devices and Circuits [3-0-
+10.  Project (6 credits)
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+11. Specialization topic clouds and mapping with proposed courses
+Plane wave and Helmholtz equation,
+Gaussian and Bessel beams, Group velocity
+and dispersion, pulse spreading,
+Polarization and representation through
+Poincare sphere, Coherence, optical Fourier
+transform, Transmission Grating and
+Reflection grating, light modulation, Light
+guiding, Photonic crystals, Optical
+Resonators, mode stability, ring resonators,
+micro-resonators, Nonlinear polarization
+and its implications.
+Radiation and its quantification, Einstein
+relations and Planck’s Law, Laser
+Oscillation, principle of Lasers, Laser-
+matter interaction-Electric Polarization and
+Susceptibility, electron model-classical
+oscillator, resonators and Laser design,
+pumping sources, Lasing mechanisms,
+optical gain, gain saturation, hole burning,
+broadening, Laser modes, Gaussian Beam
+and Gouy phase shift, Beam Quality factor,
+Solid State Lasers, Semiconductor lasers,
+Gas Lasers(He-Ne, CO2), Overview on
+Industrial Application of Lasers including
+laser inscription and data storage
+Fundamentals of Terahertz science and
+basic theory of Terahertz interaction with
+matter, Terahertz band, components for
+THz propagation and modulation, THz
+waveguides, Plastic optical fibers, artificial
+materials for THz, THz sources and
+detectors. Photoconductive antennas,
+Quantum Cascade Lasers, Nonlinear
+crystals, Difference Frequency Generation,
+optical rectification, Bolometer, Pyroelectric
+Detector, Golay Cells.
+Terahertz spectroscopy, THz imaging, THz
+sensing, THz frequency security system,
+Toward 6G Communication Networks,
+Terahertz communications, Industrial
+Optical directional coupler, Optical
+switches, optical amplifiers, wave guides,
+splicers, couplers, connectors, Acousto-
+optic devices, Electro-optic devices,
+Magneto-optic devices, Electro-absorption
+modulator, optical modulators, SLM.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Photonic crystal waveguides, Nonlinear
+optical devices, power limiters, Optics on
+chip, Direct Laser writing, Lifi, Fiber Bragg
+grating, Laser Tweezers and scissors.
+Laser oscillator and Laser characteristics,
+modes and mode selection, Laser Line
+width and Line broadening, Types of
+lasers, Generation of ultrashort pulses, Q-
+Switching, Mode locking, Chirping and
+Pulse compression, YAG Lasers, State-of–
+art-lasers, Self-phase modulation in fibers,
+broadband and supercontinuum sources,
+HOM interferometer, Shearing
+Interferometer, Michelson Interferometer in
+the contest of LIGO experiments, Four-
+wave mixing, Transient absorption
+Single and Multimode, Step index and
+Graded Index Fibers, mode field diameter,
+The consequences of attenuation and
+dispersion in Optical Fibers, pulse band
+width, refractive index profile, bend loss,
+Intermodal and Intramodal Dispersion,
+Fiber Fabrication Methods, Optical
+amplification, noise in EDFA, WDM, bit-
+error rate, signal-to-noise ratio, Optical
+communications, photonic bandgap
+guiding mechanism, endless single-mode
+guidance, fiber optic sensors, nonlinear
+pulse propagation, optical solitons
+Wave Optics and applications,
+interferometer Fresnel diffraction, Babinet’s
+principle, Fraunhofer diffraction, limit of
+resolution, N-slit diffraction, liquid
+crystals, holography, waveguides, Lasers
+and Nonlinear Optical Devices, Optical
+instruments (telescope, camera microscope)
+Basic building blocks, optical transmitters,
+optical receivers, optical amplifiers, Optical
+transmission system, line coding schemes,
+eye pattern, Noise effects, attenuation and
+dispersion limited link design, Modulation
+and Detection Techniques, Tunable optical
+filters, Optical fiber considerations-Pulse
+broadening, Free space effects-turbulence
+models, weather conditions, under-water
+impairment, BER analysis under channel
+Optical properties and dielectric constant,
+plasmons, volume plasmons, surface
+plasmons and applications, localized
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+surface plasmons, field enhancement,
+damping, dephasing time and line width,
+combination of SPR and LSPR, arrays,
+SERS, Meta materials and applications
+Paraxial Ray Optics, optical aberration,
+Fresnel-Kirchhoff’s diffraction, partially
+coherent light, Fourier optics; spatial
+filtering and optical transfer function, point
+split function ex: microscope, Image
+formation, Frequency analysis,
+Introduction to optical instruments:
+Radiative and non-radiative processes,
+Luminescence decay, LED basics- Diode
+current–voltage characteristics, Carrier
+distribution, Electron injection, Radiation
+pattern, The lambertian emission pattern,
+LED Design parameters-High internal
+efficiency designs, Design of current flow,
+High extraction efficiency structures, Types
+Biophotonics —a new frontier,
+introductory concepts of biology, cellular
+processes, protein classification and
+function, types of tissues and their
+functions, tumors and cancers
+Interaction between light and a molecule ,
+fate of excited state, electronic absorption,
+luminescence, vibrational spectroscopy,
+fluorescence correlation spectroscopy,
+interaction of light with cells, interaction of
+light with tissues , in vivo photoexcitation,
+optical biopsy, Biomaterials for Photonics,
+Bioimaging: transmission microscopy,
+fluorescence microscopy, confocal
+microscopy, optical coherence tomography,
+near-field optical microscopy, nonlinear
+optical imaging, optical biosensors- fiber
+optic biosensors, planar waveguide
+biosensor, evanescent wave biosensors, spr
+biosensor , flow cytometry, photodynamic
+therapy and applications, tissue
+engineering with light, laser tissue
+welding, femtolaser surgery, Lab-on-a-
+Conventional energy systems and related
+materials challenges, transformer materials,
+Solar thermal energy systems, materials for
+concentrator, reflectors, heat transfer and
+storage, solar photovoltaics, materials for
+energy conversion, materials for electrical
+Materials for Energy
+2. Advanced Energy
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+energy storage, wind energy, materials for
+wind blades, nuclear energy, geothermal
+Historical background, rechargeable and
+non-rechargeable batteries, primary and
+secondary battery, lead-acid battery, nickel-
+cadmium battery, metal ion batteries
+(Lithium, sodium and potassium),
+multivalent metal ion batteries
+(magnesium, aluminum, zinc), metal-air
+battery, redox-flow battery, photo
+rechargeable batteries, Technical
+challenges, liquid, gel, solid and solid
+polymer electrolytes, supercapacitors,
+modeling electrode materials and the
+physics of electrolytes.
+Basics of nanomaterials, nanoparticles, and
+clusters, quantum confinement and
+quantum dots, nanotechnology for energy
+generation and storage: DSSC and QDSSC,
+fuel cells, hydrogen storage in carbon
+Quantum efficiency study of photovoltaics,
+electrochemical characterizations of energy
+storage devices, electrical characterization
+of thermoelectric, piezoelectric, and
+triboelectric devices. Characterization of
+PV modules, characterization of battery
+First generation silicon solar cells, thin-film
+silicon solar cells, CIGS and CdTe solar
+cells, DSSC, perovskite solar cells,
+piezoelectric MEMS energy harvester,
+piezoelectric energy transducers,
+triboelectric nanogenerator, thermoelectric
+energy harvesting, pyroelectric energy
+Thermodynamics of solar cells and light,
+properties of semiconductors, generation
+and recombination of charge carriers,
+different types of junctions, understanding
+the current flow across the junction.
+Physics of Solar
+Ray optics, design of lenses, concentrating
+systems, sun simulators, field design for
+solar thermal application, Hydrogen
+production from biowaste and fossil fuels,
+Thermochemical, electrochemical and
+photo-electrochemical process for
+hydrogen production, Hydrogen storage in
+Optics for Solar
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Metal Hydrides, Non-metal hydride
+nanomaterials for Hydrogen Storage,
+Thermodynamics of Hydrogen Storage
+Introduction, hydrogen production
+processes, metal hybrid nanomaterials for
+hydrogen storage, non-metal hydride
+nanomaterials for hydrogen storage,
+thermodynamics of hydrogen storage
+electrocatalysis, photocatalysis, pressurized
+hydrogen, liquid hydrogen, metal
+hydrides, chemisorption materials, fuel cell
+principles, distributed application for
+energy generation, electric vehicles
+High-temperature materials for
+conventional energy, physics of polymer
+nanocomposite, liquid electrolytes, damage
+assessment of the materials, recycling of
+materials used in power plants, case
+History of bioenergy, bio-energy
+harvesting, thermoelectrics, bio-reactors,
+bio-piezoelectric materials, light-harvesting
+biomaterials, bio-fuel cell, artificial leaf,
+bio-fluorescent materials, bio-
+phosphorescent, microbial fuel cells, bio-
+macromolecules and bio-polymers
+Solar radiation and measurement, devices
+for measurement, resource data centers,
+data assessment, prediction using machine
+learning and artificial intelligence
+Assessment and Its
+Measures of entanglement and nonlocal
+correlations, Classical and quantum
+information, Quantum Communication
+Protocols, other quantum cryptographic
+protocols, Eavesdropping and security,
+Remote State Preparation, Controlled
+communication protocols, Quantum
+Operations and Noisy Channels, Quantum
+Quantum-Circuit Model, Clauser-Horne-
+Shimony-Holt inequality as a nonlocal
+game, single and multi-qubit operations,
+Measurements, Quantum Algorithms,
+Deutsch-Jozsa and Bernstein-Vazirani
+Algorithms, Simon’s Algorithm, Phase
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+estimation and quantum Fourier transform,
+Quantum cryptography and post quantum
+cryptography, Scalability issues, Fault
+tolerant quantum computation
+Hanbury Brown -Twiss Interferometer,
+Generation of Entangled photons using
+BBO crystal, Photon Statistics using Single
+Photon Detector, Bell-State Analyzer,
+Random Number Generation using
+Quantum resources, Experimental
+demonstration of BB84 protocol
+Test of QNRG with NIST suite, FPGA
+based symmetric and anti-symmetric
+QKD generation, Experiments with QKD
+at components level, Free space quantum
+communication up to 30 meters with
+single photon and analysis Experiments
+with phase-shift key protocol in QKD
+experiments or quantum communication,
+Optical simulation module for Satellite
+Spontaneous Parametric Down-Conversion
+(SPDC) process, Entangled photon
+detection, HOM and Franson
+Interferometer, Quantum distribution
+theory: Q, P and W distributions, Photon
+detection and quantum coherence
+functions, Atom-field interaction
+Hamiltonian; density matrix of two-level
+atom with a single mode field, Lasing
+without inversion, coherent trapping,
+electromagnetically induced transparency:
+Basic concepts of these quantum
+Modern cryptography; number theoretic
+concepts, Classical Coding Theory:
+Concepts of entropy, mutual information
+and related aspects; Shannon's coding
+theorem, Quantum Key Distribution
+protocols: BB84, B92, Ekert protocol,
+quantum cryptography; protocols of
+quantum dialogue, Shor's factoring
+algorithm and modern cryptography;
+Experimental progress in quantum
+cryptography, Quantum aspects of
+Shannon coding theorem.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Seminal Features of
+Generation of Single Photon, Heralded
+Photon and Photon added/subtracted
+states, NOON State. Photon Statistics and
+higher-order moments for non-classical
+states and quantum Metrology, qubits
+using photons and superconducting quits,
+modern quantum algorithms, Open
+Quantum Systems Technological
+Hilbert spaces, dual of Hilbert space,
+separable Hilbert  spaces, linear
+functionals, Adjoint operators, bounded
+linear operators, unbounded operators,
+basic postulates, Observables, states, mixed
+states, qubits, superselection rules,
+compatible observables, Born’s
+correspondence rule for determinative
+measurements, General form of the
+Schrodinger equation, the evolution
+operator, formalism of matrix mechanics,
+equivalence of formalisms, Symmetric and
+antisymmetric tensor products of Hilbert
+spaces, spin and statistics, Spin and
+statistics for the n-body problem
+Foundations of quantum entanglement,
+Introductory and seminal contributions
+related to bi-partite and multiqubit
+entanglement, measures of entanglement,
+classification and quantification of nonlocal
+correlations, entanglement versus
+separability versus nonlocality, multiqubit
+controlled communication protocols,
+splitting of information, open destination
+teleportation, quantum cryptography and
+post quantum cryptography, Bell-CHSH
+inequalities and quantum games,
+Josephson Effects and Superconducting
+Electronics, Circuits and resonance; circuit
+quantization, charge, flux, and phase
+qubits, Quantum  hardware
+implementation, Qubit readout; dispersive
+measurement; parametric amplification,
+variational quantum circuits and its
+applications, Weak measurement and
+feedback, decoherence mechanisms,
+Fluxonium, Positive Operator Value
+Measure (POVM),   Non-demolition
+measurements and  quantum noise,
+Introduction quantum sensing & Quantum
+MEMS, Single photon detectors
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+and Quantum Light
+Single photon source, NV centers Squeezed
+Light generation, mode squeezing
+techniques and other squeezing techniques
+and Parametric down conversion (PDC)
+Second and Fourth Intensity correlation,
+Homodyne (Balanced & Unbalanced)
+Time-Domain, Radon Transformation and
+Inverse-Radon Transformation, Quantum
+Partition function as a path integral;
+density matrix evolution as a path integral.
+Liouville equation; Langevin equation;
+Fokker-Planck equation; Boltzmann
+equation; quantum dynamical semigroups
+and Lindblad equations; projection
+operator techniques. Role of open systems
+in quantum information; geometric phase;
+Financial Derivatives, Spot and Forward
+Rates, Forward and Futures, Options (call
+and put), European and American Options,
+Put-call parity, Binomial Tree, Discrete
+Time Models for Option Pricing, Simon's
+algorithm, The prime factorization
+algorithm, Grover's search algorithm, Error
+correction and fault-tolerant, Quantum
+Computing, Quantum optimization
+Algorithms,  Quantum machine learning
+Algorithms (quantum principal component
+analysis, quantum K-means, quantum
+hierarchical clustering), Quantum
+amplitude estimation and Monte Carlo
+Algorithm, Lagrangian for Stock Price with
+Stochastic Volatility, Classical Monte Carlo
+Pricing, Quantum Algorithm for Monte
+Carlo and European Option Pricing
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Futuristic aspects and role of computer
+science and engineering- Algorithms,
+machines and their architectures;
+limitations and prospects of quantum
+technologies in comparison to their
+classical counterparts, Quantum computing
+and machine learning, Quantum-
+Simulation, Optimization, Algorithms,
+error correction and cryptography in the
+new era, Quantum computing and machine
+learning, Quantum Supremacy, Quantum
+annealing, Eigenvalue problem and
+Quantum phase estimation algorithms,
+Variational eigenvalue solver, Quantum
+circuit learning, Quantum nodes, hybrid
+learning algorithms, Quantum
+Approximate Optimization Algorithm,
+Discrete optimization, kernel functions,
+Coherent quantum machine learning
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Introduction to Electrical Engineering
+Introduction to Computer Science
+Introduction to Bioengineering
+Engineering Design I
+Communication Skill I
+Social Connect and responsibilities I
+Performing Arts I /Sports I
+Engineering Design II
+Communication Skill II
+Social Connect and responsibilities II
+Performing Arts II/Sports II
+Introduction to Machine Learning
+Signals and Systems
+Basic Computational Lab
+Intro. To Profession
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Data Structures and Algorithms
+Embedded Systems & IoT
+Mathematical methods for Physicists
+EM waves and fields
+Big Data Management
+Physics of atoms, molecules and nuclei
+Solid State Physics
+Thin film & Material Characterization Lab
+Applied Computational Lab
+Professional Ethics I
+Nuclear radiation and Energy
+Interaction of radiation with matter
+Semiconducting and Optoelectronic Devices
+Applied optics Lab
+Modern physics Lab
+Radiation and particle detection Lab
+Entrepreneurship for Physicists
+Professional Ethics II
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Fluids & Plasmas
+EM and Neutrino Astronomy
+Total of Graded Credits
+Total of Non-Graded Credits
+Non-Graded Design Credits
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13. Detailed Program Compulsory Course Contents
+13.1 Fundamental Physics
+The instructor will:
+1.  Discuss the fundamental principles of particle dynamics.
+2.  Provide  concepts  and  problem-solving  approach  related  to  dynamics  of  particles  and  rigid
+The students are expected to have the ability to:
+1.  Understand the basic methodology of particle dynamics.
+2.  Design and solve problems related to model mechanical systems.
+Tensor  analysis:  Determinants,  Spaces  of  N  dimensions,  Coordinate  transformations,  Covariant,
+contravariant mixed tensor, Kronecker Delta, Tensor algebra, Matrix algebra. [10 Lectures]
+Waves  and  Oscillations:  Simple  harmonic,  Damped,  and  Forced  oscillations,  Mechanical  and
+Electrical Oscillators. [4 Lectures]
+Newtonian Mechanics: Dynamics of particle: Newton’s law of motion, Central force, motion under
+inverse square law of force, Inertial and non-inertial frames; Dynamics of a system of particles: Linear
+and angular momentum, Total energy of a system of particles, Two-body problem; Dynamics of rigid
+bodies: Moments and product of inertia of some symmetrical bodies, Law of gravitation, Gravitational
+potential. [12 Lectures]
+Lagrange’s formulation of mechanics:
+Constraints  and  their  classification,  Principle  of  least  action,  D’alembert’s  principle,  Lagrange’s
+equations of motion, Generalized force, Application of Lagrangian formulation. [6 Lectures]
+Hamiltonian's formalism of mechanics:
+Canonical  conjugate  momenta,  Legendre  transformation,  Hamilton’s  equations  of  motion,
+applications of Hamilton’s equations. [5 Lectures]
+Special Theory of Relativity:
+The  basic  principles  of  special  relativity,  The  Lorentz  transformation,  Length  contraction,  Time
+dilation, Twin paradox, Covariant four-dimensional formulation, The force and energy equations in
+relativistic mechanics. [5 Lectures]
+1.  A. W. Joshi, Matrices and tensors in Physics, New Age International (1975)
+2.  Rana & Joag, Classical Mechanics, Tata McGraw-Hill (1991)
+3.  A. K. Raychaudhuri, Classical Mechanics, OUP India (1983)
+4.  Kleppner, Daniel; Kolenkow, Robert, An Introduction to Mechanics, Cambridge University
+1.  Goldstein, H., Classical Mechanics, Pearson India Limited, New Delhi (2011)
+Jose,  J.  V.,  and  Saletan,  E.  J.,  Classical  Dynamics:  A  Contemporary  Approach,  Cambridge
+University Press, (2002).
+3.  Landau, L. D., and Lifshitz, E. M., Mechanics, Pergamon Press, (1960).
+Self -Learning Material
+1.  Banerjee D., Classical Mechanics, Indian Institute of Technology Kharagpur, Kharagpur,
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will:
+1.  Address  the  limitations  of  classical  mechanics  and  illustrate  how  quantum  mechanics  can
+Illustrate  the  postulates,  basic  descriptions  of  quantum  systems,  and  important  applications  of
+The students are expected to have the ability to:
+1.  Understand the necessity and the domain of applications of the quantum mechanical approach.
+2.  Solve Schrödinger’s equation for model systems.
+3.  Understand the operator algebra of quantum mechanical angular momentum.
+Linear Vector Spaces:
+Algebraic Eqns, Matrices, Special Matrices, Special Functions, Eigenvalues and Eigenvectors, Vectors,
+Operators, Bra and Ket notation for vectors, Representation theory. [12 Lectures]
+Origin of Quantum Theory:
+Conceptual  aspects,  The  black  body  radiation,  Photoelectric  effect,  Failure  of  Rutherford’s  atomic
+model, Atomic spectra, Bohr’s theory, The mathematical aspects. [3 Lectures]
+The Basic Principles:
+De  Broglie  and  Schrodinger’s  matter  waves,  Double  slit  experiment,  Fundamental  Postulates,  The
+uncertainty principle, Density matrix. [3 Lectures]
+Schrödinger’s  equation,  Particle  in  a  box,  Particle  in  well,  Tunneling  and  resonances,  The  linear
+Harmonic oscillator, The hydrogen atom. [12 Lectures]
+Theory of Angular Momentum:
+The definition, Orbital angular momentum, Addition of angular momentum, Angular momentum and
+rotation, Consequence of quantization. [12 Lectures]
+1.  A. Beiser, S. Mahajan, and S. R. Choudhury, Concepts of Modern Physics, McGraw-Hill, 7th Ed.,
+2.  H. C. Verma, Quantum Physics, Surya Publications, 2nd Ed., 2012.
+3.  D. J. Griffiths and D. F. Shroeter, Introduction to Quantum Mechanics, Cambridge, 3rd Ed., 2018.
+1.  R.  P.  Feynman,  R.  B.  Leighton,  and  M.  Sands,  The  Feynman  Lectures  On  Physics  -  Vol.  3  -
+Quantum Mechanics: The New Millennium Edition, Pearson Education, 1st Ed., 2012.
+J. L. Powell and B. Crasemann, Quantum Mechanics, Dover Publications Inc., 2015.
+3.  E. Merzbacher, Quantum Mechanics, Wiley, 3rd Ed., 1998.
+Self -Learning Material
+1.  NPTEL  Course  Material,  Balakrishnan,  V.,  Department  of  Physics,
+2.  Prof. H. C. Verma, IIT Kanpur, https://hcverma.in/QuantumMechanics
+3.  V. Vuletic, Quantum Physics I, http://hdl.handle.net/1721.1/90372.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Mathematical Methods for Physicists
+The Instructor will:
+1.  Enable  students  with  the  mathematical  skills  required  to  approach  problems  of  interests  to
+physicists in the fundamental and applied research areas.
+The students are expected to have the ability to:
+1.  Understand the properties of special functions and partial differential equations and apply these
+in various physical problems, for instance, electrostatics and quantum mechanics.
+2.  Obtain  the  power  series  of  a  function  and  apply  the  residue  theorem  for  evaluating  contour
+Special Functions and Integrals:
+Ordinary and singular points of a linear differential equation, Beta and Gamma functions, Dirac-delta
+function, Hypergeometric functions, Legendre, Hermite, Laguerre polynomials and their associated
+polynomials, Bessel and spherical Bessel functions, Recurrence relations, Rodrigues formula, Integral
+expressions,  Applications  in  potential  theory  and  wave  mechanics  such  as  evaluation  of  wave
+functions for Quantum harmonic oscillator, Hydrogen atom, etc. [14 Lectures]
+Partial Differential Equations (PDEs) and Integral Transforms:
+PDEs  in  natural  science,  First  order  PDEs,  Classification  of  second  order  PDEs  and  reduction  to
+canonical  forms,  Laplace  and  Poisson  equations,  Application  to  boundary  value  problems  in
+potential theory and steady-state thermal conduction, Heat equation and application to molecular
+diffusion, Wave equation and application to vibrational modes of a string/membrane, Method of
+separation of variables in different coordinate systems, Method of integral transforms. [14 Lectures]
+Review  of  complex  numbers  and  elementary  functions,  Analytic  functions,  Cauchy-Riemann
+conditions, Harmonic functions, Classification of singularities, Order of poles and zeros, Cauchy’s
+residue theorem, Contour integration and application to solving definite integrals, Jordan’s lemma,
+Evaluation of indefinite integrals, Convergence of a power series, Taylor and Laurent series, Analytic
+continuation. [14 Lectures]
+1.  G. B. Arfken, H. J. Weber, and F. E. Harris, Mathematical Methods for Physicists, Elsevier, 7th Ed.,
+S. D. Joglekar, Mathematical Physics: The Basics, Universities Press, 1st Ed., 2005.
+S. D. Joglekar, Mathematical Physics: Advanced Topics, Universities Press, 1st Ed., 2006.
+2.  M. L. Boas, Mathematical Methods in the Physical Sciences, John Wiley & Sons, 2005.
+3.  V.  Balakrishnan,  Mathematical  Physics  with  Applications,  Problems  and  Solutions,  Ane
+I. Sneddon, Elements of Partial Differential Equations, Dover, 2006.
+4.  M. R. Spiegel, Complex Variables, Schaum’s Outline Series, McGraw-Hill, 1999.
+Self- Learning Material
+Selected  topics  in  Mathematical  Physics,  NPTEL  course  (by  Prof.  V.  Balakrishnan,  Department  of
+Physics, IIT Madras).
+2.  Linear Partial Differential Equations, MIT OpenCourseWare, Fall 2006,
+2006/index.htm, (by Dr. Matthew Hancock, Veryst Engineering, LLC)
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+3.  Complex Variables with Applications, MIT OpenCourseWare, Spring 2018
+2018/index.htm# (Dr. Jeremy Orloff, Lecturer in Mathematics, MIT)
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Basic Computational Lab
+The Instructor will:
+1.  Help gaining skills in Linux commands, shell scripting and programming
+Introduce different tools to visualize and graphically analyze data.
+The students are expected to have the ability to:
+1.  Apply basic computational skills in designing and solving problems.
+2.  Develop computer programs to solve problems in science and engineering.
+Introduction to Linux, Shell Scripting, and Python Scripting:
+1)  Basic concepts and commands of Linux; text editing using vim editor
+2)  Shell and Python scripting
+Data Analysis and Visualization: MATLAB, Scilab, Mathematica, Gnuplot, xmgrace, MINUIT
+3)  Data analysis and visualization using MATLAB, Scilab, and Mathematica
+4)  Scientific plotting and graphical/data analysis using Gnuplot and xmgrace
+5)  Minimization algorithms and error analysis using MINUIT (CERN program software library)
+6)  Basic elements of programming: Algorithms and Flowchart development
+7)  Declaration of constants and variables, Print/Read/Write statements with formatting.
+8)  Unary and binary operations: Logical, relational, and arithmetic operations
+9)  Array manipulation and application to matrix multiplication and inversion
+10)  Control statements: IF loops, DO loops, Nested loops
+11)  Functions/Subroutines: Solving real physical problems
+12)  Introduction to LaTeX and Overleaf: Document class, building and compiling a LaTeX file
+13)  Commands and Environments: Inserting equations, figures, tables, list environments, etc.
+1.  V. Rajaraman, Computer Programming in Fortran 90 and 95, Prentice Hall India, 1997.
+2.  S. S. Sastry, Introductory Methods of Numerical Analysis, Prentice Hall India, 5th Ed., 2012.
+3.  S. C. Chapra, Applied numerical methods with MATLAB for engineers and scientists, Tata McGraw-
+Hill, 2nd Ed., 2008.
+4.  P. K. Janert, Gnuplot in Action: Understanding Data with Graphs, Manning, 2nd Ed., 2016.
+J. H. Mathews and K. D. Fink, Numerical methods using MATLAB, PHI Learning, 4th Ed., 2004.
+2.  R. H. Landau, M. J Paez, and C. C. Bordeianu, Computational Physics: Problem-solving with Python,
+Wiley-VCH, 3rd Ed. 2015.
+3.  H. Kopka and P. W. Daly, A Guide to LaTeX: Tools and Technologies for Computer Typesetting,
+Addison-Wesley Longman, 4th Ed., 2003.
+Self -Learning Material
+1.  Computational Physics, NPTEL course (by A. Chatterji and P. Ghosh, Department of Physics, IISER
+2.  MINUIT: Function Minimization and Error Analysis, Reference Manual,
+https://root.cern.ch/download/minuit.pdf (by F. James, CERN Geneva, Switzerland)
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Applied Computational Lab
+Basic Computational Lab
+The Instructor will:
+1.  Help implement different numerical techniques and minimization.
+Introduce Monte Carlo methods to solve real problems in natural sciences.
+The students are expected to have the ability to:
+1.  Apply Monte Carlo techniques in designing and solving scientific problems.
+2.  Model and simulate real phenomena in physics.
+1.  Curve Fitting and Numerical Integration
+2.  Minimization with CG or SD
+3.  Solving ODEs and PDEs
+4.  Systems of Linear and Nonlinear Equations
+5.  Singular Value Decomposition
+Thermodynamics and Statistical Mechanics:
+6.  Thermodynamic Properties and Ensemble Averages
+7.  Langevin and Brownian dynamics
+Monte Carlo Integration and Sampling Methods:
+8.  Random Number Generators and Monte Carlo integration
+10.  Detailed Balance and Markov process
+Monte Carlo Simulations:
+11.  Calculation of Pi
+12.  Random walk problem to understand Brownian motion and molecular diffusion
+13.  Hard sphere model or Ideal gas
+14.  Photon gas problem
+15.  The Physics of the Lennard-Jones system
+1.  Chapra, S. C., and Canale, R. P. Numerical Methods for Engineers, 7th Edition, McGraw-Hill Education.
+2.  Newman, M., Computational Physics, CreateSpace Independent Publishing Platform, 2012.
+1.  Allen, M. P., and Tildesley, D. J., Computer Simulation of Liquids, Oxford University Press, 2nd ed. 2017.
+2.  Landau,  D.  P.  and  Binder,  K.,  A  Guide  to  Monte  Carlo  Simulations  in  Statistical  Physics,  3rd  Edition,
+Cambridge University Press 2009.
+3.  T.  Schlick,  Molecular  Modeling  and  Simulation:  An  Interdisciplinary  Guide,  New  York:  Springer-Verlag,
+Second Edition (2010).
+Self -Learning Material
+1.  MIT Open CourseWare, 3.320 “Atomistic Computer Modeling of Materials (SMA 5107)”, by Ceder, G. and
+Marzari, N.; Spring 2005, https://ocw.mit.edu/courses/materials-scienceand-engineering/3-320-
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13.2 Electrodynamics and Plasma Physics
+EM Waves and Fields
+The Instructor will:
+1.  Provide the concepts regarding boundary value problems in electro and magnetodynamics.
+2.  Basic understanding of electro-magnetic fields and their applications in applied branches of
+The students are expected to have the ability to:
+1.  Explain and solve problems based on classical electrodynamics
+2.  To understand retarded and advanced potentials, waveguides, resonant cavities and their
+1.  Green’s Function in Electro- and Magnetodynamics, Boundary value problems in Electrostatics,
+Uniqueness theorem, Green's Function in Electrostatics, Multipole expansion, Magnetodynamics,
+Displacement  current,  Maxwell’s  equations,  Vector  potentials,  Electromagnetic  energy
+momentum Tensor. [12 Lectures]
+2.  Electromagnetic Wave Propagation in Media and Fresnel Coefficients: Electromagnetic Waves at
+a Plane Interface between Dielectrics, Plane Waves in Non-conducting Medium, Group Velocity
+Dispersion  (GVD),  Kramers-Kronig  Relations,  Linear  and  Circular  Polarization,  Wave-plates,
+Stokes Parameter, Fresnel coefficients. [10 Lectures]
+3.  Geometry of Waveguides and Resonant Cavities: Fields at the surface of and within a Conductor;
+Cylindrical Cavities and Wave Guides, Resonant Cavities, Power losses in a Cavity and Q of a
+Cavity. [10 Lectures]
+4.  Retarded and Advanced Potentials: Radiation by moving Charges, Lienard-Wiechertz Potentials
+and Fields for a moving Point Charge, Total power Radiated by an Accelerating charge, Larmor’s
+formula.  [6 Lectures]
+5.  Radio  Waves  and  Antennas:  Introduction  to  Radio  waves  and  different  types  of  antennas.  [4
+2.  Griffiths, J. David, Introduction to Electrodynamics, Prentice Hall.
+Jackson, J. D., Classical Electrodynamics, Wiley India Pvt. Ltd., 2007.
+1.  Lorrain, P.  and Corson, D., Electromagnetic Fields and Waves, CBS Publishers, 2003.
+2.  Panofsky W.K.H. and Philips M., Classical Electricity and Magnetism, Dover Publishers, 1990.
+Self-Learning course material
+1.  Dighe, A., Electrodynamics, Tata Institute of Fundamental Research, Mumbai,
+2.  Gut, A., Lecture notes on Electromagnetism II, MIT open course ware
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Interaction of Radiation with Matter
+The Instructor will:
+1.  To provide the basic understanding of interaction of different forms of radiation with matter.
+2.  Basic scientific processes involving detection of radiation and its applications.
+The students are expected to have the ability:
+1.  To familiarize with fundamental concepts of radioactive and ionizing radiations.
+2.  To familiarize with the usage of ionizing radiation in the modern technologies.
+1.  Radioactive decays and energy loss mechanisms: Interaction of ionizing and non-ionizing radiation
+with matter, Energy loss mechanism of charged particle and Radiation, Collisional Stopping power
+(Bathe’s formula), Energy range of alpha and beta particles.  Mass spectrometer & Time-of-flight (TOF),
+Scattering:   Differential Cross-section of a nuclei and related experimental techniques, Introduction to
+Geant. [7 Lectures]
+2.  Radiation Counters: Principle of radiation counter, Geiger Muller (GM) Counter, Scintillation Counter
+and other radiation counting techniques, Particle accelerator. [6 Lectures]
+3.  Nuclear sensors and Radiation Safety: Nuclear detection techniques, Radiation threshold for humans,
+Radiation Safety and protocols. [6 Lectures]
+4.  Generation of Radiation and its applications: Synchrotron Radiation, Free-electron Laser, Cherenkov,
+Optical  Transition  Radiation  (OTR)  &  Coherent  Transition  Radiation  (CTR)  and  Bremsstrahlung
+Radiation. [9 Lectures]
+1.  To measure the plateau region of GM tube
+2.  To calculate gamma-ray attenuation in a medium using gamma source
+3.  Dosimeter calibration using different radio-active sources
+4.  Radiation counter: To measure the gamma-ray counts using gamma-ray counter
+5.  Radiation counter: To measure the beta-ray counts using beta-ray counter
+6.  Simulation of GEANT-4: Interaction of high energy positive ions in a medium
+7.  Simulation of GEANT-4: Interaction of high energy electrons in a medium
+8.  Simulation  of  GEANT-4:  Interaction  of  high  energy  gamma-particles  and  other  neutral  in  a
+3.  Manual for GEANT-4 simulation software
+Irving Kaplan, Nuclear Physics, Addison -Wesley publication
+J. D. Jackson, Classical Electrodynamics, Wiley-India Pvt. Ltd., 1999, Third Edition.
+1.  B. L. Cohen, CONCEPTS OF NUCLEAR PHYSICS, Tata Mcgraw Hill Education Private Limited,
+2005, Third Edition.
+2.  Ghoshal, S. N., Nuclear Physics, S. Chand, 2011.
+1.  T.  Kundu,
+Jeffrey  Coderre,  MIT  Course  Number  22.55J,  PRINCIPLES  OF  RADIATION  INTERACTIONS,
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will provide:
+1.  The concepts of fundamental optics.
+2.  Classical and Semi-Classical approaches to understand the characteristics of light wave.
+The students are expected to have the ability:
+1.  To gain the knowledge of Geometrical and Wave Optics.
+2.  To understand the role of Polarization and Fourier Optics in optical instruments.
+Geometrical  Optics:  Light,  Corpuscular  and  Wave  models  of  light,  Wave  particle  duality,  Fermat’s
+principle and its applications, Eikonal Equation, reflection and refraction by spherical surfaces, Matrix
+method in paraxial optics, Thin and thick lens, Optical system (telescope), aberrations. [10 Lectures]
+Wave  Optics:  Simple  Harmonic  Motion,  Forced  Vibrations  and  origin  of  refractive  index,  wave
+propagation,  wave  equation,  Huygens  principle  and  its  applications,  superposition  of  waves,
+interference  by  division  of  wave-fronts  and  division  of  amplitudes,  multiple  beam  interference,
+Coherence. [10 Lectures]
+Fourier  Optics:  Overview  of  Diffraction,  Diffraction  Integral:  Fresnel  Diffraction,  Fraunhofer
+approximation.  Fraunhofer  Diffraction  by  long  narrow  slit,  rectangular  aperture,  circular  aperture,
+Working  principle  and  application  of  telescope,  spatial  frequency  filtering,  Fourier  transforming
+property of a thin lens, Fresnel diffraction. [8 Lectures]
+Polarization:  Malus  Law,  Production  of  polarized  light,  Brewster  angle,  Phenomenon  of  double
+refraction,  interference  of  polarized  light,  Analysis  of  polarized  light,  Walston  prism,  EM  Wave
+propagation in a anisotropic media, Ray velocity, Ray refractive index, Faraday rotation. [8 Lectures]
+Semi-Classical and Quantum approaches. [6 Lectures]
+1.  Ghatak A, Optics, 7th Edition Mc-graw Hill Publisher, 2021.
+2.  Hecht E., Optics, 4th Edition, Pearson Publisher, 2007.
+1.  Born & Wolf, Optics (7th edition)
+2.  K K Sharma, Optics: Principles and Applications, Academic Press 2006.
+1.  Barbastathis,  G.  and  Sheppard  C.,  Optics,  https://ocw.mit.edu/courses/mechanical-
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Fluids and Plasmas
+The Instructor will:
+1.  Provide  a  basic  understanding  of  contemporary  developments  in  the  plasma  technology  area
+through concept building of plasma science.
+2.  Familiarize  students  to  the  broad  range  of  plasma  environments  and  plasma  applications  and
+provide experience in the handling of basic equipment.
+The students are expected to have the ability to:
+1.  Solve  basic  plasma  physics  problems  and  be  familiar  with  important  scientific  approaches  of
+Fluids and Plasmas.
+2.  Acquire a broad knowledge base of plasma science and its technological applications.
+3.  See plasma as an enabling technology and understand where applying plasmas can lead to new
+or improved technology.
+The Name Plasma:  Relevant concepts from gas (kinetic) theory, Saha equation, Definition of plasma
+and relevant characteristic parameters (e.g., Mean free path, Debye length, Debye shielding, plasma
+temperature, plasma oscillations, degree of ionisation, plasma sheath), Plasmas in nature. [6 Lectures]
+Fluid Theory: Two fluid model, Continuity equation, Momentum conservation, Convective derivative,
+Equations  of  state,  Single  fluid  approximation:  MHD,  MHD  equilibria,  Generalised  Ohm’s  Law,
+Waves and instabilities in plasmas. [7 Lectures]
+Breakdown  Conditions  and  Man-Made  Plasmas:  Townsend  discharge  and  electrical  breakdown
+conditions of gases, Discharge regimes (Glow Discharge, Abnormal Glow Discharge, Arc Discharge),
+Concepts  of  DC  plasma,  DC-pulsed  plasma,  RF  plasma,  Atmospheric  pressure  Cold  plasma,
+Capacitive  and  Inductive  plasmas,  Electron  Cyclotron  Resonance  (ECR)  plasma,  Tokamak  plasma,
+Laser produced Plasma. [9 Lectures]
+Laboratory Plasma Applications: Plasma treatment of surfaces, Plasma deposition, Plasma Etching,
+Plasma Lightning devices, Cold plasma applications in health, food, energy and agriculture, Nanoscale
+fabrications and plasma for biomedicines. [6 Lectures]
+1.  To study the conditions of occurrence of plasma striations.
+2.  To study the dependence of break-down voltage on pressure and inter-electrode gap for a given
+gas using Paschen Curve.
+3.  To launch and detect ion-acoustic waves and demonstrate collective behaviour of plasma.
+4.  Measurement of plasma parameters (floating potential, electron temperature and plasma density)
+by Langmuir probe.
+5.  To measure plasma parameters using a double Langmuir Probe where there is no reference point.
+6.  To identify the plasma species and their concentrations using plasma spectroscopy.
+7.  To demonstrate thin film deposition on glass substrate using Magnetron Sputtering System.
+8.  To demonstrate Plasma Nitriding Process for surface hardening of different alloyed steels.
+9.  To demonstrate surface treatment using non-equilibrium Cold Plasma.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+1.  F.F. Chen, Introduction to Plasma Physics and Controlled Fusion, Volume 1: Plasma Physics,
+NY, Plenum Press, 1984
+2.  Yuri P. Raizer, Gas Discharge Physics, Springer-Verlag Berlin Heidelberg, 1991
+J. Reece Roth, Industrial Plasma Engineering, Vol. 1 & 2, Institute of Physics Publishing, 2003
+4.  P.I John, Plasma Sciences and the Creation of Wealth, Tata McGraw-Hill Education Company
+Pvt. Ltd., New Delhi, 2005
+1.  R.J Goldston and Paul H. Rutherford, Introduction to Plasma Physics, Institute of Physics
+Publishing, Bristol 1995.
+2.  Michael Lieberman and Allan J. Lichtenberg, Principles of Plasma Discharges and Materials
+Processing, John Wiley, 2005
+John Wesson, Tokamaks, Clarendon Press- Oxford, 2004
+Self-Learning course material
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Applied Optics Lab
+The Instructor will:
+1.  Provide the experimental understanding regarding the fundamental concepts of Optics using
+different measurement techniques.
+The students are expected to have the ability to:
+1.  Apply the concepts and become familiar with the fundamental optical processes.
+2.  Understand the working principles of various optical measurement techniques.
+1.  Measurement of the wavelength of He-Ne Laser and Na lamp using Michelson’s Interferometer.
+Study of fringes of equal inclination and equal thickness using Na lamp.
+2.  To measure the (a) optical path difference and (b) refractive index of transparent material using
+Mach Zehnder’s interferometer.
+3.  To measure the spacing between the tracks on a CD using Diffraction of laser light.
+4.  To determine the wavelength of Sodium light using Fresnel bi-prism. To find out the angle of bi-
+5.  To find out the difference in wavelength of D1 and D2 lines of sodium light. To determine the
+wavelength of monochromatic light.
+6.  Verification of Malus' law. Measurement of reflection coefficient of a glass plate for p- and s-
+polarizations. Determination of Brewster angle.
+7.  To determine the (a) Numerical aperture, (b) splice loss and bending loss of a multi-mode optical
+8.  Demonstration of light amplification process through optical fiber as a gain media.
+9.  To generate Holographic images used laser based Holography.
+10.  To study electro-optic effect using Non-linear Optical Crystal.
+1.  Ghatak A, Optics, 7th Edition Mc-graw Hill Publisher, 2021
+2.  F.L. Pedrotti, L. M. Pedrotti, L.S. Pedrotti, Introduction to Optics 3rd Edition, Pearsons, 2014.
+1.  Barbastathis, G. and Sheppard C., Optics, https://ocw.mit.edu/courses/mechanical-engineering/2-
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will:
+1.  Provide an experimental understanding of Electromagnetic Waves and Fields and their significance in
+The students are expected to have the ability to:
+1.  Understand  the  basics  related  to  the  EM  waves,  working  principles  of  various  measurement
+2.  Experimentally establish the theoretical concepts of EM.
+1.  To construct a Collimator and a Beam Expander using required optical components and measure the
+expansion in the laser beam spot size.
+2.  To construct a Telescope using required optical components and obtain a magnification of 20X.
+3.  To measure the FSR (free spectral range) and spacing of the etalon using Fabry-Perot etalon.
+4.  Electrodynamics Numerical Solver: Electrostatic field distribution and its characterization for circular
+5.  Electrodynamics  Numerical  Solver:  Electrostatic  field  distribution  and  its  characterization  for
+rectangular geometrical structures
+(a) To determine the frequency and wavelength in a rectangular waveguide working on TE 01 mode.
+(b) Determination of V number.
+7.  To measure polar pattern and gain of a waveguide antenna.
+8.  Characterization  of  parabolic  dish  antenna,  Effect  of  Impedance  measurement  for  different  coaxial
+cables and their frequency dependence.
+2.  Griffiths, J. David, Introduction to Electrodynamics, Prentice Hall.
+Jackson, J. D., Classical Electrodynamics, Wiley India Pvt. Ltd., 2007.
+1.  Lorrain, P.  and Corson, D., Electromagnetic Fields and Waves, CBS Publishers, 2003.
+2.  Panofsky W.K.H. and Philips M., Classical Electricity and Magnetism, Dover Publishers, 1990.
+Self-Learning course material
+1.  Dighe, A., Electrodynamics, Tata Institute of Fundamental Research, Mumbai,
+2.  Gut, A., Lecture notes on Electromagnetism II, MIT open course ware
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13.3 Condensed Matter Physics
+The Instructor will:
+1.  Provide basic understanding and knowledge to thermal physics including both fundamental as well
+as applied aspects.
+The Students are expected to have the ability to:
+1.  Understand the fundamental laws of thermodynamics and statistical physics and applications.
+2.  Develop  the  ability  and  skill  to  apply  the  thermal  physics  principles  to  various  thermo-dynamical
+systems and processes in different domains of physics and technology including condensed matter
+and semiconductor materials and devices.
+Kinetic  theory  of  gasses:  Maxwell-Boltzmann  speed  distribution  law,  Mean  free  path,  collision
+probability, Fundamentals of transport phenomena, Brownian motion and its significance, Einstein’s
+theory  of  molecular  diffusion,  Perrin’s  experiment,  random  walk,  Viscosity,  diffusion,  effusion,
+thermal conductivity in gas. [10 Lectures]
+Principle  of  equipartition  of  energy:  Specific  heat  of  monoatomic,  diatomic  and  polyatomic  gasses,
+Specific heat of solids, Dulong-petit law, Virial expansion. [4 Lectures]
+Thermodynamic laws and potentials: zeroth, 1st, 2nd, and 3rd laws of thermodynamics, Cyclic process,
+Carnot’s  theorem,  Entropy  and  the  concept  of  unavailable  energy,  T-S  diagram  thermodynamic
+potentials, Equation of state for Real gasses, deviation from ideal gas equation, The Van-der Waals
+equation  of  state,  Clausius–Clapeyron  relation,  Gibbs-  Helmholtz  and  energy  equations,  Enthalpy,
+Helmholtz  and  Gibbs
+thermodynamics of chemical reactions. [12 Lectures]
+free  energies,  general  condition
+Phase  Transitions:  1st  and  2nd  order  phase  transitions,  Phase  diagram  and  Triple  point,  Ehrenfest
+equations, Gibbs phase rule and simple applications. [6 Lectures]
+Radiation:  Energy  density  and  pressure  of  radiation,  Blackbody  radiation  and  Kirchhoff’s  law,
+Blackbody (Cavity). [4 Lectures]
+Statistical Physics: Principle of statistical physics, Concept of ensemble and introduction to different
+statistics. [6 Lectures]
+1.  Schroeder D, An Introduction to Thermal Phsyics, Oxford University Press, 2021
+2.  Zemansky M W and Dittman R H, Heat and Thermodynamics, McGraw Hill, 2017
+1.  Kittel C and Kroemer H, Thermal Physics, W. H. Freeman Publication, 1980
+2.  Rief, F., Fundamental of Statistical and Thermal Physics, Waveland Press, 2009
+3.  Blundell S. J. and Blundell, K. M., Concepts in Thermal Physics, Oxford University Press, 2009
+Saha Meghnad, Srivastava, A Treatise on Heat, Indian Press Ltd, 1935
+Self-Learning course material
+1.  Banerji D., Thermal Physics, NPTEL course material, Department of Physics, IIT Kharagpur
+2.  Anand, T. N. C., Thermodynamics, NPTEL course material, Department of Mechnical Engineering, IIT
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Solid State Physics
+The Instructor will:
+1.  Provide an introduction to crystals and their representation in physics.
+2.  Provide  the  concepts  of  thermal,  electronic,  magnetic  and  dielectric  properties  due  to  the  periodic
+nature of crystals.
+The Students are expected to have the ability to:
+1.  Understand the physical properties of crystalline materials using simple models and approximations.
+2.  Develop the understanding how many body interactions at quantum scale manifests into measurable
+and observable physical effects.
+Crystal Structure and Crystal Binding: Solids and Liquids, Symmetry, Periodic Lattice, Unit Cell, Miller
+indices, Reciprocal Lattice, Brillouin Zone, X-ray diffraction and extinction rules. [11 Lectures]
+Crystal Binding: Crystals of inert gasses, Van der Waals London interaction, Cohesive energy, Ionic,
+Covalent and Metallic bonding, Hydrogen bonds. [3 Lectures]
+Phonons  and  Electrons  in  Solid:  Phonon  dispersion  for  mono  and  diatomic  systems,  Phonon  heat
+capacity, Density of states, Einstein and Debye model of specific heat capacity, Thermal expansion and
+Thermal conductivity. [6 Lectures]
+Electron  in  Periodic  potential:  Free  Electron  model,  Density  of  states,  Heat  capacity,  Electrical
+conductivity,  Motion  in  magnetic  field,  Thermal  conductivity  and  Lorentz  number,  Energy  Bands,
+Bloch function, Kronig-Penney model, metals, semiconductors and insulators. [11 Lectures]
+Magnetism and Superconductivity: Types of Magnetism, Quantum theory of dia and paramagnetism,
+Weiss model of Ferro and Antiferromagnetism, Domains and hysteresis, Meissner effect, Theoretical
+Models of Superconductivity, BCS theory, Josephson effect, Flux quantization. [11 Lectures]
+Laboratory  Experiments:  Phonon  dispersion,  M-H  hysteresis,  Magnetic  susceptibility,  Electron  spin
+resonance,  Two  probe  and  four  probe  resistivity,  Dielectric  constant  and  curie  temperature,
+thermoluminescence,  temperature  dependent  ionic  conductivity;  Report  and/or  presentation  on
+Advanced topics in solid state physics selected by the instructor (Lab manuals will be provided)
+1.  Kittel, C., Introduction to Solid State Physics, Wiley, 8th Edition, 2008.
+2.  Omar, M. A., Elementary Solid State Physics, Pearson, 2009.
+1.  Ashcroft, N., W. and Mermin, N., D., Solid State Physics, Cengage Learning, 1976
+2.  Simon, S., The Oxford Solid State Basics, Oxford University Press, 2013
+3.  Dekker, A. J., Solid State Physics, Springer, 1981
+Self-Learning course material
+1.  Rangarajan, G., Condensed Matter Physics, NPTEL Course Material, Department of Physics, Indian
+Institute of Technology Madras, https://nptel.ac.in/courses/115106061/.
+2.  Wen,  X-G.,  Physics  of  Solids  I,  MIT  open  course,  https://ocw.mit.edu/courses/physics/8-  231-
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Thin film and Material Characterization Lab
+The Instructor will:
+1.  Describe techniques to deposit thin films on a substrate.
+2.  Demonstrate the structural, electrical, magnetic, thermal and mechanical characterization techniques
+for bulk and thin film materials.
+The students are expected to have the ability to:
+1.  Deposit thin films by simple techniques.
+2.  Measure  the  structural  and  physical  properties  viz,  electronic,  magnetic,  optical  and  mechanical
+properties of bulk and thin film samples.
+3.  Perform Analysis and interpretation of the measured data.
+1.  Thin film deposition by spin-coating and dip-coating
+2.  Thin film deposition by thermal evaporation
+3.  X-Ray diffraction of bulk and thin film materials and analysis
+4.  Electron microscopy and or AFM to find the morphology and surface topography
+5.  Temperature dependent Resistivity and Magnetoresistance by four probe
+6.  Van der Pauw method for electrical resistivity and Hall bar geometry
+7.  Thermal conductivity measurement by Lee’s disc method
+8.  Heat capacity (DSC/TGA)
+9.  Thermoelectric properties/ Seebeck coefficient of semiconductors
+10.  UV-Vis spectroscopy to find absorption edges of materials
+11.  Raman Spectra of solid sample
+12.  Stress-Strain and hardness measurement of bulk samples
+1.  Kaufmann, E. N., Characterization of Materials, Wiley, 2012
+2.  Laboratory Manuals of equipment
+1.  Ohring, M., Materials science of thin films, Elsevire, 2nd Edition, 2002
+2.  Maissel, L. I. and Glang, R., Handbook of Thin Film Technology, McGraw-Hill, 1970
+Self-Learning course material
+1.  Alagarsam, P., Characterization of Materials, NPTEL course material, Department of Physics, IIT
+2.  Review papers and Technical reports
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Semiconducting and Optoelectronic Devices
+The Instructor will:
+1.  Provide concepts on semiconducting and optoelectronic devices.
+2.  Show the approach to analyze and understand the physics of semiconducting device operation.
+The students are expected to have the ability to:
+1.  Know the operational principles of semiconducting and optoelectronic device.
+2.  Design a device for the desired application.
+Basic Overview: Crystal Structure, quantum mechanics, solid state physics. [2 lectures]
+Semiconductor  in  Equilibrium:  Intrinsic  carrier  concentration,  dopants,  extrinsic  semiconductor,
+distribution  of  carriers,  location  of  Fermi  level;  charge  transport,  drift-diffusion  equation;  non-
+equilibrium semiconductor-generation and recombination, ambipolar transport, quasi-Fermi energy.
+Semiconductor  Device:  PN-junction  diode,  zero  bias,  reverse  bias,  junction  breakdown,  junction
+current,  generation-recombination  current,  charge  storage  and  diode  transient,  zener  diode.  [10
+Device  Interface:  Metal  semiconductor  barrier,  Schottky  contact,  Ohmic  contact,  heterojunctions,
+MOSFET-C-V characteristics, I-V characteristics, frequency limitation, non-ideal conduction, MOSFET
+scaling, channel effects. [7 lectures]
+Three  terminal  devices:  Junction  field  effect  transistor,  device  characteristics,  non-deal  effects,
+frequency limitation, high electron mobility transistor. [3 lectures]
+Optoelectronic devices: Solar cells, photodetectors, light emitting diode, laser diodes. [5 lectures]
+Next  Generation  Electronic  devices:  Materials  and  devices  for  Spintronics,  Valleytronics  and
+Plasmonics, Organic electronic. [5 lectures]
+Laboratory: Band gap of semiconductor, Temperature dependent Hall effect, Temperature dependent
+electrical  conductivity  of  doped  semiconductor,  Mobility  of  charge  carrier,  Capacitance-Voltage
+measurement, Characterization of solar cell, Quantum efficiency of solar cell, Output characteristic of
+I-V  characteristic  of  photodetector  and  phototransistors,  Optical  absorption  and
+Photoluminescence,  Report  and/or  presentation  on  Advanced  topics  in  Semiconducting  and
+Optoelectronic devices selected by the instructor.
+1.  Semiconductor Physics and Devices, Donals A. Neamen
+2.  Solid State Electronic Devices, Ben G. Streetman, S. K. Banerjee
+1.  Physics of Semiconductor Devices, S. M. Sze
+1.  Prof. M. R. Shenoy, Semiconductor Optoelectronics, NPTEL course material, Department of Physics,
+IIT Delhi, https://nptel.ac.in/courses/115102026
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will:
+Introduce physics concepts and principles relevant for medicine and health.
+2.  Provide  the  introduction  to  physics  driven  modern  diagnostic  tools  and  various  technology  in  the
+The students are expected to have the ability to:
+1.  Get deeper insights into impact of physics in medical applications.
+2.  Apply physics based principles in the development of medical diagnostics and therapeutic.
+Imaging techniques and Image analysis [PHL3XX1]:
+(a)  Optical  and  Radiological  Imaging:  Polarization  Microscopy,  Confocal  Microscopy,  Fluorescence
+Microscopy and Phase Contrast Microscopy, Breaking the diffraction limit in microscopy, Scanning
+near-field  optical  microscopy  (SNOM),  X-ray  imaging  and  computerized  Tomography  (CT),
+Radioisotope  imaging,  Positron–emission  Tomography,  Hybrid  imaging  techniques  (SPECT/CT,
+(b)  Resonance  imaging  and  Image  analysis:  Principle  of  Nuclear  Magnetic  resonance  and  Magnetic
+Resonance  Imaging,  functional  MRI,  Principles  of  Image  analysis  including  Advanced  ML  and  AI
+techniques. [14 lectures]
+Physics in Medical research and Therapeutic applications [PHL3XX2]:
+(a)  Interaction of radiation with matter, Interaction of photons with tissues, molecules, cells and organs,
+Bragg’s  Curve,  Elastic  and  inelastic  scattering,  Thomson  and  Compton  Scattering,  Techniques  of
+delivering radiation to human body.
+(b)  Plasma  for  Medicine  and  Nuclear  Medicine:  Low  temperature  plasma  technology  for  medical
+research, Cold plasma applications in Therapeutic, Fundamentals of Nuclear Medicine, Radioactivity,
+Production of radionuclides, Radiation therapy for cancer treatment. [14 lectures]
+1.  Cho,  Z-H.,  Jones,  J.  and  Singh,  M.  (1993),  Foundations  of  Medical  Imaging,  1st  Edition  Wiley
+2.  Pryma, D. A. (2015), Nuclear Medicine, 1st Edition, Oxford University Press
+3.  Murphy, D. B. and Davidson, M. W. (2012), Fundamental of Light Microscopy and Electronic Imaging,
+2nd Edition, Wiley-Blackwell
+4.  Cherry, S. R., Sorenson, S. A. and Phelps M.E. (2012), Physics of Nuclear Medicine, Elsevier Inc.
+1.  Bushberg, J. T., J. Anthony S., Edwin M. L., and Boone, j., The Essential Physics of Medical Imaging.
+2nd ed. Baltimore, MD: Lippincott Williams & Wilkins, 2001.
+1.  Sheet,  D.,  Medical  Image  Analysis,  Department  of  Electrical  Engineering,  IIT  Kharagpur,
+Jasanoff,  A.,  MIT  Opencourseware,  Noninvasive
+in  Biology  and  Medicine,
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13.4 Atomic and Subatomic Physics
+Physics of Atoms, Molecules and Nuclei
+BS in PH
+1.  To learn Atomic Physics with a problem solving approach towards atomic physics and spectroscopy.
+2.  To understand the stability of nucleus with nucleon interactions.
+1.  The  students  will  have  an  understanding  of  quantum  behavior  of  atoms  in  external  electric  and
+Hydrogen  atom:  Review  of  time-independent  perturbation  theory.  Fine  structure  of  the  hydrogen
+atom  spectra:  Relativistic  correction  to  the  kinetic  energy  and  spin-orbit  coupling  for  one  electrons
+systems.  Review  of  the  Dirac  equation.  Dirac  equation  in  the  non-relativistic  limit.  Effect  of  one
+electron  system  in  electric  and  magnetic  fields,  introduction  to  Landau  quantization.  Spectroscopy
+Hyperfine interaction in atomic Hydrogen. Spectroscopy with the 21 cm emission line.  [10 Lectures]
+Line broadening mechanics and Interaction of electromagnetic radiation with a two-level atom: Line
+broadening  mechanisms.  Spontaneous  and  stimulated  emissions  and  Einstein  coefficients.  Rabi
+flopping. Selection rules and transition probability. Transition probabilities and intensity of spectral
+lines. masers and lasers. [10 Lectures]
+Many electron   systems and Molecular Physics: Two-electron systems Electron configurations and
+spectroscopic notation, equivalent and non-equivalent electrons and Hund's rules. Hartree-Fock SCF
+method,  Total  Hamiltonian  of  a  molecule.  Born  -Oppenheimer  approximation.  Rotational  and
+Vibrational  Spectra  of  molecules.  Infrared  and  Raman  Spectra  analysis.  The  quantum  treatment  of
+Raman effect.  Molecular Orbital and Electronic configuration of Diatomic molecules: H2, C2 and O2;
+Vibrational  structure  and  vibrational  analysis,  Dissociation  Energy  of  diatomic  molecules.  [10
+Nuclear  Models  and  Nucleon-nucleon  interactions:  Magic  Number,  Shell  model,  Nucleon  mean
+potential, Deuteron nuclei potential and dipole moment. Low energy neutron-proton scattering, Spin
+dependence of neutron-proton interaction, Non-central force, Low energy proton-proton scattering,
+High-energy neutron-proton & proton-proton scattering, Meson theory of nuclear force, Nature of two
+nucleon potential. [10 Lectures]
+1.  Bransden, B.H. and Joachain, C.J., (2004), Physics of Atoms and Molecules, Prentice Hall, 2nd Edition,
+Pearson Education, Delhi
+2.  B. L. Cohen, Concepts of Nuclear Physics, Tata Mcgraw Hill Education Private Limited, 2005, Third
+1.  Condon, E. U. and Shortley, G. H., (1951), The Theory of Atomic spectra, Cambridge University Press
+NPTEL : NOC:Atomic and Molecular Physics (Physics) (digimat.in)
+1.  NPTEL: by H.C. Verma Nuclear and Particle Physics
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Modern Physics lab
+BS in PH
+The Instructor will:
+1.  Provide the experimental techniques regarding the fundamental concepts of Modern physics using
+different measurement techniques.
+The students are expected to have the ability to:
+2.  Apply the concepts and become familiar with experimental aspects of Modern Physics.
+S. No. Name of the Experiment
+1.  Recording of Hydrogen Spectra - Rydberg Constant
+2.  Zeeman effect- Atom in a magnetic field
+3.  Speed of light
+4.  Stark effect- Hydrogen atom in an electric field
+5.  Dissociation Energy of Iodine molecule (I2) using Rowland Grating
+6.  Frank-Hertz Experiment
+7.  Charge of Electron- Millikan Oil drop method
+8.  Measurement of charge to mass ratio of an electron (e/m ratio)
+9.  Measurement of Planck’s Constant
+10.  ESR Spectroscopy- Solids
+1.  Melissinos Adrian C. and Napolitano J. Experiments in Modern Physics 2003, Academic Press
+1.  Manuals of the Experiment.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Nuclear radiation and energy
+BS in PH
+The Instructor will:
+1.  Provide the basic physics of nuclear energy and radiation.
+The students are expected to have the ability to:
+1.  Understand the applications of Nuclear radiations.
+Introduction to Nuclear Radiation: Nuclear Transition, Multipole expansion of Nuclei, Nuclear Energy
+levels, Transition Selection Rules, Nuclear Interactions with matter. [8 Lectures]
+Nuclear  detection  and  measurements:  Dosimetry,  Image  plate  and  Nuclear  Calorimeter,  MCP
+(Multichannel plates), Single Channel Analyzer (SCA) & Multi-channel analyzer (MCA), Coincidence
+counter (CC) and Anti-Coincidence counter (ACC). [5 Lectures]
+Nuclear  archaeology:  Radiocarbon  dating  in  archaeology,  Calibration  technique  and  estimation  of
+archaeological artifacts. [8 Lectures]
+Fission and Fusion reactors: Thorium cycles and Uranium Cycles, Nuclear reactor basics. [7 Lectures]
+1.  Cohen B. L., Concepts of Nuclear Physics, McGraw-Hill Publisher, 1971.
+2.  Knoll. G., Radiation Detection and Measurement, John Wiley & Sons, Inc., 2000.
+1.  Nuclear Engineering Science, MIT Opencourseware
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Radiation and Particle Detection Lab
+BS in PH
+The Instructor will:
+1.  Provide the experimental techniques regarding the concepts of radiation and particle detection
+The students are expected to have the ability to:
+1.  Apply the concepts and become familiar with experimental aspects of Radiations and Particles.
+S. No. Name of the Experiment
+1.  Gamma and Alpha Energy resolved measurement
+2.  Compton Scattering
+3.  Measurement of Dead-time in GM tube
+4.  Mass Spectroscopic TOF
+5.  Detection of Atmospheric Muon with Scintillator detector
+6.  Measurement of muon lifetime
+7.  Measurement of half-life of radioactive source
+8.  Track Detectors (CR-39)
+9.  Spark Chamber
+1.  Melissinos Adrian C. and Napolitano J. Experiments in Modern Physics 2003, Academic Press
+1.  Manuals of the Experiment.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+EM and Neutrino astronomy
+BS in PH
+The Instructor will:
+1.  Provide basics of elementary particles and different interactions.
+2.  Describe observation techniques in astrophysics and its interpretation.
+The students are expected to have the ability to:
+1.  Understand the interactions of elementary particles.
+2.  Understand details about multi-wavelength astronomy.
+Kinematics  of  high  energy  collisions,  Pi  mesons,  Muons  and  their  properties,  Strange  mesons,
+Hyperons, Resonance particles, Fundamental interactions in nature, Quark hypothesis of elementary
+particles, Classification of elementary particles, Neutrino oscillation, Conservation laws. [10 Lectures]
+Basics of Astronomy:
+Celestial  coordinates,  brightness,  absolute  and  relative  magnitude.  Properties  of  stars  with  optical
+radiations:  Hertzsprung-Russel  (HR)  diagram,  size,  mass  and  temperature  of  stars.  Reading
+Hipparcus catalogue for stars and making the HR diagram for open and closed clusters. [10 Lectures]
+Radio, X-ray and gamma-ray Astronomy:
+Radio  emission  from  astrophysical  objects,  Radio  HR-diagram,  Radio  emission  from  Pulsars,  H1
+emission from Galaxies, Quasars.
+X-ray  and  Gamma-ray  radiations  from  high  energy  astrophysics  phenomena:  cataclysmic  variable,
+Neutron Stars, Active Galactic nucleus, Gamma ray Bursts, Starburst Galaxies etc. X-ray and gamma-
+ray satellite detectors. [10 Lectures]
+CR spectrum, Direct and Indirect detection of CRs, Origin of Galactic and Extragalactic CR sources.
+Sky-mapping with neutrinos:
+Dynamics  of  expansion,  The  cosmic  neutrino  background,  Neutrino  temperature,  Solar  neutrinos,
+Supernova neutrinos, Neutrinos as dark matter. Ultra-high energy Neutrinos, Neutrino Telescopes.
+1.  Peskin M. E., (2019), Concepts of Elementary Particle Physics, Oxford Master Series.
+2.  Unsöld A., and Baschek B., (2002) The New Cosmos - Introduction to Astronomy and Astrophysics,
+1.  Zeilik,  Michael,  and  Stephen  A.  Gregory.  Introductory  Astronomy  and  Astrophysics.  4th  ed.  Fort
+Worth, TX: Saunders College Publishing, 1997.
+1.  Saul  Rappaport.  8.282J  Introduction  to  Astronomy.  Spring  2006.  Massachusetts  Institute  of
+Technology: MIT OpenCourseWare
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Entrepreneurship for Physicists
+The Instructor will:
+1.  Provide students the knowledge about the charms of being an entrepreneur.
+2.  Provide the information about entrepreneurship and important theories, models, tools and usage that
+could help students transform an idea into business.
+The students are expected to:
+1.  Clear the doubts and perplexities that physicists have towards everything that is related to business.
+2.  Understand the exciting aspects of the entrepreneurial process that brings ideas to market.
+Invention  and  Innovation:  Introduction  to  research,  Variables  and  definitions,  Invention  and
+Innovation,  Process  and  product  innovation,  Innovation  driven  entrepreneurship,  Technology
+intelligence with case studies, Entrepreneurship mind set and culture. [8 Lectures]
+Intellectual Property and Early Business Processes: Introduction to IPRs, Patent search & Analytics,
+Patent and copyright drafting, Techno-economic feasibility analysis, Understanding business plan and
+funding  opportunities  for  entrepreneurs,  Characteristics  of  entrepreneur,  Risk  factors
+entrepreneurship, Technology business incubation, Venture capital. [10 Lectures]
+Entrepreneurship Tools and Techniques: Ideation based on available resources, Market demands and
+societal needs, Hackathon, Pitching, Market push and pull, Project Management Tools & Techniques,
+Scheduling  of  Project  Plan,  Project  risk  management,  Effectuation  theory,  Business  canvas,
+Introduction to detailed project report (DPR). [10 Lectures]
+1.  Davide Iannuzzi “Entrepreneurship for Physicists” Morgan & Claypool Publishers, ISBN: 978-1-6817-
+2.  K  Nagarajan  “Project  Management”  New  Age  International  Publishers,  ISBN-13:978-9386286024
+3.  David Bainbridge “Intellectual Property” Pearson 10th edition, ISBN-13: 978-1292002644 (2018).
+1.  Kunal  Upadhyay  “Hand  book  on  Non  Profit  incubator  Manager’  Handbook  for  Incubator
+2.  The  Innovator's  Toolkit:  10  Practical  Strategies  to  Help  You  Develop  and  Implement  Innovation
+(Harvard Business Essentials): ISBN-13 978-1-4221-990-9 (2019).
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13.5 Specialization: Photonics
+Fundamentals of Photonics
+1.  To understand the fundamental aspects of light wave, its propagation in the medium and concepts of
+polarization & image formation.
+2.  To understand the principle of light confinement, Wave guiding and propagation through photonic
+To provide the foundation of Nonlinear Optics.
+1.  The students will become familiar with the interesting concepts of photonics including principles of
+polarizers,  waveguides,  resonators  and  fibers;  Also,  provides  a  roadmap  to  develop  specialized
+knowledge in the field of photonics.
+2.  Understanding of the Light propagation and guidance in photonic crystals and optical fibers.
+3.  Understanding of the basic concepts of Nonlinear Optics
+Wave  propagation  in  dielectric:  group  velocity  and  dispersion,  pulse  spreading,  plane  wave  and
+Helmholtz equation, Gaussian and Bessel beams. [5 Lectures]
+Polarization states and representation: Jones vector, Stokes parameters for polarized and unpolarized
+light,  Poincare  sphere,  Coherence-  linewidth,  spatial  coherence,  interference  and  applications.  [6
+Fourier optics:  free space light propagation, optical Fourier transform, introduction to diffraction of
+light, concept of image formation. [5 Lectures]
+Optical  Resonators:  mode  and  mode  density,  losses  and  spectral  width,  quality  factor,  light
+modulation, mode stability, Fabry-Perot etalon, ring resonators, micro-resonators. [5 Lectures]
+waveguides and Photonic crystals: TIR guidance, Modes, conventional wave guides, periodic media
+and Bloch waves, concept of photonic bandgap, 1D, 2D and 3D crystals, dispersion relation, PhC wave-
+guidance, basics of optical fibers, types of the fibers, Photnic crystal fibers.  [12 Lectures]
+Nonlinear  Optics:  Description  of  Nonlinear  optical  processes:  Second  Harmonic  Generation,  Sum
+frequency generation, Difference frequency generation, optical parametric oscillation, Third harmonic
+generation,  Intensity-Dependent  Refractive  Index,  Saturable  absorption,  two-photon  absorption,
+stimulated Raman scattering, Kramers–Kronig Relations in Linear and Nonlinear Optics, four-wave
+mixing, concept of soliton. [9 Lectures]
+1.  Yariv, A., and Yeh, P., Photonics, Oxford University Press, 2007.
+2.  Saleh, B. E. A. and Teich, M. C., Fundamentals of Photonics, Wiley, 2018.
+3.  Boyd, R., Introduction to Nonlinear Optics, Third Edition, AP publishing, 2008.
+1.  Srinivasan, B., Introduction to Photonics, https://onlinecourses.nptel.ac.in/noc19_ee20/preview
+Reference Course Material
+1.  Ghatak, A. K., and Thyagarajan, K., Optical Electronics, Cambridge University Press, 2002.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+1.  This course aims to introduce the basics of Lasers and laser design.
+Introducing the state-of-the art laser systems and their industrial applications
+1.  Provides students with basic knowledge of laser physics.
+2.  Understanding the light-matter interactions
+3.  Gain the required knowledge to design advanced lasers.
+Introduction: EM Wave equation, Radiation and its quantification, Atomic transitions and radiative
+process,  Einstein  relations  and  Planck’s  Law,  principle  of  Lasers,  Laser  Oscillation,  Optical
+amplification, Characteristics of Laser light. [6 Lectures]
+Light-matter  interactions:  Atomic  Polarizability,  Dielectric  constant,  Electric  Polarization  and
+Susceptibility, electron model-classical oscillator, dispersion and complex refractive index [5 Lectures]
+Laser Design: Optical resonators, sources of light and pump sources, Lasing mechanisms in 3 and 4
+level systems and rate equations, operation of Lasers, Coherence, Laser Line width, optical gain, gain
+saturation, hole burning, Line broadening, laser modes, Gaussian Beam and Gouy phase shift, Beam
+Quality factor and laser output beam properties. [10 Lectures]
+Practical  Lasers  and  applications:  concept  of  CW  lasers  and  Pulsed  Lasers,  Solid  State  Lasers,
+Semiconductor  lasers,  Gas  Lasers  (He-Ne,  CO2),  Overview  on  Industrial  Application  of  Lasers
+including laser inscription and data storage [7 Lectures]
+1.  Siegman, A., Lasers, Mill Valley, Calif. University Science Books, 1986
+2.  Yariv A. & Pochi Yeh, Photonics, Oxford University Press, 2006.
+3.  Ghatak, A. & Thyagarajan, K., Optical electronics, Cambridge University Press, 2011.
+Introduction to Laser by Prof. M. R. Shenoy, IITD. https://nptel.ac.in/courses/115102124
+Reference Course Material
+1.  Orazio Svelto,  Principles of Lasers, Springer, 2010
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+B. S. Physics
+1.  This course aims to introduce the science and technologies of Terhertz radiation.
+2.  To provide comprehensive knowledge on THz generation, delivery and detection.
+3.  To provide the overview of the state-of-the art Terahertz technologies and applications.
+1.  The students will be familiar with the foundation of Terahertz science and Technology.
+2.  Understanding of the current THz technologies and appreciate the scope and the challenges for future
+development THz technology.
+Fundamentals of Terahertz science: Terahertz band, basic theory of Terahertz interaction with matter,
+Electromagnetic  Waves  in  Matter,  Electric  Dipole  Radiation,  Terahertz  Radiation  and  Elementary
+Excitations. [5 Lectures]
+THz  Optics:  Dielectric  Properties  of  Solids  in  the  Terahertz  Region,  Materials  for  Terahertz  Optics,
+Optical  components  for  THz  propagation  and  modulation,  Terahertz  Waveguides,  Theory  of
+Rectangular  Waveguides,  Dielectric/plastic  Fibers,  Artificial  Materials  at  Terahertz  Frequencies:
+Metamaterials, Photonic Crystals, Plasmonics. [12 Lectures]
+THz  sources  and  detectors:  BWO  (  backward  wave  oscillator),    klystron,  gyrotron,  Difference
+Frequency  Generation  and  Parametric  Amplification,  Frequency  Multiplication  of  Microwaves,
+Quantum  Cascade  Lasers,  Generation  of  Terahertz  Pulses  from  Biased  Photoconductive  Antennas,
+Optical  Rectification,  Free-Space  Electro-Optic  Sampling,  Bolometer,  Pyroelectric  Detector,  Golay
+Cells. [14 Lectures]
+THz  Technologies:    Terahertz  spectroscopy,  THz  imaging,  THz  sensing,  THz  frequency  security
+system,  Toward  6G  Communication  Networks,  Atmospheric  THz  propagation  and  Terahertz
+communications, Industrial applications. [11 Lectures]
+1.  THz generation using femtosecond pulses
+2.  THz detection through electro-optical sampling
+3.  THz bandwidth measurement
+4.  THz absorption spectrum for air and Nitrogen
+1.  Yun-Shik Lee, Principles of Terahertz Science and Technology, Springer, 2009.
+2.  Daryoosh  Saeedkia,  Handbook  of  terahertz  technology  for  imaging,  sensing  and  communications,
+Woodhead Publishing Limited, 2013.
+Reference Course Material
+1.  Ho-Jin  Song,  Tadao  Nagatsuma,  Handbook  of  Terahertz  Technologies:  Devices  and  Applications,
+Taylor and Francis Group, 2015.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+1.  This course aims to introduce working principles and applications of Photonic devices.
+2.  To provide a comprehensive overview of the state-of-the art photonic components and devices.
+1.  The course provides students with basic knowledge of components for light based technologies.
+2.  Students  will  be  familiar  with  necessary  knowledge  of  working  principles  on  future  All  Photonic
+Lightwave  components  and  devices:  Optical  directional  coupler-coupling  length,  coefficient’s,
+applications: photonic switches; optical routers, optical amplifiers-Er doped fiber amplifier, Dielectric
+waveguides, Planar waveguide and strip waveguide, splicers, connectors. [10 Lectures]
+Light  modulation  components  and  devices:  Birefringence,  Acousto-optic  effect,  Raman-Nath  AO
+modulator,  Bragg  Modulator,  Electro-optic  effect,  Electro-optic  crystals,  Kerr  modulator,  Magneto-
+optic effect, Isolators, Electro-absorption modulator, optical modulators, SLM, Quantum Modulators.
+Advanced  Photonic  components  and  devices:  Photonic  crystal  fibers,  Fiber  optic  sensors,    Optical
+detectors,  Nonlinear  optical  devices,  power  limiters,  Optics  on  chip,  ultrafast  laser  and  direct  laser
+writing, Lifi, Fiber Bragg grating, Laser Tweezers and scissors.  [10 Lectures]
+1.  Optical coupler and characterization
+2.  Fiber Bragg grating and characterization
+3.  Study of Electro-optic effect (Kerr effect)
+4.  Light modulation with SLM
+5.  Birefringence/beat length measurement of a polarization maintaining optical fiber
+6.  Splicing optical fiber and studying splice loss
+7.  Optical power limiting by nonlinear optical material
+1.  Ghatak, A. & Thyagarajan, K., Optical electronics, Cambridge University Press, 2011.
+2.  Shun Lien Chuang, Physics of Photonic Devices, Wiley publisher, Second edition, 2009.
+Integrated Photonics Devices and Circuits by Prof. Bijoy Krishna Das, IITM
+Reference Course Material
+1.  Saleh, B. E. A. and Teich, M. C., Fundamentals of Photonics, Wiley, 2018.
+John Wilson and John Hawkes, Optoelectronics, Pearson, Third edition, 2019.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will provide:
+1.  The concepts regarding optical aberrations and theory of diffraction.
+2.  Basic understanding of optical instruments using Fourier Optics and their common applications.
+The students are expected to have the ability:
+1.  To gain the knowledge to correct optical aberrations in the optical instruments.
+2.  To evaluate and estimate the processes involving the Incoherent and partial coherent light.
+Geometrical  Optics  and  Diffraction:  Paraxial  Ray  Optics,  optical  aberrations,  Fresnel-Kirchhoff’s
+diffraction, Scalar theory of diffraction Diffraction of Aperture: Square, Rectangle, Circular, Fresnel
+and Fraunhofer diffraction. [14 Lectures]
+Partially  coherent  light:  Mutual  Coherence  and  Degree  of  Coherence,  Propagation  of  Partially
+Coherent Light, Cross-Spectral Density Function, van cittert -Zernike theorem. [8 Lectures]
+Fourier Optics: Convolution, spatial correlation, optical filtering, spatial filtering and optical transfer
+function (OTF), point split function (PSF), ex: microscope, Image Formation, Frequency Analysis.
+Introduction to optical instruments:  Spectrometers, monochromators, Polarimeters and detectors. [6
+1.  Contemporary Optics, Ghatak and Thyagarajan
+1.  Optics by Born & Wolf (7th edition)
+2.  K K Sharma, Optics: Principles and Applications, Academic Press 2006.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will provide:
+1.  This course aims to introduce the concept of light interaction with biological matter.
+2.  To  provide  comprehensive  knowledge  on  existing  tissue  and  cell  engineering  through  photonic
+3.  To provide the overview of the state-of-the art Bio-imaging and Bio-sensing techniques.
+The students are expected to have the ability:
+1.  The students will be familiar with the foundation of Biophotonics.
+2.  Understanding of the Biophotonic tools and techniques for interdisciplinary applications.
+Introduction:  Biophotonics  a  new  frontier,  nature  of  light,  quantized  states  of  matter,  introductory
+concepts  of  biology,  various  types  of  cells,  cellular  structure,  interactions  determining  three-
+dimensional  structures  of  biopolymers,  cellular  processes,  protein  classification  and  function,
+organization of cells into tissues, types of tissues and their functions, tumors and cancers. [5 Lectures]
+Fundamentals of Light–Matter Interactions: Interactions between light and a molecule, interaction of
+light  with  a  bulk  matter,  fate  of  excited  state,  the  various  spectroscopies  useful  for  biophotonics:
+electronic absorption spectroscopy, electronic luminescence spectroscopy, vibrational spectroscopy,
+spectroscopy  utilizing  optical  activity  of  chiral  media,  fluorescence  correlation  spectroscopy.        [6
+Photobiology: interaction of light with cells, interaction of light with tissues, in vivo photoexcitation,
+methods of light delivery for in vivo photoexcitation, optical biopsy. [4 Lectures]
+Biomaterials  for  Photonics:  Bioderived  materials,  bioinspired  materials,  biotemplates,  bacteria  as
+biosynthesizers for photonic polymer. [4 Lectures]
+Bioimaging:  Principles  and  techniques  for  optical  methods  of  imaging:  transmission  microscopy,
+fluorescence  microscopy,  scanning  microscopy,  confocal  microscopy,  multiphoton  microscopy,
+optical  coherence  tomography,  low  coherence  interferometry,  Angle  resolved  interferometry  for
+biological  tissue  imaging,  near-field  optical  microscopy,  fluorescence  lifetime  imaging  microscopy
+(film), nonlinear optical imaging. [11 Lectures]
+Biophotonics  Applications:  Optical  biosensors-  fiber  optic  biosensors,  planar  waveguide  biosensor,
+evanescent  wave  biosensors,  spr  biosensor,  flow  cytometry:  basic  steps,  the  components,  optical
+response, photodynamic therapy and applications, tissue engineering with light: tissue engineering
+and  light  activation,  laser  tissue  contouring  and  restructuring,  laser  tissue  welding,  femtolaser
+surgery, Lab-on-a-Chip Technology. [12 Lectures]
+1.  Paras N. Prasad, Introduction to BioPhotonics Wiley, 2003.
+2.  Gerd Keiser, Biophotonics Concepts to Applications, Springer, 2016.
+Jürgen  Popp,  Valery  V.  Tuchin,  Arthur  Chiou,  Stefan  H.  Heinemann,  Hand  book  of  Biophotonics,
+1.  Biophotonics by Prof Basudev Lahiri https://nptel.ac.in/courses/127105225
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will provide:
+1.  This course aims to introduce light interaction with metals.
+2.  To provide comprehensive knowledge on Surface plasmon polaritons, localized surface plasmons and
+3.  To  provide  the  overview  of  the  state-of-the  art  SERS  based  techniques  and  other  plasmonic
+The students are expected to have the ability:
+1.  The students will be familiar with the foundation of Plasmonics and functional devices.
+2.  Understanding the plasmonic enabled technologies including sensing and imaging.
+Electromagnetics  of  Metals:  Maxwell’s  Equations  and  Electromagnetic  Wave  Propagation,  Drude
+model,  The Dielectric Function of the Free Electron Gas, The Dispersion of the Free Electron Gas and
+Volume Plasmons, Mie theory, Drude–Sommerfeld Model, Drude–Lorentz Model, Real Metals and
+Interband Transitions, The Energy of the Electromagnetic Field in Metals.  [8 Lectures]
+Surface  Plasmon  Polaritons:    Surface  Plasmon  Polaritons  at  a  Single  Interface,  Multilayer  Systems,
+Energy Confinement and the Effective Mode Length, excitation of surface plasmon polaritons, Prism
+Coupling, Grating Coupling, Near-Field Excitation, other coupling schemes, imaging surface plasmon
+polariton propagation. [10 Lectures]
+Localized surface Plasmons: Normal Modes of Sub-Wavelength Metal Particles, Mie Theory, Beyond
+the Quasi-Static Approximation and Plasmon Lifetime, Observations of Particle Plasmons, Coupling
+Between Localized Plasmons. [6 Lectures]
+Plasmon waveguides: Rectangular Hollow Metallic Waveguides and Resonators, Waveguide Modes,
+behaviors of TE and TM Modes, Solutions for TEmn and TMmn Modes,  Attenuation in Rectangular
+Waveguides, Excitation of Waveguides by Probes, Loops, and Slots , Rectangular Cavity Resonators,
+Transverse Magnetic TMmnp Resonator Modes, Quality Factor, Planar Elements for Surface Plasmon
+Polariton  Propagation,  Surface  Plasmon  Polariton  Band  Gap  Structures,  Surface  Plasmon  Polariton
+Propagation  Along  Metal  Stripes,  Localized  Modes  in  Gaps  and  Grooves,  Metal  Nanoparticle
+Waveguides. [10 Lectures]
+Plasmonics  Applications:  enhancement  of  emissive  processes  SERS  basics,  SERS  in  the  Picture  of
+Cavity Field Enhancement, SERS Geometries, Enhancement of Fluorescence, Luminescence of Metal
+Nanostructures  and  bioimaging  applications,  Spectroscopy,  sensing  and  metamaterials,
+photodynamic therapy. [8 Lectures]
+1.  Stefan Alexander Maier, Plasmonics: Fundamentals and Applications, Springer, 2007.
+2.  Liudmila Nickelson, Electromagnetic Theory and Plasmonics for Engineers, Springer, 2019.
+1.  Sabine Szunerits, Rabah Boukherroub, Introduction to Plasmonics, Pan Stanford Publishing, 2015.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+The Instructor will provide:
+1.  This course aims to introduce fundamentals and working mechanisms of light emitting diodes.
+2.  To provide comprehensive knowledge on LED device structure and their classifications.
+3.  To provide the overview of the state-of-the art and advanced LEDs for various applications.
+The students are expected to have the ability:
+1.  The students will be familiar with the materials for LED devices and their characteristics.
+2.  Understanding the various existing LEDs and their speciality applications.
+3.  They will acquire knowledge on design and development of advanced LEDs for future applications.
+Radiative and non-radiative processes: Electroluminescence, Radiative electron−hole recombination,
+Radiative recombination for low-level and high-level excitations, Luminescence decay, Non-radiative
+recombination  in  the  bulk  and  surfaces,  Competition  between  radiative  and  non-radiative
+recombination, Theory of radiative recombination. [7 Lectures]
+LED basics-Electrical and Optical:   Diode current–voltage characteristic, Carrier distribution in p-n
+homojunctions  and  heterojunctions,  Electron  injection  and  blocking  layers,  EL  spectrum,  Radiation
+pattern,  internal  and  external  quantum  efficiency  measurements,  The  lambertian  emission  pattern,
+Temperature dependence of emission intensity.  [12 Lectures]
+LED Design parameters: Device structure, Junction and carrier temperatures, High internal efficiency
+designs,  Doping  of  the  confinement  regions,  Design  of  current  flow,  High  extraction  efficiency
+structures, Light Output per LED, Reflectors. [6 Lectures]
+Types of LEDs: Flashing LEDs, Visible-spectrum LEDs (GaAsP, GaP, GaAsP:N, and GaP:N, AlGaAs
+/GaAs, AlGaInP /GaAs and GaInN material systems), Organic LEDs, polymer LEDs, UV LEDs, LED
+lasers-Spontaneous  emission  from  resonant  cavities,  Resonant-cavity  light-emitting  diodes,  White-
+light sources based on LEDs.  [7 Lectures]
+Advanced LEDs and Applications: LEDs and Lighting - LED Light bulbs, High-Brightness (HB) LEDs,
+LEDs in communications-IR Remote Operation (TV Remote Control, Remote Control LEDs), LEDs for
+fiber-optic communication, Ethernet Networking, LED Displays, UV LED applications in Health care
+and water treatment.  [10 Lectures]
+1.  E. Fred Schubert, Light-Emitting Diodes, Cambridge University Press, Second edition, 2006.
+2.  Gilbert Held, Introduction to Light Emitting Diode Technology and Applications, CRC Press, 2009.
+1.  Semiconductor optoelectronics (Lecture 27 to 31) by Prof. Shenoy, IITD.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13.6 Specialization: Advanced Energy Materials
+Materials for Energy Technologies
+The Instructor will:
+Introduce different energy/power generation systems and emphasize on the need of materials and its
+engineering for these systems/sub-systems.
+The students are expected to have the ability to:
+1.  Get aware of different energy generation systems and their functioning.
+2.  Materials  related  issues  and  challenges  in  such  energy  technologies  and  engineering  pathways
+towards their mitigation.
+PHL6XX1 (Conventional Energy systems) [1-0-0]
+1.  Building  blocks  of  conventional  energy  systems  (Coal  and  Hydro-  energy  power  plants),  working
+mechanism of different components and thermodynamics of these system. [5 lectures]
+2.  Need  of  materials  with  specific  characteristics,  Generation  block,  transmission  block,  Materials  for
+high voltage transformers, Turbine materials. [9 lectures]
+PHL6XX2 (Solar thermal and solar photovoltaic systems) [1-0-0]
+1.  Solar  thermal  system/sub-systems  as  a  power  generation  unit.  Need  of  materials  in  solar-thermal
+subsystems: Issues and Challenges, Materials for collectors, reflectors, thermal fluid, storage materials,
+and structure [7 lectures]
+2.  Solar photovoltaic system/sub-systems as a power generation unit, Need of materials for photovoltaic
+cells, issues and challenges, Materials for electrical storage, Structure. [7 lectures]
+PHL6XX3 (Wind, Geothermal and Nuclear Energy systems) [1-0-0]
+1.  Wind and Geothermal energy generation sub-systems/systems, need of materials for designing wind
+blades for different environmental conditions, and geothermal systems. [8 lectures]
+2.  Nuclear power generations systems/sub-systems, mechanism and materials requirement for source,
+safety materials issues and challenges, high temperature materials for thermal management, materials
+for managing nuclear reactions. [6 lectures]
+1.  Sukhatme S. P. and Nayak J. K., Solar Energy: Principles of Thermal Collection and Storage, McGraw-
+2.  Duffie J. A. and Beckmann W. A, Solar Engineering of Thermal Processes, 3rd Ed John Wiley 2006
+1.  Online review papers in various journals.
+Preparatory Course Material
+1.  Online NPTL and MIT courses.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Fabrication and Characterization of Devices
+The Instructor will:
+1.  Provide the knowledge to recognize an energy harvesting device.
+2.  Provide the information about the tools to characterize the energy harvesting devices.
+The students are expected to:
+1.  To fabricate nanomaterials based devices.
+2.  To characterize the device.
+Synthesis and characterization of metal nanomaterials
+Synthesis and characterization of semiconducting nanomaterials
+Fabrication of micropatterns by lithographic techniques
+4.  Fabrication and characterization of solar cells
+6.  Fabrication and characterization of supercapacitors
+fabrication and characterization of batteries
+T. Pradeep, A Textbook of Nanoscience and Nanotechnology, 2012, Tata McGraw Hill Education Private
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Hydrogen Generation, Storage and Applications
+The Instructor will:
+1.   Provide knowledge about hydrogen energy, various ways of its production and storage.
+2.  Provide  the  role  of  materials  in  hydrogen  generation,  storage  and  uses  of  different  hydrogen
+The students are expected to:
+1.  Understand the fundamentals of hydrogen technology, using it as a way to store energy.
+2.  Gain  a  better  understanding  of  thermodynamics,  electrochemistry  and  their  applications  to  energy
+conversion and storage.
+3.  Learn  how  various  materials  can  be  exploited  to  realize  the  production  of  green  hydrogen  and  its
+storage for various applications.
+4.  Understand theoretical and practical limits of hydrogen energy conversion among various forms and
+Introduction: Renewable Energy Sources, Fundamentals of hydrogen energy, Relevance of hydrogen
+in relation to depletion of fossil fuels and environmental considerations, Various types of hydrogen
+based on its ways of production. Various factors relevant to safety, use of Hydrogen as Fuel.
+Hydrogen  Generation:  Methods  for  sustainable  hydrogen  generation,  electrochemical  and
+photoelectrochemical  water  splitting,  working  mechanism  of  electrochemical  water  splitting,  HER
+mechanism,  OER  mechanism,  Physics  of  material  characteristics  for  production  of  hydrogen,
+electrochemical  potential,  artificial  photosynthesis,  Parameters  for  assessing  the  electrochemical
+performance: Tafel slope, electrochemical active surface area, turnover frequency, Faradaic efficiency.
+Hydrogen Storage: Hydrogen storage methods, compressed hydrogen, liquid hydrogen, Cryogenic
+hydrogen  storage,  Physical  and  Chemical  storage  of  hydrogen,  special  features  of  solid  hydrogen
+storage  materials,  Structural  and  electronic  characteristics  of  storage  materials,  Carbon  storage
+materials, Metallic and complex hydrides, New Storage Modes. [12 Lectures]
+Hydrogen Applications: Hydrogen in industry, Hydrogen for Electricity Generation, Introduction and
+overview  of  Fuel  Cells,  Various  type  of  Fuel  Cells,  Working  Mechanism  of  Fuel  Cells,
+Thermodynamics  and  reaction  kinetics  of  fuel  cells,  Fuel  cell  characterization,  Applications  of  Fuel
+Cell, Voltage generation in a fuel cell, Fuel cell modeling and system integration, Elementary concepts
+of other Hydrogen Based devices such as Hydride Batteries. [12 Lectures]
+1.  Hydrogen as an Energy Carrier Technologies Systems Economy: Winter, C. J. and Joachim Nitsch.
+2.  Hydrogen Fuel Production, Transport, and Storage Edited by Ram B . Gupta CRC Press 2008.
+1.  Fuel Cells and Hydrogen Production 2 Vol Set 2nd Edt. by Lipman TE, Springer.
+2.  Hydrogen as a Future Energy Carrier: Andreas Zuttel, Andreas Borgschulte and Louis Schlapbach.
+3.  Fuel  Cells  Principles,  Design,  and  Analysis  By  Shripad  T.  Revankar,  Pradip  Majumdar,  CRC  Press
+Online Course Materials
+1.  NPTEL Course on Fuel Cell Technology by Prof. S. Basu, Dr. Anil Verma.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+2.  Prof. Pal K., NPTEL Course Material, Hydrogen Production from Electrolysis, Mechanical and
+Industrial Engineering, Indian Institute of Technology Roorkee,
+3.  Prof. Pal K., NPTEL Course Material, Hydrogen Storage, Mechanical and Industrial Engineering,
+Indian Institute of Technology Roorkee,
+to be added here
+Preparatory Course Material
+NPTEL  Course  on  Fuel  Cell  Technology  by  Prof.  S.  Basu,  Dr.  Anil  Verma.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Electrical Energy Storage Materials and Devices
+The Instructor will:
+1.  Provide  the  knowledge  about  the  principles  and  configurations  of  conventional  and  advanced
+electrical energy storage devices.
+2.  Provide the role of materials in electrical energy storage and conversion technologies.
+The students are expected to:
+1.  Understand  how  the  fundamental  properties  of  materials  can  be  exploited  to  realize  an  electrical
+energy storage device.
+2.  Understand the working mechanisms of various existing electrical energy storage technologies as well
+as emerging technologies of the field.
+Introduction: Historical background, Overview of Electrical Energy Storage Materials and Devices,
+Ragone Plot, Chemical and Electrochemical reactions, primary and secondary batteries, Applications
+of Batteries and Supercapacitors. [6 Lectures]
+Batteries:  Battery  Components,  Working  Mechanism,  Gibbs  Free  Energy,  electrochemical  potential,
+Battery  Parameters:  Charge  Capacity,  Specific  Energy,  Specific  Power,  Energy  density,  Amp  hour
+efficiency,  C-rate,  Columbic  efficiency,  Operating  Voltage,  Self-discharge.  Theoretical  capacity  of
+battery, Intercalation and Conversion Materials. [9 Lectures]
+Battery  Technologies:  Lead-Acid  battery,  Nickel-Cadmium  battery,  Metal-ion  batteries:  Lithium,
+Sodium  and  Potassium,  Li-Polymer  batteries,  Multivalent  metal-ion  batteries:  Magnesium,
+Aluminum, Zinc. Metal-air battery, Redox-flow battery, Photo rechargeable battery. [12 Lectures]
+Supercapacitors:  Difference  between  Supercapacitor  and  Battery,  Working  Mechanism,  Electrolyte
+and Electrode materials, Characterization of Supercapacitors, Types of Supercapacitor: Electric double
+layer capacitor, Pseudo supercapacitor and Hybrid Supercapacitor. Technical Challenges.  [9 Lectures]
+Technical  Challenges:  Thermal  runaway,  Dendrite  formation,  Voltage  limits.  Electrolytes:  Liquid,
+Polymer gel, Solid, Solid-polymer, Physics of electrolytes, Electrode material modeling, Future trends.
+1.   Reiner Korthauer (Ed), Lithium-Ion Batteries: Basics and Applications, Springer (2013).
+2.  Cheong,K.Y., Impellizzeri,G., and Fraga, M.A. Emerging Materials for Energy Conversion and Storage,
+1st Edition, Elsevier (2018)
+1.  Rosen M. A. Energy Storage, Nova (2012)
+2.  Robert A. Huggins, Advanced Batteries, Springer (2009)
+Online Course Materials
+1.  Prof. Bazant M., MITopencourseware: Electrochemical Energy Systems, MIT Course Number 10.626 /
+2.  Prof.  Pal  K.,  Selection  Of  Nanomaterials  For  Energy  Harvesting  And  Storage  Application,  NPTEL
+Institute  of  Technology  Roorkee,
+Course  Material,  Mechanical  Engineering,
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+1.  Tester W.J., et al., Fundamentals of Advanced Energy Conversion, MIT open course,
+Preparatory Course Material
+1.  Maiti, H.S., Lithium Ion Battery, NPTEL Video Lecture
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Solar Resource Assessment and Its Management
+The Instructor will:
+Introduce physics of solar radiation covering the blackbody radiation and UV catastrophe, Sun-Earth
+realtions, Sun observer raltions and collector orientation and shading effects with resource data and
+measurements, its analysis, and prediction using ML and AI.
+The students are expected to have the ability to:
+1.  Obtain  a  flavor  of  solar  resource  data,  its  measurement  with  its  utility  for  solar  thermal  and
+photovoltaic power plant applications.
+2.  Management of data, handling and use of ML/AI for its prediction.
+PHL6XX1 (Basics of Sun-Earth Relationship and solar radiation) [1-0-0]
+a)  Meteorology  explaining  the  angular  relations  between  Sun-Earth  system,  Sun  observable  angles,
+collector-Sun angles, Earth’s tilted axis and cosine projection effect, Conversion of solar time to angle
+to watch time, Making and Reading of a Sun chart Orientation of collector/PV modules, Air-Masses.
+b)  Laws of light, spectral reflectance or Albedo, Irradiance principles, Global/diffuse irradiation, DNI,
+DHI, GHI, radiation resources for energy conversion. [9 lectures]
+PHL6XX2 (Measurement of solar radiation and data analysis) [1-0-0]
+a)  Principles of irradiance measurements, Instruments for solar radiation measurements: pyranometers,
+pyrheliometers, calibration of these measurement units, other instruments, Measurement uncertainty.
+b)  Measurement station design consideration, location in India, Data acquisition, data communication,
+Data quality control, data correction, data quality assessment. [7 lectures]
+PHL6XX3 (Modeling/prediction of Solar Radiation) [1-0-0]
+a)  Modeling clear sky solar radiation, physics based models, empirical models, parameterization models,
+modeling global irradiance under all sky conditions, correlation models, cloud observations, empirical
+all sky radiation models. [6 lectures]
+b)  Missing component modeling, estimation of diffuse irradiance from GHI, direct irradiance from GNI.
+Application of ML and AI in solar radiation prediction. [8 lectures]
+1.  Daryl M Myers, Solar Radiation, CRC-Press, 2013
+2.  Lucien Wald, Fundamentals of Solar Radiation, CRC Press, 2020
+Jan Kleissl, Solar Energy Forecasting and Resource Assessment,  2013
+1.  Sengupta et al Best Fractices Handbook for the collection and use of solar resource data for solar energy
+applictions, NREL Report.
+2.  Online review papers in various journals.
+Preparatory Course Material
+1.  Online NPTL Courses.
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+13.7 Specialization: Quantum Technologies
+Quantum Communication Laboratory
+The Instructor will:
+Introduce the students to quantum communication and quantum key distribution experiments.
+The students are expected to have the ability to:
+1.  Understand and appreciate the experimental aspects of quantum optics and quantum
+Is List of Experiments (related to quantum effects, Bell state measurement, Entanglement generation etc.)
+1.  Test of QNRG with NIST suite ( 2 lab sessions, 6-8 tests)
+2.  FPGA based symmetric and anti-symmetric QKD generation
+3.  Experiments with QKD at components levels
+4.  Free space quantum communication up to 30 meters with single photon and analysis
+5.  Experiments with phase-shift key protocol in QKD  experiments or quantum communication
+6.  Unbalanced homodyne detection and Wigner distribution of an given coherent light and its analysis
+7.  Optical simulation module for Satellite based communication
+1.  Beck, M., (2012) Quantum Mechanics: Theory and Experiment, Oxford Univ. Press
+Alber, G., Beth, Th., Horodecki, M., Horodecki, P., Horodecki, R., Rötteler, M., Weinfurter, H.,
+Werner, R., Zeilinger, A., (2001) Quantum Information, An Introduction to Basic Theoretical
+Concepts and Experiments, Springer-Verlag
+BS in Physics with Specialization
+Department of Physics, IIT Jodhpur
+Quantum Devices and Circuits
+The Instructor will:
+1.   Provide background in Quantum Devices and Circuits
+The students are expected to have the ability to:
+1.   Understand the basic concepts in quantum devices and circuits and apply these concepts to solve the related
+Quantum hardware review and Circuit implementation:
+implementation  based  on  atoms/ions/molecules,
+superconducting  junctions,  Superconductivity,  Josephson  Effects  and  Superconducting  Electronics,
+Circuits and resonance; circuit quantization, charge, flux, and phase qubits; transmons, Single-qubit
+and  two-qubit    gate  theory  experimental  implementation,  gate  errors;  Qubit  readout;  dispersive
+measurement;  parametric  amplification,  variational  quantum  circuits  and  its  applications  ,  optical
+analog of quantum circuits and implementation.  [20 Lectures]
+Weak Measurements and Decoherence: Weak measurement and feedback, decoherence mechanisms,
+Fluxonium, c-shunt flux qubits and Novel architectures, POVM, Non-demolition measurements and
+quantum noise.  [12 Lectures]
+Spin systems, Spin Defects: NV centers, other color centers, optical readout, sensing & magnetometry
+and introduction quantum sensing & Quantum MEMS, Single photon detectors. [10 Lectures]
+1.  Chen Goong, Church David A.,  Englert Berthold-Georg,  Carsten Henkel, Rohwedder Bernd Scully
+Marlan O.,  (2006)  Principles, Designs and Analysis of Quantum Computing Devices, Chapman &
+-End of file-

@@ -1,0 +1,476 @@
+Hkjrh; izkS|ksfxdh laLFkku tks/kiqj
+Indian Institute of Technology Jodhpur
+VOLUME 01 ISSUE 3-4
+bl o’kZ dk nwljk igj dkQ+h lfØ; jgk gSA laLFkku dks vius igys nks ih-,p-Mh- izkIr gq;s!! gesa tSo izkS|ksfxdh
+foHkkx ¼foKku ,oa izkS|ksfxdh ea=ky;] Hkkjr ljdkj½ }kjk LFkkifr tSo izkS|ksfxdh foHkkx & vf[ky Hkkjrh; izkS|ksfxdh
+laLFkku  tSo  ÅtkZ  dsanz dk  ,d  vge  fgLlk  cuus  dk  xkSjo  izkIr  gqvkA  ladk;  lnL;ksa  }kjk  izLRkfor  4 u;s  izk;ksftr
+vuqla/kku ifj;kstukvksa dks Lohd`fr feyhA bl Nekgh esa gekjs ladk; lnL;ksa us 43 “kks/k i=] 1 iqLRkd v/;k;] 8 lEesyu
+i=] ,oa 1 laikfnr iqLrd izdkf”kr fd;sA lkFk gh gekjs Nk=ksa us MsuekdZ esa vk;ksftr Q+ksVksxzkQ+h izn”kZuh esa viuh izfrHkk
+dk vn~Hkqr ifjp; nsdj gesa xkSjokfUor fd;kA bl ckj ds Lora=rk fnol dk jk’VªioZ vius LFkkbZ ifjlj esa eukdj] geus
+vius u;s ?kj esa tkus dh rS;kjh “kq: dj nhA [kq”kh bl ckr dh Hkh gS fd gesa 5 u;s ladk; lnL;ksa o dqylfpo dk
+vius ifjokj esa Lokxr dj “kkfey fd;kA laLFkku ds cká xfrfof/k;ksa esa o`f) djrs gq;s ge ekuo lalk/ku ea=ky; ds
+GIAN (Global Initiative for Academic Networks) vkSj jk’Vªh; vkfo’dkj vfHk;ku uked ifj;kstukvksa ds lfØ; fgLlk cusA
+dkeuk djrs gSa fd uo o’kZ 2016 ge lcds fy;s eaxye; vkSj izxfr”khy fl) gksxkA
+{ksek izdk”k ¼laiknd½
+First set of Ph.D. Theses
+IIT Jodhpur opens its account, with three students successfully defending their Ph.D. theses:
+Name of the Student
+Date of Defense
+3 September 2015
+Akhilesh Mohan (IITKgp)
+Venkata Ramana, B.
+Computer Science &
+29 October 2015
+Shree Prakash Tiwari
+16 December 2015
+Title of Thesis
+Analysis and Design of Wideband
+Fractal Antennas for Portable
+Improving Security in Wireless
+Sensor Networks Through Bio-
+Bias-Stress Stability and Charge-
+Carrier Trapping in High
+Performance Organic Thin-Film
+IIT Jodhpur, one of the five IITs in DBT -Pan IIT Center for Bioenergy
+The Department of Biotechnology (DBT), Ministry of Science & Technology, Government of India, and five IITs,
+namely, IIT Bombay, IIT Kharagpur, IIT Roorkee, IIT Guwahati, and IIT Jodhpur, have come together to launch a virtual
+Center for Bioenergy. IIT Bombay will coordinate the activities of this virtual center. The main objective of this Center is
+to develop advanced technologies in the area of biofuels, paving the way for a sustainable solution to the energy crisis.
+Also, the Center aims to develop a mutually beneficial relationship with the bio-energy industry in India.
+V. Narayanan, Coordinator (Research & Development), IIT Jodhpur, represented the Institute at the signing of
+the Memorandum of Agreement (MoA), at IIT Bombay on 3 September 2015.
+Faculty Members at IIT Jodhpur working on Bio F uels
+Biomass, or bio-energy, has been acknowledged as a renewable energy source that can replace fossil fuels,
+with the added bonus that the biomass can absorb carbon dioxide from the atmosphere and reduce the greenhouse
+effect.  Bio-fuel,  obtained  either  from  microbial  fermentation  or  from  the  pyrolysis  of  biomass  in  an  inert  gas
+atmosphere,  has  a  significant  appeal  for  use  in  transportation  fuels,  both  economically  and technologically.  Algae
+can  produce  more  oil  than  other  biofuel  feed  stocks.  The  bottle  neck  of  this  technology  is  to  devise  cultivation
+methods for algae which can support higher growth rates and oil productivities, efficient methods to convert algae
+oil to fatty acid methyl esters (biodiesel) or to develop a  “Right Catalyst” that can convert biomass to fuel (bio) for
+the current technology.
+“Catalytic Upgrading of Algae Biomass to Transport Fuel” is the project Rakesh K. Sharma, Assistant Professor
+is  working on.  This research aims to develop new and  efficient  heterogeneous catalytic  systems for conversion  of
+algae  biomass  to  transport  fuel  via  tandem  hydrocracking  followed  by  Hydrodenitrogenation  and/or
+hydrodeoxygenation  processes.  These  heterogeneous  catalytic  systems  based  on  metals  nanoparticles
+supported/intercalated/layered  in  zeolites  and  clays.  Successful  catalysts  are  aimed  to  be  green,  recyclable  and
+scalable  (kilogram  level).  These  catalysts  will  be  sulphide  free  non  nobel  metals  catalysts.  In  next  phase,  the
+substrate applications will be extended from algal-oil to edible and non-edible oils.  The reactions will be essentially
+carried out at two operating conditions, for mild (50-200°C, 100 bar) and deep hydrotreatment (200-350°C, 200 bar).
+Mechanistic studies of these catalytic processes will be focal point to design a better catalyst.
+“Development  of  low  cost  Microbial  carbon  capture  cells  for  power  generation  and  algae  cultivation”  is  the
+project  Meenu  Chhabra,  Assistant  Professor,  Department  of  Biology,  is  working  on.  Bio-fuels  from  algae  have  a
+potential to completely replace fossil based fuels and provide energy security for the future. However, the cost of
+algae bio-fuels is still too high for commercial application. In this context, a process for the production of algae and
+electrical energy using microbial carbon capture (MCC) cells is proposed. In MCC cells, the process of algae biomass
+degradation complements the process of algae biomass production with concomitant power generation.
+These two projects together, which are funded by Department of Biotechnology, Government of India, are
+likely to offer an exciting technology proposition of offering non-fossil fuels for the nation.
+New Research Projects
+Ambesh  Dixit,  Assistant  Professor,  Department  of  Physics,  has  been  sanctioned  the  sponsored
+research  project  “Design  and  development  of  high  capacity  and  low  cost  Li2TMSio4  (TM=transition
+metals)  silicate  materials  for  future  rechargeable  lithium  ion  battery”  by  the  Department  of  Science  &
+Technology (DST), Government of India. The duration of the project is 2 years (2015-17).
+Mahesh  Kumar,  Assistant  Professor,  Department  of  Electrical  Engineering,  has  been  sanctioned
+the sponsored research project “Development of MEMS based gas sensors using RF sputtered transition
+metal dopen ZnO Nanostructures” by the Science and Engineering Research Board, DST, Government of
+India. The duration of the project is 3 years (2015-18).
+Shree  Prakash  Tiwari,  Assistant  Professor,  Department  of  Electrical  Engineering,  has  been
+sanctioned  the  sponsored  research  project  “Design  of  a  sensor  signal  conditioning  system(I)  &
+multiprocessor  scheduling  algorithms  using  control  theoretic  approach(II)”  by  the  Department  of
+Electronics & Information Technology (DeitY), Government of India. The duration of the project is 5 years
+(2015-20). Further, his proposal on “Encapsulation of Organic devices by atomic layer deposition” was admitted by
+Defense Research & Development Organization (DRDO), Jodhpur, under CARS scheme. The duration of the project
+is 18 months.
+Department of Biology
+Chhangani,D., Endo,F., Amanullah,A., Upadhyay,A., Watanabe,S., Mishra,R., Yamanaka,K.,  and Mishra,A., (2016),
+Mahogunin  ring  finger  1  confers  cytoprotection  against  mutant  SOD1  aggresomes  and  is  defective  in  an  ALS
+mouse model, Neurobiology of Disease, Volume 86, Pp. 16–28, http://doi.org/10.1016/j.nbd.2015.11.017.
+Dubey,K., Anand,B.G., Badhwar,R., Bagler,G., Navya,P.N., Daima,H.K., and Kar,K., (2015), Tyrosine and tryptophan-
+coated gold nanoparticles inhibit amyloid aggregation of insulin, Amino Acids, Volume 47, Issue 12, Pp. 2551-2560,
+Kumar,D.,  Pal,S.,  Chhabbra,M.,  and  Harinipriya,S.,  (2015),  Separation  of  Enantiomers  of  Alanine  from  Racemic
+Mixture  by  Polycrystalline  Metal  Surfaces  -  A  Spectroelectrochemical  Approach,  ECS  Transactions,  Volume  66
+Issue 32, Pp. 33–43, http://doi.org/10.1149/06632.0033ecst.
+Upadhyay,A.,  Amanullah,A.,  Chhangani,D.,  Mishra,R.,  and  Mishra,A.,  (2015),  Selective  Multifaceted  E3  Ubiquitin
+Ligases  Barricade  Extreme  Defense:  Potential  Therapeutic  Targets  for  Neurodegeneration  and  Ageing,  Ageing
+Research Reviews, Volume 24, Part B, Pp. 138–159. http://doi.org/10.1016/j.arr.2015.07.009.
+Upadhyay,A.,  Amanullah,A.,  Chhangani,D.,  Mishra,R.,  Prasad,A.,  and  Mishra,A.,  (2015),  Mahogunin  Ring  Finger-1
+(MGRN1),  a  Multifaceted  Ubiquitin  Ligase:  Recent  Unraveling  of  Neurobiological  Mechanisms,  Molecular
+Neurobiology, Pp. 1–13, http://doi.org/10.1007/s12035-015-9379-8.
+Department of Chemistry
+Bondarenko,G.N.,  Ganina,O.G.,  Sharma,R.K.,  and  Beletskaya,I.P.,  (2015),  Catalytic  activity  of  Pd  catalysts  on
+different  supports  in  hydrogenation  of  1-phenylethenylphosphonic  acid,  Russian  Chemical  Bulletin,  Volume  63,
+Issue 8, Pp. 1856–1859, http://doi.org/10.1007/s11172-014-0676-6.
+Debnath,A., Wiegand,S., Paulsen,H., Kremer,K., and Peter,C., 2015, Derivation of coarse-grained simulation models
+of chlorophyll molecules in lipid bilayers for applications in light harvesting systems, Physical Chemistry Chemical
+Physics, Volume 17, Issue 34, Pp. 22054-22063, http://doi.org/10.1039/C5CP01140J
+Goudar,R., Gupta,R., Kulkarni,G.U., and Inamdar,S.R., (2015), Rotational Diffusion of a New Large Non Polar Dye
+Molecule in Alkanes, Journal of Fluorescence, Volume 25, Issue 6, pp 1671-1679, http://doi.org/10.1007/s10895-015-
+Gupta,R.,  Siddhanta,S.,  Mettela,G.,  Chakraborty,S.,  Narayana,C.,  and  Kulkarni,G.U.,  (2015),  Solution  processed
+nanomanufacturing  of  SERS  substrates  with  random  Ag  nanoholes  exhibiting  uniformly  high  enhancement
+factors. RSC Advances, Volume 5, Issue 103, Pp. 85019–85027, http://doi.org/10.1039/C5RA17119A.
+Kiruthika,S.,  Gupta,R.,  Anand,A.,  Kumar,A.,  and  Kulkarni,G.U.,  (2015),  Fabrication  of  Oxidation  Resistant  Metal
+Wire Network Based Transparent Electrodes by a Spray-Roll Coating Process. ACS Applied Materials & Interfaces,
+Volume 7, Issue 49, Pp. 27215–27222, http://doi.org/10.1021/acsami.5b08171.
+Kumar,D.,  Pal,S.,  Chhabbra,M.,  and  Harinipriya,S.,  (2015),  Separation  of  Enantiomers  of  Alanine  from  Racemic
+Mixture  by  Polycrystalline  Metal  Surfaces  -  A  Spectroelectrochemical  Approach.  ECS  Transactions,  Volume  66,
+Issue 32, Pp. 33–43, http://doi.org/10.1149/06632.0033ecst.
+Sharma,P., and Sharma,R.K., (2015), Platinum functionalized multiwall carbon nanotube composites as recyclable
+catalyst for highly efficient asymmetric hydrogenation of methyl pyruvate. RSC Advances, Volume 5, Issue 124, Pp.
+Department of Computer Science & Engineering
+Ranjan,V., Harit,G., and Jawahar,C.V., (2014), Learning Partially Shared Dictionaries for Domain Adaptation. In C. V.
+Jawahar  and  S.  Shan  (Eds.),  Computer  Vision  -  ACCV  2014  Workshops,  Singapore,  1-2  November  2014,  Revised
+Selected Papers, Part III, (Volume 9010 of the series Lecture Notes in Computer Science), Springer International
+Publishing,  Switzerland,  Pp.  247-261,  ISBN  978-3-319-16633-9  (Print),  978-3-319-16634-6  (Online),  retrieved  from
+Adil,A.,  Badarla,V.,  Plappally,A.K.,  Bhandari,R.,  Sankhla,P.C.,  (2015),  Development  of  affordable  ICT  solutions  for
+water  conservation  in  agriculture,  in  Proceedings  of  the  2015  7th  International  Conference  on  Communication
+Systems and Networks (COMSNETS), 6-10 January 2015, Bangalore, India, published by the Institute of Electrical
+-  6,  doi:
+and  Electronic  Engineers
+Samant,A.,  Badarla,V.,  Yadav,S.,  Vutukuru,M.,  Khanna,P.,  Luther,  E.  (2015),  Latency  and  cost  requirements  of
+systems for teaching MAC protocols, in Proceedings of 2015 Twenty First National Conference on Communications
+(NCC)Communications  (NCC),  February  27  to  March  1,  2015,  Indian  Institute  of  Technology  Bombay,  Mumbai,
+published  by  the  Institute of  Electrical  and Electronic  Engineers  (IEEE),  Piscataway,  NJ,  ISBN  978-1-4799-6618-9,
+Pages: 1 - 6, doi: 10.1109/NCC.2015.7084820.
+ISBN  978-1-4799-8439-8,  Pp.
+(IEEE),  Piscataway,  NJ,
+Department of Electrical Engineering
+Singh,S.,  Fulwani,D.,  and  Kumar,V.,  (2015),  Robust  sliding-mode  control  of  dc/dc  boost  converter  feeding  a
+constant  power  load,  IET  Power  Electronics,  Volume  8,  Issue  7,  Pp.  1230  –  1237,  http://dx.doi.org/10.1049/iet-
+Barala,S.S., Singh,J., Ranwa,S., and Kumar,M., (2015), Radiation Induced Response of Ba0.5Sr0.5TiO3 Based Tunable
+Capacitors  Under  Gamma  Irradiation.  IEEE  Transactions  on  Nuclear  Science,  Volume  62,  Issue  4,  Pp.  1873-78,
+Ranwa,S.,  Kumar,M.,  Singh,J.,  Fanetti,M.,  and  Kumar,M.,  (2015),  Schottky-contacted  vertically  self-aligned  ZnO
+nanorods for hydrogen gas nanosensor applications, Journal of Applied Physics, Volume 118, Issue 3, Pp. 034509
+Roul,B.,  Kumar,M.,  Rajpalke,M.K.,  Bhat,T.N.,  and  Krupanidhi,S.B.,  (2015),  Binary  group  III-nitride  based
+heterostructures: band offsets and transport properties, Journal of Physics D: Applied Physics, Volume 48, Issue
+42, Pp. 423001 (1-21). http://doi.org/10.1088/0022-3727/48/42/423001.
+Singh,J., Ranwa,S., Akhtar,J., and Kumar,M., (2015), Growth of residual stress-free ZnO films on SiO2/Si substrate
+at  room  temperature
+Issue  6,  Pp.  067140  (1-8).
+for  MEMS  devices,  AIP  Advances,  Volume  5,
+Agarwal,A.,  Deekshitha,K.,  Singh,S.,  and  Fulwani,D.,  (2015),  Sliding  mode  control  of  a  bidirectional  DC/DC
+converter with constant power load, in Proceedings of 2015 IEEE First International Conference on DC Microgrids
+(ICDCM), Pp. 287–292, doi:10.1109/ICDCM.2015.7152056.
+Gautam,A. R., Singh,S., and Fulwani,D., 2015, DC bus voltage regulation in the presence of constant power load
+using sliding mode controlled dc-dc Bi-directional converter interfaced storage unit, in Proceedings of 2015 IEEE
+First International Conference on DC Microgrids (ICDCM), Pp. 257–262, doi:10.1109/ICDCM.2015.7152050.
+Jakhetiya,V.,  Lin,W.,  Jaiswal,S.P.,  Tiwari,A.K.,  and  Guntuku,S.C.,  (2015),  Observation  model  based  perceptually
+motivated bilateral filter for image reconstruction, in Proceedings of 2015 IEEE International Conference on Digital
+Signal Processing (DSP), Pp. 201–205, http://doi.org/10.1109/ICDSP.2015.7251859.
+Rathore,N.,  Bhartiya,P.,  and  Fulwani,D.,  (2015),  Development  of  a  Programmable  Emulator  for  a  Photovoltaic
+Source, SAE Technical Paper No. 2015-28-0081, Warrendale, PA: SAE International.
+Department of Humanities and Social Sciences
+Mamudu,H.M., Veeranki,S.P., John,R.M., Kioko,D.M., and Ogwell Ouma, A.E., (2015), Secondhand Smoke Exposure
+Among Nonsmoking Adolescents in West Africa. American Journal of Public Health, Volume 105, Issue 9, Pp. 1823-
+Veeranki  S.P.,  Mamudu  H.M.,  John  R.M.,  and  Ouma  A.E.O.,  (2015),  Prevalence  and  correlates  of  tobacco  use
+among school-going  adolescents  in  Madagascar, Journal  of  Epidemiology  and Global  Health, Volume  5,  Issue  3,
+Pp. 239-47, doi:10.1016/j.jegh.2014.12.005.
+(2015),  An  Elephant
+in  the  Desert,  Trumpeter,  Volume  31,
+1,  Pp.  76–80,
+Owusu,D. and John,R.M., (2015), Regional differences and determinants of secondhand smoke exposure among
+never-smoking  youth,  Presented  at  the  143rd  Annual  Meeting  and  Exposition  of  the  American  Public  Health
+Association  (APHA),  held  at  APHA,  Chicago,  from  31  October  2015  –  4  November  2015,  retrieved  from
+Pal,D., Adhikari,B., and Mazumdar,M., (2015), Strategic network formation involving social relations: Enmity and
+Friendship,  in  Proceedings  of  2015  7th  International  Conference  on  Communication  Systems  and  Networks
+(COMSNETS), 6-10 January 2015, Bangalore, India, published by the Institute of Electrical and Electronic Engineers
+(IEEE), Piscataway, NJ, ISBN 978-1-4799-8439-8, Pp. 1–6, http://doi.org/10.1109/COMSNETS.2015.7098734.
+Slovic,S., Rangarajan,S., and Sarveswaran,V. (Eds.), (2015), Ecocriticism of the Global South (Ecocritical Theory and
+Practice), Pp. 282. Maryland: Lexington Press.
+Department of Mathematics
+Sharma,P.,  (2015),  Uniform  Convergence  and  Dynamical  Behavior  of  a  Discrete  Dynamical  System,  Journal  of
+Applied Mathematics and Physics, Volume 3, Issue 7, Pp. 766–770. http://doi.org/10.4236/jamp.2015.37093.
+Dani,S.G.,  Shah,R.  and  Sharma,P.,  (2015),  Affine  almost  automorphic  actions  on  compact  nilmanifolds,  Ergodic
+Theory and Dynamical Systems, Volume 35, Issue 6, Pp. 1783-1794. http://dx.doi.org/10.1017/etds.2014.19.
+Department of Mechanical Engineering
+Patidar,D.,  Tiwari,S.,  Sharma,P.K.,  Chandra,L.,  and  Shekhar,R.,  (2015),  Open  Volumetric  Air  Receiver  Based  Solar
+Convective  Aluminum  Heat  Treatment  Furnace  System,  Energy  Procedia,  Volume  69,  Pp.  506–517,
+Sharma,P., Sarma,R., Chandra,L., Shekhar,R., and Ghoshdastidar, P.S. (2015), On the design and evaluation of open
+volumetric  air  receiver  for  process  heat  applications.  Solar  Energy,  Volume  121,  Pages  41–55,  ISES  Solar  World
+Congress 2013 (SWC2013) Special Issue, doi:10.1016/j.solener.2015.05.027.
+Patidar,D.,  Tiwari,S.,  Sharma,P.,  Pardeshi,R.,  Chandra,L.,  and  Shekhar,R.,  (2015),  Solar  Convective  Furnace  for
+Metals Processing. JOM: The Journal of The Minerals, Metals & Materials Society (TMS), Volume 67, Issue 11, Pp
+Singla,Y.K., Chhibber,R., Bansal,H., and Kalra,A., (2015), Wear Behavior of Aluminum Alloy 6061-Based Composites
+Reinforced  with  SiC,  Al2O3,  and  Red  Mud:  A  Comparative  Study.  JOM:  The  Journal  of  The  Minerals,  Metals  &
+Materials Society (TMS), Volume 67, Issue 9, Pp. 2160–2169. http://doi.org/10.1007/s11837-015-1365-0.
+Singh,G., Saini,D., and Chandra,L., (2015), On the evaluation of a cyclone separator for cleaning of open volumetric
+air receiver, Applied Thermal Engineering (Online First), http://doi.org/10.1016/j.applthermaleng.2015.10.087.
+Singh,G.,  Saini,D.,  Yadav,N.,  Sarma,R.,  Chandra,  L.,  and  Shekhar,R.,  (2015),  Dust  Deposition  Mechanism  and
+Cleaning Strategy for Open Volumetric Air Receiver Based Solar Tower Sub-systems. Energy Procedia, Volume 69,
+Pp. 2081–2089, http://doi.org/10.1016/j.egypro.2015.03.222.
+Choudhary,B., and Pratiher,B., (2015), Numerical Studies of a Nonlinear Flexible Rotating System Under Harmonic
+Ground  Motion,  in  P.  Pennacchi  (Ed.),  Proceedings  of  the  9th  IFToMM  International  Conference  on  Rotor
+Dynamics, Mechanisms and Machine Science Series, Volume 21, Pp. 1677–1687. Springer International Publishing,
+ISBN:  978-3-319-06589-2  (Print)  978-3-319-06590-8  (Online),  http://link.springer.com/chapter/10.1007/978-3-319-
+Department of Physics
+Issue  487,  Pp.
+Alok,A.K.,  Banerjee,S.,  Kumar,D.,  Sankar,S.U.,  and  London,D.,  (2015),  New-physics  signals  of  a  model  with  a
+vector-singlet up-type quark. Physical Review D, 92(1), 013002 (1-16), http://doi.org/10.1103/PhysRevD.92.013002.
+Alok,A. K., Banerjee,S., and Uma Sankar,S., (2015), Re-examining 2β and Δmd from evolution of View the MathML
+Banerjee,S., Alok,A.K., and Omkar,S., (2015), Quantum Fisher and Skew information for Unruh accelerated Dirac
+qubit, arXiv:1511.03029 [hep-Th, Physics:quant-Ph], retrieved from http://arxiv.org/abs/1511.03029.
+Banerjee,S., Alok,A.K., Srikanth,R., and Hiesmayr,B.C., (2015), A quantum-information theoretic analysis of three-
+flavor  neutrino  oscillations,  The  European  Physical  Journal  C,  Volume  75,
+Dixit,A.,  Ramchandran,B.,  Kuo,Y.,  and  Lawes,G.,  (2015),  Magnetic  Structure  and  Thermal  Conductivity  of  FeVO4
+Kumari,V., Tripathi,B., and Dixit,A., (2015), β-phase manganese dioxide nanorods: Synthesis and characterization
+for supercapacitor applications, arXiv:1510.00802 [cond-Mat], retrieved from http://arxiv.org/abs/1510.00802.
+Omkar,S.,  Srikanth,R.,  Banerjee,  S.,  and  Shaji,A.,  (2015),  The  two-qubit  amplitude  damping  channel:
+Sharma,V., Shukla,C., Banerjee,S., and Pathak,A., (2015), Controlled bidirectional remote state preparation in noisy
+environment:  a  generalized  view,  Quantum  Information  Processing,  Volume  14,  Issue  9,  Pp.  3441-3464,
+Sinha,M.,  and  Sedrakian,A.,  (2015),  Upper  critical  field  and  (non)-superconductivity  of  magnetars,  Physics  of
+Particles and Nuclei, Volume 46, Issue 5, Pp. 826–829, http://doi.org/10.1134/S1063779615050275.
+Tiwari,B., Dixit,A., Naik,R., Lawes,G., and Rao,M.S.R., (2015), Magnetostructural and magnetocaloric properties of
+bulk LaCrO3 system, Materials Research Express, Volume 2, Issue 2, Paper no. 026103, http://doi.org/10.1088/2053-
+Tiwari,B.,  Goyal,R.,  Jha,R.,  Dixit,A.,  and  Awana,V.P.S.,  (2015),  PdTe:  a  4.5  K  type-II  BCS  superconductor,
+Superconductor  Science  and  Technology,  Volume  28,  Issue  5,  Paper  no.  055008,  http://doi.org/10.1088/0953-
+Thapliyal,K.,  Banerjee,S.,  Pathak,A.,  Omkar,S.,  and  Ravishankar,V.,  (2015),  Quasiprobability  distributions  in  open
+Tripathi,B., Tripathi,G., Dixit,A., and Vijay,Y.K., (2015), Luminescence tuning in a ZnS:Mn system by C6+ (80 MeV)
+Issue  5,  Pp.  399-406,
+irradiation.  Radiation  Effects  and  Defects
+in  Solids,  Volume  170,
+Alok,A.K., Banerjee,S., and Sankar,S.U., (2015), Effect of decoherence on clean determination of sin 2β and Δmd, in
+Proceedings  of  2015  European  Physical  Society  Conference  on  High  Energy  Physics  (EPS-HEP  2015):  Vienna,
+Austria, 22-29 July 2015, http://pos.sissa.it/archive/conferences/234/578/EPS-HEP2015_578.pdf.
+Alok,A.K.,  Banerjee,S.,  Sankar,S.U.,  Kumar,D.,  and  London,D.,  (2015),  New-physics  signals  of  a  model  with  an
+isosinglet vector-like t’quark, in Proceedings of 2015 European Physical Society Conference on High Energy Physics
+July  2015,  http://pos.sissa.it/archive/conferences/234/579/EPS-
+(EPS-HEP  2015):  Vienna,  Austria,  22-29
+AWARDS & RECOGNITIONS
+Ashutosh K. Alok and Subhashish Banerjee receive international recognition
+for their work on Probing Signatures of Quantum Gravity
+Ashutosh  K.  Alok  and  Subhashish  Banerjee  from  Department  of  Physics  at  IIT  Jodhpur  along  with  S.  Uma
+Sankar  (IIT  Bombay)  are  working  on  “Probing  signatures  of  quantum  gravity  like  background  at  LHCb  and  B-
+factories”.  This  work  opened  the  doors  for  probing  some  very  fundamental  aspects  of  nature  such  as  quantum
+gravity background by measuring observables in flavor physics which are mainly used to probe new physics models
+beyond Standard Model. Their work “Re-examining sin 2β and md from evolution of B0
+d mesons with decoherence”
+(http://www.sciencedirect.com/science/article/pii/S0370269315005717)  has  been  published  in  Physics  Letters  B,  a
+renowned journal in the field of particle physics. Also, the work was presented at the prestigious European Physical
+Society’s Conference on High Energy Physics, held at the University of Vienna, Austria in July 2015.
+The measurement of sin(2) is the first signal for Charge-Parity (CP)  violation outside the neutral K meson
+system. The precision measurement of its value is the corner stone in establishing the Cabibbo–Kobayashi–Maskawa
+(CKM)  mechanism  for  CP  violation.  The  success  of  CKM  mechanism  resulted  in  Nobel  Prize  for  physics  in  2008.
+Quantum coherence plays a crucial role in the determination of many such observables in neutral meson systems.
+But, any real system interacts with its environment and this interaction can lead to a loss of quantum coherence, that
+is,  decoherence.  The  environmental  effects  may  arise  at  a  fundamental  level,  such  as the fluctuations  in quantum
+gravity space-time background. With the inclusion of the decoherence effects which characterizes the effect of the
+background, they show that the measured values of important observables in B meson systems,  such as  sin(2),
+can get masked! They also suggest a number of methods which will enable clean determination of these observables
+along with the decoherence parameter quite easily at the LHCb or B-factories.
+2014 Young Scientist Award of BRSI to Amit Mishra
+Amit Kumar Mishra, Assistant Professor, Department of Biology, IIT Jodhpur, has been conferred the  2014
+Young Scientist Award by the Biotech Research Society of India (BRSI). This honour was conferred on him during the
+International Conference on New Horizons in Biotechnology at CSIR-National Institute for Interdisciplinary Science
+and Technology, Thiruvananthapuram, held during 22-25 November 2015.
+For  his  research  contributions,  the  New  York  Academy  of  Sciences  has  launched  Amit  Mishra’s  profile  on
+2016 MRSI Medal to Mahesh Kumar
+Mahesh  Kumar,  Assistant  Professor,  Department  of  Electrical  Engineering,  has  been  selected  by  the
+Materials Research Society of India (MRSI) to receive the MRSI Medal for 2016. The medal will be presented to him
+during the Annual General Meeting of MRSI to be held at Jorhat, Assam, during 18-20 February 18-20 2016.
+The  MRSI  is  an  interdisciplinary  society  founded  in  1989  by  Bharat  Ratna  Professor  C.  N.  R.  Rao,  who  is
+dedicated  to  the  field  of  materials  science  and  engineering  in  India.  The  Society  is  committed  to  stimulate  and
+integrate research in the field of materials for rapid industrial progress in the country.
+Activities & Achievements
+IIT Jodhpur students qualify for SAE BAJA 2016
+Team VAAYU 2.0 of Automobile club at IIT Jodhpur is participating in BAJA 2016 - an all-terrain vehicle design
+competition organised by SAE India. The virtual round of competition was held at Chitkara University, Patiala, Punjab
+on  10th  and  11th  July  2015.  VAAYU  2.0  qualified  for  the  final  event  with  scoring  of  92.64/100  in  presentation
+component  which  is  13th  rank  out  of  152  teams  qualifying  and  about  400  teams  participating  in  the  event.  After
+qualifying in virtual round, the team will be gearing up for developing an all-terrain vehicle to participate in the final
+round of competition which will be held at NATRIX, Pithampur, Madhya Pradesh, during February 2016.
+Photographic Talent of IIT Jodhpur Students showcased at a photography exhibition in Denmark
+Photographic talent of three students of IIT Jodhpur, was showcased at a photography exhibition “Sparks
+from India: A photographic journey through incredible India”, in Denmark. These students are:
+1.  Himanshu Sahu, B.Tech. Class of 2015 (Mechanical Engineering),
+2.  Mohit Gupta, III Year B.Tech. (Electrical Engineering), and
+3.  Kirti Vardhan Rathore, IV Year B.Tech. (Computer Science & Engineering).
+Their work has been on display at Gallerie Lorien in Denmark from 17 October to 14 November, 2015, along with the
+works of other professional artists from around the world.
+Two  of  the  II  year  B.Tech.  (Computer  Science  &  Engineering)  students,  Abhinav  Rai  and  Archil  Kumar
+Srivastava  secured  overall  2nd  position  in  the  event  “Battle  Code”,  in  Techfest  held  at  IIT  Bombay  from  26-28
+Second Position in Techfest @ IIT Bombay
+IIT Jodhpur welcomes the following new Faculty and Staff Members into the family:
+Department / Area of Work
+Suril Vijaykumar Shah
+S. Balachandra Iyer
+Assistant Professor  Department of Electrical Engineering
+Assistant Professor  Department of Computer Science & Engineering
+Associate Professor  Department of Mechanical Engineering
+Assistant Professor  Department of Mechanical Engineering
+Assistant Professor  Department of Chemistry
+Date of Joining
+29 June 2015
+13 July 2015
+13 July 2015
+14 July 2015
+7 August 2015
+9 November 2015
+69 t h Independence Day Celebration
+IIT  Jodhpur  celebrated  the  69th  Independence  Day  on  15  August  2015  at  its
+Permanent Campus in Karwad Village. The Director hoisted the National Flag, while the
+National  Anthem  was  sung  with  affection  and  devotion  to  the  mother  land,  by  all
+present.  The  Director  urged  the  gathering  that  sincere  commitment  to  one's  goal  be
+ensured  to  serve  the  nation.  On  this  occasion,  the  First  Building  at  the  Permanent
+Campus  of  IIT  Jodhpur  was  inaugurated.  The  opportunity  to  do  the  honours  was
+presented  to  the  three  junior  most  members  of  the  IIT  Jodhpur  family  –  the  youngest
+Faculty  Member  (Ritu  Gupta),  the  youngest  Staff  Member  (M.  M.  Malviya),  and  the
+youngest Student (Akash Yadav).
+Activities  were  organized  for  the  children  of  IIT  Jodhpur  employees.  Students
+presented  music  and  dance  performances,  and  street  play.  Also  they  rendered  their
+thoughts on the advancement of technology since Independence. The General Secretary
+of  Students  Gymkhana,  IIT  Jodhpur,  proposed  a  Vote  of  Thanks.  This  was  followed  by
+tree plantation and lunch.
+National Flag was hoisted at the other three Temporary Campuses earlier in the
+morning: Academic Campus, and the GPRA and BSNL Residential Campuses.
+Inauguration of the first building at permanent campus of IITJ
+First International Yoga Day
+EVENTS @ IITJ
+First  International  Day  of  Yoga  was  celebrated  on  21  June  2015  at  the  GPRA  Residential  Campus  of  IIT
+Jodhpur. Faculty Members, Staff Members and Students took an active part in the event.
+IIT  Jodhpur  organized  a  program  on  Teacher’s  Day  to  pay  tribute  to  the  contribution  of  Dr.  Sarvepalli
+Radhakrishnan and to acknowledge the importance of Teachers towards nation building.
+Coordinator (Academics) started the program by welcoming the Director, Faculty Members, and Students.
+On this occasion, the Coordinator (Students) delivered speech on the importance of Teacher’s Day, to  all present.
+Certificates  of  Academic  Distinction  were  handed  over  by  the  Heads  of  Departments  to  the  meritorious  students
+registered in the Academic Year 2014-15.
+The program ended with a Vote of Thanks by Coordinator (Faculty) followed by High Tea.
+Vigilance Awareness Week
+Vigilance  Awareness  Week  was  observed  at  IIT  Jodhpur  during  26-31  October  2015.  It  concluded  with  a
+program  on  Preventive  Vigilance  as  a  Tool  of  Good  Governance,  where  all  the  Offices  at  IIT  Jodhpur  presented
+procedures  followed  by  them  in  various  works.  As  a  part  of  their  presentations,  the  issues,  challenges  and
+bottlenecks  faced  by  them  at  different  stages  were  discussed,  and some  suggestions  to  overcome  were  received
+from the participating members to mitigate confusions and delays in various dealings.
+On  this  occasion,  Ridhi  Aggarwal,  Ph.D.  Student  (Computer  Science  &  Engineering)  received  a  token  of
+appreciation for her presentation on the topic of the program. The program was attended by the Faculty Members,
+Staff Members and Students. The program concluded with a pledge taken by the members present.
+Ridhi Aggarwal receiving prize
+Faculty and Staff members taking the vigilance pledge
+First Constitution Day
+The  Constitution  Day  was  celebrated  at  IIT  Jodhpur  26  November  2015.  On  this  occasion,  the  Faculty
+Members and Staff Members of IIT Jodhpur came together. The program was introduced by Mr. S. Balachandra Iyer,
+Registrar.  The  Preamble  of  the  Constitution  of  India  was  read  out  by  Deepak  Fulwani,  Assistant  Professor,
+Department of Electrical Engineering, and Kshema Prakash, Deputy Librarian, in English and fgUnh, respectively.
+Introduction to the Program
+Reading of the Preamble of the Constitution
+MEA-IITJ Distinguished Lecture
+The Institute, continuing its tradition of MEA-IITJ Distinguished Lectures, invited Ambassador Ajai
+Malhotra for a lecture. Ambassador Malhotra visited the Institute on 11 September 2015  and addressed
+the IIT Jodhpur community on “Climate Change and India”.
+IIT Jodhpur and Department of Management Studies, Jai Narayan Vyas University, Jodhpur came
+together  to  organize  a  special  lecture  by  Professor  Pankaj  Chandra,  Member,  Board  of  Governors,  IIT
+Jodhpur and Former Director, IIM Bangalore, on 23 October 2015. Professor Chandra spoke on “Pivoting
+Indian Manufacturing Policy Differently”.
+Four Course Proposals approved for GIAN Program
+Global Initiative for Academic Networks (GIAN) in higher education is a program of the Ministry of Human
+Resource Development (MHRD) to engage with accomplished scientists and entrepreneurs living abroad. Under this
+scheme, Short Courses will be hosted at premier Institutes in India. As on date, four of the Short Course proposals
+submitted  by  the  Faculty  Members  of  IIT  Jodhpur  (in  collaboration  with  Faculty  Members  serving  in  the
+Institutes/Universities in other countries) have been accepted and approved by MHRD under the said program.
+These courses are:
+Name of the Course
+Synthesis and Characterization of Materials for Energy Technologies
+Fundamentals of Applied Vehicle Dynamics and Chassis Systems
+Robot Modelling and Control, and Applications to Aerial Robots
+Climate Change and Social Crisis in the Anthropocene
+Host Faculty: Ritu Gupta
+Foreign Faculty: Timothy S. Fisher
+Host Faculty: B. Ravindra
+Foreign Faculty: Raghu Enchempati
+Host  Faculty:  Suril  Vijaykumar  Shah  and
+Foreign Faculty: Vijay Kumar
+Host Faculty: Vidya Sarveswaran
+Foreign Faculty: Scott Slovic
+The course on “Synthesis and Characterization of Materials for Energy Technologies” is scheduled during 12-
+16 December 2015, and the  course on  “Fundamentals of  Applied  Vehicle  Dynamics  and  Chassis  Systems”  is  scheduled
+during 22-28 December 2015.
+Rashtriya Avishkar Abhiyan
+Rashtriya Avishkar Abhiyan (RAA) is a program of the Ministry of Human Resource Development (MHRD) in
+pursuance  of  the  focus  on  connecting  school-based  knowledge  to  life  outside  the  school  and  making  learning  of
+Science and Mathematics a joyful and meaningful activity, and to bring focus on innovation and use of technology.
+The  Rashtriya  Avishkar  Abhiyan  (RAA)  is  a  convergent  framework  that  aims  at  nurturing  a  spirit  of  inquiry  and
+creativity, love for Science and Mathematics and effective use of technology amongst children and encourage those
+who  show  an  inclination  and  talent  for  these  subjects  to  be  encouraged  and  supported  to  heights  of  academic
+excellence and research.
+The  activities  of  Rashtriya  Avishkar  Abhiyan  (RAA)  are  organized  by  Ananya Debnath,  Faculty  Member  In-
+charge, with the support of Heads of Departments, Faculty Members, and Staff Members. Under Rashtriya Avishkar
+Abhiyan initiative, an "Open House for School Students" was organized on 21 November 2015 at IIT Jodhpur, which
+included  public  lectures  and  laboratory  visits.  The  objectives  of  this  event  were  to  enable  students  in  getting
+motivated  and  engaged  in  Science,  Mathematics  and  Technology;  and  to  provide  an  exposure  to  students,  of
+national needs and current science.
+Ishaan Vikaas Program
+The  idea  of conducting  Ishaan  Vikaas  Program  at  various  IITs,  IIITs,  and  IISERs,  is  to  bring  school  children
+from the north-eastern regions of India into close contact with these science and technology institutes during their
+summer and winter vacations,  with the objective of opening up young minds and give them a broad overview of the
+future paths they can traverse.
+During  12-23  December  2015,  IIT  Jodhpur,  for  the  second  time  in  this  year,  successfully  organized  the
+program for a period of 12 days. In this session 41 students, accompanied by 6 teachers took part in the program.
+Various activities on topics such as computer programming, computer and communications skills, basics of individual
+disciplines,  and documentaries/short films on big scientific  discoveries were included during the program. Visits to
+various  laboratories  in  the  Institute,  and  to  research  institutes  in  the  city,  namely,  Defense  Research  Laboratory,
+DRDO, Jodhpur, and Central Arid Zone Research Institute (CAZRI), Jodhpur, were also organized for these students.
+Experimental Facility for Testing Solar Thermal Technologies at IIT Jodhpur
+A  workshop  for  "Discussion  and  Finalization  of  DPR  for  an  Experimental  CSP  Plant  at  IIT  Jodhpur"  was
+organized by jointly by IIT Jodhpur, Indian Oil Corporation Limited, and Bharat Heavy Electrical Limited, during 8-9
+July 2015 at IIT Jodhpur. Being located on the Sun-city Jodhpur, and with 320 days of bright sunshine, IIT Jodhpur is
+working on both Solar Photovoltaic and Concentrated Solar Thermal Technologies. The objective is development of
+end-to-end  Solar  Thermal  Technologies.  To  achieve  this  goal,  among  other  initiatives,  a  joint  Memorandum  of
+Collaboration (MoC) is signed in  October 2011 between  IIT  Jodhpur, Indian Oil  Corporation Limited  (IOC-R&D) and
+Bharat  Heavy  Electricals  Limited  (BHEL).  Setting-up  of  an  experimental  Concentrated  Solar  Thermal  Power  (CSP)
+prototype test-bed at IIT Jodhpur is envisaged. As the starting point, a Detailed Project Report (DPR) for the planned
+CSP  test-bed  is  being  prepared.  This DPR  aims  to consolidate  the  required  steps  towards  achieving  this goal.  It  is
+expected that the gained insight to these technologies will allow their adaptation in arid Indian conditions, like, in
+the state of Rajasthan.
+Public Lecture organized by  Women Cell
+The Women  Cell  of the  Institute  organized  a  lecture  on  “Sexual  harassment  at  work  place  and  precedent
+law” by Advocate Dr. Nupur Bhati on 18 September 2015. Advocate Bhati, a serving lawyer in Rajasthan High Court,
+elucidated  the  provisions  under  the  Sexual  Harassment  at  Workplace  Act,  2013  and  touched  upon  some  cases  as
+examples. The lecture was attended by the Faculty Members, Staff Members, Students, and Members of Women Cell.
+DEPARTMENT IN FOCUS
+The  Department  of  Humanities  and  Social  Sciences  at  IIT  Jodhpur  operates  from  spaces  that  give  us  an
+opportunity to act as an interface between empirical and experiential knowledge systems. Playing a significant role in
+the academic curriculum of the young engineers, the Department offers both core and elective courses at the Bachelors,
+Masters,  and  Doctoral  levels.  The  ability  to  provide  tools  and  skills  for  specific  aims  notwithstanding,  the  essence  of
+Humanities and Social Sciences involves the sensitizing of individuals. Acting as facilitators, thus,  the Faculty Members
+engage  in  meaningful  interactions  with  students  and help  them  witness,  study and  understand  the  interplays  among
+technology,  society,  and  humanity.  This  task  assumes  even  more  significance  in  an  educational  context,  where  the
+brightest young minds of India come together.
+With  Faculty  Members  who  specialize  in  diverse  disciplines  including  Philosophy,  Economics,  Psychology  and
+Literature, and with students from a spectrum of backgrounds, the Department provides an enriching platform, where
+technical education can be complemented with human and social understanding.
+Academic & Research Engagements
+Vidya Sarveswaran edited the two volumes with Swarnalatha Rangarajan (Associate Professor, Department
+of  Humanities  &  Social  Sciences,  IIT  Madras)  and  Scott  Slavic  (Professor  and  Chair  of  the  English  Department,
+University of Idaho, USA, and Editor of Interdisciplinary Studies in Literature & Environment (ISLE)) namely:
+Slovic,S.,  Rangarajan,S.,  and Sarveswaran,V. (Eds.),  (2014), Ecoambigutiy  Community  and  Development:  Toward  a
+Politicized Ecocriticism (Ecocritical Theory and Practice), Pp. 214, Maryland: Lexington Press.
+ii.  Slovic,S., Rangarajan,S., and Sarveswaran,V. (Eds.), (2015), Ecocriticism of the Global South (Ecocritical Theory and
+Practice), Pp. 282, Maryland: Lexington Press.
+Also,  Vidya  Sarveswaran  was  an  invited  speaker  for the  International  Interdisciplinary  Conference  on  Ecocriticism,
+Environmental  Justice,  and  Literature,  organized  by  the  Association  for  the  Study  of  Literature  and  Environment
+(ASLE) - Bangladesh Planning Committee, during 6-10 August 2015, at the University of Dhaka, Bangladesh. Her paper
+was titled, “The Ground Beneath their feet: The Bishnois of Rajasthan”.
+Mainak Mazumdar has the following academic and research engagements:
+i.  Research  collaboration  “Financial  Reforms,  Inflation  Targeting  and  Growth”,  with  Vêlayoudom  Marimoutou,
+Professor, Greqam Research Unit, France Aix-Marseille Université, Marseille, France.
+ii.  Research collaboration “On Shapley Value and Inequality: Theoretical issues” with Frederic Chantreuil, Professor,
+Centre de Recherche en Économie et Management (CREM), University of Caen, France.
+Also, Mainak Mazumdar was invited by Springer Verlag for AIDS workshop during 30 April - 2 May, 2015, to deliver a talk on
+‘Indian  Pharmaceutical  Industry:  Opportunities  in  the  domestic  and  International  Market’.  Further,  his  work,  “Growth,
+Regional  Disparities  and  Convergence  Clubs  in  India,  A  sectoral  Level  analysis  and  decomposition,  1961-2009”  has  been
+selected for presentation at the 3rd DIAL conference “Barriers to Development” that took place during 2-3 July 2015, at the
+University of Dauphine Paris, France.
+Rijo  John  is  a  Member  of  the  Project  Team,  The  Tobacco  Policy  Research  Program  at  East  Tennessee  State
+University,  USA,  which  conducts  studies  on  tobacco  use  and  policy.  He  attended  an  Informal  Consultation  on
+Emerging Research issues on Economics of Tobacco Control, organized by the World Health Organization (WHO) at
+their headquarters in Geneva, Switzerland, during 27-28 August 2015, as an invited participant.
+Deepakkumar M. Fulwani, Coordinator (Faculty)
+Atul Kumar, Coordinator (Academics)
+V. Narayanan, Coordinator (R&D)
+V. Hari Narayanan, Coordinator (Students)
+S. Balachandra Iyer, Registrar
+Kshema Prakash, Deputy Librarian
+IIT Jodhpur Newsletter
+Vol. 02 (3-4)
+Copyright © 2015, Indian Institute of Technology Jodhpur (www.iitj.ac.in). All rights reserved.
+Kshema Prakash, Deputy Librarian
+Indian Institute of Technology Jodhpur
+Old Residency Road, Ratanada

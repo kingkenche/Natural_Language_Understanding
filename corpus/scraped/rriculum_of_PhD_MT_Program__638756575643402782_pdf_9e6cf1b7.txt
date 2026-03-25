@@ -1,0 +1,319 @@
+Indian Institute of Technology Jodhpur
+Ph.D. (METALLURGICAL AND MATERIALS ENGINEERING)
+L-T-P  Credits Cat.  Course
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+TH  MT799   Ph.D. Thesis
+* Electives 1 and 5 to be taken from M.Tech. elective courses only. No 5XX
+courses can be taken.
+L-T-P  Credits Course
+3  MT6XX  Electronic, Optical
+3  MT6XX  Thin Film
+MT7XX  Particulate Matter
+3  MT7XX  Theory and Design
+3  MT6XX  Diffusion in Solids  3-0-0
+DISTRIBUTION OF CREDITS (Ph.D.)
+ELECTIVES   M. Tech., M.E., M.Sc. Degree in MT   4
+M. Tech., M.E., M.Sc. Degree in
+other Engineering disciplines
+M. Sc. Degree in Science disciplines  10
+DETAILED SYLLABUS FOR THE PROPOSED COURSES
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Introduce various kinds of interfaces and their role in development of material properties
+The students are expected to have the ability to:
+1.  Design the microstructure in order to meet the properties desired in the materials
+1.  Grain  boundary  (GB)  structure:  Atomistic  models  and  their  comparison,  extrinsic  versus
+intrinsic GB structure, interaction between dislocations and GB structure, design of GBs
+2.  GB energy: Relation between GB structure and GB energy, variation in energy of different
+types of grain boundaries
+3.  GB  phenomena:  GB  diffusion,  GB  sliding,  GB  migration,  GB  segregation,  Environmental
+effect on GBs (corrosion)
+4.  Importance  of  GBs
+in  physical  and  mechanical  properties:  GB  strengthening,
+superplasticity and effect of high temperature deformation
+5.  Role of interface in thin films: Interface engineering, electronic interface state, accelerated
+reactions, thin film magnetism
+1.  Priester, L., Grain Boundaries and Crystalline Plasticity, Wiley, 2013
+2.  Gottstein,  G.  and  Shvindlerman,  L.S.,  Grain  Boundary  Migration
+Thermodynamics, Kinetics, Applications, Second Edition, CRC Press, 2009
+3.  Chadwick,  G.A.,  Grain  Boundary  Structure  and  Properties,  Elsevier  Science  Publishing  Co
+4.  Murr,  L.E.,  Interfacial  Phenomena  in  Metals  and  Alloys,  Addison-Wesley  Educational
+Publishers Inc., 1975
+5.  McLean, D., Grain Boundaries in Metals, Clarendon Press, 1957
+1.  Rohrer, G.S., Grain Boundary Energy Anisotropy: a Review, J. Mater. Sci., 2011
+2.  Watanabe,  T.,  Grain  Boundary  Design  and  Control  for  High  Temperature  Materials,
+Materials Science and Engineering: A, 1993
+Online Course Materials
+1.  Ghosh,  R.N.,  Principles  of  Physical  Metallurgy,  NPTEL  Course  Material, Department  of
+Metallurgical  &  Materials  Engineering  Indian  Institute  of  Technology  Kharagpur,
+Fatigue and Fracture
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Explain  all  the  reasons  behind  failure  with  respect  to  fatigue  and  fracture  under  different
+The students are expected to have the ability to:
+1.  Visualize,  compute  and  asses  all  aspects  of  failure  analysis  in  order  to  prevent  the
+occurrence of untoward accidents
+1.  Introduction: fracture, fatigue, creep-fatigue interaction, nature of fracture surfaces
+2.  Fracture:  Theory  of  linear-elastic  and  elastic-plastic  fracture  mechanics,  damage
+mechanics,  damage  tolerance,  dynamic  fracture,  fracture  stress  distribution  at  crack  tip,
+crack  initiation  and  propagation,  fracture  control,  computational  fracture  mechanics,
+fracture  toughness  and  test  techniques:  COD  and  J-integral  approaches,  fracture
+mechanics in metals, ceramics, and composites
+3.  Fatigue: Fatigue damage and design, life prediction techniques, fatigue crack initiation and
+propagation,  residual  stress  effects  on  fatigue  damage,  fatigue  mechanisms,  short  crack
+propagation and fretting fatigue.
+4.  Fatigue  Creep-  fatigue  interaction:  modes  of  high  temperature  fracture  and  fatigue
+fracture, micro-mechanism of damage, fracture criterion for creep fatigue, failure mapping
+and testing, influence of environment
+5.  Analysis  and  Case  studies:  elementary  techniques  for  reliability  analysis,  components
+failure from different industries
+1.  Dieter, G. E., Mechanical Metallurgy, 3rd Edition, McGraw Hill Book Company, 1986
+2.  Sachs  N.W.,  Practical  Plant  Failure  Analysis:  A  Guide  to  Understanding  Machinery
+Deterioration  and  Improving  Equipment  Reliability,  Dekker  Mechanical  Engineering,  CRC
+3.  Suresh, S., Fatigue of Materials; 2nd Edition, Cambridge University Press, 1998
+4.  Carlson,  R.  L.  and  Kardomateas,  G.  A.,    An  Introduction  to  Fatigue  in  Metals  and
+Composites; First Edition, Chapman and Hall, London, 1995
+5.  Lemaitre,  J.,  Desmorat,  R.,  Engineering  Damage  Mechanics:  Ductile,  Creep,  Fatigue  and
+Brittle Failures, Springer Science & Business Media, 2006
+1.  Cooper  T.D.,  Prevention  of  Structural  Failure  -  the  Role  of  Quantitative  Non-Destructive
+Evaluation, ASM International, 1975
+2.  Powell  G.W.  and  Mahmoud  S.E.,  Failure  Analysis  and  Prevention,  Metals  Handbook,  Vol.
+11, 9th edition, ASM International, 1986
+3.  Colangelo  V.J.  and  Heiser  F.A.,  Analysis  of  Metallurgical  Failure,  2nd  edition,  Wiley-
+4.  Shipley  R.J.  and  Becker  W.T.,  Failure  Analysis  and  Prevention,  ASM  handbook,  Vol.  11,
+ASM International, 2002
+5.  Gulati R. and Smith R., Maintenance and Reliability Best Practices, Industrial Press, 2009.
+6.  Hull  D.  and  Clyne  T.W.,  An  Introduction  to  Composite  Materials,  2nd  Ed.,  Cambridge
+University Press, 2013
+Online Course Materials
+1.  Ramesh,  K.,  Engineering  Fracture  Mechanics,  NPTEL  Course  Material,  Department  of
+2.  Ramesh, K., Experimental Stress Analysis, NPTEL Course Material, Department of Applied
+Mechanics, Indian Institute of Technology Madras, http://nptel.ac.in/courses/112106068/
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Explain  the  principles  to  accurately  relate  the  information  in  two-dimensional  images
+observed in microstructure with their three-dimensional features
+The students are expected to have the ability to:
+1.  Interpret  the  features  of  the  images  of  microstructure  accurately  and  develop
+interrelationships among them
+1.  Introduction: elements of microstructure, geometric properties of features
+2.  Basic stereological procedures: stereology, ground rules for applying stereology
+3.  Geometry of microstructures: characterization of microstructures- qualitative, quantitative,
+topographic microstructural states, quantitative fractography
+4.  Classical stereological measures: area fraction from the point count, volume fraction from
+the  point  count,  feature  perimeter  from  line  intercept  count,  surface  areas  and  the  line
+5.  Sampling: sample design, procedure for isotropic, uniform and random sampling
+6.  Data analysis: Statistical interpretation, computer assisted methods, geometric modelling,
+unfolding  size  distributions,  anisotropy  and  gradients,  quantification  of  features  in
+Transmission Electron Microscopy
+1.  Russ, J. C., Dehoff, R. T., Practical Stereology, 2nd edition, Springer, 2001
+2.  Voort, G. F. V., Metallography: Principles and Practice, ASM International, 1984
+3.  Fractography, ASM Handbook, Volume 12, ASM International, 1987
+4.  Metallography and Microstructures, ASM Handbook, Volume 9, ASM International, 2004
+Particulate Matter Technology
+Department  Metallurgical and Materials Engineering
+Offered for  M.Tech. (MT) and Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Explain the origin and application of particulate matter technology
+The students are expected to have the ability to:
+1.  Select an appropriate process for separation of particulate materials and also optimise the
+properties for technological impact
+1.  Particle  size:  definitions,  determination,  size  reduction  methods.  Grinding.  Liquid-Solid
+separation, Separation methods, thickeners, cyclones, filters, froth flotation
+2.  Sedimentation, filtration, fluidization and flotation
+3.  Thermodynamic stability diagrams: Roasting. Structure and properties of slags.
+4.  Liquid  metallic  solutions:  change  of  standard  states,  activity  interaction  parameters.
+Leaching,  solvent  extraction,  ion  exchange,  precipitation.  Electro-winning.  Material  and
+5.  Applications in extraction of copper and aluminium
+6.  Nano-sized  Particles:  Top-down  and  bottom-up  approaches,
+nanotechnology and understanding its properties and characterization
+1.  Geankoplis  C.J.,  Transport  Processes  and  Separation  Process  Principles,  4th  Ed.,  Prentice
+2.  Brown G.G., and Associates, Unit Operations, BS Publishers, 1995
+3.  Kelly,  E.G.,  and Spottiswood,  D.J.,  Introduction  to  Mineral  Processing,  John  Wiley,  New
+4.  Rosenquist, T., Principles of Extractive Metallurgy, McGraw-Hill, New York, 1974
+1.  Fuerstenau,  M.C.,  and  Han,  K.N.,  Principles  of  Mineral  Processing,  Society  for  Mining,
+Metallurgy and Exploration (SME), Colorado, 2003
+2.  Yang W.C., Handbook of Fluidization and Fluid Particle systems, Marcel Dekker Inc., 2003
+3.  Ray, H.S., Sridhar, R. and Abraham, K.P., Extraction of Nonferrous Metals, Affiliated East-
+West Press, New Delhi, 1985
+Online Course Materials
+1.  Nagarajan.  R.,  Particle  Characterization,  NPTEL  Course  Material,  Department  of  Chemical
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Explain heat, mass and momentum transfer in various metallurgical processes
+The students are expected to have the ability to:
+1.  Relate the subject with industrial practice
+2.  Implement the understanding towards the optimization of ongoing metallurgical processes
+1.  Introduction  to  Metallurgical  Systems:  Concept  of  unit  operations  in  chemical  metallurgy,
+engineering fundamentals of unit processes
+2.  Momentum  Transfer:  Differential  and  overall  balances  and  their  applications  in  flow
+through  pipes,  inclined  planes,  packed  beds  and  flow  measuring  devices  such  as  orifice
+meter, Venturi meter, flow nozzles, pitot tube, rotameter, concept and working principle of
+supersonic nozzles; momentum transfer in turbulent flow situation
+3.  Heat  Transfer:  Conduction-  Steady  state  heat  conduction  problems  in  slabs,  hollow
+cylinders,  spheres,  composite  walls,  composite  pipes  etc,  unsteady  heat  transfer  in
+metallic specimens (lumped system) Convection- free and forced convection, heat transfer
+coefficient,  dimensional  analysis  problems.  Radiation-  emissivity,  absorptivity,  Planck’s
+distribution law, Wein’s displacement law, Stefan  - Boltzmann law, radiative heat transfer
+between two black bodies and concept of view factor
+4.  Mass Transfer: Fundamentals of diffusion; rate laws, Uphill diffusion and Kirkendal’s effect,
+steady  and  unsteady  diffusion,  Numerical  problems  on  diffusion  mass  transfer,
+Fundamentals  of  convective  mass  transfer;  free  and  forced  convective  mass  transfer,
+Convective mass transfer, rate laws and mass transfer coefficient, Problems on Convective
+in:  case  hardening,  doping  of
+semiconductors,  homogenization,  oxidation,  absorption/desorption  of  gases  in  liquid
+Application  of  mass
+5.  Case studies on components from different industries
+1.  Bird,  R.B.,  Stewart,  E.S.,  Lightfoot,  E.N.,  Transport  Phenomena, 2nd  Edition,  John  Wiley,
+2.  Geiger, G.H., Poirier, D.R., Transport Phenomena in Metallurgy, Addison-Wesley, 1973
+3.  Kou, S., Transport Phenomena in Materials Processing, John Wiley, 1996
+1.  Backhurst,  J.R.,  Harker,  J.  H.,  Richardson,  J.F.,  Coulson  J.M.,  Chemical  Engineering
+Volume 1: Fluid Flow, Heat Transfer and Mass Transfer, 6 th Ed., Butterworth-Heinemann,
+2.  Mohanty, A.K., Rate Processes in Metallurgy, Prentice-Hall, 2000
+3.  Gaskell, D., An Introduction to Transport Phenomena in Materials Engineering, 2nd Edition,
+Momentum Press, 2012
+Online Course Materials
+1.  Powell,  A.,  IV.  3.185  Transport  Phenomena  in  Materials  Engineering.  Fall  2003.
+Massachusetts  Institute  of  Technology:  MIT  OpenCourseWare,  https://ocw.mit.edu.
+License: Creative Commons BY-NC-SA
+Electronic, Optical and Magnetic Properties of
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Introduce  the  origin  of  electronic,  optical  and magnetic  properties  of  materials  from  their
+electronic and molecular structure
+The students are expected to have the ability to:
+1.  Select appropriate materials for optimum properties aiming for engineering applications
+1.  Electronic Properties: Localized vs. delocalized states: From the free electron to the atom,
+Electronic  states  in  crystals:  DOS,  bandgaps,  interpretation  of  band  diagrams,  Fermions,
+symmetrisation and Pauli's exclusion principle: Electrons in bands and the classification of
+solids,  "Free  electron  gas"  description  of  carriers,  The  chemical  potential:  Fermi  level,
+statistics  of  electron  distribution,  Electronic  structure  of  semiconductors:  Intrinsic  and
+extrinsic, Semiconductor devices: p-n junctions under illumination and applied voltage
+2.  Optical  Properties:  Maxwell's  equations:  Electromagnetic  waves  in  materials,  Indices  of
+refraction:  Reflection  and  transmission,  light  scattering,  polarization,  optical  fibres,  LEDs,
+Periodic optical materials: Photonic bands and band gaps and dispersion relation
+3.  Magnetic  Properties:  Magnetization  of  matter,  magnetic  materials  classification–
+diamagnetism,  para-magnetism,  ferromagnetism,  anti-ferromagnetism,  ferrimagnetism,
+saturation  magnetization  and  Curie  temperature,  magnetic  domains,  soft  and  hard
+magnetic  materials;  Superconductivity  -  Zero  resistance  and  the  Meissner  effect,  critical
+1.  White, M.A., Physical Properties of Materials, 2nd Ed., CRC Press, 2011
+2.  Hummel R.E., Electronic Properties of Materials, 4th Ed., Springer, 2011
+3.  Kasap S.O., Principles of Electronic Materials and Devices, 3rd Ed., McGraw-Hill, 2009
+4.  Saleh,  Bahaa  E.  A.,  and  Malvin  Carl  Teich.  Fundamentals  of  Photonics.  2nd  ed.  Wiley-
+1.  Streetman B. and Banerjee S., Solid State Electronic Devices, 6th ed., Prentice Hall, 2005
+2.  Griffiths, D. J., Introduction to Quantum Mechanics. 2nd ed. Pearson Prentice Hall, 2004
+3.  O'Handley,  R.  C.,  Modern  Magnetic  Materials:  Principles  and  Applications.  Wiley-
+4.  Kwok, H.L., Electronic Materials, PWS Publications, 1997
+5.  Pierret, R. F., Semiconductor Fundamentals: Volume I. 2nd ed. Prentice Hall, 1988
+Online Course Materials
+1.  Parasuraman,  S.,  Electronic  Materials,  NPTEL  Course  Material,  Devices  and  Fabrication
+Department  of  Metallurgical  and  Materials  Engineering,  Indian  Institute  of  Technology
+2.  Ghosh,  S.,  Electronic  Properties  of  Solids,  NPTEL  Course  Material, Department  of  Physics,
+Indian Institute of Technology Guwahati, http://nptel.ac.in/syllabus/115103033/
+3.  Polina Anikeeva, Geoffrey Beach, and Niels Holten-Andersen. 3.024 Electronic, Optical and
+Magnetic Properties of Materials. Spring 2013. Massachusetts Institute of Technology: MIT
+OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA
+Thin Film Technology
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Develop a comprehensive explanation of thin film deposition principles and techniques
+The students are expected to have the ability to:
+1.  Select an appropriate deposition method and material while being able to analyse them for
+1.  The  physics  of  gases  and  vacuum  systems:  gas  kinetics,  Maxwell-Boltzmann  distribution,
+molecular impingement flux, Knudsen equation, mean free path, transport properties
+2.  Evaporation:  thermodynamics  of  evaporation,  evaporation  rate,  alloys,  compounds,
+sources, deposition monitoring techniques
+3.  Deposition:  adsorption,  surface  diffusion,  nucleation,  structure  development,  interfaces,
+4.  Epitaxy:  symmetry,  applications,  disruption,  growth  monitoring,  composition  control,
+lattice mismatch, surface morphology
+5.  Film  analysis:  structure-thickness,  topography,  inhomogeneity,  crystallography,  bonding,
+point defects, composition, and optical, electrical and mechanical behaviour of thin films
+6.  Vacuum  technology:  different  pumps,  leakage  and  contamination  detection,  gauge
+readings, construction of vacuum systems
+7.  Deposition  techniques:  evaporation  techniques  (filaments,  baskets,  and  boats),  E-beam
+techniques, sputtering techniques and operating a vacuum coating system, chemical vapor
+deposition:  gas  supply  and  convection,  reaction  equilibrium  and  surface  processes,
+diffusion limited deposition and reactor models
+8.  Thickness  measurement  techniques:  point-source  load  calculations  from  nomograph,
+crystal thickness monitoring
+9.  Thin film technology applications: optical windows, integrated circuits, micro-electro-opto-
+mechanical systems and photovoltaics
+1.  Soriaga,  M.P.,  Stickney,  J.,  Bottomley,  L.A.,  and  Kim  Y.G,  Thin  Films:  Preparation,
+Characterization, Applications, Springer Science 2011
+2.  Ohring, M., The Materials Science of Thin Films, 2nd Edition, Academic press, 2002
+3.  Smith, D.L., Thin-Film Deposition: Principles and Practice, McGraw-Hill, 1995
+4.  Hummel, R. E. and Guenther, K.H., Handbook of Optical Properties: Thin Films for Optical
+Coatings, Volume 1, CRC Press, 1995
+5.  Chopra, K.L., Thin Film Phenomena, Robert E. Krieger publishing, 1969
+Online Course Materials
+1.  Schmidt,  M.,  Ruff,  S.,  and  Handley,  R.,  6.152J  Micro/Nano  Processing  Technology.  Fall
+2005. Massachusetts Institute of Technology: MIT OpenCourseWare,  https://ocw.mit.edu.
+License: Creative Commons BY-NC-SA
+2.  Pandya, D.K., Physics of Thin Films and Nanostructure Fabrication, NPTEL Course Material,
+Indian Institute of Technology Delhi, http://www.nptel.ac.in/syllabus/115102019/
+Theory and Design of Alloys
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Explain  the  fundamentals  of  alloys  and  designing  the  compositions  to  meet  the
+requirements of specific applications
+The students are expected to have the ability to:
+1.  Understand  the  various  alloy  systems  having  varying  properties  at  atomic  and  electronic
+2.  Modify conventional alloy compositions for enhanced properties
+1.  Structure and stability of alloys: solid solubility, energy  of solid solutions, phase  stability,
+2.  Solid  solutions:  size  factor,  electronegativity,  intermediate  phases  with  wide  solid
+solubility, lattice spacing in solid solutions, order
+3.  Role of defects: vacancies, stacking faults
+4.  Theories of substitutional and interstitial solid solutions, intermetallic compounds, bonding
+theory for metals and alloys
+5.  Theory and design of specific alloys: Ti-alloys, super alloys, special steels, shape memory
+alloys, high temperature metals and alloys
+6.  Alloy  design  maps:  microstructure  control,  Blackmann  diagrams,  Darken-Gurry  maps,  d-
+orbital energy level-bond order maps
+1.  Pettifor, D. G., Cottrell, A. H., Electron Theory in Alloy Design, Institute of Materials, 1992
+2.  Cahn, R. W., Haasen, P., Physical Metallurgy, volume 1, 4th edition, North-Holland, 1996
+3.  Smallman,  R.  E.,  Ngan,  A.H.W.,  Physical  Metallurgy  and  Advanced  Materials,  7th  Edition,
+4.  Tien, J., Alloy and Microstructural Design, Academic Press, 1976
+5.  Reed,  R.  C.,  The  Superalloys  -  Fundamentals  and  Applications,  Cambridge  University
+Diffusion in Solids
+Department  Metallurgical and Materials Engineering
+Ph.D. (MT) Program
+L-T-P [C]  3-0-0 [3]
+The Instructor will:
+1.  Explain the mechanism of diffusion and their relevance to various metallurgical processes
+The students are expected to have the ability to:
+1.  Relate the role of diffusion in different metallurgical phenomena controlling the properties
+1.  Introduction: theory of diffusion, diffusion in various geometries, mechanisms for diffusion
+2.  Laws of diffusion: Fick’s first law, Fick’s second law, methods for analysing diffusion
+3.  Diffusion  in  metals:  self-diffusion,  interstitial  solutes,  dilute  substitutional  alloys,  binary
+intermetallics, quasicrystalline alloys
+4.  Diffusion in semiconductors: self-diffusion, foreign atom diffusion, interstitial-substitutional
+5.  Diffusion  in  other  materials:  ionic  crystals,  fast  ion  conductors,  metallic  glasses,  oxide
+glasses, ceramics and polymers
+6.  Role of diffusion and case studies: grain growth, high temperature corrosion and creep
+1.  Shewmon, P. G., Diffusion in Solids, 2nd Edition, Wiley-TMS, 1991
+2.  Helmut,  M.,  Diffusion  in  Solids:  Fundamentals,  Methods,  Materials,  Diffusion-Controlled
+Processes, Springer, 2007
+Online Course Materials
+1.  Paul, A., Diffusion in Solids, NPTEL Course Material, Indian Institute of Science Bangalore,
+2.  Allen,  S.,  and  Eagar,  T.,  3.205  Thermodynamics  and  Kinetics  of  Materials.  Fall  2006.
+Massachusetts  Institute  of  Technology:  MIT  OpenCourseWare,  https://ocw.mit.edu.
+License: Creative Commons BY-NC-SA

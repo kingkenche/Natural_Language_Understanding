@@ -1,0 +1,137 @@
+Data structures and practices
+Department  Computer Science and Engineering
+Offered for  M.Tech. 1
+Prerequisite  Computer Programming
+L-T-P [C]  0–0–2 [1]
+The Instructor will:
+1.  Explain various data structures and provide details to implement and use them in different
+The students are expected to have the ability to:
+1.  Write, debug and rectify the programs using different data structures
+2.  Expertise in transforming coding skills into algorithm design and implementation
+Exercises based on
+Abstract Data Types:
+Shortest Path First algorithm, Dynamic programming (6 labs)
+Arrays, linked-list/list, hash tables, dictionaries, structures, stack, queues
+Heap, Sets, Sparse matrix, Binary Search Tree, B-Tree/ B+ Tree, Graph (4
+Quick or Merge sort, Breadth or Depth first search or Dijkstra’s
+1. Weiss, M. A. (2007), Data Structures and Algorithm Analysis in C++, Addison-Wesley.
+2. Lipschutz, S. (2017), Data Structures with C, McGraw Hill Education.
+3. Cormen, T. H., Leiserson, C. E., Rivest, R. L. and Stein, C., (2009), Introduction to
+Algorithms, MIT Press
+Department  Computer Science and Engineering
+Offered for  M.Tech. 1
+​ Year, Ph.D. 1
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Cover various paradigms that come under the broad umbrella of AI, with some of them
+being covered in depth
+The students are expected to have the ability to:
+1.  Develop an understanding of where and how AI can be used
+Uninformed strategies (BFS, DFS, Dijkstra), Informed strategies (A* search, heuristic
+functions, hill-climbing), Adversarial search (Minimax algorithm, Alpha-beta pruning) (10
+Knowledge representation, Resolution (6 lectures)
+Natural language parsing, Context free grammar (3 lectures)
+Constraint satisfaction problems
+State space search, Planning Graphs, Partial order planning (4 lectures)
+Probabilistic reasoning, Bayesian Networks, Dempster-Shafer theory,
+Fuzzy logic (6 lectures)
+1. Russel,S., and Norvig,P., (2015),
+, 3rd Edition,
+Artificial Intelligence: A Modern Approach
+1.  Research literature
+Self Learning Material
+1.   Department of Computer Science, University of California, Berkeley,
+2.   NPTEL: Artificial Intelligence,
+Department  Computer Science and Engineering
+Offered for  M.Tech. 1
+Prerequisite  Artificial Intelligence-1
+​ Year, Ph.D. 1
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Cover modern paradigms of AI that go beyond traditional learning
+The students are expected to have the ability to:
+1.  Develop an understanding of modern concepts in AI and where they can be used
+2.  Design, implement and apply novel AI techniques based on emerging real-world
+Hidden Markov Models, Kalman Filters, Dynamic
+Probabilistic Reasoning over time:
+Bayesian Networks (7 lectures)
+Ontological engineering, Semantic Networks,  Description Logics
+decision problems, Partially Observable MDPs, Game Theory (14 lectures)
+Search, Deep Reinforcement Learning (14 lectures)
+Utility theory, utility functions, decision networks, sequential
+Passive RL, Active RL, Generalization in RL, Policy
+1. Russel,S., and Norvig,P., (2015),
+, 3rd Edition,
+Artificial Intelligence: A Modern Approach
+1.  Research literature
+Department  Computer Science and Engineering
+Offered for  M.Tech. 1
+​ Year, Ph.D. 1
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1.  Provide motivation and understanding of the need and importance of Machine Learning in
+2.  Provide details about various algorithms in Machine Learning
+The students are expected to have the ability to:
+1.   Develop a sense of Machine Learning in the modern context, and independently work on
+problems relating to Machine Learning
+2.   Design and program efficient algorithms related to Machine Learning, train models,
+conduct experiments, and deliver ML-based applications
+Introduction, Stochastic Gradient Descent, Subgradients, Stochastic
+Clustering: Linkage-based clustering algorithms, k-means algorithm, Spectral
+Motivation, Different types of learning, Linear regression, Logistic
+Feedforward neural networks, Expressive power of neural networks, SGD and
+regression (2 lectures)
+Gradient Descent for risk minimization (2 lectures)
+Support Vector Machines: Hard SVM, Soft SVM, Optimality conditions, Duality, Kernel trick,
+Implementing Soft SVM with Kernels (4 lectures)
+Decision Tree algorithms, Random forests (2 lectures)
+k-nearest neighbour, Curse of dimensionality (1 lecture)
+Backpropagation (3 lectures)
+clustering (2 lectures)
+Dimensionality reduction: Principal Component Analysis, Random projections, Compressed
+sensing (2 lectures)
+Latent variables and Expectation-maximization algorithm, Bayesian learning (4 lectures)
+Feature Selection and Generation: Feature selection, Feature transformations, Feature learning
+Model selection and validation: Validation for model selection, k-fold cross-validation,
+Training-Validation-Testing split, Regularized loss minimization (3 lectures)
+Bias-complexity tradeoff, No free lunch theorem, VC dimension, Structural risk minimization,
+Adaboost (7 lectures)
+DNN, CNN, RNN, Autoencoders (7 lectures)
+Foundations of Deep Learning:
+Maximum likelihood estimator, Naive Bayes, Linear Discriminant Analysis,
+PAC learning, Agnostic
+1. Shalev-Shwartz,S., Ben-David,S., (2014),
+, Cambridge University Press
+Understanding Machine Learning: From Theory to
+1.  Mitchell Tom (1997).
+Self Learning Material
+1.   Department of Computer Science, Stanford University,
+Department  Computer Science and Engineering
+Offered for  M.Tech. 1
+Prerequisite  Machine Learning-1
+​ Year, Ph.D. 1
+L-T-P [C]  3–0–0 [3]
+The Instructor will:
+1. Provide technical details about various recent algorithms and software platforms related to
+Machine Learning with specific focus on Deep Learning.
+The students are expected to have the ability to:
+1.   Design and program efficient algorithms related to recent machine learning techniques,
+train models, conduct experiments, and develop real-world ML-based applications and
+Representation Learning: Unsupervised pre-training, transfer learning and domain
+Optimization, Regularization, AutoML (4 lectures)
+Attention layers, Gated CNNs, Graph Neural Networks (8 lectures)
+Neural language models (2 lectures)
+adaptation, distributed representation, discovering underlying causes (7 lectures)
+Structured models: learning about dependencies,
+inference and approximate inference,
+sampling and Monte Carlo Methods, Importance Sampling, Gibbs Sampling, Partition Function,
+MAP inference and Sparse Coding, Variational Inference (7 lectures)
+Deep Belief Networks, Variational Autoencoder, Generative
+Adversarial Network (GAN), Deep Convolutional GAN, Autoencoder GANs, iGAN, pix2pix,
+CycleGAN, Conditional GANs, StackGAN (14 lectures)
+Deep Generative Models:
+Overview of Deep Learning platforms such Tensorflow and PyTorch.
+1. Goodfellow,I., Bengio.,Y., and Courville,A., (2016),
+, The MIT Press
+1.  Research literature
+Self Learning Material

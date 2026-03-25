@@ -1,0 +1,177 @@
+Latest Security Alerts | Cyber Security | IIT Jodhpur
+Latest Security Alerts
+Vulnerability / Advisory
+Information Disclosure Vulnerability in M365 Copilot ( CIVN-2026-0146 )
+A vulnerability has been reported in Microsoft M365 Copilot, which could allow a remote attacker to potentially view sensitive information or make limited changes to disclosed information on the targeted system.
+Microsoft Word, Excel, Teams, Edge, Outlook, OneNote, PowerPoint, Power BI,365 Copilot for Android
+Microsoft Word, Excel, Teams, Edge, Outlook, OneNote, PowerPoint, Power BI, Loop, 365 Copilot for iOS
+Microsoft Outlook for Mac
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2026-0011 )
+Multiple vulnerabilities have been reported in Google Chrome that could allow a remote attacker to execute arbitrary code on the target system.
+Google Chrome versions before 146.0.7680.80 for Windows/Mac
+Google Chrome versions before 146.0.7680.80 for Linux
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Zoom Products ( CIVN-2026-0011 )
+Multiple vulnerabilities have been reported in Zoom products that an attacker could exploit to gain elevated privileges on the targeted system.
+Zoom Workplace for Windows before version 6.6.0
+Zoom Workplace VDI Client for Windows version 6.6.10 and earlier; all versions before 6.4.17 and 6.5.15 in their respective branch
+Zoom Rooms for Windows before version 6.6.5
+Zoom Workplace for Windows before version 6.6.11 in the 6.6.x branch
+Zoom Meeting SDK for Windows before version 6.6.11 in the 6.6.x branch
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Microsoft Product ( CIVN-2026-0011 )
+Multiple vulnerabilities have been reported in Microsoft Products, which could allow an attacker to gain elevated privileges, obtain sensitive information, conduct remote code execution attacks, bypass security restrictions, conduct spoofing attacks, or cause denial of service conditions.
+Extended Security Updates (ESU) for legacy Microsoft products
+Open Source Software
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2026-0124 )
+Multiple Vulnerabilities have been reported in Google Chrome for Desktop, which could be exploited by a remote attacker to bypass security restrictions, execute arbitrary code or obtain access to sensitive information on the target system.
+Google Chrome versions prior to 145.0.7632.159/160 for Windows/ Mac
+Google Chrome versions before 145.0.7632.159 for Linux
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2026-0116 )
+Multiple vulnerabilities have been reported in Google Chrome for Desktop, which could be exploited by a remote attacker to execute arbitrary code, bypass security restrictions and sensitive information disclosure on the targeted system.
+Google Chrome versions before 145.0.7632.116/117 for Windows
+Google Chrome versions before 145.0.7632.116/117 for Mac
+Google Chrome versions before 145.0.7632.116 for Linux
+Apply appropriate updates as mentioned below:
+Vulnerability / Advisory
+Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2026-0096 )
+Multiple vulnerabilities have been reported in Google Chrome for Desktop that could be exploited by a remote attacker to execute arbitrary code, cause memory corruption, or trigger a denial-of-service (DoS) condition on the targeted system.
+Google Chrome versions before 145.0.7632.109/110 for Windows
+Google Chrome versions before 145.0.7632.109/110 for Mac
+Apple macOS Tahoe versions before 26.3
+Apply appropriate updates as mentioned below:
+Multiple Vulnerabilities in Apple Products ( CIAD-2026-0007 )
+Multiple vulnerabilities have been reported in Apple Products which could allow an attacker to execute arbitrary code, gain elevated privileges, disclose sensitive information, bypass security restrictions, or cause a denial of service condition on the targeted system.
+Apple iOS and iPadOS versions before 26.3
+Apple iOS and iPadOS versions before 18.7.5
+Apple macOS Tahoe versions before 26.3
+Apple macOS Sequoia versions before 15.7.4
+Apple macOS Sonoma versions before 14.8.4
+Apple Safari versions before 26.3
+Apple tvOS versions before 26.3
+Apple watchOS versions before 26.3
+Apple visionOS versions before 26.3
+Apply appropriate patches as mentioned below:
+Multiple Vulnerabilities in Microsoft Products ( CIAD-2026-0005 )
+Multiple vulnerabilities have been reported in Microsoft Products, which could allow an attacker to gain elevated privileges, obtain sensitive information, conduct remote code execution attacks, bypass security restrictions, conduct spoofing attacks, or cause denial of service conditions.
+Extended Security Updates (ESU) for legacy Microsoft products
+Apply the security updates released by Microsoft:
+Vulnerability in Microsoft Edge ( CIVN-2026-0077 )
+A vulnerability has been reported in Microsoft Edge (Chromium-based), which could allow a remote attacker to obtain sensitive information on the targeted system.
+Microsoft Edge versions before 144.0.3719.104
+Apply the security updates released by Microsoft:
+Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2026-0066 )
+Multiple vulnerabilities have been reported in Google Chrome, which could allow a remote attacker to bypass security restrictions and execute arbitrary code on the targeted system.
+Google Chrome versions prior to 144.0.7559.132/.133 for Windows/Mac
+Google Chrome versions before 144.0.7559.132 for Linux
+Apply appropriate security updates as mentioned below:
+Remote Code Execution Vulnerability in Microsoft Edge (chromium based) ( CIVN-2026-0065 )
+A vulnerability has been reported in Microsoft Edge, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Microsoft Edge versions before 144.0.3719.92
+Apply appropriate fixes/patches as mentioned below:
+Command Injection Vulnerability in Zoom ( CIVN-2026-0064 )
+A vulnerability has been reported in Zoom Node Multimedia Router (MMR) that could be exploited by an attacker to execute arbitrary commands on the targeted system.
+Zoom Node Meetings Hybrid (ZMH) MMR module versions before 5.2.1716.0
+Zoom Node Meeting Connector (MC) MMR module versions before 5.2.1716.0
+Apply appropriate updates as mentioned below:
+Vulnerability / Advisory
+Remote Code Execution Vulnerability in Google Chrome for Desktop ( CIVN-2026-0051 )
+A vulnerability has been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Google Chrome versions before 144.0.7559.109/.110 for Windows/Mac
+Google Chrome versions before 144.0.7559.109 for Linux
+Apply appropriate security updates as mentioned below:
+Multiple Vulnerabilities in Microsoft Edge ( CIVN-2026-0044 )
+Multiple vulnerabilities have been reported in Microsoft Edge, which could allow a remote attacker to execute arbitrary code, bypass security restrictions, and gain elevated privileges on the targeted system.
+Microsoft Edge versions before 144.0.3719.82
+Apply appropriate security updates as mentioned below:
+Vulnerability in Google Chrome for Desktop ( CIVN-2026-0042 )
+A vulnerability has been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Google Chrome versions before 144.0.7559.96/.97 for Windows/Mac
+Google Chrome versions before 144.0.7559.96 for Linux
+Apply appropriate security updates as mentioned below:
+Remote Code Execution Vulnerability in Microsoft Word ( CIVN-2026-0031 )
+A vulnerability has been reported in Microsoft Word, which could allow an unauthorized attacker to execute arbitrary code locally on the targeted system.
+Microsoft Office LTSC for Mac 2024
+Microsoft Office LTSC for Mac 2021
+Microsoft 365 Apps for Enterprise for 64-bit Systems
+Microsoft 365 Apps for Enterprise for 32-bit System
+Apply appropriate security updates as mentioned below:
+Multiple Vulnerabilities in Mozilla Product ( CIVN-2026-0030 )
+Multiple vulnerabilities have been reported in Mozilla products, which could be exploited by a remote attacker to execute arbitrary code, perform a spoofing attack, or cause a Denial of Service (DoS) condition on the targeted system.
+Mozilla Firefox for ESR versions before 115.32
+Mozilla Firefox for ESR versions before 140.7
+Mozilla Firefox versions before 147
+Apply appropriate security updates as mentioned below:
+Multiple Vulnerabilities in Google Chrome for Desktop ( CIVN-2026-0029 )
+Multiple vulnerabilities have been reported in Google Chrome, which could allow a remote attacker to execute arbitrary code and bypass security restrictions on the targeted system.
+Google Chrome versions before 144.0.7559.59/60 for Windows
+Google Chrome versions before 144.0.7559.59/60 for Mac
+Google Chrome versions before 144.0.7559.59 for Linux
+Apply appropriate security updates as mentioned below:
+Remote Code Execution Vulnerabilities in Microsoft Office ( CIVN-2026-0027 )
+Multiple vulnerabilities have been reported in Microsoft Office, which could allow an attacker to execute arbitrary code in the context of the current user on the affected system.
+Apply appropriate security updates as mentioned below:
+Security Restriction Bypass Vulnerability in Google Chrome ( CIVN-2026-0022 )
+A vulnerability has been reported in Google Chrome, which could allow a remote attacker to bypass security restrictions on the targeted system.
+Google Chrome before 143.0.7499.192 (Linux)
+Google Chrome before 143.0.7499.192/.193 (Mac)
+Google Chrome before 143.0.7499.192/.193 (Windows)
+Apply appropriate security updates as mentioned below:
+Information Disclosure Vulnerability in Desktop Window Manager ( CIVN-2026-0021 )
+An information disclosure vulnerability has been reported in the Desktop Window Manager component of Microsoft Windows, which could allow an authenticated local attacker to disclose sensitive information on the affected system.
+Windows 10: Versions 1607, 1809, 21H2, and 22H2.
+Windows 11: Versions 23H2, 24H2, and 25H2.
+Windows Server: 2012, 2012 R2, 2016, 2019, 2022, 2022 (23H2 Edition), and 2025.
+Apply appropriate updates as mentioned below:
+Multiple Remote Code Execution Vulnerabilities in Microsoft Excel ( CIVN-2026-0020 )
+These vulnerabilities exist in Microsoft Excel due to memory handling flaws. A remote attacker could exploit these vulnerabilities by enticing the target user to execute a specially crafted Excel file. Successful exploitation of these vulnerabilities could allow the attacker to execute arbitrary code, resulting in system compromise or data theft.
+Apply appropriate security updates as mentioned below:
+Security Feature Bypass Vulnerability in Windows Secure Boot ( CIVN-2026-0018 )
+A vulnerability has been reported in Windows Secure Boot, which could allow an attacker to bypass security restrictions on the affected system.
+Windows 10 Version 1607 for 32-bit Systems, x64-based Systems
+Windows 10 Version 1809 for 32-bit Systems, x64-based Systems
+Windows 10 Version 21H2 for 32-bit Systems, x64-based Systems, ARM64-based Systems
+Windows 10 Version 22H2 for 32-bit Systems, x64-based Systems, ARM64-based Systems
+Windows 11 Version 23H2 for x64-based Systems, ARM64-based Systems
+Windows 11 Version 24H2 for x64-based Systems, ARM64-based Systems
+Windows 11 Version 25H2 for x64-based Systems, ARM64-based Systems
+Windows Server 2012
+Windows Server 2012 R2
+Windows Server 2016
+Windows Server 2019
+Windows Server 2022
+Windows Server 2025
+Windows Server 2012 (Server Core installation)
+Windows Server 2012 R2 (Server Core installation)
+Windows Server 2016 (Server Core installation)
+Windows Server 2019 (Server Core installatio0n)
+Windows Server 2022 (Server Core installation)
+Windows Server 2022, 23H2 Edition (Server Core installation)
+Windows Server 2025 (Server Core installation)
+Microsoft certificates in the UEFI KEK and DB
+Apply appropriate updates as mentioned in:
+Vulnerability in Google Android ( CIVN-2026-0016 )
+A vulnerability has been reported in Google Android, which could allow a remote attacker to execute arbitrary code on the targeted system.
+Android Dolby UDC 4.5 through 4.13
+Apply appropriate updates as mentioned in:
+Multiple Vulnerabilities in Microsoft Products ( CIAD-2026-0002 )
+Multiple vulnerabilities have been reported in Microsoft Products, which could allow an attacker to gain elevated privileges, obtain sensitive information, conduct remote code execution attacks, perform spoofing attacks, or cause denial-of-service conditions on the targeted system.
+Extended Security Updates (ESU)
+Apply the security updates released by Microsoft:
+Security Restriction Bypass Vulnerability in Microsoft Edge (Chromium-based) ( CIVN-2026-0013 )
+A vulnerability has been reported in Microsoft Edge (Chromium-based), which could allow a remote attacker to bypass security restrictions on the targeted system.
+Microsoft Edge (Chromium-based) version before 143.0.3650.139
+Apply appropriate updates as mentioned in:
+Multiple Vulnerabilities in Google ChromeOS ( CIVN-2026-0002 )
+Multiple vulnerabilities have been reported in Google ChromeOS, which could allow a remote attacker to execute arbitrary code on the targeted system
+Google ChromeOS version before 138.0.7204.300 (Platform Version: 16295.85.0)
+Apply appropriate updates as mentioned in:
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 10:21 AM

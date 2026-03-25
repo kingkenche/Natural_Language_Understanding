@@ -1,0 +1,49 @@
+B. Tech. (Electrical Engineering)
+Cat.  Course Title
+Cat.  Course Title
+H  ME111 System Exploration--Drawing
+H  CS111 Computer Programming
+B  MA111 Linear Algebra and Calculus
+B  PH111 Electromagnetism and Optics
+C  EE111 Physics of Semiconductor Devices
+L  HS111 English/Foreign Language
+S  PE111 Physical Exercises I
+H  EE211 Basic Electrical Engineering
+B  CY211 Chemistry
+B  ME211 Thermodynamics
+C  EE212 Circuit Theory
+C  EE213 Signals and Systems
+L  HS211 Principles of Economics
+L  HS311 Principles of Psychology
+EE312 Microprocessors and Microcontrollers  3-0-3
+EE313 Communication System
+EE314 Analog Electronics
+EE398 B.Tech. Project
+P  EE498 B.Tech. Project
+L  HS411 Leadership
+H  ME121 System Exploration--Workshop
+EE121 Basic Electronics Engineering
+H  ME122 Engineering Mechanics
+B  MA121 Complex Analysis & Differential
+EE122 Electromagnetic Theory
+L  HS121 Right, Responsibilities, Law and
+PE121 Physical Exercise II
+EE221 Electrical Machines
+B  MA221 Probability Statistics and Random
+EE222 Digital Logic and Design
+EE223 Power System
+EE298 B.Tech. Project
+L  HS221 Principles of Management
+EE321 Contemporary Communication
+EE322 Digital Signal Processing
+EE323 Microwave Engineering
+EE324 Control Systems
+EE399 B.Tech. Project
+L  HS321 Culture, Art and Heritage
+EE499 B.Tech. Project
+L  HS421 Role of Technology in the
+Development of India
+EE311 Power Electronics
+S. No.  Category
+Course Category Title
+Games & Sports/Social Service

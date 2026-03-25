@@ -1,0 +1,51 @@
+Nuclear Magnetic Resonance(NMR) | Central Research Facility (CRF) | IIT Jodhpur
+Nuclear Magnetic Resonance(NMR)
+Nuclear Magnetic Resonance(NMR)
+Model: AVANCE III HD, Ascend TM WB, 500 MHz
+Frequency: 500 MHz
+Magnetic Field: 11.7 Tesla
+1. BBFO Probe (Liquid State): Broad Band Fluorine observe
+Inner coil optimized for observation of nuclei between 31P and 15N (BBFO: for 19F as well)
+Sample diameter: 5 mm (BBFO)
+Switch between decoupling nuclei using an automated tuning and matching device (ATM).
+Z-Gradient at all frequencies
+Variable Temperature range from +150 to -150
+Maximum gradient strength is 50 gauss/cm
+2. TBI Probe (Liquid State):
+A 5mm Inverse Triple-resonance probe-head in multinuclear version,
+TBI (1H, 31P, BB) with Z-gradient.
+The BB range is 109Ag-31P.
+Variable Temperature range from +150 to -150
+3. Diffusion Probe: 1H(offers 3D gradients)
+Types of Experiment can be conducted: 1D NMR, DEPT, 2D NMR: COSY, TCOSY, DOSY, NOESY, ROESY, HMQC, HSQC, Water Suppression Experiment, Multinuclear NMR, Variable temperature measurement
+5 mg for 1H and minimum 10 mg for 13C NMR experiment. Compounds should be highly pure and soluble in 0.6 ml Deuterated solvent.
+Materials characterization can be done using NMR Diffusion and relaxation experiments.
+Structural elucidation of organic, inorganic, and organometallic compounds; purity testing and compound identification.
+Analysis of binding interactions, kinetics, and conformational changes in drug discovery and molecular recognition.
+Content will be updated soon..
+Low X Nuclei: 1000/Sample/1hr
+High X Nuclei: 500/Sample
+2D NMR: 500/Sample
+Solid 1D (1H/X): 2000/Sample
+Solid 2D (X): 5000/Sample
+low X Nuclei: 1000/Sample/1hr
+High X Nuclei: 500/Sample
+2D NMR: 1500/Sample
+Solid 1D (1H/X): 5000/Sample
+Solid 2D (X): 8000/Sample
+Content will be updated soon..
+Name: Dr Jayita Sarkar
+Designation: Snr Scientific Officer
+Phone:0291 280 1343
+Name: Dr Saloni Sharma
+Designation: Scientific Officer
+Phone:0291 280 1347
+Name: Mr lalit Mohan
+Designation: Junior Assistant
+Phone:0291 280 1344
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 23 Feb 2026 - 03:28 PM

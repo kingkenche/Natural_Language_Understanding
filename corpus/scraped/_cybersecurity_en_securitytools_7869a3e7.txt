@@ -1,0 +1,21 @@
+Security Tools | Cyber Security | IIT Jodhpur
+1. Free Malware/Bot Removal Tools
+The "Cyber Swachhta Kendra" (Botnet Cleaning and Malware Analysis Centre) is a part of the Government of India's Digital India initiative under the Ministry of Electronics and Information Technology (MeitY) to create a secure cyber space by detecting botnet infections in India and to notify, enable cleaning and securing systems of end users to prevent further infections. The "Cyber Swachhta Kendra" (Botnet Cleaning and Malware Analysis Centre) is set up with the objectives of the "National Cyber Security Policy", which envisages creating a secure cyber ecosystem in the country. This centre operates in close coordination and collaboration with Internet Service Providers and Product/Antivirus companies. This website provides information and tools to users to secure their systems/devices. This centre is being operated by the Indian Computer Emergency Response Team (CERT-In) under the provisions of Section 70B of the Information Technology Act, 2000. To remove the malware, you need to scan your computer/system/device with the tools recommended below and take steps to improve the security of your computer/system/device. We encourage you to visit the website of Cyber Swachhta Kendra, which is providing Free Bot Removal Tools for this initiative.
+For Microsoft Windows
+K7 Security: The antivirus company K7 Security is providing the free bot removal Tool. Click the link below to download the tool. https://www.k7computing.com/in/k7-bot-removal-tool
+Quick Heal: The antivirus company Quick Heal is providing the free bot removal Tool. Click the link below to download the tool. https://www.quickheal.co.in/bot-removal-tool
+For Android Devices
+eScan Antivirus: The antivirus company eScan Antivirus is providing the Smartphone Safety Toolkit. Click the link below or scan the QR Code to download the tool. https://play.google.com/store/apps/details?id=com.eScanAV.certin
+C-DAC Hyderabad: C-DAC Hyderabad has developed M-Kavach 2 with the support of MeitY. C-DAC Hyderabad is providing the Android Mobile Security Application. Click the link below or scan the QR Code to download the tool. https://play.google.com/store/apps/details?id=org.cdac.updatemkavach
+2. Suspicious Files and URLs Analysis
+Have I Been Pwned  To check if your email address is compromised in a data breach. (For personal use only)
+VirusTotal is an online threat detection service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners. (For personal use only)
+3. Password Management Tool
+PasswordMonster.com helps you test the strength of your passwords to ensure they are secure against hacking attempts.
+How: Simply enter a password into the site’s input field, and it instantly analyzes how long it would take to crack it using current technology. (For personal use only)
+CCCD @ IITJ
+How To Reach IITJ
+Web Information Manager
+Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation , IIT Jodhpur.  N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+For any comments/enquiries/feedback, please email the WIM .
+Last Updated : 20 Mar 2026 - 10:21 AM

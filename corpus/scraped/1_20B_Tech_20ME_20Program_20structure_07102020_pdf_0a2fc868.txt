@@ -1,0 +1,42 @@
+2nd year B. Tech Mechanical Engineering
+For AY 2020-21
+CH  NC  GC  Cat
+CH  NC  GC
+IS  Chemistry Lab
+IS  Mathematics I
+NH  Social Connect
+IS  Mathematics II
+NE  Engineering Design II
+-  NH  Communication Skill
+-  NH  Social Connect and
+NH  Performing Arts I
+-  NH  Performing Arts
+IE  Materials Science &
+F1: Material Selection
+F2: Structure of
+PC  Mechanics of
+Data Structure and
+Signals and Systems
+PC  Fluid Mechanics
+PC  Fluid Mechanics-Lab
+IH  Humanities I
+Design of Machine
+PC  Heat Transfer
+PC  Control of Mechanical
+PE  Programme Elective-1
+PC  Heat Transfer Lab
+IH  Humanities II
+-  NH  Professional Ethics II
+Systems lab (HC)
+PP  B. Tech. Project
+PC  Thermofluids Lab
+OE  Open Elective-1
+IH  Humanities III
+IH  Humanities IV
+PE  Programme Electives
+OE  Open Elective-2
+3  OE  Open Elective-3
+Total of graded and Non-Graded Credit
+Non-Graded Design Credits
+Grand Total   15
+Note: ES are proposed Engineering Science compulsory courses
